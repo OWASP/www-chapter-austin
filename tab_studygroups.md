@@ -18,16 +18,15 @@ The **OWASP Austin Study Group** is intended to provide an organized gathering o
 
 The current study group, which started on November 1, 2018, is covering ''Windows PowerShell'', using the book that is available on Amazon - [https://www.amazon.com/Learn-Windows-PowerShell-Month-Lunches/dp/1617294160 Learn WIndows PowerShell in a Month of Lunches, Third Edition]
 
-<blockquote>
   
-**When:**  The study group meets weekly on Thursdays from 12:00 to 1:00 PM
+> **When:**  The study group meets weekly on Thursdays from 12:00 to 1:00 PM
 
-**Where:**  National Instruments, Building A, Room 217 (Directions: [GoogleMaps](https://www.google.com/maps/place/National+Instruments/@30.4077179,-97.7268262,17z/data#!3m1!4b1!4m2!3m1!1s0x865b34c37397e56b:0x765d5bc26a58ce96), [MapQuest](http://www.mapquest.com/maps?address#11500+N+Mo+Pac+Expy&city#Austin&state#TX&zipcode#78759&redirect#true)
+> **Where:**  National Instruments, Building A, Room 217 (Directions: [GoogleMaps(https://www.google.com/maps/place/National+Instruments/@30.4077179,-97.7268262,17z/data#!3m1!4b1!4m2!3m1!1s0x865b34c37397e56b:0x765d5bc26a58ce96), [MapQuest](http://www.mapquest.com/maps?address#11500+N+Mo+Pac+Expy&city#Austin&state#TX&zipcode#78759&redirect#true)
 
-**How to follow:** Status of meetings and discussion of topic will be communicated through the [Slack AustinOWASP](https://austinowasp.slack.com).  The topic's channel is <pre>#powershell</pre>
+> **How to follow:** Status of meetings and discussion of topic will be communicated through the [Slack AustinOWASP](https://austinowasp.slack.com).  The topic's channel is <pre>#powershell</pre>
 
-**Additional Information:** If any questions related to the study group, please contact the Education Coordinator, Matt Pardo, matt (dot) pardo (at) owasp (dot) org.
-</blockquote>
+> **Additional Information:** If any questions related to the study group, please contact the Education Coordinator, Matt Pardo, matt (dot) pardo (at) owasp (dot) org.
+
 
 ----
 
