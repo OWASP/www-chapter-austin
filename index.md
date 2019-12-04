@@ -3,19 +3,21 @@
 layout: col-sidebar
 title: OWASP austin
 tags: example-tag
-level: 4
 
 region: United States
 
 ---
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+==Listing of Upcoming Events==
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+=== OWASP Austin Chapter Meeting, January 28, 2020 ===
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+'''When:''' Tuesday, January 28th @ 11:45 AM - 1:00 PM 
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+'''Where:''' National Instruments, 11500 N. Mopac.Building C
 
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
+'''Title:''' OWASP Austin CryptoParty!
 
+'''SAVE THE DATE!  More details coming soon.'''
+
+[[#Upcoming Events|Back to Top]]
