@@ -44,7 +44,7 @@ The chapter leadership board is as follows:
     <tr><td>Education Coordinator</td>
       <td>Coordinates all of the Chapter-sponsored educational offerings, to include the weekly Study Group and LASCON training.</td>
       <td>Matt Pardo</td></tr>
-    <tr><td><PR/Marketing Coordinator/td>
+    <tr><td>PR/Marketing Coordinator</td>
       <td>Provides marketing of LASCON and other Chapter events.</td>
       <td>Ryan Murphy</td></tr>
     <tr><td>Membership and Project Coordinator</td>
