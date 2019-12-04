@@ -10,6 +10,8 @@ tags: austin
 
 ## Past Events ##
 
+[2020](#2020)   [2019](#2019)   [2018](#2018)
+
 ### 2019 ###
 ---
 
@@ -218,7 +220,7 @@ We had a great time celebrating our 10th year anniversary of LASCON. Many thanks
 
 [Back to Top](#past-events)
 
- ### OWASP Austin Chapter Meeting, January 29, 2019  ###
+### OWASP Austin Chapter Meeting, January 29, 2019 ###
 
 **When:** Tuesday, January 29th @ 11:45 AM - 1:00 PM 
 
@@ -232,5 +234,273 @@ We had a great time celebrating our 10th year anniversary of LASCON. Many thanks
 
 [Back to Top](#past-events)
 
+<hr>
+## 2018 ##
+<hr>
+
+==2018==
 ----
+
+###  LASCON 2018 ### 
+
+**When:** Tuesday & Wednesday, October 23-24, 2018 (Training Days), Thursday & Friday, October 25-26, 2018 (Conference Sessions)
+
+**Where:** Norris Conference Center, 2525 W. Anderson Lane, Suite 365, Austin, Texas 78757
+
+**What:** The Lonestar Application Security Conference (LASCON) is an OWASP conference held annually in Austin, TX. It is a gathering of 400+ web app developers, security engineers, mobile developers and information security professionals. LASCON is held in Texas where more Fortune 500 companies call home than any other state and it is held in Austin which is a hub for startups in the state of Texas. At LASCON, leaders at these companies along with security architects and developers gather to share cutting-edge ideas, initiatives, and technology advancements.
+
+[https://lascon.org/lascon2018/ Presentations and other information]
+
+[Back to Top](#past-events)
+
+###  OWASP Austin Chapter Meeting, September 25, 2018  ### 
+
+**When:** Tuesday, September 25th @ 11:45 AM - 1:00 PM 
+
+**Where:** National Instruments, 11500 N. Mopac.Building C
+
+**Title:** Scaling Your Cyber Security Threat Modeling
+
+<blockquote>There are two schools of thought around threat modeling. One school advocates the creation of attack trees and data flow diagrams. This requires extensive, cross-functional, security skills and is not a scalable approach. The other school encourages organic insertion of defenses based only on current context without “boiling the ocean”. This lack of systems thinking leaves applications vulnerable as exploits in a weaker component can open the door to critical systems.
+
+Part of the problem is threat modeling today is largely an art. We need to inject more science in this domain and derive a repeatable and auditable approach that maps to risk. Such a model should abstract away the non-scalable elements and still provide a high degree of assurance in today’s faster velocity business context.
+
+This presentation will outline a threat modeling framework that abstracts traditional methods into systems, data, and people components. You will come away with an approach that takes away some of the scalability problems of traditional threat modeling, yet provides sufficient rigor and systems thinking to help manage risk.</blockquote>
+
+**Speaker:**  Pranoy De - Software Engineer
+
+<blockquote>Pranoy currently works as a backend developer at Security Compass, helping to develop industry-leading application security products. Over the years, Pranoy has taken on a variety of roles, which included working as a software consultant, working as a network engineer, and writing software for the VFX industry.
+
+As a network engineer, Pranoy has primarily spent his time developing and conducting planned DDoS attacks for companies testing their defenses. This was his first position in the world of cybersecurity, and it eventually lead to his current role in application security.</blockquote>
+
+[https://vimeo.com/293198117 Vimeo]
+
+[Back to Top](#past-events)
+
+###  Austin Security Professionals Happy Hour, September 13, 2018 sponsored by LOG-MD ### 
+
+**When:**  Thursday, September 13th, 5:00 pm - 7:00 pm
+
+**Where:** Baby A's, 9505-B Stonelake Blvd, Austin, Texas 78759 
+
+**Sponsor:** Thanks to our last-minute sponsor, Michael Gough with LOG-MD. 
+
+[Back to Top](#past-events)
+
+###  OWASP Austin Chapter Meeting, August 28, 2018  ### 
+
+**When:** Tuesday, August 28th @ 11:45 AM - 1:00 PM 
+
+**Where:** National Instruments, 11500 N. Mopac.Building C
+
+**Title:** Deploying a Secure NodeJS app with Docker and Kubernetes
+
+<blockquote>Learn how to secure a NodeJS application from development to production. We will walk you through best practices of developing a  NodeJS application with Docker and deploying it with Kubernetes while building security into each step of the process.</blockquote>
+
+**Speaker:**  Brett Stewart
+
+<blockquote>Brett Stewart is Co-Founder and CTO of truFable.  He has been a leader in the startup scene, previously serving as the lead software architect and advisor to CrowdFunder.com.  Brett has consulted for some of the top brands in the tech and media industry and has spoken at several DevOps and security events.  He works with organizations such as WeWork and Bunker Labs, assisting Veterans looking to take their tech startups to the next level.</blockquote>
+
+[https://vimeo.com/293198477 Vimeo] 
+
+[Back to Top](#past-events)
+
+###  OWASP Austin Chapter Meeting, July 31, 2018  ### 
+
+**When:** Tuesday, July 31st @ 11:45 AM - 1:00 PM 
+
+**Where:** National Instruments, 11500 N. Mopac.Building C
+
+**Title:** Introduction to Electron Security
+
+<blockquote>Electron allows developers to build cross platform desktop apps with JavaScript, HTML, and CSS. Electron is a framework for creating native applications with web technologies. More and more companies such as Slack, Microsoft, and Docker have adopted Electron for desktop applications. This talk will go over the basics and the security implications.</blockquote>
+
+**Speaker:**  Marcus J. Carey
+
+<blockquote>Marcus J. Carey is the founder and CEO of Threatcare. He is a hacker who helps organizations build, measure, and maintain cybersecurity programs. Marcus started his technology voyage in U.S. Navy Cryptology and working at the National Security Agency (NSA).</blockquote>
+
+[https://vimeo.com/282840714 Vimeo] 
+
+[Back to Top](#past-events)
+
+###  Austin Security Professionals Happy Hour, July 12, 2018 sponsored by Rapid7 ### 
+
+**When:**  Thursday, July 12th, 5:00 pm - 7:00 pm
+
+**Where:** Baby A's, 9505-B Stonelake Blvd, Austin, Texas 78759  
+
+**Sponsor:** Rapid7
+
+[Back to Top](#past-events)
+
+###  OWASP Austin Chapter Meeting, June 26, 2018  ### 
+
+**When:** Tuesday, June 26th @ 11:45 AM - 1:00 PM 
+
+**Where:** National Instruments, 11500 N. Mopac.Building C
+
+**Title:** The State of DevSecOps
+
+<blockquote>Call it what you will - DevSecOps, DevOpsSec, Rugged, Agile Application Security, Shift Left Unicorn Dust AppSec,... The face of security is changing. We'll go through the results of the DevSecOps Community Survey and examine the trends. Then we'll lead a group discussion on the topic. How have you tried to make security part of your SDLC? What have you seen work? What hasn't? What's important to you?</blockquote>
+
+**Speakers:**  Ernest Mueller and James Wickett 
+
+[https://vimeo.com/277170461 Vimeo] 
+
+[Back to Top](#past-events)
+
+###  Austin Security Professionals Happy Hour sponsored by SecureWorks, June 14, 2018 ### 
+
+**When:**  Thursday, June 14th, 5:00 pm - 7:00 pm
+
+**Where:** Baby A's, 9505-B Stonelake Blvd, Austin, Texas 78759 
+
+**Sponsor:** SecureWorks
+
+[Back to Top](#past-events)
+
+###  OWASP Austin Chapter Meeting, May 29, 2018  ### 
+
+**When:** Tuesday, May 29th @ 11:45 AM - 1:00 PM 
+
+**Where:** National Instruments, 11500 N. Mopac.Building C
+
+**Title:** Trust: Designing Privacy, Consent, & Security into Your Products 
+
+<blockquote>Most software today collects and tracks as much data as possible with no concern for privacy or user consent. Consumers and regulations are starting to demand change. It's time to focus on building trust with our users. Our products should collect only what data is necessary, should always receive consent before collecting data, and should have proper security in place to protect collected data.</blockquote>
+
+**Speaker:**  Taylor McCaslin 
+
+<blockquote>Taylor McCaslin is a multi-disciplinary technologist and Product Manager living in Austin, Texas. He currently works as a Mobile Product Manager at Duo Security. Taylor is an advocate and defender of privacy, consent, and inclusion. 
+
+Taylor graduated from The University of Texas at Austin, where he studied business, theatre, computer science, and digital art & media. For the past 6 years, he’s worked at enterprise-scale, hyper-growth technology companies including WP Engine, Indeed.com, and Bazaarvoice. Taylor also enjoys volunteering with local human rights and LGBTQ organizations around central Texas. 
+
+https://www.taylormccaslin.com/ <br />
+https://www.linkedin.com/in/taylormccaslin <br />
+https://twitter.com/digital_SaaS
+</blockquote>
+
+[https://vimeo.com/272435875 Vimeo]
+
+[Back to Top](#past-events)
+
+###  Austin Security Professionals Happy Hour sponsored by DirectDefense, May 10, 2018 ### 
+
+**When:**  Thursday, May 10th, 5:00 pm - 7:00 pm
+
+**Where:** Baby A's, 9505-B Stonelake Blvd, Austin, Texas 78759 
+
+**Sponsor:** DirectDefense
+
+[Back to Top](#past-events)
+
+###  OWASP Austin Chapter Meeting, April 24, 2018 ### 
+
+**When:** Tuesday, April 24th @ 11:45 AM - 1:00 PM 
+
+**Where:** National Instruments, 11500 N. Mopac.Building C
+
+**Title:** Cloud Jacking
+
+<blockquote>Subdomain hijacking presents significant security risks to organizations. Everything from credential theft to phishing can be made possible with a few keystrokes and click of a mouse. This talk focuses on how these risks materialize within an AWS cloud environment, how to enumerate their existence, and options to quickly mitigate them.</blockquote>
+
+**Speaker:**  Bryan McAninch
+
+[https://vimeo.com/266416831 Vimeo] 
+
+[Back to Top](#past-events)
+
+###  Austin Security Professionals Happy Hour sponsored by Cisco, April 12, 2018 ### 
+
+**When:**  Thursday, April 12th, 5:00 pm - 7:00 pm
+
+**Where:** Baby A's, 9505-B Stonelake Blvd, Austin, Texas 78759
+
+**Sponsor:** Cisco
+
+[Back to Top](#past-events)
+
+###  OWASP Austin Chapter Meeting, March 27, 2018 ### 
+
+**When:** Tuesday, March 27th @ 11:45 AM - 1:00 PM 
+
+**Where:** National Instruments, 11500 N. Mopac.Building C
+
+**Title:** Cryptocurrencies - More than just bubbles, money and Dogecoins
+
+**Speaker:**  Arthur Kendrick
+
+[https://vimeo.com/channels/owaspaustin/262482594 Vimeo] 
+
+[Back to Top](#past-events)
+
+###  Austin Security Professionals Happy Hour sponsored by Critical Start and Mimecast, March 7, 2018 ### 
+
+**When:**  Wednesday, March 7th, 5:00 pm - 7:00 pm
+
+**Where:**  Baby A's, 9505-B Stonelake Blvd, Austin, Texas 78759 
+
+**Co-sponsors:** Critical Start and Mimecast
+
+[Back to Top](#past-events)
+
+###  OWASP Austin Chapter Meeting, February 27, 2018 ### 
+
+**When:** Tuesday, February 27th @ 11:45 AM - 1:00 PM
+
+**Where:** National Instruments, 11500 N. Mopac.Building C
+
+**Title:** DevSecOps Unplugged (Results from our latest research on DevSecOps)
+
+<blockquote>There is a confluence of forces that disrupt the ability for organizations to implement DevSecOps effectively. We continue to increase our dependence on software but teams are still relatively immature in developing securely. Our systems continue to grow exponentially complex. With IoT starting to take off, there is no clear industry vision for security these devices. Cybersecurity threats continue to rise. Even the most diligent teams find themselves subtly gaining technical debt because they are unable to do the job right.
+ 
+This impact is felt across industries: telecommunications, financial, software development, transportation, and medical just to name a few. So what is our response as security professionals? We have software tools and databases like OWASP Top 10, CWE/CVE, SANS Top 25 and so on. But what we need is a set of patterns and anti-patterns on implementing DevSecOps.
+ 
+Our talk will highlight what we’ve observed in conducting research from Tier 1 peer reviewed articles from 2016 to the present. We will present what seems to be emerging as a set of best practices as well as anti-patterns in DevSecOps.</blockquote>
+
+**Speaker:**  Altaz Valani
+
+[https://vimeo.com/channels/owaspaustin/262482415 Vimeo] 
+
+[Back to Top](#past-events)
+
+###  Austin Security Professionals Happy Hour sponsored by RSA, February 8, 2018 ### 
+
+**When:**  Thursday, February 8th, 5:00 pm - 7:00 pm
+
+**Where:** Baby A's, 9505-B Stonelake Blvd, Austin, Texas 78759
+
+**Sponsor:** RSA
+
+[Back to Top](#past-events)
+
+###  OWASP Austin Chapter Meeting, January 23, 2018 ### 
+
+**When:** Tuesday, January 23rd @ 11:45 AM - 1:00 PM
+
+**Where:** National Instruments, 11500 N. Mopac.Building C
+
+**Title:** CryptoParty
+
+<blockquote>In the 21st century we face problems of climate change, energy crisis, state censorship, mass surveillance, and on-going wars.  We must be free to communicate and associate without fear.</blockquote>
+
+<blockquote>To realize our right to privacy and anonymity online, we need peer-reviewed, crowd-sourced solutions.  CryptoParties provide the opportunity to meet up and learn how to use these solutions to give us all the means with which to assert our right to privacy and anonymity online.  Topics include technologies for securing your chats, your phone calls, your e-mails, and your computer documents.</blockquote>
+
+<blockquote>The Austin Chapter of the OWASP Foundation invites you to join us for our CryptoParty where you will learn the tools and techniques to keep you safe from prying eyes.</blockquote>
+
+**Speakers:**  Josh Sokol, Bankim Tejani, Dave Sanford, David Vas, Michael Marotta, and Nate Sanders
+
+[https://vimeo.com/channels/owaspaustin/254361873 Vimeo] 
+
+Presentation slides:
+* [https://www.owasp.org/images/a/ac/OWASP-Austin-Mtg-2018Jan-CryptoParty-Josh-Sokol.pdf Josh Sokol - Introduction]
+* [https://www.owasp.org/images/c/ca/OWASP-Austin-Mtg-2018Jan-CryptoParty-Bankim-Tejani.pdf Bankim Tejani - Secure Communication and Data Sharing with PGP]
+* [https://www.owasp.org/images/8/89/OWASP-Austin-Mtg-2018Jan-CryptoParty-Dave-Sanford.pdf Dave Sanford - Decentralized IDs and Verifiable Claim]
+* [https://www.owasp.org/images/8/8b/OWASP-Austin-Mtg-2018Jan-CryptoParty-Michael-Marotta.pdf Michael Marotta - Charles Babbage: Codebreaker]
+* [https://www.owasp.org/images/9/9e/OWASP-Austin-Mtg-2018Jan-CryptoParty-David-Vas.pdf David Vas - Zero Knowledge Bets]
+* [https://www.owasp.org/images/1/1a/OWASP-Austin-Mtg-2018Jan-CryptoParty-Nate-Sanders.pdf Nate Sanders - Keybase]
+
+[Back to Top](#past-events)
+
+
 
