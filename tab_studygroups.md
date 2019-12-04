@@ -12,7 +12,7 @@ tags: austin
 
 <table>
   <tr><td>The **OWASP Austin Study Group** is intended to provide an organized gathering of like-minded IT professionals who want to learn more about application security.   This is done through mini-discussions, demos, presentations, and series of meetings to cover more involved topics (i.e. book topics).   Generally the topics will be participant-led, meaning that attendees will volunteer their time to present or lead a discussion, whether a one-time presentation of a topic they wish to review or need help with, or walk through topics of a particular chapter of a book being covered.  There will still be OWASP leadership involved with scheduling and such, but the idea is to get a better “hands-on” approach to create a more productive learning environment.  We learn more when we are involved.</td>
-    <td><img src="assets/images/OWASP_Austin_Study_Group_sm.png" alt=""/></td>
+    <td><img src="assets/images/OWASP_Austin_Study_Group_sm.png" alt="Study Group Logo"/></td>
   </tr>
 </table>
 
