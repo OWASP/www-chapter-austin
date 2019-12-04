@@ -29,7 +29,7 @@ Chapter Leadership
 The chapter leadership board is as follows:
 <table cellpadding="5" cellspacing="0">
   <tr><th>Chapter Leadership Board Member Role</th>
-      <th>Responsibilities</th>
+      <th width="30%">Responsibilities</th>
       <th>Person(s)</th></tr>
   <tr><td>Chapter Leader</td>
       <td>The central point of contact for the Chapter and responsible to the OWASP Board. Serves as Chapter Leader and Chapter board chair.</td>
