@@ -235,11 +235,9 @@ We had a great time celebrating our 10th year anniversary of LASCON. Many thanks
 [Back to Top](#past-events)
 
 <hr>
-## 2018 ##
+### 2018 ###
 <hr>
 
-==2018==
-----
 
 ###  LASCON 2018 ### 
 
@@ -501,6 +499,3 @@ Presentation slides:
 * [https://www.owasp.org/images/1/1a/OWASP-Austin-Mtg-2018Jan-CryptoParty-Nate-Sanders.pdf Nate Sanders - Keybase]
 
 [Back to Top](#past-events)
-
-
-
