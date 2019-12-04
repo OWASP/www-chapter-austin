@@ -10,7 +10,7 @@ tags: austin
 
 ## Past Events ##
 
-[2020](#2020)   [2019](#2019)   [2018](#2018)
+[2020](#2020)   [2019](#2019)   [2018](#2018)   [[2017](#2017)
 
 ### 2019 ###
 ---
@@ -498,5 +498,302 @@ Presentation slides:
 * [https://www.owasp.org/images/8/8b/OWASP-Austin-Mtg-2018Jan-CryptoParty-Michael-Marotta.pdf Michael Marotta - Charles Babbage: Codebreaker]
 * [https://www.owasp.org/images/9/9e/OWASP-Austin-Mtg-2018Jan-CryptoParty-David-Vas.pdf David Vas - Zero Knowledge Bets]
 * [https://www.owasp.org/images/1/1a/OWASP-Austin-Mtg-2018Jan-CryptoParty-Nate-Sanders.pdf Nate Sanders - Keybase]
+
+[Back to Top](#past-events)
+
+<hr/>
+
+### 2017 ###
+---
+
+### LASCON 2017 ###
+
+**When:** Tuesday & Wednesday, October 24-25, 2017 (Training Days), Thursday & Friday, October 26-27, 2017 (Conference Sessions)
+
+**Where:** Norris Conference Center, 2525 W. Anderson Lane, Suite 365, Austin, Texas 78757
+
+**What:** The Lonestar Application Security Conference (LASCON) is an OWASP conference held annually in Austin, TX. It is a gathering of 400+ web app developers, security engineers, mobile developers and information security professionals. LASCON is held in Texas where more Fortune 500 companies call home than any other state and it is held in Austin which is a hub for startups in the state of Texas. At LASCON, leaders at these companies along with security architects and developers gather to share cutting-edge ideas, initiatives, and technology advancements.
+
+[https://lascon.org/lascon2017/ Presentations and other information]
+
+[Back to Top](#past-events)
+
+### OWASP Austin Chapter Meeting, September 26, 2017 ###
+
+**When:** Tuesday, September 26th @ 11:45 AM - 1:00 PM
+
+**Where:** National Instruments, 11500 N. Mopac.Building C
+
+**Title:** How to create Purple Team Exercises, using the Cyber Kill Chain and Extended CKC as a framework
+
+<blockquote>Purple Teaming is conducting focused Red Teams with clear training objectives for the Blue Team for the ultimate goal of improving the organization’s overall security posture. You don’t necessarily need a ‘red team’, anyone can do it. This talk will show how to build and plan cyber exercises, using the Cyber Kill chain and Extended Cyber Kill Chain as a framework.</blockquote>
+
+**Speaker:** Haydn Johnson
+
+[Back to Top](#past-events)
+
+### Austin Security Professionals Happy Hour, September 14, 2017 ###
+
+**When:**  Thursday, September 14th, 5:00 pm - 7:00 pm
+
+**Where:** Sherlock’s Baker St. Pub & Grill, 9012 Research Blvd, Austin, TX 78758 
+
+**Sponsor:** Contrast Security
+
+[Back to Top](#past-events)
+
+### OWASP Austin Chapter Meeting, August 29, 2017 ###
+
+**When:** Tuesday, August 29th @ 11:45 AM - 1:00 PM
+
+**Where:** National Instruments, 11500 N. Mopac.Building C
+
+**Title:** Privacy-Preserving Authentication, Another Reason to Care about Zero-Knowledge Proofs
+
+<blockquote>You can ignore the Blockchain hype for identity solutions, it is superb marketing; but suboptimal technology. You can also ignore biometrics for a spell. Instead, the real breakthroughs, especially in authentication, will be based on elegant math and crypto, e.g., Zero-Knowledge Proofs (ZKP). These have the added benefit of being privacy-preserving, and amenable to user control of identity attributes. ZKP has been identified as a category for many other solutions in the future, not just identity. Conceived at MIT in 1985 by Shafi Goldwasser, ZKP is still young. You will see it in many other contexts as appreciation and recognition evolves.</blockquote>
+
+**Speaker:** Clare Nelson, CISSP, CIPP/E
+
+<blockquote>Clare's focus combines security, privacy, and identity. Her middle name is MFA, and she loves all things identity. She forges identity solution roadmaps and tracks emerging technologies, especially in light of EU regulations including GDPR and PSD2.</blockquote>
+
+<blockquote>Clare’s early technical background includes software development of encrypted TCP/IP variants for NSA. She has held leadership positions in product management, marketing, and technology for companies including EMC2, Dell, Novell, and TeaLeaf Technology (IBM).</blockquote>
+
+<blockquote>Clare is a co-founder of the mentoring organization, C1ph3r_Qu33ns. She headed ClearMark Consulting for 14 years, and she is currently Director, Office of the CTO at AllClear ID.  She has a B.S. in Mathematics from Tufts University, and is a lifelong fitness enthusiast.</blockquote>
+
+[https://vimeo.com/channels/owaspaustin/231902811 Vimeo]  (apologies for the low audio)
+
+[Back to Top](#past-events)
+
+### Austin Security Professionals Happy Hour, August 10, 2017 ###
+
+**When:**  Thursday, August 10th, 5:00 pm - 7:00 pm
+
+**Where:** Sherlock’s Baker St. Pub & Grill, 9012 Research Blvd, Austin, TX 78758
+
+**Sponsor:** Rapid7
+
+[Back to Top](#past-events)
+
+### OWASP Austin Chapter Meeting, July 25, 2017 ###
+
+**When:** Tuesday, July 25th @ 11:45 AM - 1:00 PM
+
+**Where:** National Instruments, 11500 N. Mopac.Building C
+
+**Title:** Frontline Web App Security
+ 
+<blockquote>According to the Verizon DBIR (Data Breach Investigation Report) for 2016, web application attacks are the #1 source of data breaches. Web applications account for only 8 percent of overall reported incidents. However, attacks on web applications accounted for over 40 percent of incidents resulting in a data breach, and were the single-biggest source of data loss.</blockquote>
+
+<blockquote>With those threats in mind, it has never been more important to ensure that companies have visibility into what is happening with their web apps. The most effective way to address application flaws and preemptively block unknown attacks is to have a close relationship with your web application firewall.</blockquote>
+
+<blockquote>Static, signature based blocking is not enough to address never before seen attacks. In this talk, we will walk through scenarios that we have observed, talk about coding practices that enable your web app to be secured, and describe the steps that are taken to defend against critical web applications attacks.</blockquote>
+
+**Speakers:** Paul Scott and Jason Payne
+
+<blockquote>Paul Scott is an OWASP Houston chapter leader and the Manager of Alert Logic’s Web Application Security Team.  Jason Payne ran the Alert Logic Global Security Operations Center for nearly a decade and is now engineering solutions to defend systems, networks, and application on premises and in the cloud.</blockquote>
+
+[https://vimeo.com/channels/owaspaustin/231902836 Vimeo]
+
+[Back to Top](#past-events)
+
+### Austin Security Professionals Happy Hour, July 13, 2017 ###
+
+**When:**  Thursday, July 13th, 5:00 pm - 7:00 pm
+
+**Where:** Sherlock’s Baker St. Pub & Grill, 9012 Research Blvd, Austin, TX 78758
+
+**Sponsor:** Technology Navigators
+
+[Back to Top](#past-events)
+
+### OWASP Austin Chapter Meeting, June 27, 2017 ###
+
+**When:** Tuesday, June 27th @ 11:45 AM - 1:00 PM
+
+**Where:** National Instruments, 11500 N. Mopac.Building C
+
+**Title:** Making Vulnerability Management Less Painful with OWASP DefectDojo
+
+<blockquote>
+DefectDojo was created in 2013 when one security engineer at Rackspace stupidly opened his mouth in front of his leadership team. Vulnerability management is traditionally tedious, time consuming, and mentally draining. DefectDojo attempts to streamline vulnerability management with automation centered around templating, report generation, metrics, scanner consolidation, and baseline self-service tools. DefectDojo is currently used by multiple large enterprises and has core contributors from five different companies. It has made several engineers' lives much easier, and it can help you too. Got a ton of findings to consolidate and report on? DefectDojo has you covered. Need to have a dashboard of your team’s work? DefectDojo has you covered. Tired of boilerplate report generation? DefectDojo does that for you. Come check out how to make vulnerability management less painful and speed up your appsec program in this talk with demo.
+</blockquote>
+ 
+**Speaker:** Greg Anderson 
+<blockquote>
+Greg Anderson is a security professional with diverse experience ranging from vulnerability assessments to intrusion detection and root cause analysis. His recent work has focused on advanced security automation to get the most out of application security programs.
+Greg's previous work, which was featured at DEFCON, focused on unconventional attack vectors and how to maximize their impact while avoiding detection.
+
+Greg is the creator of DefectDojo and was a Chapter Leader of OWASP San Antonio for two years.  
+
+Feel free to chat him up about anything and everything.
+</blockquote>
+
+[https://vimeo.com/223334540 Vimeo] 
+
+[Back to Top](#past-events)
+
+### Austin Security Professionals Happy Hour, June 8, 2017 ###
+
+**When:**  Thursday, June 8th, 5:00 pm - 7:00 pm
+
+**Where:** Sherlock’s Baker St. Pub & Grill, 9012 Research Blvd, Austin, TX 78758
+
+**Sponsor:** Cyberbit
+
+[Back to Top](#past-events)
+
+### OWASP Austin Chapter Meeting, May 30, 2017 ###
+
+**When:** Tuesday, May 30th @ 11:45 AM - 1:00 PM
+
+**Where:** National Instruments, 11500 N. Mopac.Building C
+
+**Title:** Annoying web app vulnerabilities: HTTP Request Smuggling, HTTP Response Splitting and Cross-Origin Resource Sharing Misconfigurations.
+
+**Part 1:**
+<blockquote>
+**Abstract:** HTTP Request Smuggling is an attack capable of bypassing security protections and "poisoning the well" for caching web proxies. In this talk we'll be discussing attack scenarios and their security implications.
+
+**Speaker:** Gabriel has been actively involved in the security industry since 2007 and currently holds the position of security analyst at Rapid7.
+</blockquote>
+ 
+**Part 2:**
+<blockquote>
+**Abstract:** HTTP Response Splitting is a web application vulnerability that is often misunderstood, but can lead to a serious compromise. This talk will walk through the basics of Response Splitting, how an attack works, and what you can do to defend against it.
+
+**Speaker:** Ben Columbus is a security analyst for Rapid7, who specializes in network and web application penetration testing. He has been working in security for the last eight years in various positions and was previously a penetration tester for the State of Texas.
+</blockquote>
+ 
+**Part 3:**
+<blockquote>
+**Abstract: **The talk will provide information about headers used for Cross-Origin Resource Sharing (CORS) and how servers use these headers to communicate access policy to browsers. The possible security implications of misconfigured CORS headers will be discussed.
+
+**Speaker:** Jacob enjoys learning about security vulnerabilities and their usage in the real world.
+</blockquote>
+
+[https://vimeo.com/219563653 Vimeo] 
+
+[Back to Top](#past-events)
+
+### Austin Security Professionals Happy Hour, May 3, 2017 ###
+
+**When:**  Wednesday, May 3rd, 5:00 pm - 7:00 pm
+
+**Where:** Mister Tramps Sports Pub and Cafe, 8565 Research Blvd, Austin TX 78758 (different location and date to coincide with BSides Austin)   
+
+**Sponsor:** Rapid7
+
+[Back to Top](#past-events)
+
+### OWASP Austin Chapter Meeting, April 25, 2017 ###
+
+**When:** Tuesday, April 25th @ 11:45 AM - 1:00 PM
+
+**Where:** National Instruments, 11500 N. Mopac.Building C
+
+**Title:** The CISO Playbook
+
+<blockquote>The era of CISO-as-dictator is at an end. Growing cybersecurity with the business can be tricky and requires security leaders to find ways to get to “yes” with the business. This session will cover solid tactics to lead successful change throughout your organization.</blockquote>
+
+**Speaker:** John McLeod
+
+<blockquote>John McLeod is the CISO at AlienVault, responsible for cyber security in the enterprise and their products. John is a former Air Force Special Agent with over 20 years of experience in information security including but not limited to criminal, counter-intelligence, fraud and computer crime investigations. Prior to joining Alienvault, he served as the Director of Information Security for National Oilwell Varco. His experience includes management roles for Halliburton, Mandiant, Guidance Software, and Mantech International. The US Intelligence community recognized him for his work in steganography. As a consultant, he responded to some of the highly publicized cyber-attacks, including: Moonlight Maze, Titian Rain, Night Dragon, TJX and Operation Aurora. He holds a B.S. in Information Systems Management from the University of Maryland University College, and M.S. in Network Security from Capitol College in Maryland. Additionally, he is a Certified Information Systems Security Professional (CISSP).</blockquote>
+
+[https://vimeo.com/214731194 Vimeo] | [https://www.owasp.org/images/b/b5/OWASP-Austin-Chapter-2017-04_CISO-Playbook.pdf Presentation Slides]
+
+[Back to Top](#past-events)
+
+### Austin Security Professionals Happy Hour, April 6, 2017 ###
+
+**When:**  Thursday, April 6th, 5:00 pm - 7:00 pm
+
+**Where:** Sherlock’s Baker St. Pub & Grill, 9012 Research Blvd, Austin, TX 78758 (corner of Hwy 183 and Burnet Rd).  
+
+**Sponsor:** Amazon
+
+[Back to Top](#past-events)
+
+### OWASP Austin Chapter Meeting, March 28, 2017 ###
+
+**When:** Tuesday, March 28th @ 11:45 AM - 1:00 PM
+
+**Where:** National Instruments, 11500 N. Mopac.Building C
+
+**Title:** DevSecOps Lessons from Detroit to Deming
+
+<blockquote>In 1982, the city of Detroit saw 15,000 vehicles roll off its production lines every day.  To achieve this goal, Detroit's line workers were being measured on velocity, often at the expense of quality.  At the same time, auto workers in Japan -- applying lessons from W. Edwards Deming -- were implementing new supply chain management practices which enabled them to manufacture higher quality vehicles, for less cost, at higher velocity.  As a result, from 1962 to 1982, the Detroit auto industry lost 20% of its domestic market to Japan. 
+
+The parallels between the auto industry of 35 years ago and software development practices in place today are remarkable.  DevOps teams around the world are consuming billions of open source components and containerized applications to improve productivity at a massive scale. The good news: they are accelerating time to market. The bad news: many of the components and containers they are using are fraught with defects including critical security vulnerabilities. 
+
+This session aimed to enlighten Security, DevOps,  and development professionals by sharing results from the 2017 State of the Software Supply Chain Report -- a blend of public and proprietary data with expert research and analysis. The presentation also revealed findings from the 2017 DevSecOps Community survey where over 2,200 professionals shared their experiences blending DevOps and security practices together.  Throughout the discussion, Derek shared lessons that Deming employed decades ago to help us accelerate adoption of the right DevSecOps culture, practices, and measures today.
+</blockquote>
+
+**Speaker:** Derek E. Weeks
+
+<blockquote>After flying to 40 countries and racing through a half-Ironman competition, Derek woke up one morning on the top of Kilimanjaro and saw the world in a new light. Soon after, Derek become a huge advocate of applying proven supply chain management principles into AppSec practices to improve efficiencies and sustain long-lasting competitive advantages. He currently serves as vice president and DevSecOps advocate at Sonatype, creators of the Nexus repository manager and the global leader in solutions for software supply chain automation.  Derek is also the co-founder of the All Day DevOps conference and the lead researcher behind the annual State of the Software Supply Chain report.</blockquote>
+
+[https://vimeo.com/210478219 Vimeo]
+
+[Back to Top](#past-events)
+
+### Austin Security Professionals Happy Hour, March 9, 2017  ###
+
+**When**:  Thursday, March 9th, 5:00 pm - 7:00 pm
+
+**Where**: Sherlock’s Baker St. Pub & Grill, 9012 Research Blvd, Austin, TX 78758 (corner of Hwy 183 and Burnet Rd).  
+
+**Sponsor**: Rapid7
+
+[Back to Top](#past-events)
+
+### OWASP Austin Chapter Meeting, February 28, 2017 ###
+
+**When:** Tuesday, February 28th @ 11:45 AM - 1:00 PM
+
+**Where:** National Instruments, 11500 N. Mopac.Building C
+
+**Title:** Building and Breaking Password Reset Mechanisms
+
+<blockquote>It happens to everyone, you forgot your password. Now you need to get back into your account and prove you are who you say, but without using your password as proof. How, then, can that be done securely? More interestingly, how can it be done insecurely? This talk will dissect a number of security vulnerabilities found in real-world password reset mechanisms, and discuss how password reset mechanisms should be built.</blockquote>
+
+**Speaker:** Dan Crowley
+
+<blockquote>Daniel Crowley is a Senior Security Engineer and Regional Research Director for NCC Group Austin, tasked with finding and exploiting flaws in everything from Web applications and cryptosystems to ATMs, smart homes, and industrial control systems. He denies all allegations of unicorn smuggling and questions your character for even suggesting it. He has been working in information security since 2004. Daniel is TIME’s 2006 Person of the Year. He has developed and released various free security tools such as MCIR, a powerful Web application exploitation training and research platform, and FeatherDuster, an automated modular cryptanalysis tool. He does his own charcuterie and brews his own beer. He is a frequent speaker at conferences including Black Hat, DEFCON, Shmoocon, Chaos Communications Camp, and SOURCE. Daniel can open a door lock with his computer but still can’t launch ICBMs by whistling into a phone. He has been interviewed by various print and television media including Forbes, CNN, and the Wall Street Journal. He holds the noble title of Baron in the micronation of Sealand. His work has been included in books and college courses.</blockquote>
+
+[Back to Top](#past-events)
+
+### Austin Security Professionals Happy Hour, February 9, 2017 ###
+
+**When**:  Thursday, February 9th, 5:00 pm - 7:00 pm
+
+**Where**: Sherlock’s Baker St. Pub & Grill, 9012 Research Blvd, Austin, TX 78758 (corner of Hwy 183 and Burnet Rd).  
+
+**Sponsor**: Vectra Networks
+
+[Back to Top](#past-events)
+
+### OWASP Austin Chapter Meeting, January 31, 2017 ###
+
+**When:** Tuesday, January 31st @ 11:45 AM - 1:00 PM
+
+**Where:** National Instruments, 11500 N. Mopac.Building C
+
+**Title:** Random Number Generation - Lava Lamps, Clouds and the IoT
+
+<blockquote>Random numbers are the basis of security for all cryptography, yet they are often taken for granted. Learn why random numbers are so hard to generate and validate, compare different technologies in use today across virtualized environments, and discuss operational steps to take the risk out of random numbers and help secure cryptosystems even into the era of quantum computers.</blockquote>
+
+**Speaker:** Richard Moulds
+
+[https://vimeo.com/202234199 Vimeo]
+
+[Back to Top](#past-events)
+
+### Austin Security Professionals Happy Hour, January 12, 2017 ###
+
+**When:**  Thursday, January 12th, 5:00 pm - 7:00 pm
+
+**Where:** Sherlock’s Baker St. Pub & Grill], 9012 Research Blvd, Austin, TX 78758 (corner of Hwy 183 and Burnet Rd). 
+
+**Sponsors**: Bugcrowd and Rapid7
 
 [Back to Top](#past-events)
