@@ -13,7 +13,7 @@ tags: austin
 ### 2019 ###
 ---
 
- ### LASCON X  ###
+### LASCON X  ###
 
 **When:** Tuesday & Wednesday, October 22-23, 2019 (Pre-Conference Training), Thursday & Friday, October 24-25, 2019 (Conference Sessions)
 
@@ -27,7 +27,7 @@ We had a great time celebrating our 10th year anniversary of LASCON. Many thanks
 
 [Back to Top](#past-events)
 
- ### OWASP Austin Chapter Meeting, September 24, 2019   ###
+### OWASP Austin Chapter Meeting, September 24, 2019 ###
 
 **When:** Tuesday, September 24th @ 11:45 AM - 1:00 PM
 
@@ -45,7 +45,7 @@ We had a great time celebrating our 10th year anniversary of LASCON. Many thanks
 
 [Back to Top](#past-events)
 
- ### Austin Security Professionals Happy Hour sponsored by Synack, September 12, 2019  ###
+### Austin Security Professionals Happy Hour sponsored by Synack, September 12, 2019 ###
 
 **When:**  Thursday, September 12th, 5:00 pm - 7:00 pm
 
