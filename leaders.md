@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
+* [Kyle Smith](mailto://kyle.smith@owasp.org)
+* [Tiana Chandler](mailto://tiana.chandler@owasp.org)
+
