@@ -1,6 +1,6 @@
 ## Past Events Archive ##
 
-[2016](#2016)  [2015](#2015)  [2014](#2014)  [2013](#2013)  [2012](#2012)  [2011](#2011)  [2010](#2010) <br/>
+[2016](#2016)  [2015](#2015)  [2014](#2014)  [2013](#2013)  [2012](#2012)  [2011](#2011)  [2010](#2010) 
 [2009](#2009)  [2008](#2008)  [2007](#2007)  [2006](#2006)  
 
 ## 2016 ## 
@@ -21,7 +21,7 @@
 
 <blockquote> David Hafley has been building consumer and enterprise products for over ten years.  He’s currently head of engineering operations for Contrast Security, where he lives for push buttons deploys, building systems that help the engineering team become more productive, and uptime.  Prior to Contrast Security, David held positions at MyEdu (acquired by Blackboard) and AOL.  He has a degree in Computer Science from DePauw University in [tropical] Greencastle, IN.</blockquote> 
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 
 ### Austin Security Professionals Happy Hour, September 8, 2016 ###
 
@@ -31,7 +31,7 @@
 
 **Sponsor:** Rapid7
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 
 ### OWASP Austin Chapter Meeting, August 30, 2016 ###
 
@@ -47,7 +47,7 @@
 
 [https://vimeo.com/180781698 Vimeo]
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 
 ### Austin Security Professionals Happy Hour sponsored by Gemalto, August 11, 2016 ###
 
@@ -57,7 +57,7 @@
 
 **Sponsor:** Gemalto
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 
 ### OWASP Austin Chapter Meeting, July 26, 2016 ###
 
@@ -76,7 +76,7 @@ Josh Sokol, CISSP, graduated from the University of Texas at Austin with a BS in
 
 [https://vimeo.com/176377672 Vimeo]
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 
 ### Austin Security Professionals Happy Hour sponsored by Technology Navigators, July 14, 2016 ###
 
@@ -86,7 +86,7 @@ Josh Sokol, CISSP, graduated from the University of Texas at Austin with a BS in
 
 **Sponsor:** Technology Navigators
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 
 ### OWASP Austin Chapter Meeting, June 28, 2016 ###
 
@@ -115,7 +115,7 @@ Igor studied at Belarusian State University of Informatics and Radioelectronics 
 
 [https://vimeo.com/172622250 Vimeo]
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 
 ### Austin Security Professionals Happy Hour sponsored by Ixia, June 9, 2016 ###
 
@@ -125,7 +125,7 @@ Igor studied at Belarusian State University of Informatics and Radioelectronics 
 
 **Sponsor:** Ixia
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 
 ### OWASP Austin Chapter Meeting, May 31, 2016 ###
 
@@ -148,7 +148,7 @@ A globally recognized application security expert, Dan Cornell holds over 15 yea
 
 [https://vimeo.com/168872344 Vimeo]
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 
 ### Austin Security Professionals Happy Hour sponsored by Rapid7, May 12, 2016 ###
 
@@ -158,7 +158,7 @@ A globally recognized application security expert, Dan Cornell holds over 15 yea
 
 **Sponsor:** Rapid7
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 
 ### OWASP Austin Chapter Meeting, April 26, 2016 ###
 
@@ -179,7 +179,7 @@ Joel Scambray is a Principal at Cigital, a leading software security consulting 
 
 [https://vimeo.com/164300496 Vimeo]
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 
 ### Austin Security Professionals Happy Hour sponsored by Veracode, April 14, 2016 ###
 
@@ -189,7 +189,7 @@ Joel Scambray is a Principal at Cigital, a leading software security consulting 
 
 **Sponsor:** Veracode
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 
 ### Austin Security Professionals Happy Hour sponsored by Core Security, March 30, 2016 ###
 
@@ -199,7 +199,7 @@ Joel Scambray is a Principal at Cigital, a leading software security consulting 
 
 **Sponsor:**  Core Security
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 
 ### OWASP Austin Chapter Meeting, March 29, 2016 ###
 
@@ -228,7 +228,7 @@ Ernest Mueller is a 20-year IT veteran who has led a variety of teams designing,
 
 [https://vimeo.com/channels/owaspaustin Vimeo]
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 
 ### OWASP Austin Chapter Meeting, February 23, 2016 ###
 
@@ -251,7 +251,7 @@ Bring a laptop (mac or linux) that you can install software on and a github acc
 
 **Speaker:** James Wickett (see bio at about.me/wickett)
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 
 ### Austin Security Professionals Happy Hour sponsored by Rapid7, February 18, 2016 ###
 
@@ -261,7 +261,7 @@ Bring a laptop (mac or linux) that you can install software on and a github acc
 
 **Sponsor:** Rapid7
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 
 ### OWASP Austin Chapter Meeting, January 26th ###
 
@@ -277,7 +277,7 @@ On Tuesday, January 26 at 11:45 AM, the Austin Chapter of the OWASP Foundation i
 
 **Speaker:** Several -- Lead by Josh Sokol
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 
 ### Austin Security Professionals Happy Hour sponsored by Bugcrowd, January 14th ###
 
@@ -289,7 +289,7 @@ On Tuesday, January 26 at 11:45 AM, the Austin Chapter of the OWASP Foundation i
 
 An innovator in crowdsourced security testing for the enterprise, Bugcrowd harnesses the power of more than 19,000 security researchers to surface critical software vulnerabilities. Bugcrowd provides a range of vulnerability disclosure and bug bounty programs that allow organizations to commission a customized security testing program that fits their needs.
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 
 
 <hr/>
@@ -320,7 +320,7 @@ MalwareArchaeology
 
 [[https://vimeo.com/140831113 Vimeo]]
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 ### Austin Security Professionals Happy Hour sponsored by Veracode, September 10th ###
 
 **When:** Thursday, September 10th, 5-7PM
@@ -331,7 +331,7 @@ MalwareArchaeology
 
 Veracode’s cloud-based service and programmatic approach deliver a simpler and more scalable solution for reducing global application-layer risk across web, mobile and third-party applications. Recognized as a Gartner Magic Quadrant Leader since 2010, Veracode secures hundreds of the world’s largest global enterprises, including 3 of the top 4 banks in the Fortune 100 and 25+ of the world’s top 100 brands.
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 ### OWASP Austin Chapter Meeting, August 25th ###
 
 **Title:** Eat Your Own Dogfood
@@ -344,7 +344,7 @@ Josh Sokol, CISSP, graduated from the University of Texas at Austin with a BS in
 
 [[https://vimeo.com/137286259 Vimeo]]
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 ### Austin Security Professionals Happy Hour sponsored by Dell SecureWorks, August 13th ###
 
 **Where:** Sherlocks Street Pub and Grill, 9012 Research Blvd
@@ -355,7 +355,7 @@ Josh Sokol, CISSP, graduated from the University of Texas at Austin with a BS in
 
 As a security service provider, we strive to be a world leader in everything related to information security; from firewall management services, combating advanced persistent threats to ensuring your PCI readiness for compliance. Our Global Headquarters located in Atlanta, GA is where a large amount of monitoring and research is performed while working in tandem with our other US, Europe and Japan offices. Many industries and IT security companies need assistance in maintaining or even building a new infrastructure for their information security and we have the expert security analysts to assist you along the way through consulting, audits, assessments, and tests.
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 ### OWASP Austin Chapter Meeting, July 28th ###
 
 **Title:** The EMV Card Standard - What is it and How Does it Work?
@@ -374,7 +374,7 @@ Larry graduated from the Florida Institute of Technology with a degree in Comput
 
 Larry serves on the board at the Computer Science department at Parker University in Dallas and the Austin chapter of the International Systems and Security Association.  Larry is also Vice-President and IT Sector Chief for the Austin chapter of Infragard and has given numerous presentations and written numerous articles on security architecture, threat intelligence and software development.
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 ### Austin Security Professionals Happy Hour sponsored by Technology Navigators, July 9th ###
 
 **Where:** Sherlocks Street Pub and Grill, 9012 Research Blvd
@@ -415,7 +415,7 @@ We most frequently recruit for positions in software, infrastructure, data manag
 *Information Security Professionals
 - See more at: http://technologynavigators.com
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 ### OWASP Austin Chapter Meeting, June 30th ###
 
 **When:** Tuesday, June 30th @ 11:45 - 1PM
@@ -430,14 +430,14 @@ Mike has been an entrepreneur and identity specialist for over 18 years. He is t
 
 [[http://gluu.co/trust-el-prezi Prezi] ]
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 ### Austin Security Professionals Happy Hour sponsored by Vectra Networks, June 11th ###
 
 **Where:** Sherlocks Street Pub and Grill, 9012 Research Blvd
 
 Vectra Networks™ is the leader in real-time detection of in-progress cyber attacks. The company’s advanced threat-detection solution continuously monitors internal network traffic to pinpoint cyber attacks as they happen. It then automatically correlates threats against hosts that are under attack and provides unique context about what attackers are doing so organizations can quickly prevent or mitigate loss. Vectra prioritizes attacks that pose the greatest business risk, enabling organizations to make rapid decisions on where to focus time and resources. In 2015, Gartner named Vectra a Cool Vendor in Security Intelligence for addressing the challenges of post-breach threat detection. Visit us at www.vectranetworks.com.
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 ### OWASP Austin Chapter Meeting, May 26th ###
 
 **When:** Tuesday, May 26th @ 11:45 - 1PM
@@ -458,7 +458,7 @@ Attendees will learn:
 
 Charles leads global infrastructure operations and engineering, security, and IT strategy for the #1 job site worldwide. The Indeed.com infrastructure serves over 180 million monthly job seekers, from multiple data centers located around the globe, maintaining better than 99.999% availability and sub-second response times. Indeed is available in more than 50 countries and 28 languages, covering 94% of global GDP.
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 ### Austin Security Professionals Happy Hour sponsored by iSEC Partners, May 14th ###
 
 **Where:** Sherlocks Street Pub and Grill, 9012 Research Blvd
@@ -471,7 +471,7 @@ iSEC Partners also provide extensive research in many information security areas
 
 iSEC Partners has been part of information assurance company, NCC Group plc, since October 2010.
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 ### OWASP Austin March Chapter Meeting - April 28th ###
 
 **Title:** Using OpenSAMM for Benchmarking and Software Security Improvement
@@ -494,11 +494,11 @@ He holds a Bachelor of Science degree from Texas A&M University, a Master of Sci
 
 Webcast: [https://vimeo.com/126319348 Vimeo]
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 ### Austin Security Professionals Happy Hour sponsored by iSEC Partners, April 9th ###
 **Sponsor:** iSEC Partners
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 ### OWASP Austin Chapter Meeting - March 31st ###
 
 **Title:** Top 10 Web Hacking Techniques of 2014
@@ -513,13 +513,13 @@ consultant, where he was responsible for performing network and web application 
 Application Security at Adelphi University, where he received his Bachelor of Science in Computer Science, and San Jose State University. He has also
 been utilized by the SANS Institute as an industry expert for certification review.
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 ### Austin Security Professionals Happy Hour sponsored by Alert Logic, March 11th ###
 **Sponsor:** Alert Logic
 
 Alert Logic, the leading provider of Security-as-a-Service solutions for the cloud, provides security and compliance for cloud, hybrid, and on-premises data center infrastructure. Fully managed by a team of experts, Alert Logic’s Cloud Defender suite delivers the deep security insight and continuous protection needed to protect a company’s most sensitive data. Alert Logic provides network, system, and application protection for over 3,000 organizations worldwide. Built for cloud scale, the Alert Logic ActiveAnalytics platform manages over 5 petabytes of data, analyzes over 450 million events and identifies over 60,000 security incidents monthly that are managed by our security operations center.
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 ### OWASP Austin February Chapter Meeting - February 24th ###
 Title: Static Analysis: Beyond the Basics
 
@@ -529,7 +529,7 @@ Speaker: Andy Earle
 
 Andy Earle is a Security Solutions Architect for HP Enterprise Security Products (ESP). Andy has spent 5 years designing and delivering application security programs, technology, and services for US Federal and commercial customers, specifically around HP's Fortify appsec products. Andy was previously the product manager for a high assurance multi-level secure operating system at BAE Systems, and Presales Engineer for various web development and mobile security firms. Andy has spoken extensively on application security topics, most recently at OWASP's SnowFROC 2013, the RMISC conference, SANS AppSec 2013, and HP Protect. Early experience includes software engineering, mobile application development, and lifeguarding at his neighborhood pool. Andy is a CISSP and CSSLP, and has a B.S. in Systems Engineering from the University of Virginia.
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 ### Austin Security Professionals Happy Hour sponsored by Qualys, February 19th ###
 **Sponsor:** Qualys
 
@@ -539,7 +539,7 @@ Qualys WAS (Web Application Scanning) Winner of Information Security™ magazine
 
 Qualys WAF (Web Application Firewall) Built on the world’s leading Cloud security and compliance platform, Qualys WAF complements the global scalability of Qualys Web Application Scanning (WAS). Together, they make identifying and mitigating web app risks seamless, whether you have a dozen apps or thousands. Qualys WAF can be deployed in minutes, supports SSL, and doesn’t require special expertise to use. It delivers a new level of web app security and compliance while freeing you from the substantial cost, resource and deployment issues associated with traditional products.
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 ### OWASP Austin January Chapter Meeting - January 27th ###
 **Title:**  CryptoParty!!!!!!
 
@@ -551,11 +551,11 @@ At our January 27, 2015 OWASP Austin meeting, we will host our first ever Crypto
 
 **Speaker(s):** Several amazing security professionals who like Crypto and want to Party with OWASP
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 ### Austin Security Professionals Happy Hour sponsored by FishNet Security, January 8th ###
 **Sponsor:** FishNet Security
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 
 ---
 
@@ -568,7 +568,7 @@ The Lonestar Application Security Conference (LASCON) is an OWASP conference hel
 
 LASCON 2014, run by David Hughes(@Dav1dHugh3s) and the OWASP Austin crew, will be run in the same tradition as previous LASCON conferences featuring the best speakers, a close-knit community atmosphere and even our signature happy hour replete with a mechanical bull. Year over year, LASCON has been a gathering of thought leaders, web developers, security engineers, mobile developers and information security professionals. LASCON 2014 will have 2 days of pre-conference training and 2 full days of conference across 4 rooms.
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 ### OWASP Austin September Chapter Meeting - September 30th ###
 **When:** September 30th, 11:30AM to 1PM 
 
@@ -582,7 +582,7 @@ LASCON 2014, run by David Hughes(@Dav1dHugh3s) and the OWASP Austin crew, will b
 
 (No Video)  Link to slides at [http://www.slideshare.net/benlbroussard/account-entrapment slideshare]
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 ### Austin Security Professionals Happy Hour sponsored by Set Solutions Inc., September 11th ###
 **When:** Thursday, September 11th, 5-7PM
 
@@ -592,7 +592,7 @@ For over 20 years, Set Solutions, Inc.—a full service provider of network secu
 
 If you have network security challenges or just want to improve the health of your network, Set Solutions can help.
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 ### OWASP Austin August Chapter Meeting - August 26th ###
 **When:** August 26th, 11:30AM to 1PM 
 
@@ -606,7 +606,7 @@ Mike enjoys attempting to solve/solving interesting security problems with data 
 
 **Video Archive:** https://vimeo.com/channels/owaspaustin/104466721
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 ### Austin Security Professionals Happy Hour sponsored by Trustwave, August 14th ###
 **When:** Thursday, August 14th, 5-7PM
 
@@ -614,7 +614,7 @@ Mike enjoys attempting to solve/solving interesting security problems with data 
 
 The Trustwave suite of application security solutions, delivered by an expert team of application specialists, ensures that your application is tested and reviewed thoroughly. The application security team uses manual processes to test and review applications according to your needs. The result is specific guidance that can significantly improve the security of your applications and protect your business.
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 ### OWASP Austin July Chapter Meeting - July 29th ###
 **When:** July 29th, 11:30AM to 1PM 
 
@@ -628,7 +628,7 @@ Ken Johnson is the CTO of nVisium and leads the company's product development ef
 
 **Video Archive:** https://vimeo.com/channels/owaspaustin/102133267
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 ### Austin Security Professionals Happy Hour sponsored by iSEC Partners, July 10th ###
 **When:** Thursday, July 10th, 5-7PM
 
@@ -636,7 +636,7 @@ Ken Johnson is the CTO of nVisium and leads the company's product development ef
 
 iSEC Partners is an information security firm specializing in the assessment of application and network security. Founded in 2004, with offices in San Francisco, New York, Seattle, and  Austin, iSEC Partners provides tailored security services to many Fortune 500 clients.  iSEC consultants are published authors in the information security field and regular speakers at events including the RSA Conference, Black Hat, FS-ISAC, CanSecWest, SOURCE, InfoSecurity Europe, and the FIRST annual conference. Details of presentations delivered by iSEC Partners in recent years are available from our website at https://www.isecpartners.com/research/white-papers.aspx.
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 ### OWASP Austin March Chapter Meeting - June 24th ###
 **When:** June 24th, 11:30AM to 1PM 
 
@@ -650,7 +650,7 @@ Vern Williams has over 30 years in Information Security starting with his respon
 
 **Video Archive:** Unfortunately, due to technical difficulties, a recording was not made.
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 ### Austin Security Professionals Happy Hour sponsored by Lumenate, June 12th ###
 **When:** Thursday, June 12th, 5-7PM
 
@@ -663,7 +663,7 @@ Lumenate is a technical consulting firm that helps clients solve their most chal
 ·         Networking | Collaboration
 ·         Managed Services
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 ### OWASP Austin March Chapter Meeting - May 27th ###
 **When:** May 27th, 11:30AM to 1PM 
 
@@ -677,7 +677,7 @@ Jaime Blasco is a Security Researcher with broad experience in network security 
 
 **Video Archive:** http://vimeo.com/channels/owaspaustin/96621807
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 ### Austin Security Professionals Happy Hour sponsored by The Broadleaf Group, May 8th ###
 **When:** Thursday, May 8th, 5-7PM
 
@@ -685,7 +685,7 @@ Jaime Blasco is a Security Researcher with broad experience in network security 
 
 Founded in 2005, The Broadleaf Group is a leading provider of IT solutions with specific emphasis on providing Systems, Security, Unified Communications, Managed IT, Banking and CIO level consulting for SMB to enterprise level customers throughout the US. The company’s extensive experience with IT performance, optimization processes and business enablement ensures customers are provided with the most comprehensive and competitive solutions for their environments. For more information, please visit www.broadleafgroup.com.
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 ### OWASP Austin March Chapter Meeting - April 29th ###
 
 **Title:** Covert Hacking and Application Testing with Raspberry Pi
@@ -696,7 +696,7 @@ Founded in 2005, The Broadleaf Group is a leading provider of IT solutions with 
 
 **Video Archive:** https://vimeo.com/93323292
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 ### Austin Security Professionals Happy Hour sponsored by Digital Defense, April 10th ###
 **When:** Thursday, April 10th, 5-7PM
 
@@ -704,7 +704,7 @@ Founded in 2005, The Broadleaf Group is a leading provider of IT solutions with 
 
 Founded in 1999, Digital Defense, Inc. (DDI) is a premier provider of managed security risk assessment solutions protecting billions in assets for small businesses to Fortune companies in over 65 countries. DDI’s dedicated team of experts helps organizations establish a culture of security through regular information security assessments, awareness education and decisive security intelligence. This proven method bolsters the capability to reduce risk and keep assets and reputations secure. The combination of DDI’s certified security analysts, patent-pending technology and proprietary cloud-based vulnerability management system, Frontline™ Solutions Platform, delivers one of the most powerful assessment results and remediation management solutions available.
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 ### OWASP Austin March Chapter Meeting - March 25th ###
 
 **Title:** Hacking Exposed: Mobile Edition
@@ -715,7 +715,7 @@ Founded in 1999, Digital Defense, Inc. (DDI) is a premier provider of managed se
 
 **Video Archive:** https://vimeo.com/90822991
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 ### Austin Security Professionals Happy Hour sponsored by Sourcefire/Cisco - March 19th ###
 **When:** Wednesday, March 19th 5pm-8pm 
 
@@ -725,7 +725,7 @@ Round Rock, TX 78664
 
 **Sponsor: Sourcefire/Cisco**
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 ### OWASP Austin February Chapter Meeting - February 25th ###
 
 **Title:** Magical Code Injection Rainbow
@@ -737,7 +737,7 @@ There is another option! The Magical Code Injection Rainbow! MCIR is a framework
 
 **Video Archive:** https://vimeo.com/90822990
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 ### Austin Security Professionals Happy Hour sponsored by SafeNet - February 20th ###
 **When:** Thursday, February 20th, 5pm-7pm 
 
@@ -747,12 +747,12 @@ There is another option! The Magical Code Injection Rainbow! MCIR is a framework
 
 Founded in 1983, **SafeNet, Inc.** is one of the largest information security companies in the world, and is trusted to protect the most sensitive data for market-leading organizations around the globe.  SafeNet’s data-centric approach focuses on the protection of high-value information throughout its lifecycle, from the data center to the cloud.  More than 25,000 customers across commercial enterprises and government agencies trust SafeNet to protect and control access to sensitive data, manage risk, ensure compliance, and secure virtual and cloud environments. 
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 
 ### OWASP Austin January Chapter Meeting - January 28th ###
 **Chapter meeting canceled due to icy conditions.**
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 ### Austin Security Professionals Happy Hour sponsored by F5 - January 9th ###
 **When:** Thursday, January 9th, 5pm-7pm 
 
@@ -760,7 +760,7 @@ Founded in 1983, **SafeNet, Inc.** is one of the largest information security co
 
 **Sponsor: F5**  
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 
 ---
 
@@ -987,7 +987,7 @@ http://www.lascon.org
 
 **Where** Sherlocks
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 
 ---
 
@@ -1322,7 +1322,7 @@ http://austinthreatmodel2012.eventbrite.com/
 
 **Where:** Weirdos
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 
 ---
 
@@ -1644,7 +1644,7 @@ Dan Cornell has over twelve years of experience architecting, developing and sec
 
 **Where:** Sherlock's (9012 Research Blvd, Austin, TX 78757)
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 
 ---
 
@@ -1919,7 +1919,7 @@ Josh Sokol graduated from the University of Texas at Austin with a BS in Compute
 
 **Where:** Sherlock's (9012 Research Blvd, Austin, TX 78757) 
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 
 ---
 
@@ -2156,7 +2156,7 @@ I am new in the world of Web App security; my passion started when I took a cont
 
 **Where:** National Instruments, 11500 N Mopac, Building C which is the tallest building on campus (8 levels). There will be signs posted in the lobby to direct you where to go and the receptionists will be able to assist you as well. See [http://maps.google.com/maps?f=q&hl=en&q=11500+N+Mo-Pac+Expy,+Austin,+TX+78759&ie=UTF8&ll=30.406377,-97.726135&spn=0.017211,0.036778&om=1 directions to National Instruments]. 
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 
 ---
 
@@ -2296,7 +2296,7 @@ In this presentation, Michael will explain some of the inner workings of the SDL
 
 **Where:** Whole Foods, 550 Bowie Street, Austin, TX 78703. 
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 
 ---
 
@@ -2359,7 +2359,7 @@ Whole Foods, 550 Bowie Street, Austin, TX 78703. Come to the Whole Foods plaza l
 
 [[January 2007 Austin Chapter Meeting]] - 1/30, 11:30am - 1:00pm at National Instruments, 11500 N Mopac, Building C Conference Room 1S15. 
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
 
 ---
 
@@ -2388,4 +2388,4 @@ Whole Foods, 550 Bowie Street, Austin, TX 78703. Come to the Whole Foods plaza l
 
 **Austin OWASP chapter kickoff meeting** - Thursday, 7/27, 12-2pm @ Whole Foods Market (downtown, plaza level, sign in with receptionist)
 
-[Back to Top](#past-events-archve)
+[Back to Top](#past-events-archive)
