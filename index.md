@@ -19,12 +19,15 @@ Upcoming Events
 
 <p><strong>OWASP Austin Chapter Meeting, January 28, 2020</strong></p>
 
--<strong>When:</strong> Tuesday, January 28th @ 11:45 AM - 1:00 PM <br/>
--<strong>Where:</strong> National Instruments, 11500 N. Mopac.Building C <br/>
--<strong>Title:</strong> OWASP Austin CryptoParty! <br/>
--<br>
--<strong>SAVE THE DATE!  More details coming soon.</strong>
-
+<table cellpadding="5" cellspacing="0" border="1">
+  <tr><td>
+<strong>When:</strong> Tuesday, January 28th @ 11:45 AM - 1:00 PM <br/>
+<strong>Where:</strong> National Instruments, 11500 N. Mopac.Building C <br/>
+<strong>Title:</strong> OWASP Austin CryptoParty! <br/>
+<br>
+<strong>SAVE THE DATE!  More details coming soon.</strong>
+  </td></tr>
+</table>
 <hr>
 
 Chapter Leadership
