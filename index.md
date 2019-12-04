@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Austin
-tags: example-tag
+tags: studygroups-tag pastevents-tag sponsorship-tag
 
 region: United States
 
