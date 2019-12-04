@@ -19,7 +19,7 @@ Upcoming Events
 
 <table cellpadding="5" cellspacing="0">
   <tr><th width="20%">Event</th><th>Details</th></tr>
-  <tr><td>OWASP Austin Chapter Meeting, January 28, 2020</td>
+  <tr><td><strong>OWASP Austin Chapter Meeting<br>January 28, 2020</strong></td>
       <td>
 <strong>When:</strong> Tuesday, January 28th @ 11:45 AM - 1:00 PM <br/>
 <strong>Where:</strong> National Instruments, 11500 N. Mopac.Building C <br/>
@@ -35,7 +35,7 @@ Chapter Leadership
 ------------------
 The chapter leadership board is as follows:
 
-<table cellpadding="5" cellspacing="0" border="1">
+<table cellpadding="5" cellspacing="0">
   <tr><th>Chapter Leadership Board Member Role</th>
       <th width="50%">Responsibilities</th>
       <th>Person(s)</th></tr>
