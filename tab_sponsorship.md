@@ -10,7 +10,7 @@ tags: austin
 
 ## Sponsorship Opportunities with our Chapter ##
 
-The Austin OWASP Chapter can offer your company several sponsorship opportunities. If you are interested in taking advantage of any of these opportunities, please contact [mailto:tiana.chandler@owasp.org Tiana Chandler], the Austin OWASP Chapter President. 
+The Austin OWASP Chapter can offer your company several sponsorship opportunities. If you are interested in taking advantage of any of these opportunities, please contact Tiana Chandler (tiana[dot]chandler[at]owasp.org), the Austin OWASP Chapter President. 
 
 ### Austin Security Professionals Happy Hour Sponsorship ### 
 
