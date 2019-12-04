@@ -22,7 +22,7 @@ The current study group, which started on November 1, 2018, is covering ''Window
 <blockquote>
 **When:**  The study group meets weekly on Thursdays from 12:00 to 1:00 PM
 
-**Where:**  National Instruments, Building A, Room 217 (Directions: [GoogleMaps(https://www.google.com/maps/place/National+Instruments/@30.4077179,-97.7268262,17z/data#!3m1!4b1!4m2!3m1!1s0x865b34c37397e56b:0x765d5bc26a58ce96), [MapQuest](http://www.mapquest.com/maps?address#11500+N+Mo+Pac+Expy&city#Austin&state#TX&zipcode#78759&redirect#true)
+**Where:**  National Instruments, Building A, Room 217 (Directions: [GoogleMaps](https://www.google.com/maps/place/National+Instruments/@30.4077179,-97.7268262,17z/data#!3m1!4b1!4m2!3m1!1s0x865b34c37397e56b:0x765d5bc26a58ce96), [MapQuest](http://www.mapquest.com/maps?address#11500+N+Mo+Pac+Expy&city#Austin&state#TX&zipcode#78759&redirect#true)
 
 **How to follow:** Status of meetings and discussion of topic will be communicated through the [Slack AustinOWASP](https://austinowasp.slack.com).  The topic's channel is <pre>#powershell</pre>
 
