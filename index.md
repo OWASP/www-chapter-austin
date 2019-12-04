@@ -12,6 +12,7 @@ OWASP Austin
 ------------
 Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See below for full list of all chapter leadership board.
 
+<hr/>
 
 Upcoming Events
 ---------------
@@ -23,6 +24,8 @@ Upcoming Events
 <strong>Title:</strong> OWASP Austin CryptoParty! <br/>
 <br>
 <strong>SAVE THE DATE!  More details coming soon.</strong>
+
+<hr>
 
 Chapter Leadership
 ------------------
