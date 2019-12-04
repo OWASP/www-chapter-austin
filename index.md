@@ -8,8 +8,8 @@ region: United States
 
 ---
 
-OWASP Austin
-------------
+Welcome!
+--------
 Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See below for full list of all chapter leadership board.
 
 <hr/>
