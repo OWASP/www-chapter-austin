@@ -7,6 +7,7 @@ tags: example-tag
 region: United States
 
 ---
+[Upcoming Events](#upcoming-events) | [Chapter Leadership](#chapter-leadership)
 
 Welcome!
 --------
