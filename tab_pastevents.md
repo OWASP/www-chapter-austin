@@ -236,8 +236,7 @@ We had a great time celebrating our 10th year anniversary of LASCON. Many thanks
 
 <hr>
 ### 2018 ###
-<hr>
-
+---
 
 ###  LASCON 2018 ### 
 
