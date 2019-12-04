@@ -55,7 +55,7 @@ We had a great time celebrating our 10th year anniversary of LASCON. Many thanks
 
 [Back to Top](#past-events)
 
- ### OWASP Austin Chapter Meeting, August 27, 2019  ###
+### OWASP Austin Chapter Meeting, August 27, 2019 ###
 
 **When:** Tuesday, August 27th @ 11:45 AM - 1:00 PM
 
@@ -75,7 +75,7 @@ We had a great time celebrating our 10th year anniversary of LASCON. Many thanks
 
 [Back to Top](#past-events)
 
- ### OWASP Austin Chapter Meeting, July 30, 2019  ###
+### OWASP Austin Chapter Meeting, July 30, 2019 ###
 
 **When:** Tuesday, July 30th @ 11:45 AM - 1:00 PM
 
@@ -93,7 +93,7 @@ We had a great time celebrating our 10th year anniversary of LASCON. Many thanks
 
 [Back to Top](#past-events)
 
- ### Austin Security Professionals Happy Hour sponsored by Contrast Security, July 11, 2019  ###
+### Austin Security Professionals Happy Hour sponsored by Contrast Security, July 11, 2019 ###
 
 **When:**  Thursday, July 11th, 5:00 pm - 7:00 pm
 
@@ -103,7 +103,7 @@ We had a great time celebrating our 10th year anniversary of LASCON. Many thanks
 
 [Back to Top](#past-events)
 
- ### OWASP Austin Chapter Meeting, June 25, 2019  ###
+### OWASP Austin Chapter Meeting, June 25, 2019 ###
 
 **When:** Tuesday, June 25th @ 11:45 AM - 1:00 PM 
 
@@ -124,7 +124,7 @@ We had a great time celebrating our 10th year anniversary of LASCON. Many thanks
 
 [Back to Top](#past-events)
 
- ### OWASP Austin Chapter Meeting, May 28, 2019  ###
+### OWASP Austin Chapter Meeting, May 28, 2019 ###
 
 **When:** Tuesday, May 28th @ 11:45 AM - 1:00 PM 
 
@@ -142,7 +142,7 @@ We had a great time celebrating our 10th year anniversary of LASCON. Many thanks
 
 [Back to Top](#past-events)
 
- ### Austin Security Professionals Happy Hour sponsored by Qualys, May 9, 2019  ###
+### Austin Security Professionals Happy Hour sponsored by Qualys, May 9, 2019 ###
 
 **When:**  Thursday, May 9th, 5:00 pm - 7:00 pm
 
@@ -152,7 +152,7 @@ We had a great time celebrating our 10th year anniversary of LASCON. Many thanks
 
 [Back to Top](#past-events)
 
- ### OWASP Austin Chapter Meeting, April 30, 2019  ###
+### OWASP Austin Chapter Meeting, April 30, 2019 ###
 
 **When:** Tuesday, April 30th @ 11:45 AM - 1:00 PM 
 
@@ -176,7 +176,7 @@ We had a great time celebrating our 10th year anniversary of LASCON. Many thanks
 
 [Back to Top](#past-events)
 
- ### OWASP Austin Chapter Meeting, March 26, 2019  ###
+### OWASP Austin Chapter Meeting, March 26, 2019 ###
 
 **When:** Tuesday, March 26th @ 11:45 AM - 1:00 PM 
 
@@ -192,7 +192,7 @@ We had a great time celebrating our 10th year anniversary of LASCON. Many thanks
 
 [Back to Top](#past-events)
 
- ### OWASP Austin Chapter Meeting, February 26, 2019  ###
+### OWASP Austin Chapter Meeting, February 26, 2019 ###
 
 **When:** Tuesday, February 26th @ 11:45 AM - 1:00 PM 
 
@@ -208,7 +208,7 @@ We had a great time celebrating our 10th year anniversary of LASCON. Many thanks
 
 [Back to Top](#past-events)
 
- ### Austin Security Professionals Happy Hour sponsored by Secure | Austin, February 7, 2019  ###
+### Austin Security Professionals Happy Hour sponsored by Secure | Austin, February 7, 2019 ###
 
 **When:**  Thursday, February 7th, 6:00 pm - 8:30 pm
 
