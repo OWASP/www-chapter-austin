@@ -26,7 +26,7 @@ Being a non-profit organization, we rely mostly on sponsorships to help us provi
 
 <hr/>
 
-** Other opportunities not currently needed, but may seek on occasion **
+**Other opportunities not currently needed, but may seek on occasion**
 
 ### OWASP Meeting Lunch Sponsorship ### 
 
