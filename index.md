@@ -11,7 +11,7 @@ region: United States
 
 Welcome
 -------
-Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See below for full list of all chapter leadership board.
+Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See below for [full list of all chapter leadership board](#chapter-leadership).
 
 <hr/>
 
