@@ -3,7 +3,7 @@ title: Study Groups
 layout:  null
 tab: true
 order: 1
-tags: studygroups-tag
+tags: austin
 ---
 
 ## Our Study Groups ##
