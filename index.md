@@ -30,7 +30,7 @@ The chapter leadership board is as follows:
 
 <table cellpadding="5" cellspacing="0" border="1">
   <tr><th>Chapter Leadership Board Member Role</th>
-      <th width="30%">Responsibilities</th>
+      <th width="50%">Responsibilities</th>
       <th>Person(s)</th></tr>
   <tr><td>Chapter Leader</td>
       <td>The central point of contact for the Chapter and responsible to the OWASP Board. Serves as Chapter Leader and Chapter board chair.</td>
@@ -59,6 +59,7 @@ The previous Chapter Leader is designated as secondary approver, who also will a
       <td>Kyle Smith - Primary<br/>Tiana Chandler - Secondary</td></tr>
     <tr><td>Advisory Board Members</td>
       <td>Made up of previous Chapter leaders who provide mentoring, coaching, and assistance to the board and contribute to the Chapter’s success.</td>
-      <td>Tiana Chandler<br/>Kyle Smith<br/>David Hughes<br/>James Wickett<br/>Josh Sokol</td></tr></table>
+      <td>Tiana Chandler<br/>Kyle Smith<br/>David Hughes<br/>James Wickett<br/>Josh Sokol</td></tr>
+</table>
   
 <hr/>
