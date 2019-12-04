@@ -7,10 +7,10 @@ tags: example-tag
 region: United States
 
 ---
-[Upcoming Events](#upcoming-events) | [Chapter Leadership](#chapter-leadership)
+[Upcoming Events](#upcoming-events)  |  [Chapter Leadership](#chapter-leadership)
 
-Welcome!
---------
+Welcome
+-------
 Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See below for full list of all chapter leadership board.
 
 <hr/>
@@ -30,6 +30,7 @@ Upcoming Events
       </td></tr>
 </table>
 
+[back to top](#owasp-austin)
 <hr>
 
 Chapter Leadership
@@ -70,4 +71,5 @@ The previous Chapter Leader is designated as secondary approver, who also will a
       <td>Tiana Chandler<br/>Kyle Smith<br/>David Hughes<br/>James Wickett<br/>Josh Sokol</td></tr>
 </table>
   
+[back to top](#owasp-austin)
 <hr/>
