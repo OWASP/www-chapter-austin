@@ -17,7 +17,7 @@ Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See be
 Upcoming Events
 ---------------
 
-<table cellpadding="5" cellspacing="0">
+<table cellpadding="5" cellspacing="0" border="1">
   <tr><th width="20%">Event</th><th>Details</th></tr>
   <tr><td><strong>OWASP Austin Chapter Meeting<br>January 28, 2020</strong></td>
       <td>
