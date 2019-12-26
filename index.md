@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Austin
 tags: austin
 
-region: United States
+region: North America
 
 ---
 [Upcoming Events](#upcoming-events)&nbsp;&nbsp;&nbsp;   [Chapter Leadership](#chapter-leadership)
