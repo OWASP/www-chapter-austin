@@ -45,7 +45,7 @@ RSVP: <a href="https://aus-sec-happy-hour-2020-01.eventbrite.com" target="_blank
 
 **When:** Tuesday, January 28th @ 11:45 AM - 1:00 PM
 
-**Where:** National Instruments, 11500 N. Mopac.Building C (Directions: <a href="https://www.google.com/maps/place/National+Instruments/@30.4077179,-97.7268262,17z/data=!3m1!4b1!4m2!3m1!1s0x865b34c37397e56b:0x765d5bc26a58ce96" target="_blank")>GoogleMaps</a>, <a href="http://www.mapquest.com/maps?address=11500+N+Mo+Pac+Expy&amp;city=Austin&amp;state=TX&amp;zipcode=78759&amp;redirect=true"  target="_blank">MapQuest</a>)
+**Where:** National Instruments, 11500 N. Mopac.Building C (Directions: <a href="https://www.google.com/maps/place/National+Instruments/@30.4077179,-97.7268262,17z/data=!3m1!4b1!4m2!3m1!1s0x865b34c37397e56b:0x765d5bc26a58ce96" target="_blank">GoogleMaps</a>, <a href="http://www.mapquest.com/maps?address=11500+N+Mo+Pac+Expy&amp;city=Austin&amp;state=TX&amp;zipcode=78759&amp;redirect=true" target="_blank">MapQuest</a>)
 
 **Title:** OWASP Austin CryptoParty!
 
