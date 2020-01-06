@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Austin Chapter Leadership
+title: OWASP Austin - Chapter Leadership
 tags: austin
 
 region: North America
