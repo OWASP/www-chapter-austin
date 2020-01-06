@@ -9,6 +9,11 @@ region: North America
 ---
 
 [Home Page](index.md)
+&nbsp;&nbsp;&nbsp;<strong>Chapter Leadership</strong>
+&nbsp;&nbsp;&nbsp;[Study Groups](studygroups.md)
+&nbsp;&nbsp;&nbsp;[Past Events](pastevents.md)
+&nbsp;&nbsp;&nbsp;[Sponsorship](sponsorship.md)
+&nbsp;&nbsp;&nbsp;[Event Archive](pasteventsarchive.md)
 
 Chapter Leadership
 ------------------
