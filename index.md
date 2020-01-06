@@ -7,7 +7,7 @@ tags: austin
 region: North America
 
 ---
-Home
+<strong>Home Page</strong>
 &nbsp;&nbsp;&nbsp;[Chapter Leadership](leadership.md)
 &nbsp;&nbsp;&nbsp;[Study Groups](studygroups.md)
 &nbsp;&nbsp;&nbsp;[Past Events](pastevents.md)
