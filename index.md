@@ -7,11 +7,11 @@ tags: austin
 region: North America
 
 ---
-[Upcoming Events](#upcoming-events)&nbsp;&nbsp;&nbsp;   [Chapter Leadership](#chapter-leadership)
+[Upcoming Events](#upcoming-events)&nbsp;&nbsp;&nbsp;   [Chapter Leadership](leadership.md)
 
 Welcome
 -------
-Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See below for [full list of all chapter leadership board](#chapter-leadership).
+Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See below for [full list of all chapter leadership board](leadership.md).
 
 <hr/>
 
