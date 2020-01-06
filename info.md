@@ -1,4 +1,4 @@
-### Austin Information
+### Other Information
 * [Join Austin Mailing List](https://groups.google.com/a/owasp.org/forum/#!forum/austin-chapter)
 * [Become a Member](https://www.owasp.org/index.php/Membership)
 * [Local Chapter Support](https://www.owasp.org/index.php/Local_Chapter_Supporter)
