@@ -38,7 +38,7 @@ Upcoming Events
 RSVP: <a href="https://aus-sec-happy-hour-2020-01.eventbrite.com" target="_blank">https://aus-sec-happy-hour-2020-01.eventbrite.com</a>
 
 
-[back to top](#owasp-austin)
+[back to top](#welcome)
 <hr>
 
 ### OWASP Austin Chapter Meeting<br>January 28, 2020 ###
@@ -53,7 +53,7 @@ RSVP: <a href="https://aus-sec-happy-hour-2020-01.eventbrite.com" target="_blank
 
 **Speaker:** Josh Sokol
 
-[back to top](#owasp-austin)
+[back to top](#welcome)
 <hr>
 
 ### Austin Security Professionals Happy Hour sponsored by Sonatype and NowSecure, February 13, 2020 ###
@@ -70,7 +70,7 @@ RSVP: <a href="https://aus-sec-happy-hour-2020-01.eventbrite.com" target="_blank
 
 <blockquote><strong>NowSecure:</strong> <i>Everyone hates False Positives! Get the speed AND coverage you need with NowSecure automated mobile app security testing from the creators of FRIDA and RADARE. Speak with our security experts about OWASP Mobile Security Program, see our tools and get a free mobile app scan. Learn more at <a href="https://www.nowsecure.com" target="_blank">www.nowsecure.com</a>.</i></blockquote>
 
-[back to top](#owasp-austin)
+[back to top](#welcome)
 <hr>
 
 Chapter Leadership
@@ -111,5 +111,5 @@ The previous Chapter Leader is designated as secondary approver, who also will a
       <td>Tiana Chandler<br/>Kyle Smith<br/>David Hughes<br/>James Wickett<br/>Josh Sokol</td></tr>
 </table>
   
-[back to top](#owasp-austin)
+[back to top](#welcome)
 <hr/>
