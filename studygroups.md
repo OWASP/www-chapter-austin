@@ -29,14 +29,14 @@ region: North America
 
 **Windows PowerShell**
 
-The current study group, which started on November 1, 2018, is covering ''Windows PowerShell'', using the book that is available on Amazon - [https://www.amazon.com/Learn-Windows-PowerShell-Month-Lunches/dp/1617294160 Learn WIndows PowerShell in a Month of Lunches, Third Edition]
+The Austin OWASP Study Group is currently working through various Capture the Flag(CTF) Challenges on HacktheBox.eu.  It is open to all who are interested and ready to learn a lot about pen testing and CTFs!.
 
   
 > **When:**  The study group meets weekly on Thursdays from 12:00 to 1:00 PM
 
 > **Where:**  National Instruments, Building A, Room 217 (Directions: [GoogleMaps](https://www.google.com/maps/place/National+Instruments/@30.4077179,-97.7268262,17z/data#!3m1!4b1!4m2!3m1!1s0x865b34c37397e56b:0x765d5bc26a58ce96), [MapQuest](http://www.mapquest.com/maps?address#11500+N+Mo+Pac+Expy&city#Austin&state#TX&zipcode#78759&redirect#true)
 
-> **How to follow:** Status of meetings and discussion of topic will be communicated through the [Slack AustinOWASP](https://austinowasp.slack.com).  The topic's channel is <pre>#powershell</pre>
+> **How to follow:** Status of meetings and discussion of topic will be communicated through the [Slack AustinOWASP](https://austinowasp.slack.com).  No specific channel for this topic yet, so just refer to the following general channel <pre>#studygroup</pre>
 
 > **Additional Information:** If any questions related to the study group, please contact the Education Coordinator, Matt Pardo, matt (dot) pardo (at) owasp (dot) org.
 
@@ -45,6 +45,7 @@ The current study group, which started on November 1, 2018, is covering ''Window
 
 ### Previous Study Group Topics ###
 
+* "Windows PowerShell" study using the book <i>Learn Windows PowerShell in a Month of Lunches</i> (3rd Edition) by Donald W. Jones and Jeffrey Hicks (Slack #powershell)
 * "Certified Cloud Security Professional (CCSP)" study using the CSP Certified Cloud Security Professional All-in-One Exam Guide (1st Edition) book (Slack #cloud_security_study)
 * "Certified Ethical Hacker" book
 * "Visible Ops Security" book by Gene Kim
