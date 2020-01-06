@@ -7,11 +7,11 @@ tags: austin
 region: North America
 
 ---
-[Upcoming Events](#upcoming-events)&nbsp;&nbsp;&nbsp;[Chapter Leadership](leadership.md)
+[Chapter Leadership](leadership.md)
 &nbsp;&nbsp;&nbsp;[Study Groups](studygroups.md)
 &nbsp;&nbsp;&nbsp;[Past Events](pastevents.md)
-&nbsp;&nbsp;&nbsp;[Sponsorship Opportunites](sponsorship.md)
-&nbsp;&nbsp;&nbsp;[Past Events Archive](pasteventsarchive.md)
+&nbsp;&nbsp;&nbsp;[Sponsorship](sponsorship.md)
+&nbsp;&nbsp;&nbsp;[Event Archive](pasteventsarchive.md)
 
 Welcome
 -------
