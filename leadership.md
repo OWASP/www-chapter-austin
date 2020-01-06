@@ -8,6 +8,8 @@ region: North America
 
 ---
 
+[Home Page](index.md)
+
 Chapter Leadership
 ------------------
 The chapter leadership board is as follows:
