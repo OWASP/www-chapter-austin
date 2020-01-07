@@ -21,7 +21,7 @@ tags: austin
 
 **Windows PowerShell**
 
-The current study group, which started on November 1, 2018, is covering ''Windows PowerShell'', using the book that is available on Amazon - [https://www.amazon.com/Learn-Windows-PowerShell-Month-Lunches/dp/1617294160 Learn WIndows PowerShell in a Month of Lunches, Third Edition]
+The current study group, which started on November 1, 2018, is covering ''Windows PowerShell'', using the book that is available on Amazon - [https://www.amazon.com/Learn-Windows-PowerShell-Month-Lunches/dp/1617294160 Learn Windows PowerShell in a Month of Lunches, Third Edition]
 
   
 > **When:**  The study group meets weekly on Thursdays from 12:00 to 1:00 PM
