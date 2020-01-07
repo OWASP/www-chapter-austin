@@ -20,14 +20,26 @@ Upcoming Events
 
 <table cellpadding="5" cellspacing="0" border="1">
   <tr><th width="20%">Event</th><th>Details</th></tr>
-  <tr><td><strong>OWASP Austin Chapter Meeting<br>January 28, 2020</strong></td>
+  <tr>
+    <td><strong>OWASP Austin Chapter Meeting<br>January 28, 2020</strong>
+    </td>
       <td>
-<strong>When:</strong> Tuesday, January 28th @ 11:45 AM - 1:00 PM <br/>
-<strong>Where:</strong> National Instruments, 11500 N. Mopac.Building C <br/>
-<strong>Title:</strong> OWASP Austin CryptoParty! <br/>
-<br>
-<strong>SAVE THE DATE!  More details coming soon.</strong>
-      </td></tr>
+        <strong>When:</strong> Tuesday, January 28th @ 11:45 AM - 1:00 PM <br/>
+        <strong>Where:</strong> National Instruments, 11500 N. Mopac.Building C <br/>
+        <strong>Title:</strong> OWASP Austin CryptoParty! <br/>
+        <br/>
+        <strong>SAVE THE DATE!  More details coming soon.</strong>
+        OWASP Austin CryptoParty!
+        <br/>
+        In 1996, John Perry Barlow, co-founder of the Electronic Frontier Foundation (EFF) wrote 'A Declaration of the Independence of Cyberspace' where he stated "We are creating a world that all may enter without privelege or prejudice accorded by race, economic power, military force, or station of birth. We are creating a world where anyone, anywhere may express his or her beliefs, no matter how singular, without fear of being coerced into silence or conformity." The Internet of today is an amazing place of knowledge and opportunity, but it unfortunately falls short of Mr. Barlow's original vision.
+        <br/>
+        In the 21st century we face problems of climate change, energy crisis, state censorship, mass surveillance, and on-going wars. We must be free to to communicate and associate without fear. To realize our right to privacy and anonymity online, we need peer-reviewed, crowd-sourced solutions. CryptoParties provide the opportunity to meet up and learn how to use these solutions to give us all the means with which to assert our right to privacy and anonymity online. Topics include technologies like TOR, full-disk encryption, GPG, and many more. CryptoParties are free to attend, public, and not commercially aligned.
+        <br/>
+        The Austin Chapter of the OWASP Foundation invites you to join us for our CryptoParty where you will learn the tools and techniques to keep you safe from prying eyes.
+        <br/>
+        Please contact josh.sokol@owasp.org to be added to the list!
+    </td>
+  </tr>
 </table>
 
 [back to top](#owasp-austin)
@@ -68,7 +80,7 @@ The previous Chapter Leader is designated as secondary approver, who also will a
       <td>Kyle Smith - Primary<br/>Tiana Chandler - Secondary</td></tr>
     <tr><td>Advisory Board Members</td>
       <td>Made up of previous Chapter leaders who provide mentoring, coaching, and assistance to the board and contribute to the Chapter’s success.</td>
-      <td>Tiana Chandler<br/>Kyle Smith<br/>David Hughes<br/>James Wickett<br/>Josh Sokol</td></tr>
+      <td>Tiana Chandler<br/>David Hughes<br/>James Wickett<br/>Josh Sokol</td></tr>
 </table>
   
 [back to top](#owasp-austin)
