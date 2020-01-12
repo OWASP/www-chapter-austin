@@ -62,7 +62,7 @@ RSVP: <a href="https://aus-sec-happy-hour-2020-01.eventbrite.com" target="_blank
         The Austin Chapter of the OWASP Foundation invites you to join us for our CryptoParty where you will learn the tools and techniques to keep you safe from prying eyes.
         <br/>
         Please contact josh.sokol@owasp.org to be added to the list!
-<br/
+<br/>
 **Speaker:** Josh Sokol and others
 </blockquote>
         
