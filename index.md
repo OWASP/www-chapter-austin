@@ -63,9 +63,15 @@ RSVP: <a href="https://aus-sec-happy-hour-2020-01.eventbrite.com" target="_blank
         <br/>
         Please contact josh.sokol@owasp.org to be added to the list!
 <br/>
-**Speaker:** Josh Sokol and others
 </blockquote>
-        
+
+**Speaker:** Josh Sokol and others
+
+RSVP:
+</blockquote>
+owasp-austin-2020-january.eventbrite.com
+RSVP: <a href="https://owasp-austin-2020-january.eventbrite.com" target="_blank">https://owasp-austin-2020-january.eventbrite.com</a>
+
 [back to top](#welcome)
 <hr>
 
