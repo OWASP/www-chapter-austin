@@ -54,9 +54,16 @@ RSVP: <a href="https://aus-sec-happy-hour-2020-01.eventbrite.com" target="_blank
 
 **Title:** OWASP Austin CryptoParty!
 
-<blockquote>More details coming soon.</blockquote>
+<blockquote>
+        In 1996, John Perry Barlow, co-founder of the Electronic Frontier Foundation (EFF) wrote 'A Declaration of the Independence of Cyberspace' where he stated "We are creating a world that all may enter without privelege or prejudice accorded by race, economic power, military force, or station of birth. We are creating a world where anyone, anywhere may express his or her beliefs, no matter how singular, without fear of being coerced into silence or conformity." The Internet of today is an amazing place of knowledge and opportunity, but it unfortunately falls short of Mr. Barlow's original vision.
+        <br/>
+        In the 21st century we face problems of climate change, energy crisis, state censorship, mass surveillance, and on-going wars. We must be free to to communicate and associate without fear. To realize our right to privacy and anonymity online, we need peer-reviewed, crowd-sourced solutions. CryptoParties provide the opportunity to meet up and learn how to use these solutions to give us all the means with which to assert our right to privacy and anonymity online. Topics include technologies like TOR, full-disk encryption, GPG, and many more. CryptoParties are free to attend, public, and not commercially aligned.
+        <br/>
+        The Austin Chapter of the OWASP Foundation invites you to join us for our CryptoParty where you will learn the tools and techniques to keep you safe from prying eyes.
+        <br/>
+        Please contact josh.sokol@owasp.org to be added to the list!
 
-**Speaker:** Josh Sokol
+**Speaker:** Josh Sokol and others
 
 [back to top](#welcome)
 <hr>
