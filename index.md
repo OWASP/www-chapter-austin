@@ -57,11 +57,13 @@ RSVP: <a href="https://owasp-austin-2020-january.eventbrite.com" target="_blank"
 
 **What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP and Capital of Texas ISSA Chapters and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation. 
 
-**Speaker:** Sonatype and NowSecure
+**Sponsors:** Sonatype and NowSecure
 
 <blockquote><strong>Sonatype:</strong> <i><a href="https://www.sonatype.com" target="_blank">Sonatype</a> is the leader in software supply chain automation technology with more than 300 employees, over 1,000 enterprise customers, and is trusted by more than 10 million software developers.  Sonatype’s Nexus platform enables DevOps teams and developers to automatically integrate security at every stage of the modern development pipeline by combining in-depth component intelligence with real-time remediation guidance.</i></blockquote> 
 
 <blockquote><strong>NowSecure:</strong> <i>Everyone hates False Positives! Get the speed AND coverage you need with NowSecure automated mobile app security testing from the creators of FRIDA and RADARE. Speak with our security experts about OWASP Mobile Security Program, see our tools and get a free mobile app scan. Learn more at <a href="https://www.nowsecure.com" target="_blank">www.nowsecure.com</a>.</i></blockquote>
+
+RSVP: <a href="https://aus-sec-happy-hour-2020-02.eventbrite.com" target="_blank">https://aus-sec-happy-hour-2020-02.eventbrite.com</a>
 
 [back to top](#welcome)
 <hr>
