@@ -27,21 +27,11 @@ region: North America
 
 **When:** Thursday, January 9th, 5:30 pm - 7:30 pm
 
-**Where:** Brass Tap @ Domain Austin, 10910 Domain Dr, Austin, TX 78758 (across from the iPic Theaters). We meet in the separate room inside the bar, to the left as you enter. Parking: Park in either parking garages to the left or right of iPic (<a href="https://www.simon.com/mall/the-domain/map/#/location/the-brass-tap" target="_blank">map of Domain</a>).
+**Where:** Brass Tap @ Domain Austin, 10910 Domain Dr, Austin, TX 78758
 
 **Sponsor:** Pure Storage
 
-<blockquote>Here at Pure Storage, we know security isn’t a single-point solution that you buy and implement – it’s an ongoing effort that comprises people, processes, policies and technologies that work together to secure the enterprise. We help make that easier for you by integrating two fundamental features into our systems. First, we secure data at rest with Federal Information Processing Standards (FIPS) 140-2-certified Advanced Encryption Standard (AES) 256. The management of these encryption keys is completely self-contained and requires no external manipulation. Even more importantly, the encryption process is in-line with the data processing, and has no impact to performance. Second, we monitor access and functions based on specific account privileges (RBAC), restrict external connections to the system and require complex passwords. All of this has been certified using the most stringent government guidelines, and resulted in our National Information Assurance Partnership (NIAP) Common Criteria Certification.</blockquote>
-
-<blockquote>In addition to our built-in software-based security features, we also offer a hardware-based security mechanism, our Rapid Data Lock (RDL) and At-Rest Encryption capabilities. This accessory makes it possible to instantly disable an array and crypto-lock the data, greatly reducing risk of loss, capture or compromise, as well as potentially simplifying logistics of shipment and deployment.</blockquote>
-
-<blockquote>Pure Storage identifies and addresses critical cyber security gaps and makes specific recommendations to address them – quickly and efficiently.</blockquote>
-
-<strong>Pure Storage will have a drawing for a $100 gift card ... must be present to win.
-<br/>
-RSVP: <a href="https://aus-sec-happy-hour-2020-01.eventbrite.com" target="_blank">https://aus-sec-happy-hour-2020-01.eventbrite.com</a>
-
-[back to top](#welcome)
+[Back to Top](#past-events)
 <hr>
 
 ### 2019 ###
