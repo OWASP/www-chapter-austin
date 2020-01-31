@@ -42,7 +42,7 @@ region: North America
 
 **Speakers:** Josh Sokol, Sam Gamare, Pradeep Nambiar 
 
-[https://zoom.us/rec/play/68F7ce6rqDo3E9TBsASDCqV4W9S_L_6sgCQc-6ILmh6wV3dQZ1ulNbYWZbNYrocGwWU9XPOgLw72aw8T?continueMode=true Zoom Video]
+[Zoom Video](https://zoom.us/rec/play/68F7ce6rqDo3E9TBsASDCqV4W9S_L_6sgCQc-6ILmh6wV3dQZ1ulNbYWZbNYrocGwWU9XPOgLw72aw8T?continueMode=true Zoom Video)
 
 [Back to Top](#past-events)
 <hr>
