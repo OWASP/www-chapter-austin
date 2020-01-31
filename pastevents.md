@@ -42,7 +42,7 @@ region: North America
 
 **Speakers:** Josh Sokol, Sam Gamare, Pradeep Nambiar 
 
-[Zoom Video](https://zoom.us/rec/play/68F7ce6rqDo3E9TBsASDCqV4W9S_L_6sgCQc-6ILmh6wV3dQZ1ulNbYWZbNYrocGwWU9XPOgLw72aw8T?continueMode=true Zoom Video)
+[Zoom Video](https://zoom.us/rec/play/68F7ce6rqDo3E9TBsASDCqV4W9S_L_6sgCQc-6ILmh6wV3dQZ1ulNbYWZbNYrocGwWU9XPOgLw72aw8T?continueMode=true)
 
 [Back to Top](#past-events)
 <hr>
@@ -69,9 +69,9 @@ region: North America
 
 We had a great time celebrating our 10th year anniversary of LASCON. Many thanks to those who attended!
 
-[https://lasconx2019.sched.com Schedule]
+[Schedule](https://lasconx2019.sched.com)
 
-[https://lascon.org/past-lascon/ Videos of presentations (to be made available soon)]
+[Videos of presentations](https://lascon.org/lascon2019/)
 
 [Back to Top](#past-events)
 
@@ -89,7 +89,7 @@ We had a great time celebrating our 10th year anniversary of LASCON. Many thanks
 
 <blockquote>Pak Foley is a Security Engineer at Procore Technologies. He has specialized in Identity and Access Management with a focus on architecting enterprise OAuth and SAML solutions for authentication and authorization throughout distributed systems. With a passion for OAuth in particular, he has spent much of his time seeking out and mitigating vulnerabilities from misimplemented OAuth solutions and contributed to the open source Rails OAuth provider, Doorkeeper. His passion for securing web applications has prompted his recent move from IAM to security.</blockquote>
 
-[https://zoom.us/recording/play/8IU4z0WhqnXu3BiTolHYV5_1Fw2DY60BRFtKuhmG1_pl4jEi6GZAgr-f6GBSViuF?autoplay=true&startTime=1569343956000 Zoom Video]
+[Zoom Video](https://zoom.us/recording/play/8IU4z0WhqnXu3BiTolHYV5_1Fw2DY60BRFtKuhmG1_pl4jEi6GZAgr-f6GBSViuF?autoplay=true&startTime=1569343956000)
 
 [Back to Top](#past-events)
 
@@ -119,7 +119,7 @@ We had a great time celebrating our 10th year anniversary of LASCON. Many thanks
 
 <blockquote>Alex Polimeni runs the IT Compliance program at National Instruments. He gave his first security talk at BSides Austin in 2019 and is excited about sharing his experience with the OWASP crowd. He is a former boxer and once got stuck in a cave.</blockquote> 
 
-[https://zoom.us/recording/play/QvGcb_Tt3LGxreBX7RBl8qKM82Tp7jR0cw8NJ4mrxBkHnHSCuUrfDDSaYdgTY8iw Zoom Video]
+[Zoom Video](https://zoom.us/recording/play/QvGcb_Tt3LGxreBX7RBl8qKM82Tp7jR0cw8NJ4mrxBkHnHSCuUrfDDSaYdgTY8iw)
 
 [Back to Top](#past-events)
 
@@ -137,7 +137,7 @@ We had a great time celebrating our 10th year anniversary of LASCON. Many thanks
 
 <blockquote>Shirish Patil has over 20 years of experience leading and implementing enterprise data management and architecture solutions for public and private sector organizations. His focus has been on enterprise wide information and data management strategy, data architecture, data governance, data quality, data modeling, database performance and business intelligence capabilities. Shirish is based in Austin, Texas with vast experience in IT and management consulting, has been leveraging data, technologies and common sense to create strategies and solutions to achieve organizational goals for clients. . Shirish is a consulting Lead Enterprise Data Architect in Advanced Digital Technology and Analytics group at Grant Thornton in Austin TX on defining their Enterprise Information and Data Management Strategy for short term and long term. As a Lead Enterprise Data Architect at Sitek Inc., an IT consulting and Services firm, Shirish has designed and architected several data-centric solutions for Texas Health and Human Services Commission (HHSC) and Duke Energy. The solutions were wide ranged starting from basic database designs to laying the foundation for application scalability to enterprise wide data initiatives and strategy for one of the largest Integrated Eligibility application in United States. Previous to engaging with Sitek Inc., Shirish has consulted for Verizon Wireless and Deloitte. Before his time with these organizations, Shirish has worked for European analytics and regulatory reporting firm FRSGlobal and major US lending company Mortgage Cadence through their partner firms. Shirish developed and managed regulatory reports, database platform migration and enhanced performance of the database design for these organizations and was recognized for the leadership and ability to execute with innovative approaches to database management. Shirish has presented at many international conferences as a keynote speaker on data management and data security topics. He currently serves on Editorial Board, Technical Program Committee and Reviewer for several international journals and conferences on Databases and Data Mining, Database Management Systems, Computer Science, Cyber Security, Information Technology and Software Engineering.</blockquote>
 
-[https://zoom.us/recording/play/MzcZltIStcziOVyN4rql4uDvSV1dVECdbI_crQU0qtCRgA5tAbSzBWIeJYGFgFTC?autoplay=true Zoom Video]
+[Zoom Video](https://zoom.us/recording/play/MzcZltIStcziOVyN4rql4uDvSV1dVECdbI_crQU0qtCRgA5tAbSzBWIeJYGFgFTC?autoplay=true)
 
 [Back to Top](#past-events)
 
@@ -168,7 +168,7 @@ We had a great time celebrating our 10th year anniversary of LASCON. Many thanks
 <blockquote>In 2005, he founded Access Smart LLC to provide logical access control solutions to businesses. His premiere product, Power LogOn, is an Identity Management solution that combines Multi-Factor Authentication and enterprise password management. Power LogOn is used by corporations, hospitals, educational institutions, police departments, government agencies, and more around the world.</blockquote>
 <blockquote>Dovell is a frequent speaker and sought-after consultant on the topic of passwords, cybersecurity, and building secure, affordable and appropriate computer authentication infrastructures. His recent book is Making Passwords Secure: How to Fix the Weakest Link in Cybersecurity and his new social media column is the Guardians of the Gateway..</blockquote>
 
-[https://zoom.us/recording/play/AjW2JxR1CqCLDTC4yqCGEgPgVhVhtGcqpATOrYiiD3JsLus96FGjwr5iV7yrQjGx Zoom Video]
+[Zoom Video](https://zoom.us/recording/play/AjW2JxR1CqCLDTC4yqCGEgPgVhVhtGcqpATOrYiiD3JsLus96FGjwr5iV7yrQjGx)
 
 [Back to Top](#past-events)
 
@@ -186,7 +186,7 @@ We had a great time celebrating our 10th year anniversary of LASCON. Many thanks
 
 <blockquote>Security professional with 8 years of experience in the field, 12 IT/Security certifications, 25 years old. Professional career began as a DoD intern for the 24th Air Force at age 17, due to success with the Cyber Patriot program. Recognized by the state of Texas, and outspoken volunteer for public education cybersecurity initiatives. Specialty in incident handling, security architecture, and forensic analysis.</blockquote>
 
-[https://zoom.us/recording/share/NOjeiXhu554ntks0GuxZEUciEOQaJ1y07l8jq9hCGKOwIumekTziMw Zoom Video]
+[Zoom Video](https://zoom.us/recording/share/NOjeiXhu554ntks0GuxZEUciEOQaJ1y07l8jq9hCGKOwIumekTziMw)
 
 [Back to Top](#past-events)
 
@@ -220,7 +220,7 @@ We had a great time celebrating our 10th year anniversary of LASCON. Many thanks
 
 <blockquote>Diana is a strategist, architect and communicator on digital identity, governance and security, with a passion for organizational digital transformation. She has designed solutions for and driven sales at Fortune 500 companies around the world, and has an emphasis on healthcare and financial verticals.  In her role as a Principal Solution Architect at Saviynt she works as a technical evangelist and strategist with partners and customers to help them derive business value from technical capabilities.  Her past twenty years have been spent in product and services organizations in the IAM space.  Outside of work she loves travel, gastronomy, sci-fi, and most other activities associated with being a geek.</blockquote>
 
-[https://zoom.us/recording/share/UOMi-M9PQi4AG3qS30RrmqX-aIiJ1ohJxYW19bm9tgOwIumekTziMw?startTime=1556643332000 Zoom Video] 
+[Zoom Video](https://zoom.us/recording/share/UOMi-M9PQi4AG3qS30RrmqX-aIiJ1ohJxYW19bm9tgOwIumekTziMw?startTime=1556643332000)
 
 [Back to Top](#past-events)
 
@@ -294,7 +294,7 @@ We had a great time celebrating our 10th year anniversary of LASCON. Many thanks
 
 **What:** The Lonestar Application Security Conference (LASCON) is an OWASP conference held annually in Austin, TX. It is a gathering of 400+ web app developers, security engineers, mobile developers and information security professionals. LASCON is held in Texas where more Fortune 500 companies call home than any other state and it is held in Austin which is a hub for startups in the state of Texas. At LASCON, leaders at these companies along with security architects and developers gather to share cutting-edge ideas, initiatives, and technology advancements.
 
-[https://lascon.org/lascon2018/ Presentations and other information]
+[Presentations and other information](https://lascon.org/lascon2018/)
 
 [Back to Top](#past-events)
 
@@ -318,7 +318,7 @@ This presentation will outline a threat modeling framework that abstracts tradit
 
 As a network engineer, Pranoy has primarily spent his time developing and conducting planned DDoS attacks for companies testing their defenses. This was his first position in the world of cybersecurity, and it eventually lead to his current role in application security.</blockquote>
 
-[https://vimeo.com/293198117 Vimeo]
+[Vimeo](https://vimeo.com/293198117)
 
 [Back to Top](#past-events)
 
@@ -346,7 +346,7 @@ As a network engineer, Pranoy has primarily spent his time developing and conduc
 
 <blockquote>Brett Stewart is Co-Founder and CTO of truFable.  He has been a leader in the startup scene, previously serving as the lead software architect and advisor to CrowdFunder.com.  Brett has consulted for some of the top brands in the tech and media industry and has spoken at several DevOps and security events.  He works with organizations such as WeWork and Bunker Labs, assisting Veterans looking to take their tech startups to the next level.</blockquote>
 
-[https://vimeo.com/293198477 Vimeo] 
+[Vimeo](https://vimeo.com/293198477)
 
 [Back to Top](#past-events)
 
@@ -364,7 +364,7 @@ As a network engineer, Pranoy has primarily spent his time developing and conduc
 
 <blockquote>Marcus J. Carey is the founder and CEO of Threatcare. He is a hacker who helps organizations build, measure, and maintain cybersecurity programs. Marcus started his technology voyage in U.S. Navy Cryptology and working at the National Security Agency (NSA).</blockquote>
 
-[https://vimeo.com/282840714 Vimeo] 
+[Vimeo](https://vimeo.com/282840714)
 
 [Back to Top](#past-events)
 
@@ -390,7 +390,7 @@ As a network engineer, Pranoy has primarily spent his time developing and conduc
 
 **Speakers:**  Ernest Mueller and James Wickett 
 
-[https://vimeo.com/277170461 Vimeo] 
+[Vimeo](https://vimeo.com/277170461)
 
 [Back to Top](#past-events)
 
@@ -425,7 +425,7 @@ https://www.linkedin.com/in/taylormccaslin <br />
 https://twitter.com/digital_SaaS
 </blockquote>
 
-[https://vimeo.com/272435875 Vimeo]
+[Vimeo](https://vimeo.com/272435875)
 
 [Back to Top](#past-events)
 
@@ -451,7 +451,7 @@ https://twitter.com/digital_SaaS
 
 **Speaker:**  Bryan McAninch
 
-[https://vimeo.com/266416831 Vimeo] 
+[Vimeo](https://vimeo.com/266416831)
 
 [Back to Top](#past-events)
 
@@ -475,7 +475,7 @@ https://twitter.com/digital_SaaS
 
 **Speaker:**  Arthur Kendrick
 
-[https://vimeo.com/channels/owaspaustin/262482594 Vimeo] 
+[Vimeo](https://vimeo.com/channels/owaspaustin/262482594)
 
 [Back to Top](#past-events)
 
