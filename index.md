@@ -23,32 +23,6 @@ Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See be
 Upcoming Events
 ---------------
 
-
-### OWASP Austin Chapter Meeting<br>January 28, 2020 ###
-
-**When:** Tuesday, January 28th @ 11:45 AM - 1:00 PM
-
-**Where:** National Instruments, 11500 N. Mopac.Building C (Directions: <a href="https://www.google.com/maps/place/National+Instruments/@30.4077179,-97.7268262,17z/data=!3m1!4b1!4m2!3m1!1s0x865b34c37397e56b:0x765d5bc26a58ce96" target="_blank">GoogleMaps</a>, <a href="http://www.mapquest.com/maps?address=11500+N+Mo+Pac+Expy&amp;city=Austin&amp;state=TX&amp;zipcode=78759&amp;redirect=true" target="_blank">MapQuest</a>)
-
-**Title:** OWASP Austin CryptoParty!
-
-<blockquote>
-        In 1996, John Perry Barlow, co-founder of the Electronic Frontier Foundation (EFF) wrote 'A Declaration of the Independence of Cyberspace' where he stated "We are creating a world that all may enter without privelege or prejudice accorded by race, economic power, military force, or station of birth. We are creating a world where anyone, anywhere may express his or her beliefs, no matter how singular, without fear of being coerced into silence or conformity." The Internet of today is an amazing place of knowledge and opportunity, but it unfortunately falls short of Mr. Barlow's original vision.
-        <br/>
-        In the 21st century we face problems of climate change, energy crisis, state censorship, mass surveillance, and on-going wars. We must be free to to communicate and associate without fear. To realize our right to privacy and anonymity online, we need peer-reviewed, crowd-sourced solutions. CryptoParties provide the opportunity to meet up and learn how to use these solutions to give us all the means with which to assert our right to privacy and anonymity online. Topics include technologies like TOR, full-disk encryption, GPG, and many more. CryptoParties are free to attend, public, and not commercially aligned.
-        <br/>
-        The Austin Chapter of the OWASP Foundation invites you to join us for our CryptoParty where you will learn the tools and techniques to keep you safe from prying eyes.
-        <br/>
-        Please contact josh.sokol@owasp.org to be added to the list!
-<br/>
-</blockquote>
-**Speaker:** Josh Sokol and others
-<br/>
-RSVP: <a href="https://owasp-austin-2020-january.eventbrite.com" target="_blank">https://owasp-austin-2020-january.eventbrite.com</a>
-
-[back to top](#welcome)
-<hr>
-
 ### Austin Security Professionals Happy Hour sponsored by Sonatype and NowSecure, February 13, 2020 ###
 
 **When:** Thursday, February 13th, 5:30 pm - 7:30 pm
@@ -64,6 +38,25 @@ RSVP: <a href="https://owasp-austin-2020-january.eventbrite.com" target="_blank"
 <blockquote><strong>NowSecure:</strong> <i>Everyone hates False Positives! Get the speed AND coverage you need with NowSecure automated mobile app security testing from the creators of FRIDA and RADARE. Speak with our security experts about OWASP Mobile Security Program, see our tools and get a free mobile app scan. Learn more at <a href="https://www.nowsecure.com" target="_blank">www.nowsecure.com</a>.</i></blockquote>
 
 RSVP: <a href="https://aus-sec-happy-hour-2020-02.eventbrite.com" target="_blank">https://aus-sec-happy-hour-2020-02.eventbrite.com</a>
+
+[back to top](#welcome)
+<hr>
+
+### OWASP Austin Chapter Meeting<br>February 25, 2020 ###
+
+**When:** Tuesday, February 25th @ 11:45 AM - 1:00 PM
+
+**Where:** National Instruments, 11500 N. Mopac.Building C (Directions: <a href="https://www.google.com/maps/place/National+Instruments/@30.4077179,-97.7268262,17z/data=!3m1!4b1!4m2!3m1!1s0x865b34c37397e56b:0x765d5bc26a58ce96" target="_blank">GoogleMaps</a>, <a href="http://www.mapquest.com/maps?address=11500+N+Mo+Pac+Expy&amp;city=Austin&amp;state=TX&amp;zipcode=78759&amp;redirect=true" target="_blank">MapQuest</a>)
+
+**Title:** TBA
+
+<blockquote>
+Save the date!
+</blockquote>
+
+**Speaker:** TBA
+
+RSVP: TBA
 
 [back to top](#welcome)
 <hr>
