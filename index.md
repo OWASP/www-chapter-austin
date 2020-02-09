@@ -70,12 +70,12 @@ Mark Spears is a Sr. Security Consultant for Solis Security - an Austin-based se
 Throughout Mark's 20+ years in the industry, he has been a:
 ·       Programmer in a wide range of compiled and scripted languages but focused mainly on the Microsoft stack
 ·       Teacher at different schools on all topics of database design, coding, and web development.
-·       Entrepreneur who wrote payments software as a Level 1 PCI Gateway and acting CISO for 8 years until helping bring the company to a sale.
+·       Entrepreneur who wrote payments software as a Level 1 PCI Gateway and acting CISO for 8 years until helping bring the company to a sale.<p>
 ·       Virtual CISO for several companies simultaneously including multiple banks providing monthly security services, audit support, and annual Risk Assessments based on GLBA or other needed compliance frameworks.
 ·       Constant student and teacher seeking mentors while mentoring.
 </blockquote>
 
-RSVP: TBA
+RSVP: <a href="https://owasp-austin-2020-february.eventbrite.com" target="_blank">https://owasp-austin-2020-february.eventbrite.com</a>
 
 [back to top](#welcome)
 <hr>
