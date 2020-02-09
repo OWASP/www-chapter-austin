@@ -67,12 +67,12 @@ and the Penetration Testing Execution Standard
 <blockquote>
 Mark Spears is a Sr. Security Consultant for Solis Security - an Austin-based security firm that performs DFIR, GRC, MSSP, and Penetration Testing where he currently leads the Red Team doing a lot IP-based and Web Application testing while mentoring his younger peers.
 
-Throughout Mark's 20+ years in the industry, he has been a:
-·       Programmer in a wide range of compiled and scripted languages but focused mainly on the Microsoft stack
-·       Teacher at different schools on all topics of database design, coding, and web development.
+Throughout Mark's 20+ years in the industry, he has been a:<p>
+·       Programmer in a wide range of compiled and scripted languages but focused mainly on the Microsoft stack<p>
+·       Teacher at different schools on all topics of database design, coding, and web development.<p>
 ·       Entrepreneur who wrote payments software as a Level 1 PCI Gateway and acting CISO for 8 years until helping bring the company to a sale.<p>
-·       Virtual CISO for several companies simultaneously including multiple banks providing monthly security services, audit support, and annual Risk Assessments based on GLBA or other needed compliance frameworks.
-·       Constant student and teacher seeking mentors while mentoring.
+·       Virtual CISO for several companies simultaneously including multiple banks providing monthly security services, audit support, and annual Risk Assessments based on GLBA or other needed compliance frameworks.<p>
+·       Constant student and teacher seeking mentors while mentoring.<p>
 </blockquote>
 
 RSVP: <a href="https://owasp-austin-2020-february.eventbrite.com" target="_blank">https://owasp-austin-2020-february.eventbrite.com</a>
