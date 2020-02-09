@@ -48,13 +48,32 @@ RSVP: <a href="https://aus-sec-happy-hour-2020-02.eventbrite.com" target="_blank
 
 **Where:** National Instruments, 11500 N. Mopac.Building C (Directions: <a href="https://www.google.com/maps/place/National+Instruments/@30.4077179,-97.7268262,17z/data=!3m1!4b1!4m2!3m1!1s0x865b34c37397e56b:0x765d5bc26a58ce96" target="_blank">GoogleMaps</a>, <a href="http://www.mapquest.com/maps?address=11500+N+Mo+Pac+Expy&amp;city=Austin&amp;state=TX&amp;zipcode=78759&amp;redirect=true" target="_blank">MapQuest</a>)
 
-**Title:** TBA
-
+**Title:** Using Nmap's XSLT switch to better organize result scan data
 <blockquote>
-Save the date!
+
+Nmap is an old-friend and one of the most-used tools in our box. On scans against large-scale networks, identifying ports with web applications might be easy using some common command line switches, but gathering the normal output to enumerate and identify targets is difficult. This talk is about using Nmap's XML output switch combined with customized XSLT documents to save time and organize the output in a format, such as CSV, that provides penetration testers with richer analysis capabilities or even HTML that is "report ready". We will look more closely at the XML output that Nmap provides (including NSE data) and learn how XSLT can be harnessed to derive usable custom documents.
+
+This talk will have application to some or all of the following OWASP Testing procedures:
+ASVS 9 Communication Security Requirements (9.1.1, 9.2.2)
+OTG-INFO-004 Enumerate Applications on Web Server
+OTG-CONFIG-006 Test HTTP Methods
+OTG-CRYPST-001 Testing for Weak SSL/TLS Ciphers, Insufficient Transport Layer Protection
+…others, as NSE scripts are applicable
+and the Penetration Testing Execution Standard
+
 </blockquote>
 
-**Speaker:** TBA
+**Speaker:** 
+<blockquote>
+Mark Spears is a Sr. Security Consultant for Solis Security - an Austin-based security firm that performs DFIR, GRC, MSSP, and Penetration Testing where he currently leads the Red Team doing a lot IP-based and Web Application testing while mentoring his younger peers.
+
+Throughout Mark's 20+ years in the industry, he has been a:
+·       Programmer in a wide range of compiled and scripted languages but focused mainly on the Microsoft stack
+·       Teacher at different schools on all topics of database design, coding, and web development.
+·       Entrepreneur who wrote payments software as a Level 1 PCI Gateway and acting CISO for 8 years until helping bring the company to a sale.
+·       Virtual CISO for several companies simultaneously including multiple banks providing monthly security services, audit support, and annual Risk Assessments based on GLBA or other needed compliance frameworks.
+·       Constant student and teacher seeking mentors while mentoring.
+</blockquote>
 
 RSVP: TBA
 
