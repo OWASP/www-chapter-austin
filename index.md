@@ -45,10 +45,9 @@ and the Penetration Testing Execution Standard
 </blockquote>
 
 **Speaker:** 
-<blockquote>
-Mark Spears is a Sr. Security Consultant for Solis Security - an Austin-based security firm that performs DFIR, GRC, MSSP, and Penetration Testing where he currently leads the Red Team doing a lot IP-based and Web Application testing while mentoring his younger peers.</blockquote>
+<blockquote>Mark Spears is a Sr. Security Consultant for Solis Security - an Austin-based security firm that performs DFIR, GRC, MSSP, and Penetration Testing where he currently leads the Red Team doing a lot IP-based and Web Application testing while mentoring his younger peers.</blockquote>
 
-<blockquote>Throughout Mark's 20+ years in the industry, he has been a:<p>
+<blockquote>Throughout Mark's 20+ years in the industry, he has been a:<br>
 <ul>
 <li>Programmer in a wide range of compiled and scripted languages but focused mainly on the Microsoft stack</li>
 <li>Teacher at different schools on all topics of database design, coding, and web development.</li>
