@@ -41,7 +41,6 @@ OTG-CONFIG-006 Test HTTP Methods
 OTG-CRYPST-001 Testing for Weak SSL/TLS Ciphers, Insufficient Transport Layer Protection
 …others, as NSE scripts are applicable
 and the Penetration Testing Execution Standard
-
 </blockquote>
 
 **Speaker:** 
@@ -56,7 +55,7 @@ and the Penetration Testing Execution Standard
 <li>Constant student and teacher seeking mentors while mentoring.</li>
   </ul></blockquote>
 
-RSVP: <a href="https://owasp-austin-2020-february.eventbrite.com" target="_blank">https://owasp-austin-2020-february.eventbrite.com</a>
+<p>RSVP: <a href="https://owasp-austin-2020-february.eventbrite.com" target="_blank">https://owasp-austin-2020-february.eventbrite.com</a></p>
 
 [back to top](#welcome)
 <hr>
@@ -74,7 +73,7 @@ RSVP: <a href="https://owasp-austin-2020-february.eventbrite.com" target="_blank
 
 <blockquote><i><strong>Rapid7</strong> is engineering better security with simple, innovative solutions for IT security's most critical challenges. Our security data and analytics solutions collect, contextualize, correlate, and analyze the security data you need to dramatically reduce threat exposure and detect compromise in real-time. They speed investigations so you can halt threats and clean up systems fast. Plus, our analytics give you the specific information you need to systematically improve security processes within your organization. Unlike traditional vulnerability assessment or incident management, Rapid7's comprehensive data collection, attacker intelligence and user-behavior analytics give you immediate insight into the security state of your assets and users from the endpoint to the cloud. We offer unmatched capabilities to spot intruders leveraging today's #1 attack vector, compromised credentials. Our ability to help goes beyond our innovative technology. Rapid7 security experts can help you advance your security program, whether you need emergency breach response or to transform your security processes and better align investments to your organization's risk and needs. Our products are top rated by Gartner®, Forrester® and SC Magazine. For more information about Rapid7, please visit <a href="http://www.rapid7.com target="_blank">www.rapid7.com</a>.</i></blockquote> 
 
-RSVP: <a href="https://aus-sec-happy-hour-2020-03.eventbrite.com" target="_blank">https://aus-sec-happy-hour-2020-03.eventbrite.com</a>
+<p>RSVP: <a href="https://aus-sec-happy-hour-2020-03.eventbrite.com" target="_blank">https://aus-sec-happy-hour-2020-03.eventbrite.com</a></p>
 
 [back to top](#welcome)
 <hr>
