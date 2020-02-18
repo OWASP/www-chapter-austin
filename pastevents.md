@@ -23,6 +23,18 @@ region: North America
 
 ### 2020 ###
 ---
+
+### Austin Security Professionals Happy Hour sponsored by Sonatype and NowSecure, February 13, 2020 ###
+
+**When:** Thursday, February 13th, 5:30 pm - 7:30 pm
+
+**Where:** Brass Tap @ Domain Austin, 10910 Domain Dr, Austin, TX 78758
+
+**Sponsors:** Sonatype and NowSecure
+
+[Back to Top](#past-events)
+<hr>
+
 ### OWASP Austin Chapter Meeting, January 28, 2020 ###
 
 **When:** Tuesday, January 28th @ 11:45 AM - 1:00 PM
