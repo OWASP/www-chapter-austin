@@ -61,6 +61,7 @@ RSVP: <a href="https://owasp-austin-2020-february.eventbrite.com" target="_blank
 [back to top](#welcome)
 <hr>
 
+
 ### Austin Security Professionals Happy Hour sponsored by Rapid7, March 12, 2020 ###
 
 **When:** Thursday, March 12th, 5:30 pm - 7:30 pm
