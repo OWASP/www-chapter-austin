@@ -55,6 +55,8 @@ and the Penetration Testing Execution Standard
 <li>Virtual CISO for several companies simultaneously including multiple banks providing monthly security services, audit support, and annual Risk Assessments based on GLBA or other needed compliance frameworks.</li>
 <li>Constant student and teacher seeking mentors while mentoring.</li>
   </ul></blockquote>
+  
+[Zoom Video](https://zoom.us/rec/play/7JYkIuygp203TteW5gSDAP5_W9W1e_ishHAa-qVYzB6wAncHNlT3YrRGNrauIe_w307j2BWVxvMPa-RW?continueMode=true)
 
 [Back to Top](#past-events)
 <hr>
