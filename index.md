@@ -56,8 +56,6 @@ Upcoming Events
 **Speaker:** 
 <blockquote>TBA</blockquote>
 
-<blockquote>TBA</blockquote>
-
 <!-- <p>RSVP: <a href="https://owasp-austin-2020-february.eventbrite.com" target="_blank">https://owasp-austin-2020-february.eventbrite.com</a></p> -->
 
 [back to top](#welcome)
@@ -75,7 +73,7 @@ Upcoming Events
 
 <blockquote><i><strong>Contrast Security </strong> is the world’s leading provider of security technology that enables software applications to protect themselves against cyberattacks, heralding the new era of self-protecting software. Contrast's patented deep security instrumentation is the breakthrough technology that enables highly accurate assessment and always-on protection of an entire application portfolio, without disruptive scanning or expensive security experts. Only Contrast has sensors that work actively inside applications to uncover vulnerabilities, prevent data breaches, and secure the entire enterprise from development to operations, to production.</i></blockquote>
 
-<p>FSee <a href="https://www.contrastsecurity.com" target="_blank">https://www.contrastsecurity.com</a> for more information.</p> 
+<p>See <a href="https://www.contrastsecurity.com" target="_blank">https://www.contrastsecurity.com</a> for more information.</p> 
 
 <p>RSVP: <a href="https://aus-sec-happy-hour-2020-04.eventbrite.com" target="_blank">https://aus-sec-happy-hour-2020-04.eventbrite.com</a></p>
 
