@@ -49,14 +49,21 @@ Upcoming Events
 
 **Where:** National Instruments, 11500 N. Mopac.Building C (Directions: <a href="https://www.google.com/maps/place/National+Instruments/@30.4077179,-97.7268262,17z/data=!3m1!4b1!4m2!3m1!1s0x865b34c37397e56b:0x765d5bc26a58ce96" target="_blank">GoogleMaps</a>, <a href="http://www.mapquest.com/maps?address=11500+N+Mo+Pac+Expy&amp;city=Austin&amp;state=TX&amp;zipcode=78759&amp;redirect=true" target="_blank">MapQuest</a>)
 
-**Title:** TBA
-<blockquote>TBA
+**Title: Secure Application Development (with Cloud)** 
+<blockquote> 
+<br>
+Most of us have developed software in one form or the other over our careers. Have we paid attention to all domains of the software lifecycle? This is a walkthrough of those domains that should span development from cradle to grave of any software development lifecycle, with a focus on security. We will follow that by a quick demo of how CI/CD and DevSecOps practices can help us address these concerns for deployment to cloud providers like AWS and Azure in a hybrid cloud environment.
+
+Target audience: Developers, Architects, Security, Ops, and Software Managers.
+PreRequisite: Some level of understanding of Software Development Lifecycle, with passion to make your code safer and better. 
 </blockquote>
 
 **Speaker:** 
-<blockquote>TBA</blockquote>
+<blockquote>
+<b>Sam Gamare</b> is an Austin Texas based Enterprise Architect who works for Dell Technologies.  He has a broad IT background spanning two decades of experience in several roles across several different industries from Fortune 500 (like Dell, General Motors, Citibank, JPMorgan, Wendy’s, and several others) and State government (Texas / Indiana). His work focuses on designing solutions that solve problems for his business customers, with solutions that span several technologies like .NET/Java/Open Source, across several development domains that include the database, network, security, and cloud-based deployments. He has a passion for security and development. He holds several certifications that span AWS Architect Associate, AWS Developer Associate, Certified Scrum Master (CSM), and CISSP. In his free time, he entertains himself with raspberry pi and tech books
+</blockquote>
 
-<!-- <p>RSVP: <a href="https://owasp-austin-2020-february.eventbrite.com" target="_blank">https://owasp-austin-2020-february.eventbrite.com</a></p> -->
+<p>RSVP: <a href="https://owasp-austin-2020-march.eventbrite.com" target="_blank">https://owasp-austin-2020-march.eventbrite.com</a></p>
 
 [back to top](#welcome)
 <hr>
