@@ -45,6 +45,8 @@ PreRequisite: Some level of understanding of Software Development Lifecycle, wit
 </blockquote>
 
 <p>RSVP: <a href="https://owasp-austin-2020-march.eventbrite.com" target="_blank">https://owasp-austin-2020-march.eventbrite.com</a></p>
+<br>
+<p>Zoom Meeting: <a href="https://zoom.us/j/638361862" target="_blank">https://zoom.us/j/638361862</a></p>
 
 [back to top](#welcome)
 <hr>
