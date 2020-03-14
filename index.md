@@ -24,25 +24,6 @@ Upcoming Events
 ---------------
 
 
-### Austin Security Professionals Happy Hour sponsored by Rapid7, March 12, 2020 ###
-
-**When:** Thursday, March 12th, 5:30 pm - 7:30 pm
-
-**Where:** Brass Tap @ Domain Austin, 10910 Domain Dr, Austin, TX 78758 (across from the iPic Theaters). We meet in the separate room inside the bar, to the left as you enter. Parking: Park in either parking garages to the left or right of iPic (<a href="https://www.simon.com/mall/the-domain/map/#/location/the-brass-tap" target="_blank">map of Domain</a>).
-
-**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP and Capital of Texas ISSA Chapters and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation. 
-
-**Sponsor:** Rapid7
-
-<blockquote><i><strong>Rapid7</strong> is engineering better security with simple, innovative solutions for IT security's most critical challenges. Our security data and analytics solutions collect, contextualize, correlate, and analyze the security data you need to dramatically reduce threat exposure and detect compromise in real-time. They speed investigations so you can halt threats and clean up systems fast. Plus, our analytics give you the specific information you need to systematically improve security processes within your organization. Unlike traditional vulnerability assessment or incident management, Rapid7's comprehensive data collection, attacker intelligence and user-behavior analytics give you immediate insight into the security state of your assets and users from the endpoint to the cloud. We offer unmatched capabilities to spot intruders leveraging today's #1 attack vector, compromised credentials. Our ability to help goes beyond our innovative technology. Rapid7 security experts can help you advance your security program, whether you need emergency breach response or to transform your security processes and better align investments to your organization's risk and needs. Our products are top rated by Gartner®, Forrester® and SC Magazine.</i></blockquote>
-
-<p>For more information about Rapid7, please visit <a href="https://www.rapid7.com" target="_blank">www.rapid7.com</a>.</p> 
-
-<p>RSVP: <a href="https://aus-sec-happy-hour-2020-03.eventbrite.com" target="_blank">https://aus-sec-happy-hour-2020-03.eventbrite.com</a></p>
-
-[back to top](#welcome)
-<hr>
-
 ### OWASP Austin Chapter Meeting<br>March 31, 2020 ###
 
 **When:** Tuesday, March 31st @ 11:45 AM - 1:00 PM
