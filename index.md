@@ -28,7 +28,7 @@ Upcoming Events
 
 **When:** Tuesday, March 31st @ 11:45 AM - 1:00 PM
 
-**Where:** National Instruments, 11500 N. Mopac.Building C (Directions: <a href="https://www.google.com/maps/place/National+Instruments/@30.4077179,-97.7268262,17z/data=!3m1!4b1!4m2!3m1!1s0x865b34c37397e56b:0x765d5bc26a58ce96" target="_blank">GoogleMaps</a>, <a href="http://www.mapquest.com/maps?address=11500+N+Mo+Pac+Expy&amp;city=Austin&amp;state=TX&amp;zipcode=78759&amp;redirect=true" target="_blank">MapQuest</a>)
+**Where:** Online @ <a href="https://zoom.us/j/638361862">Zoom</a>
 
 **Title: Secure Application Development (with Cloud)** 
 <blockquote> 
