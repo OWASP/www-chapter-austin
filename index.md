@@ -51,21 +51,12 @@ PreRequisite: Some level of understanding of Software Development Lifecycle, wit
 [back to top](#welcome)
 <hr>
 
-### Austin Security Professionals Happy Hour sponsored by Contrast Security, April 8, 2020 ###
+### CANCELLED - Austin Security Professionals Happy Hour sponsored by Contrast Security, April 8, 2020 ###
 
-**When:** Wednesday, April 8th, 5:30 pm - 7:30 pm **NOTE: just for this month, on Wednesday**
+<blockquote>Due to the shelter in place order, restricting group gatherings, the happy hour has been cancelled. We will evaluate when the next one will be scheduled later in April, once we have more information on when the restrictions would be rescinded.</blockquote>
 
-**Where:** Brass Tap @ Domain Austin, 10910 Domain Dr, Austin, TX 78758 (across from the iPic Theaters). We meet in the separate room inside the bar, to the left as you enter. Parking: Park in either parking garages to the left or right of iPic (<a href="https://www.simon.com/mall/the-domain/map/#/location/the-brass-tap" target="_blank">map of Domain</a>).
+<blockquote>As COVID-19 (coronavirus) continues to impact our everyday lives, we support any steps needed to help ensure the health and safety of our community. We wish everyone to stay safe and look forward to seeing you in the near future.</blockquote>
 
-**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP and Capital of Texas ISSA Chapters and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation. 
-
-**Sponsor:** Contrast Security
-
-<blockquote><i><strong>Contrast Security </strong> is the world’s leading provider of security technology that enables software applications to protect themselves against cyberattacks, heralding the new era of self-protecting software. Contrast's patented deep security instrumentation is the breakthrough technology that enables highly accurate assessment and always-on protection of an entire application portfolio, without disruptive scanning or expensive security experts. Only Contrast has sensors that work actively inside applications to uncover vulnerabilities, prevent data breaches, and secure the entire enterprise from development to operations, to production.</i></blockquote>
-
-<p>See <a href="https://www.contrastsecurity.com" target="_blank">https://www.contrastsecurity.com</a> for more information.</p> 
-
-<p>RSVP: <a href="https://aus-sec-happy-hour-2020-04.eventbrite.com" target="_blank">https://aus-sec-happy-hour-2020-04.eventbrite.com</a></p>
 
 [back to top](#welcome)
 <hr>
