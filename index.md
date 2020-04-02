@@ -22,32 +22,51 @@ Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See be
 
 Upcoming Events
 ---------------
+### Virtual CTF w/ SecurityInovations ###
+**When:** April 16 - April 17
+**Where:** Online/Virtual
 
-
-### OWASP Austin Chapter Meeting<br>March 31, 2020 ###
+**Title: CMD+CTRL: Web Application Cyber Range**
+<blockquote>
+Stuck at home, but still want to test your skills in identifying web app vulnerabilities?  OWASP Austin and Security Innovation invite all of Texas as members virtually compete in CMD+CTRL, a web application cyber range where players exploit their way through hundreds of vulnerabilities that lurk in business applications today.  Success means learning quickly that attack and defense is all about thinking on your feet. 
+  <br><br>
+For each vulnerability you uncover, you are awarded points. Climb the interactive leaderboard for a chance to win fantastic prizes! CMD+CTRL is ideal for development teams to train and develop skills, but anyone involved in keeping your organization’s data secure can play - from developers and managers and even CISOs. 
+<br><br>
+  <b>All you need is your laptop and inner evil-doer!</b>
+    <br>
+  Register early to reserve your spot and get a sneak peek at our cheat sheets and FAQs! 
+  <br><br>
+    <b>Event Info Registration</b> Page :  https://owasp-austin-ctf-04-2020.eventbrite.com 
+  <br>
+    <i>* used to receive chapter broadcast messages leading up to the event</i>
+  <br><br>
+    <b>Event Registration</b> Page: https://web.securityinnovation.com/owasp-austin
+  <br><br>
+  <b>RingCentral Conference</b>: https://meetings.ringcentral.com/j/1484501522 
+  <br><br>
+</blockquote>
+ 
+### OWASP Austin Chapter Meeting<br>April 28th, 2020 ###
 
 **When:** Tuesday, March 31st @ 11:45 AM - 1:00 PM
 
-**Where:** Online @ <a href="https://zoom.us/j/638361862">Zoom</a>
+**Where:** Online @ Coming Soon!
 
-**Title: Secure Application Development (with Cloud)** 
+**Title: Coming Soon** 
 <blockquote> 
-<br>
-Most of us have developed software in one form or the other over our careers. Have we paid attention to all domains of the software lifecycle? This is a walkthrough of those domains that should span development from cradle to grave of any software development lifecycle, with a focus on security. We will follow that by a quick demo of how CI/CD and DevSecOps practices can help us address these concerns for deployment to cloud providers like AWS and Azure in a hybrid cloud environment.
-
-Target audience: Developers, Architects, Security, Ops, and Software Managers.
-PreRequisite: Some level of understanding of Software Development Lifecycle, with passion to make your code safer and better. 
+  <br>
+  Coming Soon!
 </blockquote>
 
 **Speaker:** 
 <blockquote>
-<b>Sam Gamare</b> is an Austin Texas based Enterprise Architect who works for Dell Technologies.  He has a broad IT background spanning two decades of experience in several roles across several different industries from Fortune 500 (like Dell, General Motors, Citibank, JPMorgan, Wendy’s, and several others) and State government (Texas / Indiana). His work focuses on designing solutions that solve problems for his business customers, with solutions that span several technologies like .NET/Java/Open Source, across several development domains that include the database, network, security, and cloud-based deployments. He has a passion for security and development. He holds several certifications that span AWS Architect Associate, AWS Developer Associate, Certified Scrum Master (CSM), and CISSP. In his free time, he entertains himself with raspberry pi and tech books
+Coming Soon!
 </blockquote>
 
-<p>RSVP: <a href="https://owasp-austin-2020-march.eventbrite.com" target="_blank">https://owasp-austin-2020-march.eventbrite.com</a></p>
+<p>RSVP: Coming Soon</p>
 <br>
-<p>Zoom Meeting: <a href="https://zoom.us/j/638361862?pwd=R3l3dHFBTFdDN0IwVVY4d3lHa25WZz09" target="_blank">https://zoom.us/j/638361862</a></p>
-
+<p>Zoom Meeting: Coming Soon!
+  
 [back to top](#welcome)
 <hr>
 
