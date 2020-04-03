@@ -36,13 +36,13 @@ For each vulnerability you uncover, you are awarded points. Climb the interactiv
     <br>
   Register early to reserve your spot and get a sneak peek at our cheat sheets and FAQs! 
   <br><br>
-    <b>Event Info Registration</b> Page :  https://owasp-austin-ctf-04-2020.eventbrite.com 
+    <b>Event Info Registration</b> Page :  <a href="https://owasp-austin-ctf-04-2020.eventbrite.com" target="_blank">https://owasp-austin-ctf-04-2020.eventbrite.com </a> 
   <br>
     <i>* used to receive chapter broadcast messages leading up to the event</i>
   <br><br>
-    <b>Event Registration</b> Page: https://web.securityinnovation.com/owasp-austin
+    <b>Event Registration</b> Page: <a href="https://web.securityinnovation.com/owasp-austin" target="_blank">https://web.securityinnovation.com/owasp-austin</a>
   <br><br>
-  <b>RingCentral Conference</b>: https://meetings.ringcentral.com/j/1484501522 
+  <b>RingCentral Conference</b>: <a href="https://meetings.ringcentral.com/j/1484501522" target="_blank">https://meetings.ringcentral.com/j/1484501522</a>
   <br><br>
 </blockquote>
  
