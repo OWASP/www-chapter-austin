@@ -33,7 +33,9 @@ Stuck at home, but still want to test your skills in identifying web app vulnera
 For each vulnerability you uncover, you are awarded points. Climb the interactive leaderboard for a chance to win fantastic prizes! CMD+CTRL is ideal for development teams to train and develop skills, but anyone involved in keeping your organization’s data secure can play - from developers and managers and even CISOs. 
 <br><br>
   <b>All you need is your laptop and inner evil-doer!</b>
-    <br>
+   <br><br>
+  <a href="https://securityinnovation.hubs.vidyard.com/watch/qYNnnBugcrUwwEeajx5i1o">Event Information Video</a>
+   <br><br>
   Register early to reserve your spot and get a sneak peek at our cheat sheets and FAQs! 
   <br><br>
     <b>Event Info Registration</b> Page :  <a href="https://owasp-austin-ctf-04-2020.eventbrite.com" target="_blank">https://owasp-austin-ctf-04-2020.eventbrite.com </a> 
