@@ -22,7 +22,7 @@ Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See be
 
 Upcoming Events
 ---------------
-### Virtual CTF w/ Security Inovation ###
+### Virtual CTF w/ Security Innovation ###
 **When:** April 16 - April 17
 **Where:** Online/Virtual
 
