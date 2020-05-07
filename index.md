@@ -67,3 +67,20 @@ Michael Gough is a Malware Archaeologist, Blue Team defender, Incident Responder
 
 [back to top](#welcome)
 <hr>
+
+### LASCON 2020 ###
+
+**When:** October 27-28, 2020 (Pre-Conference Training), October 29-30. 2020 (Conference) 
+
+**Where:** Norris Conference Center, Austin TX
+
+>Limited number of Early Bird discounted conference tickets are still available. <a href="https://lascon.org/tickets/" target="_blank">Get yours today</a>!
+  
+>Both the <a href="https://lascon.org/cfp/" target="_blank">Call for Papers (CFP)</a> and <a href="https://lascon.org/cft/" target="_blank">Call for Training (CFT)</a> are now open. Deadline for submission is **June 30, 2020**. Submit your proposals today!
+
+> *We are very much aware of the current concerns with COVID-19 and that an in-person event may not be possible. At this point in time we are continuing to plan for an in-person pre-conference training and conference, being optimistic that by October the situation will improve. However, we want to ensure we have alternative plans, such as making the training and the conference presentations virtual. With that in mind, we request that training and presentations be designed for conducting either in-person or virtual. If virtual, we will provide the necessary technical guidelines and assistance to trainers and presenters.*
+
+>See the <a href="https://lascon.org" target="_blank">LASCON website</a> for more information.
+
+[back to top](#welcome)
+<hr>
