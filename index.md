@@ -6,6 +6,8 @@ tags: austin
 
 region: North America
 
+altfooter: true
+
 ---
 <strong>Home Page</strong>
 &nbsp;&nbsp;&nbsp;[Chapter Leadership](leadership.md)
