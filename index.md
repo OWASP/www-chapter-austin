@@ -33,14 +33,14 @@ Upcoming Events
 **Title: Why is Organizational Change Management important in Cybersecurity for healthcare** 
 <blockquote> 
   <br>
-Digital transformation in the Health Sector has been underway for many years and the issue of security has more increasingly problematic and costly to the healthcare ecosystem. New Innovations, legacy systems create the need to be more secure in order to protect your healthcare data.  2013 Presidential directive put healthcare in the critical infrastrucue with other industries. Today with Covid-19 it is more necessary than ever.
+Digital transformation in the Health Sector has been underway for many years and the issue of security has more increasingly problematic and costly to the healthcare ecosystem. New Innovations, legacy systems create the need to be more secure in order to protect your healthcare data.  2013 Presidential directive put healthcare in the critical infrastructure with other industries. Today with Covid-19 it is more necessary than ever.
     <br><br>
 Why it is risky not to have a change model to help accelerate adoption and awareness of a better cybersecurity posturing in healthcare and how culture plays an important role to address cybersecurity in healthcare
 </blockquote>
 
 **Speaker:** 
 <blockquote>
-Hazel Chappell arrived in Austin under 2 years ago  from the UK having worked in healthcare for over 16 years. She is a highly organised leader, consultant and advisor in EPR deployments in both private and government organizations. Hazel specializes in architecting change to support business transformation leveraging deep industry experience where she headed up ventures in the UK, Ireland, and Europe. She brings value to organizations by ensuring operational readiness, driving faster adoption, getting engagement from the right people to accelerate business change which delivers cost benefits in an efficient and effective manner. Her recent work here in the US has been in cybersecurity in healthcare working with the innovation and investment arm of The American Medical Association where they are transforming healthcare to better protect your patient healthcare data.
+Hazel arrived in Austin under 2 years ago  from the UK having worked in healthcare for over 16 years. She is a highly organised leader, consultant and advisor in EPR deployments in both private and government organizations. Hazel specializes in architecting change to support business transformation leveraging deep industry experience where she headed up ventures in the UK, Ireland, and Europe. She brings value to organizations by ensuring operational readiness, driving faster adoption, getting engagement from the right people to accelerate business change which delivers cost benefits in an efficient and effective manner. Her recent work here in the US has been in cybersecurity in healthcare working with Health2047 which is the innovation and investment organization of The American Medical Association where, Health2047 are transforming healthcare to better protect your patient healthcare data.
 
 </blockquote>
 
