@@ -55,7 +55,7 @@ Hazel Chappell arrived in Austin under 2 years ago  from the UK having worked in
 
 ### CANCELLED - Austin Security Professionals Happy Hour, May 14, 2020 ###
 
-<blockquote>Due to the shelter in place order, restricting group gatherings, the happy hour has been cancelled. We will evaluate when the next one will be scheduled later in May, once we have more information on when the restrictions would be rescinded.</blockquote>
+<blockquote>Due to the shelter in place order, restricting group gatherings, the happy hour has been cancelled. We will evaluate when the next one will be scheduled once we have more information on when the restrictions would be rescinded or changed.</blockquote>
 
 <blockquote>As COVID-19 (coronavirus) continues to impact our everyday lives, we support any steps needed to help ensure the health and safety of our community. We wish everyone to stay safe and look forward to seeing you in the near future.</blockquote>
 
