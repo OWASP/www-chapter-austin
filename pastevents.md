@@ -25,8 +25,57 @@ altfooter: true
 
 ### 2020 ###
 ---
+### OWASP Austin Chapter Meeting<br>April 28th, 2020 ###
 
-### OWASP Austin Chapter Meeting<br>February 25, 2020 ###
+**When:** Tuesday, April 28th, 2020 @ 11:45 AM - 1:00 PM
+
+**Title: Incident Response is haaaaard, But it doesn’t have to be – PREPARE NOW** 
+<blockquote> 
+  <br>
+    So your EDR, AV, or other fancy shiny blinky lights security tools alerted you that a system has some suspicious activity.  Do you have the details you need to investigate or remediate the system?  Can you quickly and easily investigate it?   You can enable a lot of things you already have for FREE to help you with your investigations, no matter the tools used.  Let’s take a look how we do Incident Response on a system and what you can do to prepare for an inevitable event.
+    <br><br>
+    How is your logging?  Is it enabled?  Configured to some best practice? (hopefully better than an industry standard that is seriously lacking).  Have you enabled some critical logs that by default are NOT enable?  Do you have a way to run a command, script, or a favorite tool across one or all your systems and retrieve the results?  Do you block some well-known exploitable things?  How do you know?
+    <br><br>
+    Everything mentioned here is FREE and you already have it!
+    <br><br>
+    This talk will describe these things and how to prepare, and be PREPARED to do incident Response, yes, even for DevOps.  A few tools will be discussed as well that you can use to speed things up.
+    <br><br>
+    The attendee can take the information from this talk and immediately start improving their environment to prepare for the inevitable, an incident.
+</blockquote>
+
+**Speaker:** 
+<blockquote>
+Michael Gough is a Malware Archaeologist, Blue Team defender, Incident Responder and logoholic for NCC Group. Michael developed several Windows logging cheat sheets to help the security industry understand Windows logging, where to start and what to look for. Michael presents at many security and technology conferences helping to educate on security that attendees can go back to work and actually do. Michael is a primary contributor to the Open Source project ARTHIR. Michael is also co-developer of LOG-MD, a free and premium tool that audits Window settings, harvests and reports on malicious Windows log data, and evaluates for malicious system artifacts. Michael also blogs at HackerHurricane.com on various InfoSec topics. For the infosec community at-large, Michael ran BSides Texas entity (managing BSides conferences in Austin, San Antonio, Dallas and Houston) for six years and lead the Austin BSides conference.
+</blockquote>
+<br>
+<p><a href="https://youtu.be/47d1G36Mi_Y">Youtube Recording</a></p>
+
+[Back to Top](#past-events)
+<hr>
+
+### OWASP Austin Chapter Meeting March 31st, 2020 ###
+
+**When:** Tuesday, March 31st, 2020 @ 11:45 AM - 1:00 PM
+
+**Title:** Secure Application Development (with Cloud)
+<br>
+<blockquote> 
+	Most of us have developed software in one form or the other over our careers. Have we paid attention to all domains of the software lifecycle? This is a walkthrough of those domains that should span development from cradle to grave of any software development lifecycle, with a focus on security. We will follow that by a quick demo of how CI/CD and DevSecOps practices can help us address these concerns for deployment to cloud providers like AWS and Azure in a hybrid cloud environment.
+</blockquote>
+
+**Speaker:** 
+<br>
+<blockquote>
+	Sam Gamare is an Austin Texas based Enterprise Architect who works for Dell Technologies.  He has a broad IT background spanning two decades of experience in several roles across several different industries from Fortune 500 (like Dell, General Motors, Citibank, JPMorgan, Wendy’s, and several others) and State government (Texas / Indiana). His work focuses on designing solutions that solve problems for his business customers, with solutions that span several technologies like .NET/Java/Open Source, across several development domains that include the database, network, security, and cloud-based deployments. He has a passion for security and development. He holds several certifications that span AWS Architect Associate, AWS Developer Associate, Certified Scrum Master (CSM), and CISSP. In his free time, he entertains himself with raspberry pi and tech books
+</blockquote>
+
+<br>
+<p><a href="https://youtu.be/fSfATSTaA84">Youtube Recording</a></p>
+
+[Back to Top](#past-events)
+<hr>
+
+### OWASP Austin Chapter Meeting February 25, 2020 ###
 
 **When:** Tuesday, February 25th @ 11:45 AM - 1:00 PM
 
