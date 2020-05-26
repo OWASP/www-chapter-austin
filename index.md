@@ -53,11 +53,11 @@ Hazel arrived in Austin under 2 years ago  from the UK having worked in healthca
 [back to top](#welcome)
 <hr>
 
-### CANCELLED - Austin Security Professionals Happy Hour, May 14, 2020 ###
+### CANCELLED - Austin Security Professionals Happy Hour, June 11, 2020 ###
 
-<blockquote>Due to the shelter in place order, restricting group gatherings, the happy hour has been cancelled. We will evaluate when the next one will be scheduled once we have more information on when the restrictions would be rescinded or changed.</blockquote>
+<blockquote>Businesses have begun to open up locally in Austin, and our venue for the happy hour is available for June. However, they are operating under limited capacity. Due to some logistic challenges with the limited capacity, we have decided to cancel June's happy hour. We will evaluate in mid June for decision to have the happy hour in July.</blockquote>
 
-<blockquote>As COVID-19 (coronavirus) continues to impact our everyday lives, we support any steps needed to help ensure the health and safety of our community. We wish everyone to stay safe and look forward to seeing you in the near future.</blockquote>
+<blockquote>We wish everyone to stay safe and be informed - https://www.cdc.gov/coronavirus/2019-ncov/index.html.</blockquote>
 
 
 [back to top](#welcome)
