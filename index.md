@@ -24,11 +24,35 @@ Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See be
 
 Upcoming Events
 ---------------
+### OWASP Austin Chapter Meeting June 30th, 2020 ###
+
+**When:** Tuesday, June 30th, 2020 @ 12:00 AM - 1:00 PM
+
+**Where:** Online @ <a href="https://zoom.us/j/94403240234">Zoom</a>!
+
+**Title: Mobile Security in a Remote World** 
+<blockquote> 
+  <br>
+Attacks on the endpoint are no longer limited to traditional endpoints like laptops and workstations; mobile devices have been ranked the #1 hardest enterprise asset to defend. Compounded by bring-your-own device policies, enterprises are struggling to protect themselves against a growing variety of mobile threats. In this session, we will dive into the challenges with securing mobile in the enterprise security space and the evolution of mobile device security. Join us to learn about why attackers are shifting to target mobile, validated by investigations from the Cybereason Nocturnus team, and how the enterprise security industry is moving to address them. 
+</blockquote>
+
+**Speaker:** 
+<blockquote>
+Allie Mellen is a security strategist at Cybereason. She has spent several years in the cybersecurity space and has been recognized globally for her security research. Over the past ten years, she has held various engineering, development, and consulting roles in the technology sector. She received her B.S. degree in computer engineering from Boston University
+</blockquote>
+
+<p>
+  RSVP: <a href="https://owasp-austin-june2020-chapter-meeting.eventbrite.com">Eventbrite</a>
+</p>
+<br>
+<p>Zoom Meeting: <a href="https://zoom.us/j/99042059932">Here!</a></p>
+  
+[back to top](#welcome)
+<hr>
+
 ### OWASP Austin Chapter Meeting May 26th, 2020 ###
 
 **When:** Tuesday, May 26th, 2020 @ 12:00 AM - 1:00 PM
-
-**Where:** Online @ <a href="https://zoom.us/j/99042059932">Zoom</a>!
 
 **Title: Why is Organizational Change Management important in Cybersecurity for healthcare** 
 <blockquote> 
@@ -44,11 +68,8 @@ Hazel arrived in Austin under 2 years ago  from the UK having worked in healthca
 
 </blockquote>
 
-<p>
-  RSVP: <a href="https://owasp-austin-may2020-chapter-meeting.eventbrite.com">Eventbrite</a>
-</p>
 <br>
-<p>Zoom Meeting: <a href="https://zoom.us/j/99042059932">Here!</a></p>
+<p>Youtube: <a href="https://youtu.be/Vjmc9rJiSr8">Here!</a></p>
   
 [back to top](#welcome)
 <hr>
