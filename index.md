@@ -62,17 +62,19 @@ Allie Mellen is a security strategist at Cybereason. She has spent several years
 
 ### LASCON 2020 ###
 
-**When:** October 27-28, 2020 (Pre-Conference Training), October 29-30. 2020 (Conference) 
+From the LASCON 2020 Planning Team:
 
-**Where:** Norris Conference Center, Austin TX
+It is with heavy heart that we are cancelling LASCON for 2020.
 
->Limited number of Early Bird discounted conference tickets are still available. <a href="https://lascon.org/tickets/" target="_blank">Get yours today</a>!
-  
->Both the <a href="https://lascon.org/cfp/" target="_blank">Call for Papers (CFP)</a> and <a href="https://lascon.org/cft/" target="_blank">Call for Training (CFT)</a> are now open. Deadline for submission is **June 30, 2020**. Submit your proposals today!
+The highlight of LASCON has always been the community of people that meet for learning and sharing for the days of the conference.  Due to the uncertainty related to the coronavirus pandemic, the planning team has made the difficult decision to cancel LASCON for 2020 in its entirety.  While we did consider going virtual with the conference, we determined we could not provide the community atmosphere that makes LASCON special. We are now winding down LASCON for 2020 and looking ahead to LASCON in 2021.
 
-> *We are very much aware of the current concerns with COVID-19 and that an in-person event may not be possible. At this point in time we are continuing to plan for an in-person pre-conference training and conference, being optimistic that by October the situation will improve. However, we want to ensure we have alternative plans, such as making the training and the conference presentations virtual. With that in mind, we request that training and presentations be designed for conducting either in-person or virtual. If virtual, we will provide the necessary technical guidelines and assistance to trainers and presenters.*
+All advance ticket purchases will be refunded in full, and funds will be credited back via the original method of purchase.  Sponsors will be contacted directly with additional details.
 
->See the <a href="https://lascon.org" target="_blank">LASCON website</a> for more information.
+For those who have submitted their talks and training as part of our CFP and CFT, we want to express our appreciation of your willingness to contribute to LASCON 2020 and help to make it a successful event. While we will not have an event this year, we wish that you consider submitting your talk or training as part of our CFP and CFT for LASCON 2021 when we make those available.
+
+Any questions should be directed to lascon@owasp.org
+
+We thank you for all the support we receive from the community, and we look forward to hosting you once again for an awesome LASCON in 2021
 
 [back to top](#welcome)
 <hr>
