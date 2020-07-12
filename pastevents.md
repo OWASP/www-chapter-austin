@@ -25,6 +25,25 @@ altfooter: true
 
 ### 2020 ###
 ---
+### OWASP Austin Chapter Meeting May 26th, 2020 ###
+
+**When:** Tuesday, May 26th, 2020 @ 12:00 AM - 1:00 PM
+
+**Title: Architecting for Security in the Cloud** 
+<blockquote> 
+  <br>Emergency Fill-In Presetnation
+  Josh presented on best-practicies and lesson-learned that he has done while architecting SimpleRisk in cloud providers.
+</blockquote>
+
+**Speaker:** 
+<blockquote>
+Josh Sokol, CISSP, graduated from the University of Texas at Austin with a BS in Computer Science in 2002. Since that time, he has worked for several large companies, including AMD and BearingPoint, spent some time as a military contractor, Information Security Program Owner at National Instruments, and now runs SimpleRisk. In his current role, Sokol manages all aspects of the application, infrastructure, architecture, and business roles for SimpleRisk.  Prior to and during all of his roles, Josh has been a key community member for Austin OWASP as well as serving a four year term on the OWASP Global Board of Directors. 
+</blockquote>
+
+<br>
+<p>Youtube: <a href="https://youtu.be/d7caCHYGDB8">Here!</a></p>
+  
+[back to top](#welcome)
 
 ### OWASP Austin Chapter Meeting May 26th, 2020 ###
 
