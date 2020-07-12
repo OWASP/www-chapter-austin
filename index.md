@@ -24,25 +24,26 @@ Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See be
 
 Upcoming Events
 ---------------
-### OWASP Austin Chapter Meeting June 30th, 2020 ###
+### OWASP Austin Chapter Meeting July 28th, 2020 ###
 
-**When:** Tuesday, June 30th, 2020 @ 12:00 AM - 1:00 PM
+**When:** Tuesday, July 28th, 2020 @ 12:00 AM - 1:00 PM
 
-**Where:** Online @ <a href="https://zoom.us/j/94403240234">Zoom</a>!
+**Where:** Online @ <a href="https://zoom.us/j/99042059932">Zoom</a>!
 
-**Title: Mobile Security in a Remote World** 
+**Title:The Spice Must Flow: AppSec for DevOps** 
 <blockquote> 
   <br>
-Attacks on the endpoint are no longer limited to traditional endpoints like laptops and workstations; mobile devices have been ranked the #1 hardest enterprise asset to defend. Compounded by bring-your-own device policies, enterprises are struggling to protect themselves against a growing variety of mobile threats. In this session, we will dive into the challenges with securing mobile in the enterprise security space and the evolution of mobile device security. Join us to learn about why attackers are shifting to target mobile, validated by investigations from the Cybereason Nocturnus team, and how the enterprise security industry is moving to address them. 
+Your approach to application security will likely be dictated by your team’s role in the development process.  Developers will usually gravitate to SAST and security engineers to DAST but what about everyone in between?  Should DevOps try to adopt these strategies, modify them, or reinvent the wheel?
+<br>
+In this session, we’ll discuss several different approaches that you can take when rolling out your application security strategy that keep DevOps top of mind.
 </blockquote>
 
 **Speaker:** 
 <blockquote>
-Allie Mellen is a security strategist at Cybereason. She has spent several years in the cybersecurity space and has been recognized globally for her security research. Over the past ten years, she has held various engineering, development, and consulting roles in the technology sector. She received her B.S. degree in computer engineering from Boston University
+Garrett Gross received his first modem at age six and has been plugged in ever since. Today, he is a technical advisor for the VRM practice at Rapid7, specializing in application security. Garrett serves as an interdepartmental liaison, a global escalation layer for the practice, and provides technical enablement across all organizations. He has served in various information technology roles in a myriad of environments, ranging from systems administration in higher education to network engineering at security startups. Garrett has been a hacker and technophile his entire life, loving nothing more than discovering new ways to make and break things.
 </blockquote>
-
 <p>
-  RSVP: <a href="https://owasp-austin-june2020-chapter-meeting.eventbrite.com">Eventbrite</a>
+  RSVP: <a href="https://owasp-austin-july2020-chapter-meeting.eventbrite.com">Eventbrite</a>
 </p>
 <br>
 <p>Zoom Meeting: <a href="https://zoom.us/j/99042059932">Here!</a></p>
