@@ -51,9 +51,9 @@ Garrett Gross received his first modem at age six and has been plugged in ever s
 [back to top](#welcome)
 <hr>
 
-### CANCELLED - Austin Security Professionals Happy Hour, June 11, 2020 ###
+### CANCELLED - Austin Security Professionals Happy Hour, July 9, 2020 ###
 
->Businesses have begun to open up locally in Austin, and our venue for the happy hour is available for June. However, they are operating under limited capacity. Due to some logistic challenges with the limited capacity, we have decided to cancel June's happy hour. We will evaluate in mid June for decision to have the happy hour in July.
+>Businesses have begun to open up locally in Austin, and our venue for the happy hour is available. However, they are operating under limited capacity. Due to some logistic challenges with the limited capacity, we have decided to cancel  happy hour. We will evaluate in mid month for decision to have the happy hour next month.
 
 >We wish everyone to stay safe and be informed. More information on COVID-19 available at <a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html" target="_blank">www.cdc.gov</a>.
 
