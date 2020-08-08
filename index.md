@@ -48,7 +48,7 @@ Claudia Diaz is Chief Scientist of Nym Technologies SA and an Associate Professo
   RSVP: <a href="https://owasp-austin-august2020-chapter-meeting.eventbrite.com">Eventbrite</a>
 </p>
 <br>
-<p>Zoom Meeting: <a href="https://zoom.us/j/92553541778">Here!</a></p>
+<p>Zoom Meeting: Coming soon</p>
   
 [back to top](#welcome)
 <hr>
