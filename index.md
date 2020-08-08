@@ -31,7 +31,7 @@ Upcoming Events
 
 **When:** Tuesday, August 25th, 2020 @ 12:00 AM - 1:00 PM
 
-**Where:** Online @ <a href="https://zoom.us/j/92553541778">Zoom</a>!
+**Where:** Online @ Zoom</a>!
 
 **Title: Strong network anonymity with mixnets** 
 <blockquote> 
