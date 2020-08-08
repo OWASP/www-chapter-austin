@@ -25,6 +25,29 @@ altfooter: true
 
 ### 2020 ###
 ---
+### OWASP Austin Chapter Meeting June 30th, 2020 ###
+
+**When:** Tuesday, June 30th, 2020 @ 12:00 AM - 1:00 PM
+
+**Title:The Spice Must Flow: AppSec for DevOps** 
+<blockquote> 
+Your approach to application security will likely be dictated by your team’s role in the development process.  Developers will usually gravitate to SAST and security engineers to DAST but what about everyone in between?  Should DevOps try to adopt these strategies, modify them, or reinvent the wheel?
+<br>
+In this session, we’ll discuss several different approaches that you can take when rolling out your application security strategy that keep DevOps top of mind.
+</blockquote>
+
+**Speaker:** 
+<blockquote>
+Garrett Gross received his first modem at age six and has been plugged in ever since. Today, he is a technical advisor for the VRM practice at Rapid7, specializing in application security. Garrett serves as an interdepartmental liaison, a global escalation layer for the practice, and provides technical enablement across all organizations. He has served in various information technology roles in a myriad of environments, ranging from systems administration in higher education to network engineering at security startups. Garrett has been a hacker and technophile his entire life, loving nothing more than discovering new ways to make and break things.
+</blockquote>
+
+<br>
+<p>Youtube: <a href="https://youtu.be/y-opYHXUigo">Here!</a></p>
+  
+[back to top](#welcome)
+
+
+
 ### OWASP Austin Chapter Meeting May 26th, 2020 ###
 
 **When:** Tuesday, May 26th, 2020 @ 12:00 AM - 1:00 PM
