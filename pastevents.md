@@ -25,9 +25,9 @@ altfooter: true
 
 ### 2020 ###
 ---
-### OWASP Austin Chapter Meeting June 30th, 2020 ###
+### OWASP Austin Chapter Meeting July 28th, 2020 ###
 
-**When:** Tuesday, June 30th, 2020 @ 12:00 AM - 1:00 PM
+**When:** Tuesday, July 28th, 2020 @ 12:00 AM - 1:00 PM
 
 **Title:The Spice Must Flow: AppSec for DevOps** 
 <blockquote> 
