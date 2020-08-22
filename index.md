@@ -31,7 +31,7 @@ Upcoming Events
 
 **When:** Tuesday, August 25th, 2020 @ 12:00 AM - 1:00 PM
 
-**Where:** Online @ Zoom</a>!
+**Where:** Online @ <a href="https://zoom.us/j/92946826272?pwd=UDRqSDhKd2R3Z1FoZzhVNGd2Y2JMUT09">Zoom</a>!
 
 **Title: Strong network anonymity with mixnets** 
 <blockquote> 
@@ -48,7 +48,7 @@ Claudia Diaz is Chief Scientist of Nym Technologies SA and an Associate Professo
   RSVP: <a href="https://owasp-austin-august2020-chapter-meeting.eventbrite.com">Eventbrite</a>
 </p>
 <br>
-<p>Zoom Meeting: Coming soon</p>
+<p>Zoom Meeting: <a href="https://zoom.us/j/92946826272?pwd=UDRqSDhKd2R3Z1FoZzhVNGd2Y2JMUT09">Here</a></p>
   
 [back to top](#welcome)
 <hr>
