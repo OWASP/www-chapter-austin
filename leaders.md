@@ -1,8 +1,9 @@
 ### Leaders
 
 * [Kyle Smith](mailto:kyle.smith@owasp.org) - Chapter Leader
-<P>
-... [see full list of Austin Chapter Leadership](leadership.md)
+
+
+[see full list of Austin Chapter Leadership](leadership.md)
 
 
 ### Historical Leadership
