@@ -25,6 +25,29 @@ altfooter: true
 
 ### 2020 ###
 ---
+
+### OWASP Austin Chapter Meeting August 25th, 2020 ###
+
+**When:** Tuesday, August 25th, 2020 @ 12:00 AM - 1:00 PM
+**Title: Strong network anonymity with mixnets** 
+<blockquote> 
+  <br>
+This talk will motivate the need for anonymity at the network layer and introduce basic anonymity concepts and metrics that are applicable to communication settings. We will review the relevant adversary models and introduce mixnets, a type of anonymous communication system that protects communications against more powerful adversaries than Tor. We will explain the different features that need to be considered when designing mixnet routing protocols and introduce the Nym mixnet architecture, which is currently being developed and implemented by Nym Technologies SA and already available as a testnet. 
+</blockquote>
+
+**Speaker:** 
+<blockquote>
+Claudia Diaz is Chief Scientist of Nym Technologies SA and an Associate Professor at the COSIC research group of the Department of Electrical Engineering (ESAT) at the KU Leuven, where she leads the Privacy Technologies Team. She holds a Master's degree in Telecommunications Engineering at the University of Vigo (Spain, 2000), and a Ph.D. in Engineering at the KU Leuven (Belgium, 2005). Her research is focused on the design, analysis, and applications of technologies to protect online privacy, and in particular technologies that offer protection for metadata to prevent traffic analysis, tracking, localisation, or behavioral profiling. Detailed information is available here: https://homes.esat.kuleuven.be/~cdiaz/
+</blockquote>
+
+<p>
+<a href="https://youtu.be/fgHds84Vdcc">Youtube</href> 
+</p>
+<br>
+
+[back to top](#welcome)
+
+
 ### OWASP Austin Chapter Meeting July 28th, 2020 ###
 
 **When:** Tuesday, July 28th, 2020 @ 12:00 AM - 1:00 PM
