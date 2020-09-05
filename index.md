@@ -27,33 +27,31 @@ Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See be
 
 Upcoming Events
 ---------------
-### OWASP Austin Chapter Meeting August 25th, 2020 ###
+**When:** Tuesday, September 29th, 2020 @ 12:00 AM - 1:00 PM
 
-**When:** Tuesday, August 25th, 2020 @ 12:00 AM - 1:00 PM
+**Where:** Online @ <a href="https://zoom.us/j/96690986903">Zoom</a>!
 
-**Where:** Online @ <a href="https://zoom.us/j/92946826272?pwd=UDRqSDhKd2R3Z1FoZzhVNGd2Y2JMUT09">Zoom</a>!
-
-**Title: Strong network anonymity with mixnets** 
+**Title: The Digital World War: Why You Need Military Veterans on Your Security Team** 
 <blockquote> 
   <br>
-This talk will motivate the need for anonymity at the network layer and introduce basic anonymity concepts and metrics that are applicable to communication settings. We will review the relevant adversary models and introduce mixnets, a type of anonymous communication system that protects communications against more powerful adversaries than Tor. We will explain the different features that need to be considered when designing mixnet routing protocols and introduce the Nym mixnet architecture, which is currently being developed and implemented by Nym Technologies SA and already available as a testnet. 
+During this talk we will highlight some of the competencies needed for an effective cyber warrior and compare them with the skills forged through combat readiness training in the military. Furthermore, we will explore how we can create better security teams within our respective organizations to meet today’s information security needs. Finally, we will look at how cyber warfare is replacing traditional battlefields and how today’s transitioning veterans are looking for ways to continue the fight in the civilian world.
 </blockquote>
 
 **Speaker:** 
 <blockquote>
-Claudia Diaz is Chief Scientist of Nym Technologies SA and an Associate Professor at the COSIC research group of the Department of Electrical Engineering (ESAT) at the KU Leuven, where she leads the Privacy Technologies Team. She holds a Master's degree in Telecommunications Engineering at the University of Vigo (Spain, 2000), and a Ph.D. in Engineering at the KU Leuven (Belgium, 2005). Her research is focused on the design, analysis, and applications of technologies to protect online privacy, and in particular technologies that offer protection for metadata to prevent traffic analysis, tracking, localisation, or behavioral profiling. Detailed information is available here: https://homes.esat.kuleuven.be/~cdiaz/
+Sam Danna is a Security Consultant for Solis Security - an Austin-based security firm that performs DFIR, GRC, MSSP, and Penetration Testing. Sam is currently on the Red Team assisting in a variety of penetration testing projects. Prior to joining Solis, Sam served in the 82nd Airborne Division as paratrooper in the infantry. Sam started his career in cybersecurity in 2019 after completing Microsoft Software and System Academy’s Cybersecurity Program.
 </blockquote>
 
 <p>
-  RSVP: <a href="https://owasp-austin-august2020-chapter-meeting.eventbrite.com">Eventbrite</a>
+  RSVP: <a href="https://owasp-austin-september2020-chapter-meeting.eventbrite.com">Eventbrite</a>
 </p>
 <br>
-<p>Zoom Meeting: <a href="https://zoom.us/j/92946826272?pwd=UDRqSDhKd2R3Z1FoZzhVNGd2Y2JMUT09">Here</a></p>
+<p>Zoom Meeting: <a href="https://zoom.us/j/96690986903">Here!</a></p>
   
 [back to top](#welcome)
 <hr>
 
-### CANCELLED - Austin Security Professionals Happy Hour, August 13, 2020 ###
+### CANCELLED - Austin Security Professionals Happy Hour, September 10, 2020 ###
 
 >Businesses have begun to open up locally in Austin, and our venue for the happy hour is available. However, they are operating under limited capacity. Due to some logistic challenges with the limited capacity, we have decided to cancel  happy hour. We will evaluate in mid month for decision to have the happy hour next month.
 
