@@ -46,7 +46,7 @@ Sam Danna is a Security Consultant for Solis Security - an Austin-based security
   RSVP: <a href="https://owasp-austin-september2020-chapter-meeting.eventbrite.com">Eventbrite</a>
 </p>
 <br>
-<p>Zoom Meeting: <a href="https://zoom.us/j/96690986903">Here!</a></p>
+<p>Zoom Meeting: <a href="https://zoom.us/j/96690986903?pwd=K3dDQTJVd0N5QngvOVFIRm5PbTdOQT09">Here!</a></p>
   
 [back to top](#welcome)
 <hr>
