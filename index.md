@@ -27,31 +27,33 @@ Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See be
 
 Upcoming Events
 ---------------
-**When:** Tuesday, September 29th, 2020 @ 12:00 AM - 1:00 PM
+**When:** Tuesday, October 27th, 2020 @ 12:00 AM - 1:00 PM
 
-**Where:** Online @ <a href="https://zoom.us/j/96690986903">Zoom</a>!
+**Where:** Online @ Zoom (RSVP at either link below to receive the URL)</a>!
 
-**Title: The Digital World War: Why You Need Military Veterans on Your Security Team** 
+**Title: Mobile Security in a Remote World** 
 <blockquote> 
   <br>
-During this talk we will highlight some of the competencies needed for an effective cyber warrior and compare them with the skills forged through combat readiness training in the military. Furthermore, we will explore how we can create better security teams within our respective organizations to meet today’s information security needs. Finally, we will look at how cyber warfare is replacing traditional battlefields and how today’s transitioning veterans are looking for ways to continue the fight in the civilian world.
+Attacks on the endpoint are no longer limited to traditional endpoints like laptops and workstations; mobile devices have been ranked the #1 hardest enterprise asset to defend. Compounded by bring-your-own device policies, enterprises are struggling to protect themselves against a growing variety of mobile threats. In this session, we will dive into the challenges with securing mobile in the enterprise security space and the evolution of mobile device security. Join us to learn about why attackers are shifting to target mobile, validated by investigations from the Cybereason Nocturnus team, and how the enterprise security industry is moving to address them.
 </blockquote>
 
 **Speaker:** 
 <blockquote>
-Sam Danna is a Security Consultant for Solis Security - an Austin-based security firm that performs DFIR, GRC, MSSP, and Penetration Testing. Sam is currently on the Red Team assisting in a variety of penetration testing projects. Prior to joining Solis, Sam served in the 82nd Airborne Division as paratrooper in the infantry. Sam started his career in cybersecurity in 2019 after completing Microsoft Software and System Academy’s Cybersecurity Program.
+Allie Mellen has spent the past decade in engineering, development, and technical consulting roles at multiple venture-backed startups, as well as research roles at MIT and Boston University. Her passion is combining technology and entrepreneurship, having run her own successful iOS development company out of college and been an investment partner at a venture fund investing in student-run startups. She has worked with multiple nonprofits to teach engineering to students and minorities, including the Global App Initiative and WISP, and has mentored business students at Hult Business School. She received her B.S. degree in Computer Engineering, and has been recognized worldwide for her security research at conferences like Black Hat USA, DEFCON, HOPE, and others. She is now a security strategist in the Office of the CSO at Cybereason, where she is a frequent speaker at security conferences globally teaching about security and pushing the boundaries of the industry.
 </blockquote>
 
 <p>
-  RSVP: <a href="https://owasp-austin-september2020-chapter-meeting.eventbrite.com">Eventbrite</a>
+  RSVP: <a href="https://owasp-austin-october2020-chapter-meeting.eventbrite.com">Eventbrite</a>
+    Or
+  <a href="https://www.meetup.com/OWASP-Austin-Chapter/events/273845168/">Meetup</a>
 </p>
 <br>
-<p>Zoom Meeting: <a href="https://zoom.us/j/96690986903?pwd=K3dDQTJVd0N5QngvOVFIRm5PbTdOQT09">Here!</a></p>
+<p>Zoom Meeting: RSVP above to receive the Zoom URL!</a></p>
   
 [back to top](#welcome)
 <hr>
 
-### CANCELLED - Austin Security Professionals Happy Hour, September 10, 2020 ###
+### CANCELLED - Austin Security Professionals Happy Hour, October 8, 2020 ###
 
 >Businesses have begun to open up locally in Austin, and our venue for the happy hour is available. However, they are operating under limited capacity. Due to some logistic challenges with the limited capacity, we have decided to cancel  happy hour. We will evaluate in mid month for decision to have the happy hour next month.
 
