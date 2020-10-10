@@ -28,6 +28,26 @@ altfooter: true
 
 ### OWASP Austin Chapter Meeting August 25th, 2020 ###
 
+**When:** Tuesday, September 29th, 2020 @ 12:00 AM - 1:00 PM
+
+**Title: The Digital World War: Why You Need Military Veterans on Your Security Team** 
+<blockquote> 
+  <br>
+During this talk we will highlight some of the competencies needed for an effective cyber warrior and compare them with the skills forged through combat readiness training in the military. Furthermore, we will explore how we can create better security teams within our respective organizations to meet today’s information security needs. Finally, we will look at how cyber warfare is replacing traditional battlefields and how today’s transitioning veterans are looking for ways to continue the fight in the civilian world.
+</blockquote>
+
+**Speaker:** 
+<blockquote>
+Sam Danna is a Security Consultant for Solis Security - an Austin-based security firm that performs DFIR, GRC, MSSP, and Penetration Testing. Sam is currently on the Red Team assisting in a variety of penetration testing projects. Prior to joining Solis, Sam served in the 82nd Airborne Division as paratrooper in the infantry. Sam started his career in cybersecurity in 2019 after completing Microsoft Software and System Academy’s Cybersecurity Program.
+</blockquote>
+
+<p>
+Youtube
+</p>
+<br>
+
+### OWASP Austin Chapter Meeting August 25th, 2020 ###
+
 **When:** Tuesday, August 25th, 2020 @ 12:00 AM - 1:00 PM
 **Title: Strong network anonymity with mixnets** 
 <blockquote> 
