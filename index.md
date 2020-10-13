@@ -29,7 +29,7 @@ Upcoming Events
 ---------------
 **When:** Tuesday, October 27th, 2020 @ 12:00 AM - 1:00 PM
 
-**Where:** Online @ Zoom (RSVP at either link below to receive the URL)</a>!
+**Where:** Online @ Zoom (RSVP at either link below to receive the URL)!
 
 **Title: Mobile Security in a Remote World** 
 <blockquote> 
@@ -48,7 +48,7 @@ Allie Mellen has spent the past decade in engineering, development, and technica
   <a href="https://www.meetup.com/OWASP-Austin-Chapter/events/273845168/">Meetup</a>
 </p>
 <br>
-<p>Zoom Meeting: RSVP above to receive the Zoom URL!</a></p>
+<p>Zoom Meeting: RSVP above to receive the Zoom URL!</p>
   
 [back to top](#welcome)
 <hr>
