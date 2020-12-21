@@ -61,7 +61,7 @@ Claudia Diaz is Chief Scientist of Nym Technologies SA and an Associate Professo
 </blockquote>
 
 <p>
-<a href="https://youtu.be/fgHds84Vdcc">Youtube</a href> 
+<a href="https://youtu.be/fgHds84Vdcc">Youtube changed</a> 
 </p>
 <br>
 
