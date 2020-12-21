@@ -61,7 +61,7 @@ Claudia Diaz is Chief Scientist of Nym Technologies SA and an Associate Professo
 </blockquote>
 
 <p>
-<a href="https://youtu.be/fgHds84Vdcc">Youtube</href> 
+<a href="https://youtu.be/fgHds84Vdcc">Youtube</a href> 
 </p>
 <br>
 
@@ -130,7 +130,7 @@ Hazel arrived in Austin under 2 years ago  from the UK having worked in healthca
 </blockquote>
 
 <br>
-<p>Youtube: <a href="https://youtu.be/Vjmc9rJiSr8">Here!</a></p>
+<p>Youtube: <a href="https://youtu.be/Vjmc9rJiSr8">Here!</href></p>
   
 [back to top](#welcome)
 
