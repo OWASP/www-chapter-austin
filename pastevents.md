@@ -57,11 +57,11 @@ This talk will motivate the need for anonymity at the network layer and introduc
 
 **Speaker:** 
 <blockquote>
-Claudia Diaz is Chief Scientist of Nym Technologies SA and an Associate Professor at the COSIC research group of the Department of Electrical Engineering (ESAT) at the KU Leuven, where she leads the Privacy Technologies Team. She holds a Master's degree in Telecommunications Engineering at the University of Vigo (Spain, 2000), and a Ph.D. in Engineering at the KU Leuven (Belgium, 2005). Her research is focused on the design, analysis, and applications of technologies to protect online privacy, and in particular technologies that offer protection for metadata to prevent traffic analysis, tracking, localisation, or behavioral profiling. Detailed information is available here: https://homes.esat.kuleuven.be/~cdiaz/
+Claudia Diaz is Chief Scientist of Nym Technologies SA and an Associate Professor at the COSIC research group of the Department of Electrical Engineering (ESAT) at the KU Leuven, where she leads the Privacy Technologies Team. She holds a Master's degree in Telecommunications Engineering at the University of Vigo (Spain, 2000), and a Ph.D. in Engineering at the KU Leuven (Belgium, 2005). Her research is focused on the design, analysis, and applications of technologies to protect online privacy, and in particular technologies that offer protection for metadata to prevent traffic analysis, tracking, localisation, or behavioral profiling. Detailed information is available here: <a href="https://homes.esat.kuleuven.be/~cdiaz/">Claudia Diaz</a>
 </blockquote>
 
 <p>
-<a href="https://youtu.be/fgHds84Vdcc">Youtube changed</a> 
+<a href="https://youtu.be/fgHds84Vdcc">Youtube</a> 
 </p>
 <br>
 
