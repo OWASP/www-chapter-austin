@@ -26,7 +26,7 @@ altfooter: true
 ### 2020 ###
 ---
 
-### OWASP Austin Chapter Meeting August 25th, 2020 ###
+### OWASP Austin Chapter Meeting September 29th, 2020 ###
 
 **When:** Tuesday, September 29th, 2020 @ 12:00 AM - 1:00 PM
 
@@ -42,7 +42,7 @@ Sam Danna is a Security Consultant for Solis Security - an Austin-based security
 </blockquote>
 
 <p>
-Youtube
+	Youtube <a href="https://youtu.be/MpJrpkJZz44">Here!</a>
 </p>
 <br>
 
