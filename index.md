@@ -45,6 +45,9 @@ The Austin Chapter of the OWASP Foundation invites you to join us for our Crypto
 **Speaker:** 
 <blockquote>
 Josh Sokol and others
+<br><br>  
+  Josh Sokol, CISSP, graduated from the University of Texas at Austin with a BS in Computer Science in 2002. Since that time, he has worked for several large companies, including AMD and BearingPoint, spent some time as a military contractor, Information Security Program Owner at National Instruments, and now runs SimpleRisk. In his current role, Sokol manages all aspects of the application, infrastructure, architecture, and business roles for SimpleRisk. Prior to and during all of his roles, Josh has been a key community member for Austin OWASP as well as serving a four year term on the OWASP Global Board of Directors.
+
 </blockquote>
 
 <p>
