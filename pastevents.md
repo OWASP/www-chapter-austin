@@ -26,6 +26,26 @@ altfooter: true
 ### 2020 ###
 ---
 
+### OWASP Austin Chapter Meeting October 27th, 2020 ###
+
+**When:** Tuesday, October 27th, 2020 @ 12:00 AM - 1:00 PM
+
+**Title: Mobile Security in a Remote World** 
+<blockquote> 
+  <br>
+Attacks on the endpoint are no longer limited to traditional endpoints like laptops and workstations; mobile devices have been ranked the #1 hardest enterprise asset to defend. Compounded by bring-your-own device policies, enterprises are struggling to protect themselves against a growing variety of mobile threats. In this session, we will dive into the challenges with securing mobile in the enterprise security space and the evolution of mobile device security. Join us to learn about why attackers are shifting to target mobile, validated by investigations from the Cybereason Nocturnus team, and how the enterprise security industry is moving to address them.
+</blockquote>
+
+**Speaker:** 
+<blockquote>
+Allie Mellen has spent the past decade in engineering, development, and technical consulting roles at multiple venture-backed startups, as well as research roles at MIT and Boston University. Her passion is combining technology and entrepreneurship, having run her own successful iOS development company out of college and been an investment partner at a venture fund investing in student-run startups. She has worked with multiple nonprofits to teach engineering to students and minorities, including the Global App Initiative and WISP, and has mentored business students at Hult Business School. She received her B.S. degree in Computer Engineering, and has been recognized worldwide for her security research at conferences like Black Hat USA, DEFCON, HOPE, and others. She is now a security strategist in the Office of the CSO at Cybereason, where she is a frequent speaker at security conferences globally teaching about security and pushing the boundaries of the industry.
+</blockquote>
+
+<p>
+	Youtube Coming</a>
+</p>
+ 
+
 ### OWASP Austin Chapter Meeting September 29th, 2020 ###
 
 **When:** Tuesday, September 29th, 2020 @ 12:00 AM - 1:00 PM
