@@ -38,13 +38,13 @@ In 1996, John Perry Barlow, co-founder of the Electronic Frontier Foundation (EF
 In the 21st century we face problems of climate change, energy crisis, state censorship, mass surveillance, and on-going wars. We must be free to to communicate and associate without fear. To realize our right to privacy and anonymity online, we need peer-reviewed, crowd-sourced solutions. CryptoParties provide the opportunity to meet up and learn how to use these solutions to give us all the means with which to assert our right to privacy and anonymity online. Topics include technologies like TOR, full-disk encryption, GPG, and many more. CryptoParties are free to attend, public, and not commercially aligned.
 <br>
 The Austin Chapter of the OWASP Foundation invites you to join us for our CryptoParty where you will learn the tools and techniques to keep you safe from prying eyes.
+<br><br>
   Please contact <a href="mailto:josh.sokol@owasp.org">Josh Sokol</a> to be added to the list!
-Speaker: Josh Sokol and others
 </blockquote>
 
 **Speaker:** 
 <blockquote>
-Josh Sokol
+Josh Sokol and others
 </blockquote>
 
 <p>
