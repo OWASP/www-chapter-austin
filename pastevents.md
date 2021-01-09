@@ -42,7 +42,7 @@ Allie Mellen has spent the past decade in engineering, development, and technica
 </blockquote>
 
 <p>
-	Youtube Coming</a>
+	<a href="https://youtu.be/ZMyAGJCn1fs">Youtube</a>
 </p>
  
 
