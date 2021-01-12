@@ -27,22 +27,22 @@ The chapter leadership board is as follows:
       <th>Person(s)</th></tr>
   <tr><td>Chapter Leader</td>
       <td>The central point of contact for the Chapter and responsible to the OWASP Board. Serves as Chapter Leader and Chapter board chair.</td>
-      <td>Kyle Smith</td></tr>
+    <td><a href="mailto:kyle.smith@owasp.org">Kyle Smith</a></td></tr>
     <tr><td>Sponsor Coordinator</td>
       <td>Serves as the primary liaison between the Chapter and all sponsors, and solicits sponsors for the Chapter meetings, happy hours, LASCON, and other events.</td>
-      <td>Tiana Chandler</td></tr>
+      <td><a href="mailto:tiana.chandler@owasp.org">Tiana Chandler</a></td></tr>
     <tr><td>Speaker Coordinator</td>
       <td>Seeks and schedules speakers for monthly Chapter meetings, LASCON, and other events.</td>
-      <td>Kate Brew</td></tr>
+      <td><a href="mailto:katembrew@owasp.org">Kate Brew</a></td></tr>
     <tr><td>Education Coordinator</td>
       <td>Coordinates all of the Chapter-sponsored educational offerings, to include the weekly Study Group and LASCON training.</td>
-      <td>Matt Pardo</td></tr>
+      <td><a href="mailto:matt.pardo@owasp.org">Matt Pardo</a></td></tr>
     <tr><td>PR/Marketing Coordinator</td>
       <td>Provides marketing of LASCON and other Chapter events.</td>
-      <td>Ryan Murphy</td></tr>
+      <td><a href="mailto:ryan.murphy@owasp.org">Ryan Murphy</a></td></tr>
     <tr><td>Membership and Project Coordinator</td>
       <td>Coordinates activities to grow individual and corporate memberships. Acts as project manager for events, such as LASCON, tracking assigned tasks and reporting progress.</td>
-      <td>Paul "griff" Griffiths</td></tr>
+      <td><a href="mailto:beth.sautter@owasp.org">Beth Sautter</a></td></tr>
     <tr><td>Events Committee</td>
       <td>All of the Chapter Leadership Coordinators are responsible for coordinating aspects of events, including the annual Lonestar Application Security Conference (LASCON). The Chapter Leader acts as the committee chair.</td>
       <td>Chapter Leadership Coordinators</td></tr>
