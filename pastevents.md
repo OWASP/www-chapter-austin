@@ -49,12 +49,9 @@ Bertold Kolics<br>
 <br>
 Bryn Schulke<br>
 <br>
-
 </blockquote>
-
+<br>
 <p><a href="https://youtu.be/FxSTiHpRvbg">Youtube</a></p>
-
-
 
 ### 2020 ###
 ---
