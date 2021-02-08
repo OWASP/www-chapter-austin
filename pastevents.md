@@ -52,7 +52,6 @@ Bryn Schulke<br>
 
 </blockquote>
 
-<p>
 <p><a href="https://youtu.be/FxSTiHpRvbg">Youtube</a></p>
 
 
