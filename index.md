@@ -27,39 +27,29 @@ Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See be
 
 Upcoming Events
 ---------------
-**When:** Tuesday, January 26th, 2021 @ 12:00 AM - 1:00 PM
+**When:** Tuesday, February 23rd, 2021 @ 12:00 AM - 1:00 PM
 
 **Where:** Online @ Zoom (RSVP at either link below to receive the URL)!
 
-**Title: CryptoParty** 
+**Title: Coming Soon!!** 
 <blockquote> 
-In 1996, John Perry Barlow, co-founder of the Electronic Frontier Foundation (EFF) wrote 'A Declaration of the Independence of Cyberspace' where he stated "We are creating a world that all may enter without privelege or prejudice accorded by race, economic power, military force, or station of birth. We are creating a world where anyone, anywhere may express his or her beliefs, no matter how singular, without fear of being coerced into silence or conformity." The Internet of today is an amazing place of knowledge and opportunity, but it unfortunately falls short of Mr. Barlow's original vision.
-<br>
-In the 21st century we face problems of climate change, energy crisis, state censorship, mass surveillance, and on-going wars. We must be free to to communicate and associate without fear. To realize our right to privacy and anonymity online, we need peer-reviewed, crowd-sourced solutions. CryptoParties provide the opportunity to meet up and learn how to use these solutions to give us all the means with which to assert our right to privacy and anonymity online. Topics include technologies like TOR, full-disk encryption, GPG, and many more. CryptoParties are free to attend, public, and not commercially aligned.
-<br>
-The Austin Chapter of the OWASP Foundation invites you to join us for our CryptoParty where you will learn the tools and techniques to keep you safe from prying eyes.
-<br><br>
-  Please contact <a href="mailto:josh.sokol@owasp.org">Josh Sokol</a> to be added to the list!
+Coming Soon!
 </blockquote>
 
 **Speaker:** 
 <blockquote>
-Josh Sokol and others
-<br><br>  
-  Josh Sokol, CISSP, graduated from the University of Texas at Austin with a BS in Computer Science in 2002. Since that time, he has worked for several large companies, including AMD and BearingPoint, spent some time as a military contractor, Information Security Program Owner at National Instruments, and now runs SimpleRisk. In his current role, Sokol manages all aspects of the application, infrastructure, architecture, and business roles for SimpleRisk. Prior to and during all of his roles, Josh has been a key community member for Austin OWASP as well as serving a four year term on the OWASP Global Board of Directors.
-
+Coming Soon!
 </blockquote>
 
 <p>
-  RSVP <a href="https://www.eventbrite.com/e/owasp-austin-chapter-monthly-meeting-january-2021-tickets-136107484149">Eventbrite</a>
-  or <a href="https://owasp-austin-october2020-chapter-meeting.eventbrite.com">Meetup</a> 
+  RSVP Coming Soon! 
 </p>
 <p>Zoom Meeting: RSVP above to receive the Zoom URL!</p>
   
 [back to top](#welcome)
 <hr>
 
-### CANCELLED - Austin Security Professionals Happy Hour, January 7th, 2021 ###
+### CANCELLED - Austin Security Professionals Happy Hour, February 11th, 2021 ###
 
 We will evaluate in mid month for decision to have the happy hour next month.
 
