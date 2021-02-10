@@ -44,7 +44,9 @@ A globally recognized application security expert, Dan Cornell holds over 15 yea
 </blockquote>
 
 <p>
-  RSVP Coming Soon! 
+  RSVP at either --
+  <a href="https://www.eventbrite.com/e/owasp-austin-chapter-monthly-meeting-february-2021-tickets-141071423425">Eventbrite</a>
+  <a href="https://www.meetup.com/OWASP-Austin-Chapter/events/276275926">Meetup</a>
 </p>
 <p>Zoom Meeting: RSVP above to receive the Zoom URL!</p>
   
