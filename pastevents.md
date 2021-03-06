@@ -24,6 +24,24 @@ altfooter: true
 
 ### 2021 ###
 ---
+**When:** Tuesday, February 23rd, 2021 @ 12:00 AM - 1:00 PM
+
+**Title: AppSec Fast and Slow: Your DevSecOps CI/CD Pipeline Isn’t an SSA Program** 
+<blockquote> 
+With all the focus on DevSecOps and integrating security into Continuous Integration/Continuous Delivery (CI/CD) pipelines, some teams may be lured into thinking that the entirety of a Software Security Assurance (SSA) program can be baked into these pipelines. While integrating security into CI/CD offers many benefits, it is critical to understand that a full SSA program encompasses a variety of activities – many of which are incompatible with run time restrictions and other constraints imposed by these pipelines. This webinar looks at the breadth of activities involved in a mature SSA program and steps through the aspects of a program that can be realistically included in a pipeline, as well as those that cannot. It also reviews how these activities and related tooling have evolved over time as the application security discipline has matured and as development teams started to focus on cloud-native development techniques and technologies.
+</blockquote>
+
+**Speaker:** 
+<blockquote>
+Dan Cornell
+
+A globally recognized application security expert, Dan Cornell holds over 15 years of experience architecting, developing and securing web-based software systems. As Chief Technology Officer and Principal at Denim Group, Ltd., he leads the technology team to help Fortune 500 companies and government organizations integrate security throughout the development process.
+</blockquote>
+
+<p>
+  <a href="https://youtu.be/XIdE-C_XveU">YouTube</a>
+</p>
+
 ### OWASP Austin Chapter Meeting January 26th, 2021 ###
 
 **When:** Tuesday, January 26th, 2021 @ 12:00 AM - 1:00 PM
