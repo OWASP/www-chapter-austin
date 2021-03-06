@@ -27,33 +27,38 @@ Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See be
 
 Upcoming Events
 ---------------
-**When:** Tuesday, February 23rd, 2021 @ 12:00 AM - 1:00 PM
+**When:** Tuesday, March 30th, 2021 @ 12:00 AM - 1:00 PM
 
 **Where:** Online @ Zoom (RSVP at either link below to receive the URL)!
 
-**Title: AppSec Fast and Slow: Your DevSecOps CI/CD Pipeline Isn’t an SSA Program** 
+**Title: Successful Customer Engagements using the OWASP Mobile Application Security Verification Standard** 
 <blockquote> 
-With all the focus on DevSecOps and integrating security into Continuous Integration/Continuous Delivery (CI/CD) pipelines, some teams may be lured into thinking that the entirety of a Software Security Assurance (SSA) program can be baked into these pipelines. While integrating security into CI/CD offers many benefits, it is critical to understand that a full SSA program encompasses a variety of activities – many of which are incompatible with run time restrictions and other constraints imposed by these pipelines. This webinar looks at the breadth of activities involved in a mature SSA program and steps through the aspects of a program that can be realistically included in a pipeline, as well as those that cannot. It also reviews how these activities and related tooling have evolved over time as the application security discipline has matured and as development teams started to focus on cloud-native development techniques and technologies.
+The team will be discussing Mobile Application Penetration Testing from the perspectives of original scoping and testing using OWASP’s Mobile Application Security Verification Standard including the various tools and resources available on both Android and IOS. We will be discussing not just the OWASP standard, but also give advice on lessons learned through our engagements highlighting several key issues and obstacles to consider for ensuring a successful experience for both the customer and your team.
 </blockquote>
 
 **Speaker:** 
 <blockquote>
-Dan Cornell
-
-A globally recognized application security expert, Dan Cornell holds over 15 years of experience architecting, developing and securing web-based software systems. As Chief Technology Officer and Principal at Denim Group, Ltd., he leads the technology team to help Fortune 500 companies and government organizations integrate security throughout the development process.
+Speakers:
+<ul>
+  <li>Mark Spears, Solis Security -  Sr. Security Consultant & Red Team Lead</li>
+  <li>Sam Danna, Solis Security - Security Consultant</li>
+  <li>Jon Adderholt, Solis Securiyt - Security Consultant</li>
+  <li>Angela Lane, Solis Security – Project Manager</li>
+</ul>
+Mark, Sam, and Jon comprise the Offensive Security Operations (aka Red Team) at Solis Security performing all sorts of engagements including Network, Web Application (+Mobile, APIs, and etc), Spearphishing, Wifi, Hardware Hacking, and more.
 </blockquote>
 
 <p>
   RSVP at either --
-  <a href="https://www.eventbrite.com/e/owasp-austin-chapter-monthly-meeting-february-2021-tickets-141071423425">Eventbrite</a>
-  <a href="https://www.meetup.com/OWASP-Austin-Chapter/events/276275926">Meetup</a>
+  <a href="https://owasp-austin-march-2021.eventbrite.com">Eventbrite</a>
+  <a href="https://www.meetup.com/OWASP-Austin-Chapter/events/276781839/">Meetup</a>
 </p>
 <p>Zoom Meeting: RSVP above to receive the Zoom URL!</p>
   
 [back to top](#welcome)
 <hr>
 
-### CANCELLED - Austin Security Professionals Happy Hour, February 11th, 2021 ###
+### CANCELLED - Austin Security Professionals Happy Hour, March 11th, 2021 ###
 
 We will evaluate in mid month for decision to have the happy hour next month.
 
