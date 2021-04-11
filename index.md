@@ -43,8 +43,8 @@ Mary Haskett is the CEO and co-founder of Blink Identity, a venture-backed start
 
 <p>
   RSVP at either --
-  <a href="">Eventbrite</a>
-  <a href="">Meetup</a>
+  <a href="https://www.eventbrite.com/e/owasp-austin-chapter-monthly-meeting-april-2021-tickets-150383301503">Eventbrite</a>
+  <a href="https://www.meetup.com/OWASP-Austin-Chapter/events/277504710">Meetup</a>
 </p>
 <p>Zoom Meeting: RSVP above to receive the Zoom URL!</p>
   
