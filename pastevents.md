@@ -24,7 +24,26 @@ altfooter: true
 
 ### 2021 ###
 ---
-**When:** Tuesday, February 23rd, 2021 @ 12:00 AM - 1:00 PM
+### OWASP Austin Chapter Meeting March 30, 2021 ###
+**Title: Successful Customer Engagements using the OWASP Mobile Application Security Verification Standard** 
+<blockquote> 
+The team will be discussing Mobile Application Penetration Testing from the perspectives of original scoping and testing using OWASP’s Mobile Application Security Verification Standard including the various tools and resources available on both Android and IOS. We will be discussing not just the OWASP standard, but also give advice on lessons learned through our engagements highlighting several key issues and obstacles to consider for ensuring a successful experience for both the customer and your team.
+</blockquote>
+
+**Speakers:** 
+<blockquote>
+Mark Spears, Solis Security - Sr. Security Consultant & Red Team Lead
+Sam Danna, Solis Security - Security Consultant
+Jon Adderholt, Solis Securiyt - Security Consultant
+Angela Lane, Solis Security – Project Manager
+Mark, Sam, and Jon comprise the Offensive Security Operations (aka Red Team) at Solis Security performing all sorts of engagements including Network, Web Application (+Mobile, APIs, and etc), Spearphishing, Wifi, Hardware Hacking, and more.
+</blockquote>
+
+<p>
+  <a href="https://youtu.be/L32gmirXp9A">YouTube</a>
+</p>
+
+### OWASP Austin Chapter Meeting February 23, 2021 ###
 
 **Title: AppSec Fast and Slow: Your DevSecOps CI/CD Pipeline Isn’t an SSA Program** 
 <blockquote> 
@@ -41,7 +60,7 @@ A globally recognized application security expert, Dan Cornell holds over 15 yea
 <p>
   <a href="https://youtu.be/XIdE-C_XveU">YouTube</a>
 </p>
-
+---
 ### OWASP Austin Chapter Meeting January 26th, 2021 ###
 
 **When:** Tuesday, January 26th, 2021 @ 12:00 AM - 1:00 PM
