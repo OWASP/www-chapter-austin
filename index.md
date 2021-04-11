@@ -27,38 +27,31 @@ Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See be
 
 Upcoming Events
 ---------------
-**When:** Tuesday, March 30th, 2021 @ 12:00 AM - 1:00 PM
+**When:** Tuesday, April 27th, 2021 @ 12:00 PM - 1:00 PM CST
 
 **Where:** Online @ Zoom (RSVP at either link below to receive the URL)!
 
-**Title: Successful Customer Engagements using the OWASP Mobile Application Security Verification Standard** 
+**Biometrics and Privacy** 
 <blockquote> 
-The team will be discussing Mobile Application Penetration Testing from the perspectives of original scoping and testing using OWASP’s Mobile Application Security Verification Standard including the various tools and resources available on both Android and IOS. We will be discussing not just the OWASP standard, but also give advice on lessons learned through our engagements highlighting several key issues and obstacles to consider for ensuring a successful experience for both the customer and your team.
+The business use of biometric identification technology is becoming more prevalent and with it's growing adoption, there is a growing number of state regulations concerning its use and related privacy and data handling issues. This talk will cover how biometric identification works in general and review the various state regulations and guidelines concerning how this unique form of personally identifiable information should be handled and stored.
 </blockquote>
 
 **Speaker:** 
 <blockquote>
-Speakers:
-<ul>
-  <li>Mark Spears, Solis Security -  Sr. Security Consultant & Red Team Lead</li>
-  <li>Sam Danna, Solis Security - Security Consultant</li>
-  <li>Jon Adderholt, Solis Securiyt - Security Consultant</li>
-  <li>Angela Lane, Solis Security – Project Manager</li>
-</ul>
-Mark, Sam, and Jon comprise the Offensive Security Operations (aka Red Team) at Solis Security performing all sorts of engagements including Network, Web Application (+Mobile, APIs, and etc), Spearphishing, Wifi, Hardware Hacking, and more.
+Mary Haskett is the CEO and co-founder of Blink Identity, a venture-backed startup developing a unique privacy-preserving face recognition product that can identify people at a full walking speed and in any lighting conditions. She got her start running a skydiving school and went on to start multiple companies which she grew to profitability without outside funding. She is a beekeeper, Techstars alumni and privacy advocate.
 </blockquote>
 
 <p>
   RSVP at either --
-  <a href="https://owasp-austin-march-2021.eventbrite.com">Eventbrite</a>
-  <a href="https://www.meetup.com/OWASP-Austin-Chapter/events/276781839/">Meetup</a>
+  <a href="">Eventbrite</a>
+  <a href="">Meetup</a>
 </p>
 <p>Zoom Meeting: RSVP above to receive the Zoom URL!</p>
   
 [back to top](#welcome)
 <hr>
 
-### CANCELLED - Austin Security Professionals Happy Hour, March 11th, 2021 ###
+### CANCELLED - Austin Security Professionals Happy Hour, April 8th, 2021 ###
 
 We will evaluate in mid month for decision to have the happy hour next month.
 
