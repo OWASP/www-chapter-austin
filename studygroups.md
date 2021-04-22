@@ -35,7 +35,7 @@ The Austin OWASP Study Group is currently working on OSINT using the book <i>Ope
   
 > **When:**  The study group meets weekly on Thursdays from 12:00 to 1:00 PM
 
-> **Where:**  Due to the current pandemic, the study group is held virtually. Join the specific study group topic's Slack AustinOWASP channel (see below) to obtain details.
+> **Where:**  Due to the current pandemic, the study group is held virtually. Join the specific channel within Slack AustinOWASP (see below) to obtain details.
  
 <!-- National Instruments, Building A, Room 217 (Directions: [GoogleMaps](https://www.google.com/maps/place/National+Instruments/@30.4077179,-97.7268262,17z/data#!3m1!4b1!4m2!3m1!1s0x865b34c37397e56b:0x765d5bc26a58ce96), [MapQuest](http://www.mapquest.com/maps?address#11500+N+Mo+Pac+Expy&city#Austin&state#TX&zipcode#78759&redirect#true) -->
 
