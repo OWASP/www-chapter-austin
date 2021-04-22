@@ -31,7 +31,7 @@ altfooter: true
 
 ### Current Study Group Topic ###
 
-The Austin OWASP Study Group is currently working on OSINT using the book <i>Open Source Intelligence Techniques: Resources for Searching and Analyzing Online Information</i> and other resources. Book is available on Amazon at https://www.amazon.com/Open-Source-Intelligence-Techniques-Information/dp/B08RRDTFF9/ref=sr_1_3?dchild=1&keywords=OSINT&qid=1619112943&sr=8-3.
+The Austin OWASP Study Group is currently working on OSINT using the book <i>Open Source Intelligence Techniques: Resources for Searching and Analyzing Online Information</i> and other resources. Book is [available on Amazon] (https://www.amazon.com/Open-Source-Intelligence-Techniques-Information/dp/B08RRDTFF9/ref=sr_1_3?dchild=1&keywords=OSINT&qid=1619112943&sr=8-3).
   
 > **When:**  The study group meets weekly on Thursdays from 12:00 to 1:00 PM
 
