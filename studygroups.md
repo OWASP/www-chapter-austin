@@ -29,17 +29,18 @@ altfooter: true
 
 ----
 
-**Windows PowerShell**
+### Current Study Group Topic ###
 
-The Austin OWASP Study Group is currently working through various Capture the Flag(CTF) Challenges on HacktheBox.eu.  It is open to all who are interested and ready to learn a lot about pen testing and CTFs!.
-
+The Austin OWASP Study Group is currently working on OSINT using the book <i>Open Source Intelligence Techniques: Resources for Searching and Analyzing Online Information</i> and other resources. Book is available on Amazon at https://www.amazon.com/Open-Source-Intelligence-Techniques-Information/dp/B08RRDTFF9/ref=sr_1_3?dchild=1&keywords=OSINT&qid=1619112943&sr=8-3.
   
 > **When:**  The study group meets weekly on Thursdays from 12:00 to 1:00 PM
 
-> **Where:**  National Instruments, Building A, Room 217 (Directions: [GoogleMaps](https://www.google.com/maps/place/National+Instruments/@30.4077179,-97.7268262,17z/data#!3m1!4b1!4m2!3m1!1s0x865b34c37397e56b:0x765d5bc26a58ce96), [MapQuest](http://www.mapquest.com/maps?address#11500+N+Mo+Pac+Expy&city#Austin&state#TX&zipcode#78759&redirect#true)
+> **Where:**  Due to the current pandemic, the study group is held virtually. Join the specific study group topic's Slack AustinOWASP channel (see below) to obtain details.
+ 
+<!-- National Instruments, Building A, Room 217 (Directions: [GoogleMaps](https://www.google.com/maps/place/National+Instruments/@30.4077179,-97.7268262,17z/data#!3m1!4b1!4m2!3m1!1s0x865b34c37397e56b:0x765d5bc26a58ce96), [MapQuest](http://www.mapquest.com/maps?address#11500+N+Mo+Pac+Expy&city#Austin&state#TX&zipcode#78759&redirect#true) -->
 
 > **How to follow:** Status of meetings and discussion of topic will be communicated through the [Slack AustinOWASP](https://austinowasp.slack.com).  Following is the specific channel for collaborating on the topic:
-<pre>#hackthebox</pre>
+<pre>#osint</pre>
 
 > **Additional Information:** If any questions related to the study group, please contact the Education Coordinator, Matt Pardo, matt (dot) pardo (at) owasp (dot) org.
 
@@ -48,6 +49,7 @@ The Austin OWASP Study Group is currently working through various Capture the Fl
 
 ### Previous Study Group Topics ###
 
+* "HacktheBox" study using various Capture the Flag(CTF) Challenges on HacktheBox.eu.
 * "Windows PowerShell" study using the book <i>Learn Windows PowerShell in a Month of Lunches</i> (3rd Edition) by Donald W. Jones and Jeffrey Hicks (Slack #powershell)
 * "Certified Cloud Security Professional (CCSP)" study using the CSP Certified Cloud Security Professional All-in-One Exam Guide (1st Edition) book (Slack #cloud_security_study)
 * "Certified Ethical Hacker" book
