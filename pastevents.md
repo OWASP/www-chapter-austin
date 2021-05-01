@@ -24,6 +24,23 @@ altfooter: true
 
 ### 2021 ###
 ---
+### OWASP Austin Chapter Meeting April 27th, 2021 ###
+
+**Title: Biometrics and Privacy**
+
+<blockquote>
+The business use of biometric identification technology is becoming more prevalent and with it's growing adoption, there is a growing number of state regulations concerning its use and related privacy and data handling issues. This talk will cover how biometric identification works in general and review the various state regulations and guidelines concerning how this unique form of personally identifiable information should be handled and stored.
+</blockquote>
+
+**Speaker:**
+<blockquote>
+Mary Haskett is the CEO and co-founder of Blink Identity, a venture-backed startup developing a unique privacy-preserving face recognition product that can identify people at a full walking speed and in any lighting conditions. She got her start running a skydiving school and went on to start multiple companies which she grew to profitability without outside funding. She is a beekeeper, Techstars alumni and privacy advocate.
+</blockquote>
+<p>
+	<a href="https://youtu.be/-MXH-HHyzBc">YouTube</a>
+</P>
+
+
 ### OWASP Austin Chapter Meeting March 30, 2021 ###
 **Title: Successful Customer Engagements using the OWASP Mobile Application Security Verification Standard** 
 <blockquote> 
