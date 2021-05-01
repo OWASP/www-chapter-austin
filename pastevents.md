@@ -49,10 +49,10 @@ The team will be discussing Mobile Application Penetration Testing from the pers
 
 **Speakers:** 
 <blockquote>
-Mark Spears, Solis Security - Sr. Security Consultant & Red Team Lead
-Sam Danna, Solis Security - Security Consultant
-Jon Adderholt, Solis Securiyt - Security Consultant
-Angela Lane, Solis Security – Project Manager
+Mark Spears, Solis Security - Sr. Security Consultant & Red Team Lead<br>
+Sam Danna, Solis Security - Security Consultant<br>
+Jon Adderholt, Solis Securiyt - Security Consultant<br>
+Angela Lane, Solis Security – Project Manager<br><br>
 Mark, Sam, and Jon comprise the Offensive Security Operations (aka Red Team) at Solis Security performing all sorts of engagements including Network, Web Application (+Mobile, APIs, and etc), Spearphishing, Wifi, Hardware Hacking, and more.
 </blockquote>
 
