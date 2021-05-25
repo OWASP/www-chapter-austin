@@ -25,7 +25,7 @@ Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See be
 
 <hr/>
 
-Upcoming Events
+## Upcoming Events
 
 {% include chapter_events.html group=page.meetup-group %}
 
