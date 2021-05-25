@@ -26,6 +26,9 @@ Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See be
 <hr/>
 
 Upcoming Events
+
+{% include chapter_events.html group=page.meetup-group %}
+
 ---------------
 **When:** Tuesday, May 25th, 2021 @ 12:00 PM - 1:00 PM CST
 
