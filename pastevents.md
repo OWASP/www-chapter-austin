@@ -24,6 +24,35 @@ altfooter: true
 
 ### 2021 ###
 ---------------
+### OWASP Austin Chapter Meeting June 29th, 2021 ###
+
+**Title: An alternative approach to security that will make you reassess everything you think you know about security, users, and you life.** 
+<blockquote> 
+Your security ideas are stupid - so I got some weird ideas and forced them to fit a narrative that shows that if we just do a Steve Jobs and "think differently" then maybe, just maybe, we can make a small dent in the security universe.
+
+As Abba once said, "Take a chance on me" because let's be honest, what's the worst that could happen? We could keep trying to do the same things and over the next 5 years the OWASP top 10 will look EXACTLY the same as it always has.
+
+Or we could try some of my radical ideas and the OWASP top 10 will look exactly the same.
+
+Or - bear with me - my radical ideas will change the world as we know it and future developers will laugh as to why the OWASP top 10 was even a thing back in the year 2021.
+
+In this talk, I shall convince you that
+
+- Psychology IS technology, and we need to understand people better
+- Logical thinking is a bad idea
+- Why maths makes us appear clever, but act dumber
+</blockquote>
+
+**Speaker:** 
+<blockquote>
+Javvad Malik is a security awareness advocate for EMEA at KnowBe4. A security professional of 20 years, Malik has began his career as an IT security administrator. He’s since worked as a consultant, an industry analyst, and a security advocate. Malik is well-known within the information security industry, having spoken at many events and conferences around the world in addition to being a YouTuber, podcaster, blogger, and researcher. With a distinctive style, he takes a fresh and often innovative look at even mundane topics and presents them in an entertaining and informative light. Tackling the most complex issues with ease in this witty style is Malik’s forte.  
+</blockquote>
+
+<p>
+  <a href="https://youtu.be/XCTHU-kR5Tk">YouTube</a>
+</p>  
+
+
 ### OWASP Austin Chapter Meeting May 25th, 2021 ###
 
 **Title: Scale Your Security by Embracing Secure Defaults & Eliminating Bug Classes** 
