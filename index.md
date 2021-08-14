@@ -32,7 +32,7 @@ Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See be
 
 <hr>
 
-### CANCELLED - Austin Security Professionals Happy Hour, June 10th, 2021 ###
+### CANCELLED - Austin Security Professionals Happy Hour, 2021 ###
 
 We will evaluate in mid month for decision to have the happy hour next month.
 
