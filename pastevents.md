@@ -24,6 +24,22 @@ altfooter: true
 
 ### 2021 ###
 ---------------
+### OWASP Austin Chapter Meeting July 27th, 2021 ###
+
+**Title: Make Your MFA Simple.** 
+<blockquote> 
+The number of downloads for Google's mobile 2FA authenticator is ~ 50M. That sounds like a big number ... until you compare it with the overall number of Android users, which is 2.5B. The percent of users utilizing the authenticator is around 2%. You can add other popular authenticators like Symantec VIP, MS, Authy, but the % will be still around 3%. Given that all popular Internet companies do support this type of 2FA, the question arises: why is adoption of these 2FA tools so low? I personally can't think of anything else except usability and natural human's laziness. In my presentation I'll take a look at what's available and how usability of the authenticators can be improved to make them more popular and pervasive.
+</blockquote>
+
+**Speaker:** 
+<blockquote>
+Oleg Gryb 
+</blockquote>
+
+<p>
+  <a href="https://youtu.be/1T6EPOwRloo">YouTube</a>
+</p>  
+
 ### OWASP Austin Chapter Meeting June 29th, 2021 ###
 
 **Title: An alternative approach to security that will make you reassess everything you think you know about security, users, and you life.** 
