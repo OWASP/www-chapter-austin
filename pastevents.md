@@ -24,6 +24,24 @@ altfooter: true
 
 ### 2021 ###
 ---------------
+
+### OWASP Austin Chapter Meeting August 31st, 2021 ###
+
+**Title: Securing Terraform State in an Azure DevOps Pipeline.** 
+<blockquote> 
+Terraform is a popular Infrastructure as Code ecosystem whose declarative and idempotent model relies on maintaining a state file which can contain sensitive information. The continuity and security of this file is important and this presentation discusses the investigation, lessons learned, thrills and chills of discovering how to secure and maintain this file in the context of corporate security requirements for a Fortune 75, Azure Cloud, and Azure DevOps.
+</blockquote>
+
+**Speaker:** 
+<blockquote>
+Garth Boyd<br>
+Garth Boyd is a Senior Application Security Architect/Cloud Security Architect specializing in Secure Software Architecture and Ethical Hacking. He supports organizations wishing a designer, creator, and breaker to help them on their security path. A lifelong learner who enjoys crafting solutions to interesting and tough problems through architecture, threat modelling, mitigation design, and penetration testing. Researching new ideas, troubleshooting, communication, and thinking of six impossible things before breakfast are part of the journey. Currently, Garth is the OWASP Ottawa Chapter Leader and an independent consultant working though his own company called Devious Plan.</blockquote>
+
+<p>
+  <a href="https://youtu.be/_LgihYlhzOk">YouTube</a>
+</p>  
+
+
 ### OWASP Austin Chapter Meeting July 27th, 2021 ###
 
 **Title: Make Your MFA Simple.** 
