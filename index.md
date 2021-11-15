@@ -32,11 +32,14 @@ Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See be
 
 <hr>
 
-### CANCELLED - Austin Security Professionals Happy Hour, 2021 ###
+### TBA - Austin Security Professionals Happy Hour, 2022 ###
 
-We will evaluate in mid month for decision to have the happy hour next month.
+We will be evaluating when to begin having in-person Happy Hour events. Be sure to sign up for the <a href="https://groups.google.com/a/owasp.org/g/austin-chapter" target="_blank">Austin Chapter mailing list</a> to get up-to-date announcements.
 
-We wish everyone to stay safe and be informed. More information on COVID-19 available at <a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html" target="_blank">www.cdc.gov</a>.
+[back to top](#welcome)
 
+### LASCON 2022 - SAVE THE DATES! ###
+
+We are already planning for LASCON 2022. We plan to be back in person at Norris Conference Center with Pre-Conference Training October 25-26, 2022 and Conference October 27-28, 2022. Visit <a href="https://lascon.org/" target="_blank">lascon.org</a> for more information on upcoming CFP, CFT, and early bird discounted tickets.
 
 [back to top](#welcome)
