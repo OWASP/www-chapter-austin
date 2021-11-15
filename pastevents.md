@@ -19,11 +19,46 @@ altfooter: true
 
 ## Past Events ##
 
-[2021](#2021) [2020](#2020)   [2019](#2019)   [2018](#2018)   [2017](#2017)  
+[2022](#2022) [2021](#2021) [2020](#2020)   [2019](#2019)   [2018](#2018)   [2017](#2017)  
 <br/>(see Past Events Archive for earlier events)
 
-### 2021 ###
+### 2022 ###
 ---------------
+
+### OWASP Austin Chapter Meeting January 25th, 2022 ###
+
+**Title: TBA ** 
+<blockquote> 
+TBA.
+</blockquote>
+
+**Speaker:** 
+<blockquote>
+TBA<br>
+TBA.</blockquote>
+
+<p>
+  TBA
+</p> 
+
+<hr>
+
+### 2021 ###
+---
+
+### LASCON 2021  ###
+
+**When:** Tuesday & Wednesday, October 26-27, 2021 (Pre-Conference Training), Thursday & Friday, October 28-29, 2021 (Conference Sessions)
+
+**Where:** Norris Conference Center, 2525 W. Anderson Lane, Suite 365, Austin, Texas 78757
+
+It was great to be back to an in-person conference. Many thanks to those who attended!
+
+[Schedule](https://lascon2021.sched.com)
+
+[Videos of presentations](https://lascon.org/past-lascon-2021/)
+
+[Back to Top](#past-events)
 
 ### OWASP Austin Chapter Meeting August 31st, 2021 ###
 
@@ -472,7 +507,7 @@ We had a great time celebrating our 10th year anniversary of LASCON. Many thanks
 
 [Schedule](https://lasconx2019.sched.com)
 
-[Videos of presentations](https://lascon.org/lascon2019/)
+[Videos of presentations](https://lascon.org/past-lascon-2019/)
 
 [Back to Top](#past-events)
 
