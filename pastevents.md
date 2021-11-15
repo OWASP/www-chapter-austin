@@ -25,23 +25,7 @@ altfooter: true
 ### 2022 ###
 ---------------
 
-### OWASP Austin Chapter Meeting January 25th, 2022 ###
 
-**Title: TBA ** 
-<blockquote> 
-TBA.
-</blockquote>
-
-**Speaker:** 
-<blockquote>
-TBA<br>
-TBA.</blockquote>
-
-<p>
-  TBA
-</p> 
-
-<hr>
 
 ### 2021 ###
 ---
