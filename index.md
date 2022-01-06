@@ -12,6 +12,7 @@ country: USA
 postal-code: 78759
 
 ---
+<!-- rebuild -->
 <strong>Home Page</strong>
 &nbsp;&nbsp;&nbsp;[Chapter Leadership](leadership.md)
 &nbsp;&nbsp;&nbsp;[Study Groups](studygroups.md)
