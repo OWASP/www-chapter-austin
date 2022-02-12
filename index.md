@@ -30,6 +30,25 @@ Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See be
 
 {% include chapter_events.html group=page.meetup-group %}
 
+<hr>
+
+### OWASP Austin Chapter Meeting February 22nd 2022 ###
+
+**When:** Tuesday, February 22, 2022 @ 12:00 AM - 1:00 PM
+
+**Title: Security Observability 101: Thinking Inside the Box!** 
+<blockquote> 
+Software is incredibly hard to secure because it's a black box. We've spent decades struggling to verify properties of software from the outside by analyzing the source code, scanning, fuzzing, pentesting, etc... The goal of "security observability" is to expose exactly what's going on inside the box while it's running. Analyzing a running application has speed, accuracy, coverage, and scalability advantages that change the way Dev, Sec, and Ops communicate and work together. In this talk, you'll learn how to use the free and open source Java Observability Toolkit (JOT) project to easily create your own powerful "inside out" security tests without coding. You can use JOT to analyze security defenses, identify complex vulnerabilities, create custom sandboxes, and enforce policy at runtime. Ultimately, security observability enables DevSecOps to work together in harmony, so you can focus on delivering value at high velocity.
+</blockquote>
+
+**Speaker:** 
+<blockquote>
+Jeff Williams.  Jeff brings more than 20 years of security leadership experience as co-founder and Chief Technology Officer of Contrast Security. Previously, Jeff was co-founder and CEO of Aspect Security, a successful and innovative application security consulting company acquired by EY.  Jeff is also a founder and major contributor to OWASP, where he served as Global Chairman for 10 years, and created the OWASP Top 10, OWASP Enterprise Security API, OWASP Application Security Verification Standard, XSS Prevention Cheat Sheet, and many more popular open source projects. Jeff has a BA from Virginia, an MA from George Mason, and a JD from Georgetown. Please connect on LinkedIn: https://www.linkedin.com/in/planetlevel/
+</blockquote>
+<br>
+RSVP:
+<a href="https://www.meetup.com/OWASP-Austin-Chapter/events/283772816">Meetup</a>
+<a href="https://www.eventbrite.com/e/owasp-austin-chapter-monthly-meeting-february-2022-tickets-263747865967">Eventbrite</a>
 
 <hr>
 
