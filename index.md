@@ -62,4 +62,38 @@ We will be evaluating when to begin having in-person Happy Hour events. Be sure 
 
 We are already planning for LASCON 2022. We plan to be back in person at Norris Conference Center with Pre-Conference Training October 25-26, 2022 and Conference October 27-28, 2022. Visit <a href="https://lascon.org/" target="_blank">lascon.org</a> for more information on upcoming CFP, CFT, and early bird discounted tickets.
 
+Chapter Supporters
+----------------
+The following are the list of OWASP Corporate Members who have generously aligned themselves with the London chapter, therefore contributing funds to our chapter:
+
+<table cellpadding="15" cellspacing="0">
+<tr>
+<td>
+<a href="https://www.gitguardian.com"><img src="assets/images/GitGuardian_Logo_Vertical.png" alt="GitGuardian"/></a>
+</td>
+</tr>
+</table>
+
+Meeting Supports
+----------------
+The following are the list of organizations who have generously provided meeting space for the Austin chapter:
+<table cellpadding="15" cellspacing="0">
+<tr>
+<td>
+  <a href="https://www.ni.com"><img src="assets/images/ni.png" alt="NI"/></a>
+</td>
+</tr>
+</table>
+
+General Supports
+----------------
+The following are the list of organizations who have generously provided additional assistance for the Austin chapter:
+<table cellpadding="15" cellspacing="0">
+<tr>
+<td>
+  <a href="https://www.lascon.org"><img src="assets/images/Lascon500x109.jpg" alt="LASCON"/></a>
+</td>
+</tr>
+</table>
+
 [back to top](#welcome)
