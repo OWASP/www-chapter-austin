@@ -64,7 +64,7 @@ We are already planning for LASCON 2022. We plan to be back in person at Norris 
 
 Chapter Supporters
 ----------------
-The following are the list of OWASP Corporate Members who have generously aligned themselves with the London chapter, therefore contributing funds to our chapter:
+The following are the list of OWASP Corporate Members who have generously aligned themselves with the Austin chapter, therefore contributing funds to our chapter:
 
 <table cellpadding="15" cellspacing="0">
 <tr>
