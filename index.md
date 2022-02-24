@@ -74,7 +74,7 @@ The following are the list of OWASP Corporate Members who have generously aligne
 </tr>
 </table>
 
-Meeting Supports
+Meeting Supporters
 ----------------
 The following are the list of organizations who have generously provided meeting space for the Austin chapter:
 <table cellpadding="15" cellspacing="0">
@@ -85,7 +85,7 @@ The following are the list of organizations who have generously provided meeting
 </tr>
 </table>
 
-General Supports
+General Supporters
 ----------------
 The following are the list of organizations who have generously provided additional assistance for the Austin chapter:
 <table cellpadding="15" cellspacing="0">
