@@ -32,23 +32,25 @@ Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See be
 
 <hr>
 
-### OWASP Austin Chapter Meeting February 22nd 2022 ###
+### OWASP Austin Chapter Meeting March 29th 2022 ###
 
-**When:** Tuesday, February 22, 2022 @ 12:00 AM - 1:00 PM
+**When:** Tuesday, March 29th, 2022 @ 12:00 AM - 1:00 PM
 
-**Title: Security Observability 101: Thinking Inside the Box!** 
+**Title: Application security: Where it all started, where it is now, and where we (hope to) see it in 20 years** 
 <blockquote> 
-Software is incredibly hard to secure because it's a black box. We've spent decades struggling to verify properties of software from the outside by analyzing the source code, scanning, fuzzing, pentesting, etc... The goal of "security observability" is to expose exactly what's going on inside the box while it's running. Analyzing a running application has speed, accuracy, coverage, and scalability advantages that change the way Dev, Sec, and Ops communicate and work together. In this talk, you'll learn how to use the free and open source Java Observability Toolkit (JOT) project to easily create your own powerful "inside out" security tests without coding. You can use JOT to analyze security defenses, identify complex vulnerabilities, create custom sandboxes, and enforce policy at runtime. Ultimately, security observability enables DevSecOps to work together in harmony, so you can focus on delivering value at high velocity.
+Twenty years ago acclaimed venture capitalist, Ted Schlein at Kleiner Perkins, asked a question that changed Roger’s life and ultimately changed the way we look at Security. The two would eventually found Fortify Software, the pioneering company that introduced SAST and RASP technologies to the market. Fortify also led an important change in thinking, a so-called “shift left”, placing security responsibility into the realm of software development.  A lot has changed over those twenty years. In the early days, it was a challenge to give away software security solutions. Today, the leading software security companies are worth billions. Yet, problems still persist and the landscape for software development has become vastly more complex.  
+
+In this talk, Roger will share experiences from the early days while working as Fortify’s co-founder & CTO and later in the RASP market as a board member and advisor to Prevoty. He will share advice and insights into how the market and the technologies started, how they have evolved and where they are headed. Roger and Ted are co-founders once again. They recently founded Ballistic Ventures - the early stage venture capital firm solely dedicated to cybersecurity entrepreneurs. In his new role, regularly meets leaders from both commercial industry and government to better understand their security challenges. He also sees fascinating ideas from cyber entrepreneurs on a daily basis. He will also share insights into the challenges that are the most fertile ground for a new generation of entrepreneurs.  He might even ask a question that changes your life too.
 </blockquote>
 
 **Speaker:** 
 <blockquote>
-Jeff Williams.  Jeff brings more than 20 years of security leadership experience as co-founder and Chief Technology Officer of Contrast Security. Previously, Jeff was co-founder and CEO of Aspect Security, a successful and innovative application security consulting company acquired by EY.  Jeff is also a founder and major contributor to OWASP, where he served as Global Chairman for 10 years, and created the OWASP Top 10, OWASP Enterprise Security API, OWASP Application Security Verification Standard, XSS Prevention Cheat Sheet, and many more popular open source projects. Jeff has a BA from Virginia, an MA from George Mason, and a JD from Georgetown. Please connect on LinkedIn: https://www.linkedin.com/in/planetlevel/
+Roger Thornton is a driving force behind hundreds of technology products and services that have formed and grown companies across a range of industries. As a founder and CTO, his visionary product and technology leadership helped create cybersecurity industry leaders Fortify Software and AlienVault. As an investor, mentor and board member he has helped multiple generations of entrepreneurs build more than 15 successful cybersecurity companies. In his General Partner role at Ballistic, Roger will tap into over 30 years of experience to counsel future generations of cybersecurity founders who are focused on building great products as a foundation for great companies.
 </blockquote>
 <br>
 RSVP:
-<a href="https://www.meetup.com/OWASP-Austin-Chapter/events/283772816">Meetup</a>
-<a href="https://www.eventbrite.com/e/owasp-austin-chapter-monthly-meeting-february-2022-tickets-263747865967">Eventbrite</a>
+<a href="https://www.meetup.com/OWASP-Austin-Chapter/events/284740166">Meetup</a>
+<a href="https://www.eventbrite.com/e/owasp-austin-chapter-monthly-meeting-march-2022-tickets-302225002117">Eventbrite</a>
 
 <hr>
 
