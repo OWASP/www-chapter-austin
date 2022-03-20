@@ -38,7 +38,7 @@ Software is incredibly hard to secure because it's a black box. We've spent deca
 Jeff Williams.  Jeff brings more than 20 years of security leadership experience as co-founder and Chief Technology Officer of Contrast Security. Previously, Jeff was co-founder and CEO of Aspect Security, a successful and innovative application security consulting company acquired by EY.  Jeff is also a founder and major contributor to OWASP, where he served as Global Chairman for 10 years, and created the OWASP Top 10, OWASP Enterprise Security API, OWASP Application Security Verification Standard, XSS Prevention Cheat Sheet, and many more popular open source projects. Jeff has a BA from Virginia, an MA from George Mason, and a JD from Georgetown. Please connect on LinkedIn: https://www.linkedin.com/in/planetlevel/
 </blockquote>
 <br>
-<p><a href="https://youtu.be/">Youtube</a></p>
+<p><a href="https://youtu.be/asD09QrDGpM">Youtube</a></p>
 <hr>
 
 ### OWASP Austin Chapter Meeting January 26th, 2021 ###
