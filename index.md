@@ -32,25 +32,25 @@ Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See be
 
 <hr>
 
-### OWASP Austin Chapter Meeting March 29th 2022 ###
+### OWASP Austin Chapter Meeting April 26th 2022 ###
 
-**When:** Tuesday, March 29th, 2022 @ 12:00 AM - 1:00 PM
+**When:** Tuesday, April 26th, 2022 @ 11:30 AM - 1:00 PM
 
-**Title: Application security: Where it all started, where it is now, and where we (hope to) see it in 20 years** 
+**Title:Securing the Edge** 
 <blockquote> 
-Twenty years ago acclaimed venture capitalist, Ted Schlein at Kleiner Perkins, asked a question that changed Roger’s life and ultimately changed the way we look at Security. The two would eventually found Fortify Software, the pioneering company that introduced SAST and RASP technologies to the market. Fortify also led an important change in thinking, a so-called “shift left”, placing security responsibility into the realm of software development.  A lot has changed over those twenty years. In the early days, it was a challenge to give away software security solutions. Today, the leading software security companies are worth billions. Yet, problems still persist and the landscape for software development has become vastly more complex.  
-
-In this talk, Roger will share experiences from the early days while working as Fortify’s co-founder & CTO and later in the RASP market as a board member and advisor to Prevoty. He will share advice and insights into how the market and the technologies started, how they have evolved and where they are headed. Roger and Ted are co-founders once again. They recently founded Ballistic Ventures - the early stage venture capital firm solely dedicated to cybersecurity entrepreneurs. In his new role, regularly meets leaders from both commercial industry and government to better understand their security challenges. He also sees fascinating ideas from cyber entrepreneurs on a daily basis. He will also share insights into the challenges that are the most fertile ground for a new generation of entrepreneurs.  He might even ask a question that changes your life too.
+We are moving to a new era of compute that is more democratized than ever, underpinned by 5G networks, and focused on “things enabled” experiences. We are moving closer to the edge!
+Edge can bring network and security closer together. Compared with legacy security controls, edge security controls need to provide broader, more centralized visibility across the entire attack surface.
 </blockquote>
 
 **Speaker:** 
 <blockquote>
-Roger Thornton is a driving force behind hundreds of technology products and services that have formed and grown companies across a range of industries. As a founder and CTO, his visionary product and technology leadership helped create cybersecurity industry leaders Fortify Software and AlienVault. As an investor, mentor and board member he has helped multiple generations of entrepreneurs build more than 15 successful cybersecurity companies. In his General Partner role at Ballistic, Roger will tap into over 30 years of experience to counsel future generations of cybersecurity founders who are focused on building great products as a foundation for great companies.
+Join Theresa Lanowitz, Head of Cybersecurity Evangelism, AT&T Business as she reveals the findings of the most recent AT&T Cybersecurity Insights Report and discusses common architectures, use cases, and the perceived risk associated with edge deployments.
 </blockquote>
 <br>
-RSVP:
-<a href="https://www.meetup.com/OWASP-Austin-Chapter/events/284740166">Meetup</a>
-<a href="https://www.eventbrite.com/e/owasp-austin-chapter-monthly-meeting-march-2022-tickets-302225002117">Eventbrite</a>
+RSVP:<br>
+<a href="https://owasp-austin-2022-april.eventbrite.com">Eventbrite</a><br>
+<a href="https://www.meetup.com/OWASP-Austin-Chapter/events/285199340/">Meetup (online)</a><br>
+<a href="https://www.meetup.com/OWASP-Austin-Chapter/events/285199315/">Meetup (in-person)</a><br>
 
 <hr>
 
