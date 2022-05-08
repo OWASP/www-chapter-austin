@@ -24,6 +24,25 @@ altfooter: true
 
 ### 2022 ###
 ---------------
+### OWASP Austin Chapter Meeting April 26th 2022 ###
+
+**When:** Tuesday, April 26th, 2022 @ 12:00 AM - 1:00 PM
+
+**Title: 'Securing the Edge'**
+<blockquote>
+We are moving to a new era of compute that is more democratized than ever, underpinned by 5G networks, and focused on “things enabled” experiences. We are moving closer to the edge!
+Edge can bring network and security closer together. Compared with legacy security controls, edge security controls need to provide broader, more centralized visibility across the entire attack surface.
+</blockquote>
+
+**Speaker:**
+<blockquote>
+Theresa Lanowitz, Head of Cybersecurity Evangelism, AT&T Business revealed the findings of the most recent AT&T Cybersecurity Insights Report and discussed common architectures, use cases, and the perceived risk associated with edge deployments.
+</blockquote>
+<br>
+
+<a href="https://youtu.be/YfH0J1lcW-k">YouTube</a>
+<hr>
+
 ### OWASP Austin Chapter Meeting March 29th 2022 ###
 
 **When:** Tuesday, March 29th, 2022 @ 12:00 AM - 1:00 PM
