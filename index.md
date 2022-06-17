@@ -27,28 +27,29 @@ Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See be
 <hr/>
 
 ## Upcoming Events
-
-<!--  {% include chapter_events.html group=page.meetup-group %}  -->
-
 <hr>
 
-### OWASP Austin Chapter Meeting May 31st 26th 2022 ###
+### OWASP Austin Chapter Meeting June 2022 ###
 
-**When:** Tuesday,May 31st, 2022 @ 11:30 AM - 1:00 PM
+**When:** Tuesday, June 28th, 2022 @ 11:30 AM - 1:00 PM
 
-**Title:Hack your APIs in 15 min or less** 
+**Presentation: The Top Three Trends Driving Cybersecurity Forward** 
 <blockquote> 
- It is very hard, if not impossible, to secure something you don’t know exist. While security professionals spend countless hours on complex yet interesting issues that *may* be exploitable in the future, basic attacks are occurring every day with little to reviews. For example, a “dated trend” by effective yet lazy hackers is to search for API unknown by security teams, coined “Shadow APIs”, connect to these APIs, and extract data. While SQL Injection used to be the hack of choice, as a few simple SQL commands would either mean “pay dirt” or “move on to the next target”, the same can be said for Shadow API….Find, Connect, Extract. This talk will discuss one of many methods that are used in the wild to target Shadow APIs and export large volumes of data with a few clicks of a button (lines of code in python code :). Attendees will learn about a very basic yet non-so-obvious problem in securing data, and how hackers are using creative methods to steal large volumes of data.</blockquote>
+XDR, zero trust and modernizing security all have merit as distinct initiatives to keep enterprises secure. But to protect against a morphing threat landscape you need to have an alchemy of all three. We will share our point of view on fusing these elements together through risk quantification and planning, open platforms, community investment, and a maniacal focus to break down the silo’s that have held security back. We’ll share results on how organizations reduce threats, drive down the cost of data breaches, and build their environments for continuous security and business outcomes.
+</blockquote>
 
 **Speaker:** 
 <blockquote>
-imanshu Dwivedi is the CEO of Data Theorem, Inc., an application security company focusing on API Security (RESTful & GraphQL), mobile apps (iOS &Android), Cloud Apps (Serverless), and Single Page WebApps (SPAs). Himanshu has been an avid start-up entrepreneur since 1999, where he and 3 friends started the west coast office of @stake, an information security firm that was later acquired by Symantec. In 2004, Himanshu co-founded iSEC Partners, an application security company that was acquired by the NCC Group in 2010. Himanshu has several publications, including six different books (Mobile Application Security, Hacking VoIP, Hacking Exposed: Web 2.0, Hacker’s Challenge 3, Storage Security, and Implementing SSH) as well as the owner of one patent (Patent number 7849504). He has also presented at numerous conferences, including 6-time BlackHat speaker. Himanshu received a B.S. from the Carlson School of Management (University of Minnesota), where he was awarded the Tomato Can Loving Cup Award, which is given to the school’s top graduating student.
+Bob Kalka, Vice President of the IBM Security Business Unit.
+
+Bob has been intimately involved for the past two decades in developing IBM’s overall strategy for its comprehensive security-related investments, and currently leads IBM’s global cybersecurity technical professionals. He has held a number of leadership positions in offering management, sales, product development, business development and marketing management.
+
+He is a frequent international speaker on the relationship of business with cybersecurity, risk management, digital transformation and cognitive computing, and has had numerous papers and articles published on these topics.  He also holds a United States Patent related to secure distributed computing software.
 </blockquote>
 <br>
 RSVP:<br>      
-<a href="https://owasp-austin-2022-may.eventbrite.com">Eventbrite</a><br>
-<a href="https://www.meetup.com/OWASP-Austin-Chapter/events/285771267/">Meetup (online)</a><br>
-<a href="https://www.meetup.com/OWASP-Austin-Chapter/events/285199315/">Meetup (in-person)</a><br>
+<a href="https://owasp-austin-2022-june.eventbrite.com" target="_blank">Eventbrite</a><br>
+<a href="https://www.meetup.com/OWASP-Austin-Chapter/events/286619658/" target="_blank">Meetup (online)</a><br>
 
 <hr>
 
