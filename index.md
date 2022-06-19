@@ -41,9 +41,9 @@ XDR, zero trust and modernizing security all have merit as distinct initiatives 
 **Speaker:** 
 <blockquote>
 Bob Kalka, Vice President of the IBM Security Business Unit.
-
+<br>
 Bob has been intimately involved for the past two decades in developing IBM’s overall strategy for its comprehensive security-related investments, and currently leads IBM’s global cybersecurity technical professionals. He has held a number of leadership positions in offering management, sales, product development, business development and marketing management.
-
+<br>
 He is a frequent international speaker on the relationship of business with cybersecurity, risk management, digital transformation and cognitive computing, and has had numerous papers and articles published on these topics.  He also holds a United States Patent related to secure distributed computing software.
 </blockquote>
 <br>
