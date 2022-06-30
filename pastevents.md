@@ -25,11 +25,26 @@ altfooter: true
 ### 2022 ###
 ---------------
 
-### OWASP Austin Chapter Meeting May 31st 26th 2022 ###
+### OWASP Austin Chapter Meeting June 28th 2022 ###
 
-**When:** Tuesday,May 31st, 2022 @ 11:30 AM - 1:00 PM
+**When:** Tuesday, June 28th, 2022 @ 11:30 AM - 1:00 PM
 
-**Title:Hack your APIs in 15 min or less** 
+**Title: Anonymity on the Internet** 
+<blockquote> 
+Presentation providing information about anonymity on the interenet.</blockquote>
+
+**Speaker:** 
+<blockquote>
+Josh Sokol, Chief Executive Officer / Chief Information Security Officer, SimpleRisk
+</blockquote>
+<br>
+<a href="https://youtu.be/Tv6woUDWcSU" target="_blank" rel="noreferrer noopener">YouTube</a>
+
+### OWASP Austin Chapter Meeting May 31st 2022 ###
+
+**When:** Tuesday, May 31st, 2022 @ 11:30 AM - 1:00 PM
+
+**Title: Hack your APIs in 15 min or less** 
 <blockquote> 
  It is very hard, if not impossible, to secure something you don’t know exist. While security professionals spend countless hours on complex yet interesting issues that *may* be exploitable in the future, basic attacks are occurring every day with little to reviews. For example, a “dated trend” by effective yet lazy hackers is to search for API unknown by security teams, coined “Shadow APIs”, connect to these APIs, and extract data. While SQL Injection used to be the hack of choice, as a few simple SQL commands would either mean “pay dirt” or “move on to the next target”, the same can be said for Shadow API….Find, Connect, Extract. This talk will discuss one of many methods that are used in the wild to target Shadow APIs and export large volumes of data with a few clicks of a button (lines of code in python code :). Attendees will learn about a very basic yet non-so-obvious problem in securing data, and how hackers are using creative methods to steal large volumes of data.</blockquote>
 
