@@ -29,27 +29,24 @@ Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See be
 ## Upcoming Events
 <hr>
 
-### OWASP Austin Chapter Meeting June 2022 ###
+### OWASP Austin Chapter Meeting July 2022 ###
 
-**When:** Tuesday, June 28th, 2022 @ 11:30 AM - 1:00 PM
+**When:** Tuesday, July 26th, 2022 @ 11:30 AM - 1:00 PM
 
-**Presentation: The Top Three Trends Driving Cybersecurity Forward** 
+**Presentation: TBA** 
 <blockquote> 
-XDR, zero trust and modernizing security all have merit as distinct initiatives to keep enterprises secure. But to protect against a morphing threat landscape you need to have an alchemy of all three. We will share our point of view on fusing these elements together through risk quantification and planning, open platforms, community investment, and a maniacal focus to break down the silo’s that have held security back. We’ll share results on how organizations reduce threats, drive down the cost of data breaches, and build their environments for continuous security and business outcomes.
+To be announced. Save the date!
 </blockquote>
 
+<!-- 
 **Speaker:** 
 <blockquote>
-Bob Kalka, Vice President of the IBM Security Business Unit.
-<br>
-Bob has been intimately involved for the past two decades in developing IBM’s overall strategy for its comprehensive security-related investments, and currently leads IBM’s global cybersecurity technical professionals. He has held a number of leadership positions in offering management, sales, product development, business development and marketing management.
-<br>
-He is a frequent international speaker on the relationship of business with cybersecurity, risk management, digital transformation and cognitive computing, and has had numerous papers and articles published on these topics.  He also holds a United States Patent related to secure distributed computing software.
+TBA.
 </blockquote>
 <br>
-RSVP:<br>      
+RSVP:<br>     *** Update links below and remove this note ***
 <a href="https://owasp-austin-2022-june.eventbrite.com" target="_blank">Eventbrite</a><br>
-<a href="https://www.meetup.com/OWASP-Austin-Chapter/events/286619658/" target="_blank">Meetup (online)</a><br>
+<a href="https://www.meetup.com/OWASP-Austin-Chapter/events/286619658/" target="_blank">Meetup (online)</a><br> -->
 
 <hr>
 
