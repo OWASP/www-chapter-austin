@@ -26,8 +26,10 @@ The chapter leadership board is as follows:
       <th width="50%">Responsibilities</th>
       <th>Person(s)</th></tr>
   <tr><td>Chapter Leader</td>
-      <td>The central point of contact for the Chapter and responsible to the OWASP Board. Serves as Chapter Leader and Chapter board chair.</td>
-    <td><a href="mailto:kyle.smith@owasp.org">Kyle Smith</a></td></tr>
+      <td>The central point of contact for the Chapter and responsible to the OWASP Board. Serves as Chapter Leader and Chapter board chair.
+      <br/><br/><em>* Others within the Chapter Leaderhship who would be in succession if the current Chapter Leader was not able to fulfill the role.</em></td>
+    <td><a href="mailto:kyle.smith@owasp.org">Kyle Smith</a>
+      <br/><br/>* Tiana Chandler<br/>* Josh Sokol</td></tr>
     <tr><td>Sponsor Coordinator</td>
       <td>Serves as the primary liaison between the Chapter and all sponsors, and solicits sponsors for the Chapter meetings, happy hours, LASCON, and other events.</td>
       <td><a href="mailto:tiana.chandler@owasp.org">Tiana Chandler</a></td></tr>
