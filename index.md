@@ -33,20 +33,25 @@ Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See be
 
 **When:** Tuesday, July 26th, 2022 @ 11:30 AM - 1:00 PM
 
-**Presentation: TBA** 
+**Presentation: 10lbs of tacos in a 5lb bag: Lessons Learned from Security Operations in a Dynamic and Resource Constrained Environment** 
 <blockquote> 
-To be announced. Save the date!
+Building security processes and teams is never easy but can be especially challenging in an evolving, fast-paced environment.  In this presentation, one of the nation’s leading experts in herding cats will share their experience building a security presence, essentially, from the ground up at a company in the middle of its own transformation.  Then, they will discuss some of the lessons learned and other takeaways in hopes that it might aid some of you in your journey.
 </blockquote>
 
-<!-- 
 **Speaker:** 
 <blockquote>
-TBA.
+Garrett Gross, Lvl 42 security wizard
+<br><br>
+Garrett Gross has over 20 years of experience in information security.  His shared passion for technology, problem solving, and people has led Garrett to some incredible opportunities in the past but currently is the driving force behind his efforts as Sr Director, technical sales, at Huntress.  In this role, Garrett is focused on driving revenue growth by building a global network of technical experts to support the sales enablement processes and effectively communicate the value of Huntress’s service offering.
+<br><br>
+Prior to that, Garrett has held a variety of technical responsibilities, including technical support, systems administration, network engineering, penetration testing, tools development, and building/leading security operations teams.
+<br><br>
+Garrett also serves as advisor to several security firms, contributes regularly to podcasts/webinars, competes in CTFs, and looks for ways to mentor those starting out in the security industry.
 </blockquote>
 <br>
-RSVP:<br>     *** Update links below and remove this note ***
-<a href="https://owasp-austin-2022-june.eventbrite.com" target="_blank">Eventbrite</a><br>
-<a href="https://www.meetup.com/OWASP-Austin-Chapter/events/286619658/" target="_blank">Meetup (online)</a><br> -->
+RSVP:<br>
+<a href="https://owasp-austin-2022-july.eventbrite.com" target="_blank">Eventbrite</a><br>
+<a href="https://www.meetup.com/OWASP-Austin-Chapter/events/287071475/" target="_blank">Meetup (online)</a><br>
 
 <hr>
 
