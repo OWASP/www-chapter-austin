@@ -29,29 +29,27 @@ Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See be
 ## Upcoming Events
 <hr>
 
-### OWASP Austin Chapter Meeting July 2022 ###
+### OWASP Austin Chapter Meeting August 2022 ###
 
-**When:** Tuesday, July 26th, 2022 @ 11:30 AM - 1:00 PM
+**When:** Tuesday, August 30th, 2022 @ 11:30 AM - 1:00 PM
 
-**Presentation: 10lbs of tacos in a 5lb bag: Lessons Learned from Security Operations in a Dynamic and Resource Constrained Environment** 
+**Presentation: API Security: When Failure looks like Success w/ Keith Casey** 
 <blockquote> 
-Building security processes and teams is never easy but can be especially challenging in an evolving, fast-paced environment.  In this presentation, one of the nation’s leading experts in herding cats will share their experience building a security presence, essentially, from the ground up at a company in the middle of its own transformation.  Then, they will discuss some of the lessons learned and other takeaways in hopes that it might aid some of you in your journey.
+In the last decade, APIs have become fundamental to our teams, partners, and customers. While we’d like to believe it all happened as a carefully executed plan, let’s be honest: There's as much luck as foresight in the mix. Luckily, success drives success so we’ve seen things explode in great ways. Unfortunately, that very success has cost us too.
+<br>
+APIs are becoming a consistent and devastating attack vector for applications that store everything from financial records to passport information to what you’re looking for in a date. In this session, we’ll reconsider some of our earliest assumptions and lay out some strategies for bringing our APIs out of the shadows and protecting ourselves, our partners, and our customers.
 </blockquote>
 
 **Speaker:** 
 <blockquote>
-Garrett Gross, Lvl 42 security wizard
+Keith Casey
 <br><br>
-Garrett Gross has over 20 years of experience in information security.  His shared passion for technology, problem solving, and people has led Garrett to some incredible opportunities in the past but currently is the driving force behind his efforts as Sr Director, technical sales, at Huntress.  In this role, Garrett is focused on driving revenue growth by building a global network of technical experts to support the sales enablement processes and effectively communicate the value of Huntress’s service offering.
-<br><br>
-Prior to that, Garrett has held a variety of technical responsibilities, including technical support, systems administration, network engineering, penetration testing, tools development, and building/leading security operations teams.
-<br><br>
-Garrett also serves as advisor to several security firms, contributes regularly to podcasts/webinars, competes in CTFs, and looks for ways to mentor those starting out in the security industry.
+Keith Casey serves on the Product/GTM Team at ngrok helping teams launch their systems faster and easier than ever before. Previously, he served on the Product Team at Okta working on Identity and Authentication APIs, as an early Developer Evangelist at Twilio, and worked to answer the Ultimate Geek Question at the Library of Congress. His underlying goal is to get good technology into the hands of good people to do great things. In his spare time, he writes at CaseySoftware.com and lives in the woods. He is also a co-author of “A Practical Approach to API Design.”
 </blockquote>
 <br>
 RSVP:<br>
-<a href="https://owasp-austin-2022-july.eventbrite.com" target="_blank">Eventbrite</a><br>
-<a href="https://www.meetup.com/OWASP-Austin-Chapter/events/287071475/" target="_blank">Meetup (online)</a><br>
+<a href="https://owasp-austin-2022-august.eventbrite.com" target="_blank">Eventbrite</a><br>
+<a href="https://www.meetup.com/owasp-austin-chapter/events/287678668/" target="_blank">Meetup (online)</a><br>
 
 <hr>
 
@@ -64,8 +62,6 @@ We will be evaluating when to begin having in-person Happy Hour events. Be sure 
 ### LASCON 2022 - SAVE THE DATES! ###
 
 Tickets are available LASCON 2022. We will be back in person at Norris Conference Center with Pre-Conference Training October 25-26, 2022 and Conference October 27-28, 2022. Visit <a href="https://lascon.org/" target="_blank">lascon.org</a>.
-
-LASCON 2022 Call-for-Papers is live -- see <a href="https://owasp.submittable.com/submit/223238/lascon-2022-call-for-papers-cfp">Submitable</a>
 
 Chapter Supporters
 ----------------
