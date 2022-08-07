@@ -7,6 +7,7 @@
 
 ### Austin Chapter Links
 * [LinkedIn](https://www.linkedin.com/groups/1250897/)
+* [Facebook](https://www.facebook.com/groups/30315569742)
 * [Meetup](https://www.meetup.com/OWASP-Austin-Chapter/)
 * [Slack @OWASP #chapter-austin](https://owasp-slack.herokuapp.com/ )
 * [Slack @AustinOWASP](https://austinowasp.slack.com/join/shared_invite/zt-5l97jbhc-PNemS6zF~43D1FxoWCX1pw#/)
