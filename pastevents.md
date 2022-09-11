@@ -24,6 +24,28 @@ altfooter: true
 
 ### 2022 ###
 ---------------
+### OWASP Austin Chapter Meeting August 2022 ###
+
+**When:** Tuesday, August 30th, 2022 @ 11:30 AM - 1:00 PM
+
+**Presentation: API Security: When Failure looks like Success w/ Keith Casey** 
+<blockquote> 
+In the last decade, APIs have become fundamental to our teams, partners, and customers. While we’d like to believe it all happened as a carefully executed plan, let’s be honest: There's as much luck as foresight in the mix. Luckily, success drives success so we’ve seen things explode in great ways. Unfortunately, that very success has cost us too.
+<br>
+APIs are becoming a consistent and devastating attack vector for applications that store everything from financial records to passport information to what you’re looking for in a date. In this session, we’ll reconsider some of our earliest assumptions and lay out some strategies for bringing our APIs out of the shadows and protecting ourselves, our partners, and our customers.
+</blockquote>
+
+**Speaker:** 
+<blockquote>
+Keith Casey
+<br><br>
+Keith Casey serves on the Product/GTM Team at ngrok helping teams launch their systems faster and easier than ever before. Previously, he served on the Product Team at Okta working on Identity and Authentication APIs, as an early Developer Evangelist at Twilio, and worked to answer the Ultimate Geek Question at the Library of Congress. His underlying goal is to get good technology into the hands of good people to do great things. In his spare time, he writes at CaseySoftware.com and lives in the woods. He is also a co-author of “A Practical Approach to API Design.”
+</blockquote>
+<br>
+<a href="https://youtu.be/Q5X3J5BScP0">YouTube</a>
+<hr>
+
+
 
 ### OWASP Austin Chapter Meeting July 2022 ###
 
