@@ -47,7 +47,7 @@ As Product Marketing Manager for NowSecure, Brendan Hann focuses on equipping de
 <br>
 RSVP:<br>
 <a href="https://owasp-austin-2022-september.eventbrite.com" target="_blank">Eventbrite</a><br>
-<a href="https://www.meetup.com/OWASP-Austin-Chapter/events/287071475/" target="_blank">Meetup (online)</a><br>
+<a href="https://www.meetup.com/owasp-austin-chapter/events/288406456/" target="_blank">Meetup (online)</a><br>
 
 <hr>
 
