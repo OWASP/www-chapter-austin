@@ -25,41 +25,48 @@ Welcome
 Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See below for [full list of all chapter leadership board](leadership.md).
 
 <hr/>
-
 ## Upcoming Events
 <hr>
 
 ### OWASP Austin Chapter Meeting September 2022 ###
 
-**When:** Tuesday, September 27th, 2022 @ 11:30 AM - 1:00 PM
+**When:** Tuesday, January 31st, 2023 @ 11:30 AM - 1:00 PM
 
-**Presentation: Insider's Guide to Mobile AppSec with OWASP MASVS w/ Brendan Hann** 
+**Presentation: Cryptoparty (various speakers)** 
 <blockquote> 
-From the birth of MASVS and MSTG in January 2018 to the most recent updates, the OWASP Mobile Security Project has advanced the state of mobile app security testing dramatically. As supporters and contributors to the Mobile Security Project at OWASP, we have pen tested thousands of mobile apps and scanned millions of commercial apps in the app stores over the years… and have identified the most common security issues that plague developers and security teams. Whether you are new to mobile pen testing or a veteran looking for the latest tools and tactics, join this session to learn 10 keys to mobile appsec leveraging OWASP MASVS and practical real-world experience.
+In 1996, John Perry Barlow, co-founder of the Electronic Frontier Foundation (EFF) wrote 'A Declaration of the Independence of Cyberspace' where he stated "We are creating a world that all may enter without privilege or prejudice accorded by race, economic power, military force, or station of birth.  We are creating a world where anyone, anywhere may express his or her beliefs, no matter how singular, without fear of being coerced into silence or conformity."  The Internet of today is an amazing place of knowledge and opportunity, but it unfortunately falls short of Mr. Barlow's original vision.
+
+In the 21st century we face problems of climate change, energy crisis, state censorship, mass surveillance, and on-going wars.  We must be free to communicate and associate without fear.  To realize our right to privacy and anonymity online, we need peer-reviewed, crowd-sourced solutions.  CryptoParties provide the opportunity to meet up and learn how to use these solutions to give us all the means with which to assert our right to privacy and anonymity online.  Topics include technologies like TOR, full-disk encryption, GPG, and many more.  CryptoParties are free to attend, public, and not commercially aligned.
+
+At our January 31, 2023 OWASP Austin meeting, we will host a CryptoParty with the goal of inviting others to join us in learning about the tools and technologies that enable an individual's right to privacy.  When the time comes, we will encourage you all to invite your family, friends, and peers to attend this event, but for now, I am looking for others who are willing to give a 10 minute max presentation on a crypto-oriented subject.  The presentation will need to be laid out so that novice and experienced alike can take action based on the data presented.  All tools must be free and open source.  If you are interested in presenting, please e-mail me directly (do not reply to the list) with your name, bio, talk title, and abstract for consideration.  This is going to be EPIC!
 </blockquote>
 
 **Speaker:** 
 <blockquote>
-Brendan Hann
+Josh Sokol (and others!)
 <br><br>
-As Product Marketing Manager for NowSecure, Brendan Hann focuses on equipping developers, security professionals and DevSecOps teams with best-of-breed mobile app security skills, tools and resources. His career has focused on helping organizations deliver innovative, secure applications at scale. Brendan’s track record of success with application and security teams spans NowSecure, Veracode and PayPal. Brendan has presented at OWASP Los Angeles, OWASP Columbus, OWASP Global AppSec 2021, Connect 2021, and DevOps World 2021. With experience in both web and mobile application security testing, Brendan provides a unique perspective on best practices and the successful deployment of DevSecOps.
+Josh Sokol, CISSP, graduated from the University of Texas at Austin with a BS in Computer Science in 2002. Since that time, he has worked for several large companies, including AMD and BearingPoint, spent some time as a military contractor, Information Security Program Owner at National Instruments, and now runs SimpleRisk. In his current role, Sokol manages all aspects of the application, infrastructure, architecture, and business roles for SimpleRisk. Prior to and during all of his roles, Josh has been a key community member for Austin OWASP as well as serving a four year term on the OWASP Global Board of Directors.
 </blockquote>
 <br>
 RSVP:<br>
-<a href="https://owasp-austin-2022-september.eventbrite.com" target="_blank">Eventbrite</a><br>
-<a href="https://www.meetup.com/owasp-austin-chapter/events/288406456/" target="_blank">Meetup (online)</a><br>
+<a href="https://owasp-austin-2023-january.eventbrite.com" target="_blank"> Eventbrite(in-person)</a><br>
+<a href="https://www.meetup.com/owasp-austin-chapter/events/290705619/" target="_blank">Meetup (online)</a>
+<br>
 
+[back to top](#welcome)
 <hr>
 
-### TBA - Austin Security Professionals Happy Hour, 2022 ###
+### TBA - Austin Security Professionals Happy Hour, 2023 ###
 
 We will be evaluating when to begin having in-person Happy Hour events. Be sure to sign up for the <a href="https://groups.google.com/a/owasp.org/g/austin-chapter" target="_blank">Austin Chapter mailing list</a> to get up-to-date announcements.
 
 [back to top](#welcome)
+<hr>
 
-### LASCON 2022 - SAVE THE DATES! ###
+### LASCON 2023 - SAVE THE DATES! ###
 
-Tickets are available LASCON 2022. We will be back in person at Norris Conference Center with Pre-Conference Training October 25-26, 2022 and Conference October 27-28, 2022. Visit <a href="https://lascon.org/" target="_blank">lascon.org</a>.
+Tickets are not yet available LASCON 2023. We will be back at Norris Conference Center with Pre-Conference Training October 24-25, 2023 and Conference October 26-27, 2022. Visit <a href="https://lascon.org/" target="_blank">lascon.org</a>.
+<hr>
 
 Chapter Supporters
 ----------------
