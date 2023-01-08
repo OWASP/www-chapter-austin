@@ -28,7 +28,7 @@ Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See be
 ## Upcoming Events
 <hr>
 
-### OWASP Austin Chapter Meeting September 2022 ###
+### OWASP Austin Chapter Meeting January 2023 ###
 
 **When:** Tuesday, January 31st, 2023 @ 11:30 AM - 1:00 PM
 
