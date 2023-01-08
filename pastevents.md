@@ -24,6 +24,26 @@ altfooter: true
 
 ### 2022 ###
 ---------------
+
+### OWASP Austin Chapter Meeting September 2022 ###
+
+**When:** Tuesday, September 27th, 2022 @ 11:30 AM - 1:00 PM
+
+**Presentation: Insider's Guide to Mobile AppSec with OWASP MASVS w/ Brendan Hann** 
+<blockquote> 
+From the birth of MASVS and MSTG in January 2018 to the most recent updates, the OWASP Mobile Security Project has advanced the state of mobile app security testing dramatically. As supporters and contributors to the Mobile Security Project at OWASP, we have pen tested thousands of mobile apps and scanned millions of commercial apps in the app stores over the years… and have identified the most common security issues that plague developers and security teams. Whether you are new to mobile pen testing or a veteran looking for the latest tools and tactics, join this session to learn 10 keys to mobile appsec leveraging OWASP MASVS and practical real-world experience.
+</blockquote>
+
+**Speaker:** 
+<blockquote>
+Brendan Hann
+<br><br>
+As Product Marketing Manager for NowSecure, Brendan Hann focuses on equipping developers, security professionals and DevSecOps teams with best-of-breed mobile app security skills, tools and resources. His career has focused on helping organizations deliver innovative, secure applications at scale. Brendan’s track record of success with application and security teams spans NowSecure, Veracode and PayPal. Brendan has presented at OWASP Los Angeles, OWASP Columbus, OWASP Global AppSec 2021, Connect 2021, and DevOps World 2021. With experience in both web and mobile application security testing, Brendan provides a unique perspective on best practices and the successful deployment of DevSecOps.
+</blockquote>
+<br>
+
+<a href="https://youtu.be/2xNl6rYf4OQ">YouTube</a>
+
 ### OWASP Austin Chapter Meeting August 2022 ###
 
 **When:** Tuesday, August 30th, 2022 @ 11:30 AM - 1:00 PM
