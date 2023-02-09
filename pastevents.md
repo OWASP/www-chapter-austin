@@ -19,8 +19,33 @@ altfooter: true
 
 ## Past Events ##
 
-[2022](#2022) [2021](#2021) [2020](#2020)   [2019](#2019)   [2018](#2018)   [2017](#2017)  
+[2023](#2023) [2022](#2022) [2021](#2021) [2020](#2020)   [2019](#2019)   [2018](#2018)   [2017](#2017)  
 <br/>(see Past Events Archive for earlier events)
+### 2023 ###
+---------------
+
+## OWASP Austin Chapter Meeting January 2023 ###
+
+**When:** Tuesday, January 31st, 2023 @ 11:30 AM - 1:00 PM
+
+**Presentation: Cryptoparty (various speakers)** 
+<blockquote> 
+In 1996, John Perry Barlow, co-founder of the Electronic Frontier Foundation (EFF) wrote 'A Declaration of the Independence of Cyberspace' where he stated "We are creating a world that all may enter without privilege or prejudice accorded by race, economic power, military force, or station of birth.  We are creating a world where anyone, anywhere may express his or her beliefs, no matter how singular, without fear of being coerced into silence or conformity."  The Internet of today is an amazing place of knowledge and opportunity, but it unfortunately falls short of Mr. Barlow's original vision.
+
+In the 21st century we face problems of climate change, energy crisis, state censorship, mass surveillance, and on-going wars.  We must be free to communicate and associate without fear.  To realize our right to privacy and anonymity online, we need peer-reviewed, crowd-sourced solutions.  CryptoParties provide the opportunity to meet up and learn how to use these solutions to give us all the means with which to assert our right to privacy and anonymity online.  Topics include technologies like TOR, full-disk encryption, GPG, and many more.  CryptoParties are free to attend, public, and not commercially aligned.
+
+At our January 31, 2023 OWASP Austin meeting, we will host a CryptoParty with the goal of inviting others to join us in learning about the tools and technologies that enable an individual's right to privacy.  When the time comes, we will encourage you all to invite your family, friends, and peers to attend this event, but for now, I am looking for others who are willing to give a 10 minute max presentation on a crypto-oriented subject.  The presentation will need to be laid out so that novice and experienced alike can take action based on the data presented.  All tools must be free and open source.  If you are interested in presenting, please e-mail me directly (do not reply to the list) with your name, bio, talk title, and abstract for consideration.  This is going to be EPIC!
+</blockquote>
+
+**Speaker:** 
+<blockquote>
+Josh Sokol (and others!)
+<br><br>
+Josh Sokol, CISSP, graduated from the University of Texas at Austin with a BS in Computer Science in 2002. Since that time, he has worked for several large companies, including AMD and BearingPoint, spent some time as a military contractor, Information Security Program Owner at National Instruments, and now runs SimpleRisk. In his current role, Sokol manages all aspects of the application, infrastructure, architecture, and business roles for SimpleRisk. Prior to and during all of his roles, Josh has been a key community member for Austin OWASP as well as serving a four year term on the OWASP Global Board of Directors.
+</blockquote>
+<br>
+Unfortunately, the presentation was not recorded.
+
 
 ### 2022 ###
 ---------------
