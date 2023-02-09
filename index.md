@@ -28,29 +28,29 @@ Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See be
 ## Upcoming Events
 <hr>
 
-### OWASP Austin Chapter Meeting January 2023 ###
+### OWASP Austin Chapter Meeting February 2023 ###
 
-**When:** Tuesday, January 31st, 2023 @ 11:30 AM - 1:00 PM
+**When:** Tuesday, Feburary 28th, 2023 @ 11:30 AM - 1:00 PM
 
-**Presentation: Cryptoparty (various speakers)** 
+**Presentation: AppSecOps - a Scalable Approach to Application Security** 
 <blockquote> 
-In 1996, John Perry Barlow, co-founder of the Electronic Frontier Foundation (EFF) wrote 'A Declaration of the Independence of Cyberspace' where he stated "We are creating a world that all may enter without privilege or prejudice accorded by race, economic power, military force, or station of birth.  We are creating a world where anyone, anywhere may express his or her beliefs, no matter how singular, without fear of being coerced into silence or conformity."  The Internet of today is an amazing place of knowledge and opportunity, but it unfortunately falls short of Mr. Barlow's original vision.
-
-In the 21st century we face problems of climate change, energy crisis, state censorship, mass surveillance, and on-going wars.  We must be free to communicate and associate without fear.  To realize our right to privacy and anonymity online, we need peer-reviewed, crowd-sourced solutions.  CryptoParties provide the opportunity to meet up and learn how to use these solutions to give us all the means with which to assert our right to privacy and anonymity online.  Topics include technologies like TOR, full-disk encryption, GPG, and many more.  CryptoParties are free to attend, public, and not commercially aligned.
-
-At our January 31, 2023 OWASP Austin meeting, we will host a CryptoParty with the goal of inviting others to join us in learning about the tools and technologies that enable an individual's right to privacy.  When the time comes, we will encourage you all to invite your family, friends, and peers to attend this event, but for now, I am looking for others who are willing to give a 10 minute max presentation on a crypto-oriented subject.  The presentation will need to be laid out so that novice and experienced alike can take action based on the data presented.  All tools must be free and open source.  If you are interested in presenting, please e-mail me directly (do not reply to the list) with your name, bio, talk title, and abstract for consideration.  This is going to be EPIC!
+Today many unforeseen factors are driving AppSec chaos...We have found about 3-4 TOP challenges every vertical is seeing in today's frugal market. The factors range from simple to hilariously unattainable! I aim to give you a few tips and steps to overcome some if not ALL and create an organization able to ship software fast and secure!  All the while addressing current events happening in the market and how to avoid potential potholes.
 </blockquote>
 
 **Speaker:** 
 <blockquote>
-Josh Sokol (and others!)
+Luis Guzman
 <br><br>
-Josh Sokol, CISSP, graduated from the University of Texas at Austin with a BS in Computer Science in 2002. Since that time, he has worked for several large companies, including AMD and BearingPoint, spent some time as a military contractor, Information Security Program Owner at National Instruments, and now runs SimpleRisk. In his current role, Sokol manages all aspects of the application, infrastructure, architecture, and business roles for SimpleRisk. Prior to and during all of his roles, Josh has been a key community member for Austin OWASP as well as serving a four year term on the OWASP Global Board of Directors.
+Enterprise Information Security expertise within Management, Pro Services Consulting, Security Architecture, Security Engineering and Sales! The last twelve years he has  been laser focused on Security Incident Response, Security Architecture, Compliance Audits, Vulnerability Management, Data Classification, Phishing and Threat Intelligence. Luis is securing the ‘front lines’ of the production environment, protecting critical infrastructure, gathering threat intelligence and implementing best of breed technology for start-ups as well as Fortune 50 organizations!
+
+Bringing to play his technical sales ability mixed with a presentation style of a trained theater actor! An Information Security Professional combining technical expertise with business value, wrapped in an orator’s cloak! 
+
+Most time away from keyboard, when Luis is resting, is Texas Cookouts and Family! He lives in the suburbs of CedarPark/Leander Texas! 
 </blockquote>
 <br>
 RSVP:<br>
-<a href="https://owasp-austin-2023-january.eventbrite.com" target="_blank"> Eventbrite(in-person)</a><br>
-<a href="https://www.meetup.com/owasp-austin-chapter/events/290705619/" target="_blank">Meetup (online)</a>
+<a href="https://owasp-austin-2023-february.eventbrite.com" target="_blank"> Eventbrite(in-person)</a><br>
+<a href="https://www.meetup.com/owasp-austin-chapter/events/290705717/" target="_blank">Meetup (online)</a>
 <br>
 
 [back to top](#welcome)
