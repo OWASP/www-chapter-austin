@@ -25,33 +25,29 @@ Welcome
 Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See below for [full list of all chapter leadership board](leadership.md).
 
 <hr/>
-## Upcoming Events
+## Upcoming Events ##
 <hr>
 
-### OWASP Austin Chapter Meeting February 2023 ###
+### OWASP Austin Chapter Meeting March 2023 ###
 
-**When:** Tuesday, Feburary 28th, 2023 @ 11:30 AM - 1:00 PM
+**When:** Tuesday, March 28th, 2023 @ 11:30 AM - 1:00 PM
 
-**Presentation: AppSecOps - a Scalable Approach to Application Security** 
+**Presentation: API Risk Management** 
 <blockquote> 
-Today many unforeseen factors are driving AppSec chaos...We have found about 3-4 TOP challenges every vertical is seeing in today's frugal market. The factors range from simple to hilariously unattainable! I aim to give you a few tips and steps to overcome some if not ALL and create an organization able to ship software fast and secure!  All the while addressing current events happening in the market and how to avoid potential potholes.
+Web applications are prone to various cybersecurity risks. Did you know that 96% of these web applications contain some Open Source? Furthermore, did you know that 99% of such Open Source contain some Web APIs. You may be surprised to know that Web APIs contribute 83% of the traffic over the internet. Unfortunately, this growing API usage also means growing cybersecurity risks. Although, APIs benefit organizations immensely through accelerated innovations, newer business models, competitive differentiation, but organizations are also negatively impacted by APIs due to their weak security posture leading to business disruptions, legal and compliance issues. Gartner has actually predicted that by 2022, API abuses will be the most frequent attack vector resulting in data breaches for web applications. Given the importance of APIs for digital transformation at organizations, it is imperative for their Security, Compliance and Audit professionals to get a handle on APIs to manage various API related risks. This session will provide an overview of an API Governance framework for effective API Risk Management. This framework is inspired by the Zero Trust model that enterprises can use as a “Swiss Knife” for reducing their API related risks. We’ll also highlight best practices and hands-on examples for API Risk Management.
 </blockquote>
 
 **Speaker:** 
 <blockquote>
-Luis Guzman
+Dr. Baljeet Malhotra
 <br><br>
-Enterprise Information Security expertise within Management, Pro Services Consulting, Security Architecture, Security Engineering and Sales! The last twelve years he has  been laser focused on Security Incident Response, Security Architecture, Compliance Audits, Vulnerability Management, Data Classification, Phishing and Threat Intelligence. Luis is securing the ‘front lines’ of the production environment, protecting critical infrastructure, gathering threat intelligence and implementing best of breed technology for start-ups as well as Fortune 50 organizations!
-
-Bringing to play his technical sales ability mixed with a presentation style of a trained theater actor! An Information Security Professional combining technical expertise with business value, wrapped in an orator’s cloak! 
-
-Most time away from keyboard, when Luis is resting, is Texas Cookouts and Family! He lives in the suburbs of CedarPark/Leander Texas! 
+Dr. Baljeet Malhotra, is an award-winning researcher known for his work in Open Source and API Data Management. He conceptualized the world's first "API Composition Analysis" based on source code static analysis. He founded TeejLab in 2017 and steered the team to build API Discovery and Security™, world's first comprehensive end-to-end API Management platform. Prior to TeejLab, he established the R&D unit of Black Duck Software in 2016 (acquired by Synopsys), he has also served as Research Director at SAP. He received a PhD in Computing Science from the University of Alberta and won several awards including NSERC (Canada) scholar in 2005 and Global Young Scientist (Singapore). He concurrently holds Adjunct Professor positions at the University of British Columbia, University of Victoria and University of Northern BC. 
 </blockquote>
-<br>
+
 RSVP:<br>
-<a href="https://owasp-austin-2023-february.eventbrite.com" target="_blank"> Eventbrite(in-person)</a><br>
-<a href="https://www.meetup.com/owasp-austin-chapter/events/290705717/" target="_blank">Meetup (online)</a>
-<br>
+<a href="https://owasp-austin-2023-march.eventbrite.com" target="_blank"> Eventbrite(in-person)</a><br>
+<a href="https://www.meetup.com/owasp-austin-chapter/events/290705720/" target="_blank">Meetup (online)</a>
+<br><br>
 
 [back to top](#welcome)
 <hr>
@@ -65,7 +61,7 @@ We will be evaluating when to begin having in-person Happy Hour events. Be sure 
 
 ### LASCON 2023 - SAVE THE DATES! ###
 
-Tickets are not yet available LASCON 2023. We will be back at Norris Conference Center with Pre-Conference Training October 24-25, 2023 and Conference October 26-27, 2022. Visit <a href="https://lascon.org/" target="_blank">lascon.org</a>.
+Tickets are available LASCON 2023. We will be back at Norris Conference Center with Pre-Conference Training October 24-25, 2023 and Conference October 26-27, 2022. Visit <a href="https://lascon.org/" target="_blank">lascon.org</a>.
 <hr>
 
 Chapter Supporters
