@@ -24,7 +24,28 @@ altfooter: true
 ### 2023 ###
 ---------------
 
-## OWASP Austin Chapter Meeting January 2023 ###
+### OWASP Austin Chapter Meeting February 2023 ###
+
+**When:** Tuesday, Feburary 28th, 2023 @ 11:30 AM - 1:00 PM
+
+**Presentation: AppSecOps - a Scalable Approach to Application Security** 
+<blockquote> 
+Today many unforeseen factors are driving AppSec chaos...We have found about 3-4 TOP challenges every vertical is seeing in today's frugal market. The factors range from simple to hilariously unattainable! I aim to give you a few tips and steps to overcome some if not ALL and create an organization able to ship software fast and secure!  All the while addressing current events happening in the market and how to avoid potential potholes.
+</blockquote>
+
+**Speaker:** 
+<blockquote>
+Luis Guzman
+<br><br>
+Enterprise Information Security expertise within Management, Pro Services Consulting, Security Architecture, Security Engineering and Sales! The last twelve years he has  been laser focused on Security Incident Response, Security Architecture, Compliance Audits, Vulnerability Management, Data Classification, Phishing and Threat Intelligence. Luis is securing the ‘front lines’ of the production environment, protecting critical infrastructure, gathering threat intelligence and implementing best of breed technology for start-ups as well as Fortune 50 organizations!
+
+Bringing to play his technical sales ability mixed with a presentation style of a trained theater actor! An Information Security Professional combining technical expertise with business value, wrapped in an orator’s cloak! 
+
+Most time away from keyboard, when Luis is resting, is Texas Cookouts and Family! He lives in the suburbs of CedarPark/Leander Texas! 
+</blockquote>
+<a href="https://youtu.be/FwamOh5n4Eo">YouTube</a>
+
+### OWASP Austin Chapter Meeting January 2023 ###
 
 **When:** Tuesday, January 31st, 2023 @ 11:30 AM - 1:00 PM
 
