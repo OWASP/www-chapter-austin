@@ -66,7 +66,7 @@ RSVP:<br>
 
 
 <p>Please RSVP so we can plan number of attendees: 
-<a href="https://www.eventbrite.com/e/april-2023-austin-security-professionals-happy-hour-sponsored-by-checkmarx-tickets-601047367857" target="_blank">https://www.eventbrite.com/e/april-2023-austin-security-professionals-happy-hour-sponsored-by-checkmarx-tickets-601047367857</a> 
+<a href="https://www.eventbrite.com/e/april-2023-austin-security-professionals-happy-hour-sponsored-by-checkmarx-tickets-601047367857" target="_blank">https://www.eventbrite.com/e/april-2023-austin-security-professionals-happy-hour-sponsored-by-checkmarx-tickets-601047367857</a></p>
 
 [back to top](#welcome)
 <hr>
