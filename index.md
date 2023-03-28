@@ -52,9 +52,21 @@ RSVP:<br>
 [back to top](#welcome)
 <hr>
 
-### TBA - Austin Security Professionals Happy Hour, 2023 ###
+### Austin Security Professionals Happy Hour sponsored by Checkmarx, April 13, 2023 ###
 
-We will be evaluating when to begin having in-person Happy Hour events. Be sure to sign up for the <a href="https://groups.google.com/a/owasp.org/g/austin-chapter" target="_blank">Austin Chapter mailing list</a> to get up-to-date announcements.
+**When:** Thursday, April 13th, 5:00 pm - 7:00 pm
+
+**Where:** Lavaca Street Bar @ Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.  We will have tables reserved inside the bar, to the right as you enter.  Parking: nearest parking in the Red Garage located off of Rock Rose Ave (<a href="https://domainnorthside.com/map/" target="_blank">map of Domain</a>). 
+
+**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
+
+**Sponsor:** Checkmarx
+
+<blockquote><i><strong>Checkmarx</strong> is constantly pushing the boundaries of Application Security Testing to make security seamless and simple for the world’s developers and security teams. As the AppSec testing leader, we deliver the unparalleled accuracy, coverage, visibility, and guidance our customers need to build tomorrow’s software securely and at speed.</i></blockquote>
+
+
+<p>Please RSVP so we can plan number of attendees: 
+<a href="https://www.eventbrite.com/e/april-2023-austin-security-professionals-happy-hour-sponsored-by-checkmarx-tickets-601047367857" target="_blank">https://www.eventbrite.com/e/april-2023-austin-security-professionals-happy-hour-sponsored-by-checkmarx-tickets-601047367857</a> 
 
 [back to top](#welcome)
 <hr>
