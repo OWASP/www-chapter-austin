@@ -24,6 +24,26 @@ altfooter: true
 ### 2023 ###
 ---------------
 
+### OWASP Austin Chapter Meeting March 2023 ###
+
+**When:** Tuesday, March 28th, 2023 @ 11:30 AM - 1:00 PM
+
+**Presentation: API Risk Management** 
+<blockquote> 
+Web applications are prone to various cybersecurity risks. Did you know that 96% of these web applications contain some Open Source? Furthermore, did you know that 99% of such Open Source contain some Web APIs. You may be surprised to know that Web APIs contribute 83% of the traffic over the internet. Unfortunately, this growing API usage also means growing cybersecurity risks. Although, APIs benefit organizations immensely through accelerated innovations, newer business models, competitive differentiation, but organizations are also negatively impacted by APIs due to their weak security posture leading to business disruptions, legal and compliance issues. Gartner has actually predicted that by 2022, API abuses will be the most frequent attack vector resulting in data breaches for web applications. Given the importance of APIs for digital transformation at organizations, it is imperative for their Security, Compliance and Audit professionals to get a handle on APIs to manage various API related risks. This session will provide an overview of an API Governance framework for effective API Risk Management. This framework is inspired by the Zero Trust model that enterprises can use as a “Swiss Knife” for reducing their API related risks. We’ll also highlight best practices and hands-on examples for API Risk Management.
+</blockquote>
+
+**Speaker:** 
+<blockquote>
+Dr. Baljeet Malhotra
+<br><br>
+Dr. Baljeet Malhotra, is an award-winning researcher known for his work in Open Source and API Data Management. He conceptualized the world's first "API Composition Analysis" based on source code static analysis. He founded TeejLab in 2017 and steered the team to build API Discovery and Security™, world's first comprehensive end-to-end API Management platform. Prior to TeejLab, he established the R&D unit of Black Duck Software in 2016 (acquired by Synopsys), he has also served as Research Director at SAP. He received a PhD in Computing Science from the University of Alberta and won several awards including NSERC (Canada) scholar in 2005 and Global Young Scientist (Singapore). He concurrently holds Adjunct Professor positions at the University of British Columbia, University of Victoria and University of Northern BC. 
+</blockquote>
+
+<a href="https://youtu.be/CakNrI1vQQ8">YouTube</a>
+<br><br>
+
+
 ### OWASP Austin Chapter Meeting February 2023 ###
 
 **When:** Tuesday, Feburary 28th, 2023 @ 11:30 AM - 1:00 PM
