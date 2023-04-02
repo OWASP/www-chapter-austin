@@ -30,23 +30,35 @@ Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See be
 
 ### OWASP Austin Chapter Meeting March 2023 ###
 
-**When:** Tuesday, March 28th, 2023 @ 11:30 AM - 1:00 PM
+**When:** Tuesday, April 25th, 2023 @ 11:30 AM - 1:00 PM
 
-**Presentation: API Risk Management** 
+**Presentation: The Three Trends Driving Cybersecurity Forward in 2023** 
 <blockquote> 
-Web applications are prone to various cybersecurity risks. Did you know that 96% of these web applications contain some Open Source? Furthermore, did you know that 99% of such Open Source contain some Web APIs. You may be surprised to know that Web APIs contribute 83% of the traffic over the internet. Unfortunately, this growing API usage also means growing cybersecurity risks. Although, APIs benefit organizations immensely through accelerated innovations, newer business models, competitive differentiation, but organizations are also negatively impacted by APIs due to their weak security posture leading to business disruptions, legal and compliance issues. Gartner has actually predicted that by 2022, API abuses will be the most frequent attack vector resulting in data breaches for web applications. Given the importance of APIs for digital transformation at organizations, it is imperative for their Security, Compliance and Audit professionals to get a handle on APIs to manage various API related risks. This session will provide an overview of an API Governance framework for effective API Risk Management. This framework is inspired by the Zero Trust model that enterprises can use as a “Swiss Knife” for reducing their API related risks. We’ll also highlight best practices and hands-on examples for API Risk Management.
+Dramatic trend shifts in threat management and data protection are having a profound impact on cybersecurity best practices.  This session will explore these trends, with an emphasis on pragmatic use cases, delivered by a 29-year cyber veteran from IBM’s Security business.
 </blockquote>
 
 **Speaker:** 
 <blockquote>
-Dr. Baljeet Malhotra
+Bob Kalka
 <br><br>
-Dr. Baljeet Malhotra, is an award-winning researcher known for his work in Open Source and API Data Management. He conceptualized the world's first "API Composition Analysis" based on source code static analysis. He founded TeejLab in 2017 and steered the team to build API Discovery and Security™, world's first comprehensive end-to-end API Management platform. Prior to TeejLab, he established the R&D unit of Black Duck Software in 2016 (acquired by Synopsys), he has also served as Research Director at SAP. He received a PhD in Computing Science from the University of Alberta and won several awards including NSERC (Canada) scholar in 2005 and Global Young Scientist (Singapore). He concurrently holds Adjunct Professor positions at the University of British Columbia, University of Victoria and University of Northern BC. 
+Bob Kalka, CRISC, CDPSE, FAIR, is Vice President of the IBM Security Business Unit.  
+
+Bob has been intimately involved for the past two decades in developing IBM’s overall strategy for its comprehensive security-related investments, and currently leads IBM’s global cybersecurity technical professionals.  He has held a number of leadership positions in offering management, sales, product development, business development and marketing management.  
+
+He is a frequent international speaker on the relationship of business with cybersecurity, risk management, digital transformation and cognitive computing, and has had numerous papers and articles published on these topics.  He also holds a United States Patent related to secure distributed computing software.
+
+Bob received a Master of Business Administration (MBA) degree in Organizational Change and Development from Syracuse University, and a Bachelor of Science degree in Computer Science from the Rochester Institute of Technology.  Bob also holds a certificate in strategic marketing planning from the Indiana University Graduate School of Business.  
+
+Bob is Certified in Risk and Information Systems Control (CRISC), and a Certified Data Privacy Solutions Engineer (CDPSE) by ISACA, and is Certified on the Open FAIR Model for risk quantification from The Open Group.
+
+He has served on the Cybersecurity Advisory Board for Zions Bancorporation in Salt Lake City, Utah, and is an active member of the Industry Advisory Boards for the Darwin Deason Institute for Cybersecurity in the Lyle School of Engineering at Southern Methodist University in Dallas, Texas; the Cyber Collaborative at California State Polytechnic University in Pomona, California; the Department of Computing Security at the Rochester Institute of Technology in Rochester, New York; and the Committee on Cybersecurity for Executive Education at the Muma College of Business at the University of South Florida in Tampa, Florida.
+
+Bob is also a highly active musician in Austin, Texas, where he fronts several groups, spanning jazz, rock, funk, blues and worship styles. 
 </blockquote>
 
 RSVP:<br>
-<a href="https://owasp-austin-2023-march.eventbrite.com" target="_blank"> Eventbrite(in-person)</a><br>
-<a href="https://www.meetup.com/owasp-austin-chapter/events/290705720/" target="_blank">Meetup (online)</a>
+<a href="https://owasp-austin-2023-april.eventbrite.com" target="_blank"> Eventbrite(in-person)</a><br>
+<a href="https://www.meetup.com/owasp-austin-chapter/events/290705726/" target="_blank">Meetup (online)</a>
 <br><br>
 
 [back to top](#welcome)
