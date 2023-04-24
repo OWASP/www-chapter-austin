@@ -23,6 +23,13 @@ altfooter: true
 <br/>(see Past Events Archive for earlier events)
 ### 2023 ###
 ---------------
+### Austin Security Professionals Happy Hour sponsored by Checkmarx, April 13, 2023 ###
+
+**When:** Thursday, April 13th, 5:00 pm - 7:00 pm
+
+**Where:** Lavaca Street Bar @ Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758. 
+
+**Sponsor:** Checkmarx
 
 ### OWASP Austin Chapter Meeting March 2023 ###
 
