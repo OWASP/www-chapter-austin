@@ -30,6 +30,7 @@ altfooter: true
 **Where:** Lavaca Street Bar @ Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758. 
 
 **Sponsor:** Checkmarx
+<br><br>
 
 ### OWASP Austin Chapter Meeting March 2023 ###
 
