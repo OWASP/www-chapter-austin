@@ -86,7 +86,7 @@ Please RSVP so we can plan number of attendees:
 
 Are you ready for another great LASCON conference? We will be back at Norris Conference Center with Pre-Conference Training October 24-25, 2023 and Conference October 26-27, 2022. Visit <a href="https://lascon.org/" target="_blank">lascon.org</a>.
 
-<ul><li><a href="https://lascon.org/tickets/" target="_blank">Early Bird tickets on sale now!</a></li>
+<ul><li><a href="https://lascon.org/tickets/" target="_blank">Discounted tickets on sale now!</a></li>
 <li>CFP now open. <a href="https://lascon.org/cfp/" target="_blank">Submit your CFP today!</a></li>
 <li>Interested in sponsoring LASCON 2023? <a href="https://lascon.org/become-a-sponsor/" target="_blank">Become a Sponsor.</a></li>
 </ul>
