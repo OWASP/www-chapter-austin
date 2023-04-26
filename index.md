@@ -74,7 +74,6 @@ RSVP:<br>
 
 **Sponsor:** Optiv
 <blockquote>At $3.5B in revenue, Optiv is the leading Cyber advisor and solutions provider servicing over 7,000 clients across every industry.</blockquote>
-<br>
 
 Please RSVP so we can plan number of attendees: 
 <a href="https://www.eventbrite.com/e/may-2023-austin-security-professionals-happy-hour-sponsored-by-optiv-tickets-619430592577" target="_blank"> Eventbrite </a>
