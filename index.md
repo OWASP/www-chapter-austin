@@ -73,6 +73,7 @@ RSVP:<br>
 **What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
 
 **Sponsor:** Optiv
+<blockquote>At $3.5B in revenue, Optiv is the leading Cyber advisor and solutions provider servicing over 7,000 clients across every industry.</blockquote>
 <br>
 
 Please RSVP so we can plan number of attendees: 
