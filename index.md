@@ -28,42 +28,6 @@ Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See be
 ## Upcoming Events ##
 <hr>
 
-### OWASP Austin Chapter Meeting March 2023 ###
-
-**When:** Tuesday, April 25th, 2023 @ 11:30 AM - 1:00 PM
-
-**Presentation: The Three Trends Driving Cybersecurity Forward in 2023** 
-<blockquote> 
-Dramatic trend shifts in threat management and data protection are having a profound impact on cybersecurity best practices.  This session will explore these trends, with an emphasis on pragmatic use cases, delivered by a 29-year cyber veteran from IBM’s Security business.
-</blockquote>
-
-**Speaker:** 
-<blockquote>
-Bob Kalka
-<br><br>
-Bob Kalka, CRISC, CDPSE, FAIR, is Vice President of the IBM Security Business Unit.  
-
-Bob has been intimately involved for the past two decades in developing IBM’s overall strategy for its comprehensive security-related investments, and currently leads IBM’s global cybersecurity technical professionals.  He has held a number of leadership positions in offering management, sales, product development, business development and marketing management.  
-
-He is a frequent international speaker on the relationship of business with cybersecurity, risk management, digital transformation and cognitive computing, and has had numerous papers and articles published on these topics.  He also holds a United States Patent related to secure distributed computing software.
-
-Bob received a Master of Business Administration (MBA) degree in Organizational Change and Development from Syracuse University, and a Bachelor of Science degree in Computer Science from the Rochester Institute of Technology.  Bob also holds a certificate in strategic marketing planning from the Indiana University Graduate School of Business.  
-
-Bob is Certified in Risk and Information Systems Control (CRISC), and a Certified Data Privacy Solutions Engineer (CDPSE) by ISACA, and is Certified on the Open FAIR Model for risk quantification from The Open Group.
-
-He has served on the Cybersecurity Advisory Board for Zions Bancorporation in Salt Lake City, Utah, and is an active member of the Industry Advisory Boards for the Darwin Deason Institute for Cybersecurity in the Lyle School of Engineering at Southern Methodist University in Dallas, Texas; the Cyber Collaborative at California State Polytechnic University in Pomona, California; the Department of Computing Security at the Rochester Institute of Technology in Rochester, New York; and the Committee on Cybersecurity for Executive Education at the Muma College of Business at the University of South Florida in Tampa, Florida.
-
-Bob is also a highly active musician in Austin, Texas, where he fronts several groups, spanning jazz, rock, funk, blues and worship styles. 
-</blockquote>
-
-RSVP:<br>
-<a href="https://owasp-austin-2023-april.eventbrite.com" target="_blank"> Eventbrite(in-person)</a><br>
-<a href="https://www.meetup.com/owasp-austin-chapter/events/290705726/" target="_blank">Meetup (online)</a>
-<br><br>
-
-[back to top](#welcome)
-<hr>
-
 ### Austin Security Professionals Happy Hour sponsored by Optiv, May 11, 2023 ###
 
 **When:** Thursday, May 11th, 5:00 pm - 7:00 pm
@@ -81,6 +45,40 @@ Please RSVP so we can plan number of attendees:
 
 [back to top](#welcome)
 <hr>
+
+### OWASP Austin Chapter Meeting March 2023 ###
+
+**When:** Tuesday, May 30th, 2023 @ 11:30 AM - 1:00 PM
+
+**Presentation: How Zero Trust can improve your web application security** 
+<blockquote> 
+In this presentation, we will review some of the Zero Trust concepts and roadmapping some adoption schemes.  We will dive into some examples of using these concepts to improve and provide better controls around:
+
+* Setup and configuration of Zero Trust Services
+* Developer access and code security gains
+* Exposing internal web sites securely with MFA (even if not designed with MFA) with user and group driven policies without a VPN
+* Gain a WAF with exposing internal web sites through browser-based Zero Trust Network Access.
+* Dealing with 3rd party access to internal web sites
+</blockquote>
+
+**Speaker:** 
+<blockquote>
+Mark Spears
+<br><br>
+
+Currently, Mark is a Principal Security Consultant at Solis Security and having fulfilled significant time as a network defender and vCISO dealing with writing and testing InfoSec Programs and dealing with auditors and endless reporting, he also started the OffSec program at Solis Security. Red Pill or Blue Pill.A lot of his most recent education and skill focus has been on helping companies with their Web Application security through Secure-SDLC practices including configuration of Web Application Firewalls and Zero Trust solutions. If not enjoying his work at Solis Security, he can be found practicing physical security, lock picking, social engineering, or hardware hacking.
+Otherwise, he is on a Harley Davidson feeding his inner rebel!
+  
+</blockquote>
+
+RSVP:<br>
+<a href="https://owasp-austin-2023-may.eventbrite.com" target="_blank"> Eventbrite(in-person)</a><br>
+<a href="https://www.meetup.com/owasp-austin-chapter/events/290705737/" target="_blank">Meetup (online)</a>
+<br><br>
+
+[back to top](#welcome)
+<hr>
+
 
 ### LASCON 2023 ###
 
