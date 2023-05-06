@@ -46,7 +46,7 @@ Please RSVP so we can plan number of attendees:
 [back to top](#welcome)
 <hr>
 
-### OWASP Austin Chapter Meeting March 2023 ###
+### OWASP Austin Chapter Meeting May 2023 ###
 
 **When:** Tuesday, May 30th, 2023 @ 11:30 AM - 1:00 PM
 
