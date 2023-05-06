@@ -23,6 +23,26 @@ altfooter: true
 <br/>(see Past Events Archive for earlier events)
 ### 2023 ###
 ---------------
+### OWASP Austin Chapter Meeting April 2023 ###
+
+**When:** Tuesday, April 25th, 2023 @ 11:30 AM - 1:00 PM
+
+**Presentation: The Three Trends Driving Cybersecurity Forward in 2023** 
+<blockquote> 
+Dramatic trend shifts in threat management and data protection are having a profound impact on cybersecurity best practices. This session will explore these trends, with an emphasis on pragmatic use cases, delivered by a 29-year cyber veteran from IBM’s Security business.
+</blockquote>
+
+**Speaker:** 
+<blockquote>
+Peter Wardrop
+<br><br>
+Patrick Wardrop is currently the engineering director for the identity and access management products under the Verify brand at IBM Security. He manages a large worldwide enginering organization in nine time zones and eight countries. Patrick has more than twenty years of experience in enterprise software development and security solutions for several industry verticals. He has more than twenty US-issued patents and more than forty worldwide issued patents and obtained the Master inventor designation at IBM.
+</blockquote>
+
+<a href="https://youtu.be/CakNrI1vQQ8">YouTube</a>
+<br><br>
+
+
 ### Austin Security Professionals Happy Hour sponsored by Checkmarx, April 13, 2023 ###
 
 **When:** Thursday, April 13th, 5:00 pm - 7:00 pm
