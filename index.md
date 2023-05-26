@@ -75,8 +75,9 @@ RSVP:<br>
 We will ask for an RSVP to help us plan for number of attendees. Eventbrite link will be made available very soon. 
 <!-- <a href="https://www.eventbrite.com/e/may-2023-austin-security-professionals-happy-hour-sponsored-by-optiv-tickets-619430592577" target="_blank"> Eventbrite </a> -->
 
-**Interested in Sponsoring?**
-We are currently seeking happy hour sponsors for our monthly event. Please contact <a href="mailto:tiana.chandler@owasp.org?subject=OWASP Happy Hour Sponsor">Tiana Chandler</a> if you are interested. See our <a href="https://owasp.org/www-chapter-austin/sponsorship.html">Sponsorship</a> page for information on sponsoring.
+<br>
+
+> **Interested in Sponsoring? We are currently seeking happy hour sponsors for our monthly event. Please contact <a href="mailto:tiana.chandler@owasp.org?subject=OWASP Happy Hour Sponsor">Tiana Chandler</a> if you are interested. See our <a href="https://owasp.org/www-chapter-austin/sponsorship.html">Sponsorship</a> page for information on sponsoring.**
 
 [back to top](#welcome)
 <hr>
