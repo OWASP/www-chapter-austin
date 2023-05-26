@@ -23,6 +23,16 @@ altfooter: true
 <br/>(see Past Events Archive for earlier events)
 ### 2023 ###
 ---------------
+
+### Austin Security Professionals Happy Hour sponsored by Optiv, May 11, 2023 ###
+
+**When:** TThursday, May 11th, 5:00 pm - 7:00 pm
+
+**Where:** Lavaca Street Bar @ Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758. 
+
+**Sponsor:** Optiv
+<br><br>
+
 ### OWASP Austin Chapter Meeting April 2023 ###
 
 **When:** Tuesday, April 25th, 2023 @ 11:30 AM - 1:00 PM
