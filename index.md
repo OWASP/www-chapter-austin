@@ -28,24 +28,6 @@ Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See be
 ## Upcoming Events ##
 <hr>
 
-### Austin Security Professionals Happy Hour sponsored by Optiv, May 11, 2023 ###
-
-**When:** Thursday, May 11th, 5:00 pm - 7:00 pm
-
-**Where:** Lavaca Street Bar @ Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.  We will have tables reserved inside the bar, to the right as you enter.  Parking: nearest parking in the Red Garage located off of Rock Rose Ave (<a href="https://domainnorthside.com/map/" target="_blank">map of Domain</a>). 
-
-**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
-
-**Sponsor:** Optiv
-<blockquote>At $3.5B in revenue, Optiv is the leading Cyber advisor and solutions provider servicing over 7,000 clients across every industry.</blockquote>
-
-Please RSVP so we can plan number of attendees: 
-<a href="https://www.eventbrite.com/e/may-2023-austin-security-professionals-happy-hour-sponsored-by-optiv-tickets-619430592577" target="_blank"> Eventbrite </a>
-<br>
-
-[back to top](#welcome)
-<hr>
-
 ### OWASP Austin Chapter Meeting May 2023 ###
 
 **When:** Tuesday, May 30th, 2023 @ 11:30 AM - 1:00 PM
@@ -79,13 +61,33 @@ RSVP:<br>
 [back to top](#welcome)
 <hr>
 
+### Austin Security Professionals Happy Hour (sponsor TBA), June 8, 2023 ###
+
+**When:** Thursday, June 8th, 5:30 pm - 7:30 pm
+
+**Where:** Lavaca Street Bar @ Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.  We will have tables reserved inside the bar, to the right as you enter.  Parking: nearest parking in the Red Garage located off of Rock Rose Ave (<a href="https://domainnorthside.com/map/" target="_blank">map of Domain</a>). 
+
+**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
+
+**Sponsor:** TBA
+<!-- <blockquote>TBA.</blockquote> -->
+
+We will ask for an RSVP to help us plan for number of attendees. Eventbrite link will be made available very soon. 
+<!-- <a href="https://www.eventbrite.com/e/may-2023-austin-security-professionals-happy-hour-sponsored-by-optiv-tickets-619430592577" target="_blank"> Eventbrite </a> -->
+
+**Interested in Sponsoring?**
+We are currently seeking happy hour sponsors for our monthly event. Please contact <a href="mailto:tiana.chandler@owasp.org?subject=OWASP Happy Hour Sponsor">Tiana Chandler</a> if you are interested. See our <a href="https://owasp.org/www-chapter-austin/sponsorship.html">Sponsorship</a> page for information on sponsoring.
+
+[back to top](#welcome)
+<hr>
+
 
 ### LASCON 2023 ###
 
 Are you ready for another great LASCON conference? We will be back at Norris Conference Center with Pre-Conference Training October 24-25, 2023 and Conference October 26-27, 2022. Visit <a href="https://lascon.org/" target="_blank">lascon.org</a>.
 
-<ul><li><a href="https://lascon.org/tickets/" target="_blank">Discounted tickets on sale now!</a></li>
-<li>CFP now open. <a href="https://lascon.org/cfp/" target="_blank">Submit your CFP today!</a></li>
+<ul><li><a href="https://lascon.org/tickets/" target="_blank">Discounted tickets are still available. Get yours today!</a></li>
+<li>CFP closes soon. <a href="https://lascon.org/cfp/" target="_blank">Submit your CFP today!</a></li>
 <li>Interested in sponsoring LASCON 2023? <a href="https://lascon.org/become-a-sponsor/" target="_blank">Become a Sponsor.</a></li>
 </ul>
 
