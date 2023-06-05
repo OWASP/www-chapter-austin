@@ -31,18 +31,20 @@ Interested in Sponsoring? We are currently seeking happy hour sponsors for our m
 <details>
   <summary>Event Dates</summary>
   
-|   Month   |    Date    |
-| --------- | ---------- |
-| January   | 	None     |
-| February  | 	None     |
-| March     | 	None     |
-| April     | 4/13/2023  |
-| May       | 5/11/2023  |
-| June      |  6/8/2023  |
-| July	    | 7/13/2023  |
-| August    | 8/10/2023  |
-| September	| 9/14/2023  |
+  Available dates shown below:
+  <pre>
+  January ...... None
+  February ..... None
+  March  ....... None
+  April ........ sponsored
+  May .......... sponsored
+  June ......... 6/8/2023
+  July ......... 7/13/2023
+  August ....... 8/10/2023
+  September..... 9/14/2023
 
+  </pre>
+    
 </details>
 
 ### Lonestar Application Security Conference (LASCON) Sponsorship ### 
