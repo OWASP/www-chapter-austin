@@ -31,7 +31,6 @@ Interested in Sponsoring? We are currently seeking happy hour sponsors for our m
 <details>
   <summary>Event Dates</summary>
   
-  ### Dates
 |   Month   |    Date    |
 | --------- | ---------- |
 | January   | 	None     |
