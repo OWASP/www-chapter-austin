@@ -61,9 +61,17 @@ RSVP:<br>
 [back to top](#welcome)
 <hr>
 
-### Austin Security Professionals Happy Hour (sponsor TBA), June 8, 2023 ###
+### Austin Security Professionals Happy Hour, June 8, 2023 - CANCELLED ###
 
-**When:** Thursday, June 8th, 5:30 pm - 7:30 pm
+We unfortunately were not able to find a sponsor for the June happy hour and have cancelled it for this month.
+
+[back to top](#welcome)
+<hr>
+
+
+### Austin Security Professionals Happy Hour (sponsor TBA), July 13, 2023 ###
+
+**When:** Thursday, July 13th, 5:30 pm - 7:30 pm
 
 **Where:** Lavaca Street Bar @ Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.  We will have tables reserved inside the bar, to the right as you enter.  Parking: nearest parking in the Red Garage located off of Rock Rose Ave (<a href="https://domainnorthside.com/map/" target="_blank">map of Domain</a>). 
 
