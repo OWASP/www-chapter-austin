@@ -31,18 +31,18 @@ altfooter: true
 
 ### Current Study Group Topic ###
 
-The Austin OWASP Study Group is currently working on learning Kubernetes using the book <i>The Kubernetes Book</i> by Nigel Pouton. Book is available on <a href="https://leanpub.com/thekubernetesbook">Leanpub<a> and Amazon</a>.
+The Austin OWASP Study Group is currently working on learning the <a href="https://flipperzero.one/">Flipper Zero</a>
   
 > **When:**  The study group meets weekly on Thursdays from 12:00 to 1:00 PM
 
-> **Where:**  Due to the current pandemic, the study group is held virtually. Either join the specific channel within Slack AustinOWASP (see below) or <a href="https://www.meetup.com/OWASP-Austin-Chapter/">OWASP Austin on Meetup</a> to obtain details.
+> **Where:**  We are looking for a location to meet in-person.  Till then study group is held virtually. Either join the specific channel within Slack AustinOWASP (see below) or <a href="https://www.meetup.com/OWASP-Austin-Chapter/">OWASP Austin on Meetup</a> to obtain details.
  
 <!-- National Instruments, Building A, Room 217 (Directions: [GoogleMaps](https://www.google.com/maps/place/National+Instruments/@30.4077179,-97.7268262,17z/data#!3m1!4b1!4m2!3m1!1s0x865b34c37397e56b:0x765d5bc26a58ce96), [MapQuest](http://www.mapquest.com/maps?address#11500+N+Mo+Pac+Expy&city#Austin&state#TX&zipcode#78759&redirect#true) -->
 
 > **How to follow:** Status of meetings and discussion of topic will be communicated through the [Slack AustinOWASP](https://austinowasp.slack.com).  Following is the specific channel for collaborating on the topic:
-<pre>#kubernetes</pre>
+<pre>#flipperzero</pre>
 
-> **Additional Information:** If any questions related to the study group, please contact the Education Coordinator, Matt Pardo, matt (dot) pardo (at) owasp (dot) org.
+> **Additional Information:** If any questions related to the study group, please contact the Education Coordinator, TBD.
 
 
 ----
