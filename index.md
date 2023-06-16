@@ -28,46 +28,49 @@ Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See be
 ## Upcoming Events ##
 <hr>
 
-### OWASP Austin Chapter Meeting May 2023 ###
+### OWASP Austin Chapter Meeting June 2023 ###
 
-**When:** Tuesday, May 30th, 2023 @ 11:30 AM - 1:00 PM
+**When:** Tuesday, June 27th, 2023 @ 11:30 AM - 1:00 PM
 
-**Presentation: How Zero Trust can improve your web application security** 
+**Presentation: 2023 AT&T Cybersecurity Insights Report: Edge Ecosystem** 
 <blockquote> 
-In this presentation, we will review some of the Zero Trust concepts and roadmapping some adoption schemes.  We will dive into some examples of using these concepts to improve and provide better controls around:
+We are poised on the precipice of a new era of computing underpinned by new networks, new apps, and a digital-first experience.
+Hear the latest findings from AT&T Cybersecurity research and learn about:
+- What high-priority edge computing use cases are across seven industry markets
+- How to secure and work with the edge ecosystem
+- How the attack surface is changing
+- How endpoints are diversifying
 
-* Setup and configuration of Zero Trust Services
-* Developer access and code security gains
-* Exposing internal web sites securely with MFA (even if not designed with MFA) with user and group driven policies without a VPN
-* Gain a WAF with exposing internal web sites through browser-based Zero Trust Network Access.
-* Dealing with 3rd party access to internal web sites
+The data from this research helps audiences understand challenges and opportunities of the future and examines:
+- Balanced investment strategies
+- Collaboration and communication needs
+- Building with dynamic cyber resilience in mind
+
+Security is now a critical part of business - learn how to move your team to the future!
 </blockquote>
 
 **Speaker:** 
 <blockquote>
-Mark Spears
+Theresa Lanowitz
 <br><br>
 
-Currently, Mark is a Principal Security Consultant at Solis Security and having fulfilled significant time as a network defender and vCISO dealing with writing and testing InfoSec Programs and dealing with auditors and endless reporting, he also started the OffSec program at Solis Security. Red Pill or Blue Pill.A lot of his most recent education and skill focus has been on helping companies with their Web Application security through Secure-SDLC practices including configuration of Web Application Firewalls and Zero Trust solutions. If not enjoying his work at Solis Security, he can be found practicing physical security, lock picking, social engineering, or hardware hacking.
-Otherwise, he is on a Harley Davidson feeding his inner rebel!
-  
+Theresa Lanowitz is a proven global influencer and speaks on trends and emerging technology poised to help today’s enterprise organizations flourish. Theresa is currently the head of cybersecurity evangelism at AT&T Business.
+
+Prior to joining AT&T, Theresa was an industry analyst with boutique analyst firm voke and Gartner. While at Gartner, Theresa spearheaded the application quality ecosystem, championed application security technology, and created the successful Application Development conference.
+
+As a product manager at Borland International Software, Theresa launched the iconic Java integrated development environment, JBuilder. While at Sun Microsystems, Theresa led strategic marketing for the Jini project – a precursor to IoT (Internet of Things).
+
+Theresa’s professional career began with McDonnell Douglas where she was a software developer on the C-17 military transport plane and held a US Department of Defense Top Secret security clearance.
+
+Theresa holds a Bachelor of Science in Computer Science from the University of Pittsburgh, Pittsburgh, PA
 </blockquote>
 
 RSVP:<br>
-<a href="https://owasp-austin-2023-may.eventbrite.com" target="_blank"> Eventbrite(in-person)</a><br>
-<a href="https://www.meetup.com/owasp-austin-chapter/events/290705737/" target="_blank">Meetup (online)</a>
+<a href="https://owasp-austin-2023-june.eventbrite.com" target="_blank"> Eventbrite(in-person)</a><br>
+<a href="https://www.meetup.com/owasp-austin-chapter/events/290705746/" target="_blank">Meetup (online)</a>
 <br><br>
 
 [back to top](#welcome)
-<hr>
-
-### Austin Security Professionals Happy Hour, June 8, 2023 - CANCELLED ###
-
-We unfortunately were not able to find a sponsor for the June happy hour and have cancelled it for this month.
-
-[back to top](#welcome)
-<hr>
-
 
 ### Austin Security Professionals Happy Hour (sponsor TBA), July 13, 2023 ###
 
@@ -96,7 +99,7 @@ We will ask for an RSVP to help us plan for number of attendees. Eventbrite link
 Are you ready for another great LASCON conference? We will be back at Norris Conference Center with Pre-Conference Training October 24-25, 2023 and Conference October 26-27, 2022. Visit <a href="https://lascon.org/" target="_blank">lascon.org</a>.
 
 <ul><li><a href="https://lascon.org/tickets/" target="_blank">Discounted tickets are still available. Get yours today!</a></li>
-<li>CFP closes soon. <a href="https://lascon.org/cfp/" target="_blank">Submit your CFP today!</a></li>
+<li>CFP is currently closed. <a href="https://lascon.org/cfp/" target="_blank">Submit your CFP today!</a></li>
 <li>Interested in sponsoring LASCON 2023? <a href="https://lascon.org/become-a-sponsor/" target="_blank">Become a Sponsor.</a></li>
 </ul>
 
