@@ -72,21 +72,8 @@ RSVP:<br>
 
 [back to top](#welcome)
 
-**Sponsor:** SecureLayer7
-<blockquote><strong>SecureLayer7</strong> is a cybersecurity company that helps digital businesses protect themselves from evolving risks. SecureLayer7 offers offensive security testing services, and it uses its expertise to identify vulnerabilities in its clients' digital systems, helping them strengthen their defenses against potential attacks.
+<hr>
 
-SecureLayer7 have earned accreditations and certifications, including Gartner, CREST, CERT-In, and ISO 27001. To keep up with the ever-expanding digital landscape, SecureLayer7 has created two innovative products: BugDazz and AuthSafe.
-
-BugDazz is a modern agile pentesting platform that provides real-time vulnerability insights and helps streamline the remediation process, saving your time on security testing.
-
-AuthSafe is a platform that can predict, detect, prevent, and respond to online fraud attacks in real-time, using a cognitive engine. AuthSafe helps secure accounts and prevent bots and fraud attacks.</blockquote>
-
-<br>
-
-Please RSVP so we can plan number of attendees: 
-<a href="https://www.eventbrite.com/e/july-2023-austin-security-professionals-happyhour-sponsored-by-securelayer7-tickets-669509881077" target="_blank"> Eventbrite </a>
-
-<br>
 ### Austin Security Professionals Happy Hour sponsored by SecureLayer7, July 13, 2023 ###
 
 **When:** Thursday, July 13th, 5:30 pm - 7:30 pm
