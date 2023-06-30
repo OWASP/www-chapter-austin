@@ -83,6 +83,7 @@ RSVP:<br>
 **What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
 
 **Sponsor:** SecureLayer7
+<p><img src="assets/images/SecureLayer7-asset-image.jpg" alt="SecureLayer7"/></p>
 <blockquote><strong>SecureLayer7</strong> is a cybersecurity company that helps digital businesses protect themselves from evolving risks. SecureLayer7 offers offensive security testing services, and it uses its expertise to identify vulnerabilities in its clients' digital systems, helping them strengthen their defenses against potential attacks.
 
 SecureLayer7 have earned accreditations and certifications, including Gartner, CREST, CERT-In, and ISO 27001. To keep up with the ever-expanding digital landscape, SecureLayer7 has created two innovative products: BugDazz and AuthSafe.
