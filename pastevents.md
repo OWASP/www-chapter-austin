@@ -23,7 +23,48 @@ altfooter: true
 <br/>(see Past Events Archive for earlier events)
 ### 2023 ###
 ---------------
-# OWASP Austin Chapter Meeting May 2023 ###
+### OWASP Austin Chapter Meeting June 2023 ###
+
+**When:** Tuesday, June 27th, 2023 @ 11:30 AM - 1:00 PM
+
+**Presentation: 2023 AT&T Cybersecurity Insights Report: Edge Ecosystem** 
+<blockquote> 
+We are poised on the precipice of a new era of computing underpinned by new networks, new apps, and a digital-first experience.
+Hear the latest findings from AT&T Cybersecurity research and learn about:
+- What high-priority edge computing use cases are across seven industry markets
+- How to secure and work with the edge ecosystem
+- How the attack surface is changing
+- How endpoints are diversifying
+
+The data from this research helps audiences understand challenges and opportunities of the future and examines:
+- Balanced investment strategies
+- Collaboration and communication needs
+- Building with dynamic cyber resilience in mind
+
+Security is now a critical part of business - learn how to move your team to the future!
+</blockquote>
+
+**Speaker:** 
+<blockquote>
+Theresa Lanowitz
+<br><br>
+
+Theresa Lanowitz is a proven global influencer and speaks on trends and emerging technology poised to help today’s enterprise organizations flourish. Theresa is currently the head of cybersecurity evangelism at AT&T Business.
+
+Prior to joining AT&T, Theresa was an industry analyst with boutique analyst firm voke and Gartner. While at Gartner, Theresa spearheaded the application quality ecosystem, championed application security technology, and created the successful Application Development conference.
+
+As a product manager at Borland International Software, Theresa launched the iconic Java integrated development environment, JBuilder. While at Sun Microsystems, Theresa led strategic marketing for the Jini project – a precursor to IoT (Internet of Things).
+
+Theresa’s professional career began with McDonnell Douglas where she was a software developer on the C-17 military transport plane and held a US Department of Defense Top Secret security clearance.
+
+Theresa holds a Bachelor of Science in Computer Science from the University of Pittsburgh, Pittsburgh, PA
+</blockquote>
+
+<br>
+<a href="https://youtu.be/CUncOCKRpQ4" target="_blank"> YouTube</a>
+<br><br>
+
+### OWASP Austin Chapter Meeting May 2023 ###
 
 **When:** Tuesday, May 30th, 2023 @ 11:30 AM - 1:00 PM
 
