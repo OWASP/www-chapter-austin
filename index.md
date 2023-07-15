@@ -28,46 +28,27 @@ Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See be
 ## Upcoming Events ##
 <hr>
 
-### OWASP Austin Chapter Meeting June 2023 ###
+### OWASP Austin Chapter Meeting July 2023 ###
 
-**When:** Tuesday, June 27th, 2023 @ 11:30 AM - 1:00 PM
+**When:** Tuesday, July 25th, 2023 @ 11:30 AM - 1:00 PM
 
-**Presentation: 2023 AT&T Cybersecurity Insights Report: Edge Ecosystem** 
+**Presentation: Every Risk is Not a CVE: Bolster up Against Software Supply Chain Attacks** 
 <blockquote> 
-We are poised on the precipice of a new era of computing underpinned by new networks, new apps, and a digital-first experience.
-Hear the latest findings from AT&T Cybersecurity research and learn about:
-- What high-priority edge computing use cases are across seven industry markets
-- How to secure and work with the edge ecosystem
-- How the attack surface is changing
-- How endpoints are diversifying
-
-The data from this research helps audiences understand challenges and opportunities of the future and examines:
-- Balanced investment strategies
-- Collaboration and communication needs
-- Building with dynamic cyber resilience in mind
-
-Security is now a critical part of business - learn how to move your team to the future!
+Session Detail: 3rd party and open-source software components are both desired and indispensable ingredients used throughout the development lifecycle, but their consumption comes with considerable security risks, both for the developer herself and her downstream users. The rise of corresponding security incidents demonstrates that adversaries discovered those attack vectors as a viable and scalable attack pattern.
 </blockquote>
 
 **Speaker:** 
 <blockquote>
-Theresa Lanowitz
+Divya Rao
 <br><br>
 
-Theresa Lanowitz is a proven global influencer and speaks on trends and emerging technology poised to help today’s enterprise organizations flourish. Theresa is currently the head of cybersecurity evangelism at AT&T Business.
+Divya Rao is a Dependency Management Specialist at Endor Labs. She has a technical background with experience spanning engineering, operations, and sales at Stanford Medical and Indeed before focusing on cybersecurity startups. She is proud to be part of a great team at Endor Labs doing her part in pushing the boundaries of open-source software code governance and application security.
 
-Prior to joining AT&T, Theresa was an industry analyst with boutique analyst firm voke and Gartner. While at Gartner, Theresa spearheaded the application quality ecosystem, championed application security technology, and created the successful Application Development conference.
-
-As a product manager at Borland International Software, Theresa launched the iconic Java integrated development environment, JBuilder. While at Sun Microsystems, Theresa led strategic marketing for the Jini project – a precursor to IoT (Internet of Things).
-
-Theresa’s professional career began with McDonnell Douglas where she was a software developer on the C-17 military transport plane and held a US Department of Defense Top Secret security clearance.
-
-Theresa holds a Bachelor of Science in Computer Science from the University of Pittsburgh, Pittsburgh, PA
 </blockquote>
 
 RSVP:<br>
-<a href="https://owasp-austin-2023-june.eventbrite.com" target="_blank"> Eventbrite(in-person)</a><br>
-<a href="https://www.meetup.com/owasp-austin-chapter/events/290705746/" target="_blank">Meetup (online)</a>
+<a href="https://owasp-austin-2023-july.eventbrite.com" target="_blank"> Eventbrite(in-person)</a><br>
+<a href="https://www.meetup.com/owasp-austin-chapter/events/290705755/" target="_blank">Meetup (online)</a>
 <br><br>
 
 [back to top](#welcome)
