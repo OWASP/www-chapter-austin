@@ -55,29 +55,25 @@ RSVP:<br>
 
 <hr>
 
-### Austin Security Professionals Happy Hour sponsored by SecureLayer7, July 13, 2023 ###
+### Austin Security Professionals Happy Hour sponsored by (TBA), August 10, 2023 ###
 
-**When:** Thursday, July 13th, 5:30 pm - 7:30 pm
+**When:** Thursday, August 10th, 5:30 pm - 7:30 pm
 
 **Where:** Lavaca Street Bar @ Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.  We will have tables reserved inside the bar, to the right as you enter.  Parking: nearest parking in the Red Garage located off of Rock Rose Ave (<a href="https://domainnorthside.com/map/" target="_blank">map of Domain</a>). 
 
 **What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
 
-**Sponsor:** <a href="https://securelayer7.net" target="_blank">SecureLayer7</a>
+**Sponsor:** TBA
+
+<!-- <a href="https://securelayer7.net" target="_blank">SecureLayer7</a>
 <p><a href="https://securelayer7.net" target="_blank"><img src="assets/images/SecureLayer7-asset-image.jpg" alt="SecureLayer7"/></a></p>
-<blockquote><strong>SecureLayer7</strong> is a cybersecurity company that helps digital businesses protect themselves from evolving risks. SecureLayer7 offers offensive security testing services, and it uses its expertise to identify vulnerabilities in its clients' digital systems, helping them strengthen their defenses against potential attacks.
-
-SecureLayer7 have earned accreditations and certifications, including Gartner, CREST, CERT-In, and ISO 27001. To keep up with the ever-expanding digital landscape, SecureLayer7 has created two innovative products: BugDazz and AuthSafe.
-
-BugDazz is a modern agile pentesting platform that provides real-time vulnerability insights and helps streamline the remediation process, saving your time on security testing.
-
-AuthSafe is a platform that can predict, detect, prevent, and respond to online fraud attacks in real-time, using a cognitive engine. AuthSafe helps secure accounts and prevent bots and fraud attacks.</blockquote>
+<blockquote><strong>SecureLayer7</strong>[enter info here].</blockquote> -->
 
 <br>
-
+<!-- 
 Please RSVP so we can plan number of attendees: 
 <a href="https://www.eventbrite.com/e/july-2023-austin-security-professionals-happyhour-sponsored-by-securelayer7-tickets-669509881077" target="_blank"> Eventbrite </a>
-<br>
+<br> -->
 
 <br>
 
