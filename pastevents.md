@@ -24,6 +24,27 @@ altfooter: true
 ### 2023 ###
 ---------------
 
+### OWASP Austin Chapter Meeting July 2023 ###
+
+**When:** Tuesday, July 25th, 2023 @ 11:30 AM - 1:00 PM
+
+**Presentation: Every Risk is Not a CVE: Bolster up Against Software Supply Chain Attacks** 
+<blockquote> 
+Session Detail: 3rd party and open-source software components are both desired and indispensable ingredients used throughout the development lifecycle, but their consumption comes with considerable security risks, both for the developer herself and her downstream users. The rise of corresponding security incidents demonstrates that adversaries discovered those attack vectors as a viable and scalable attack pattern.
+</blockquote>
+
+**Speaker:** 
+<blockquote>
+Divya Rao
+<br><br>
+
+Divya Rao is a Dependency Management Specialist at Endor Labs. She has a technical background with experience spanning engineering, operations, and sales at Stanford Medical and Indeed before focusing on cybersecurity startups. She is proud to be part of a great team at Endor Labs doing her part in pushing the boundaries of open-source software code governance and application security.
+
+</blockquote>
+<br>
+<a href="https://youtu.be/C4loE9St1PE" target="_blank"> YouTube</a>
+<br><br>
+
 ### Austin Security Professionals Happy Hour sponsored by SecureLayer7, July 13, 2023 ###
 
 **When:** Thursday, July 13th, 5:30 pm - 7:30 pm
