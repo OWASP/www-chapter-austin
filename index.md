@@ -30,25 +30,31 @@ Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See be
 
 ### OWASP Austin Chapter Meeting July 2023 ###
 
-**When:** Tuesday, July 25th, 2023 @ 11:30 AM - 1:00 PM
+**When:** Tuesday, August 29th, 2023 @ 11:30 AM - 1:00 PM
 
-**Presentation: Every Risk is Not a CVE: Bolster up Against Software Supply Chain Attacks** 
+**Presentation: Undercover Agent in Chinese Card Shop Ecosystem: Become a Phishing Master** 
 <blockquote> 
-Session Detail: 3rd party and open-source software components are both desired and indispensable ingredients used throughout the development lifecycle, but their consumption comes with considerable security risks, both for the developer herself and her downstream users. The rise of corresponding security incidents demonstrates that adversaries discovered those attack vectors as a viable and scalable attack pattern.
+Personal Identifiable Information (PII) leaks have become more frequent in recent years, and losses from credit card fraud in 2022 have set records respectively in the USA. Where did this information get leaked and sold in the first place?
+
+The term "Dark web" refers to websites inaccessible without the use of Tor protocol, and given added privacy and anonymity while using Tor, and marketplaces in it are proven to be very attractive to criminals.
+
+An anonymous researcher will share experiences of dealing with vendors from card shops on marketplaces among dark web, focused on insights of shops selling American PIIs, and therefore, TTPs of hackers from these card shops.
+
+We hope to inspire audiences to rethink how to reduce credit card frauds.
 </blockquote>
 
 **Speaker:** 
 <blockquote>
-Divya Rao
+Strawberry Donut
 <br><br>
 
-Divya Rao is a Dependency Management Specialist at Endor Labs. She has a technical background with experience spanning engineering, operations, and sales at Stanford Medical and Indeed before focusing on cybersecurity startups. She is proud to be part of a great team at Endor Labs doing her part in pushing the boundaries of open-source software code governance and application security.
+A data scientist specialized in fraud detection and machine learning. Apart from eating strawberry donuts, she is also interested in dark web analysis, threat intelligence, and anti-fraud social engineering. Extensive anti-fraud experiences in the top banks, securities, and internet companies. Invited speaker of BLUE CODE and HITCON. ACAMS (Certified Anti-Money Laundering Specialist) Member.
 
 </blockquote>
 
 RSVP:<br>
-<a href="https://owasp-austin-2023-july.eventbrite.com" target="_blank"> Eventbrite(in-person)</a><br>
-<a href="https://www.meetup.com/owasp-austin-chapter/events/290705755/" target="_blank">Meetup (online)</a>
+<a href="https://owasp-austin-2023-august.eventbrite.com" target="_blank">Eventbrite(in-person)</a><br>
+<a href="https://www.meetup.com/owasp-austin-chapter/events/290705760/" target="_blank">Meetup (online)</a>
 <br><br>
 
 [back to top](#welcome)
@@ -64,18 +70,14 @@ RSVP:<br>
 **What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
 
 **Sponsor:** TBA
-
 <!-- <a href="https://securelayer7.net" target="_blank">SecureLayer7</a>
 <p><a href="https://securelayer7.net" target="_blank"><img src="assets/images/SecureLayer7-asset-image.jpg" alt="SecureLayer7"/></a></p>
 <blockquote><strong>SecureLayer7</strong>[enter info here].</blockquote> -->
-
 <br>
 <!-- 
 Please RSVP so we can plan number of attendees: 
 <a href="https://www.eventbrite.com/e/july-2023-austin-security-professionals-happyhour-sponsored-by-securelayer7-tickets-669509881077" target="_blank"> Eventbrite </a>
 <br> -->
-
-<br>
 
 > **Interested in Sponsoring? We are currently seeking happy hour sponsors for our monthly event. Please contact <a href="mailto:tiana.chandler@owasp.org?subject=OWASP Happy Hour Sponsor">Tiana Chandler</a> if you are interested. See our <a href="https://owasp.org/www-chapter-austin/sponsorship.html">Sponsorship</a> page for information on sponsoring.**
 
