@@ -28,7 +28,7 @@ Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See be
 ## Upcoming Events ##
 <hr>
 
-### OWASP Austin Chapter Meeting July 2023 ###
+### OWASP Austin Chapter Meeting August 2023 ###
 
 **When:** Tuesday, August 29th, 2023 @ 11:30 AM - 1:00 PM
 
@@ -61,9 +61,9 @@ RSVP:<br>
 
 <hr>
 
-### Austin Security Professionals Happy Hour sponsored by (TBA), August 10, 2023 ###
+### Austin Security Professionals Happy Hour sponsored by (TBA), September 14, 2023 ###
 
-**When:** Thursday, August 10th, 5:30 pm - 7:30 pm
+**When:** Thursday, September 14th, 5:30 pm - 7:30 pm
 
 **Where:** Lavaca Street Bar @ Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.  We will have tables reserved inside the bar, to the right as you enter.  Parking: nearest parking in the Red Garage located off of Rock Rose Ave (<a href="https://domainnorthside.com/map/" target="_blank">map of Domain</a>). 
 
