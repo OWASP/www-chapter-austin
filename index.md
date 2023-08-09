@@ -70,14 +70,6 @@ RSVP:<br>
 **What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
 
 **Sponsor:** TBA
-<!-- <a href="https://securelayer7.net" target="_blank">SecureLayer7</a>
-<p><a href="https://securelayer7.net" target="_blank"><img src="assets/images/SecureLayer7-asset-image.jpg" alt="SecureLayer7"/></a></p>
-<blockquote><strong>SecureLayer7</strong>[enter info here].</blockquote> -->
-<br>
-<!-- 
-Please RSVP so we can plan number of attendees: 
-<a href="https://www.eventbrite.com/e/july-2023-austin-security-professionals-happyhour-sponsored-by-securelayer7-tickets-669509881077" target="_blank"> Eventbrite </a>
-<br> -->
 
 > **Interested in Sponsoring? We are currently seeking happy hour sponsors for our monthly event. Please contact <a href="mailto:tiana.chandler@owasp.org?subject=OWASP Happy Hour Sponsor">Tiana Chandler</a> if you are interested. See our <a href="https://owasp.org/www-chapter-austin/sponsorship.html">Sponsorship</a> page for information on sponsoring.**
 
