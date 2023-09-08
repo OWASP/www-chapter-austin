@@ -28,33 +28,31 @@ Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See be
 ## Upcoming Events ##
 <hr>
 
-### OWASP Austin Chapter Meeting August 2023 ###
+### OWASP Austin Chapter Meeting September 2023 ###
 
-**When:** Tuesday, August 29th, 2023 @ 11:30 AM - 1:00 PM
+**When:** Tuesday, September 26th, 2023 @ 11:30 AM - 1:00 PM
 
-**Presentation: Undercover Agent in Chinese Card Shop Ecosystem: Become a Phishing Master** 
+**Presentation: Reducing Alert Fatigue with SCA and Container Scans: Correlate, Prioritize and Filter Based on Usage** 
 <blockquote> 
-Personal Identifiable Information (PII) leaks have become more frequent in recent years, and losses from credit card fraud in 2022 have set records respectively in the USA. Where did this information get leaked and sold in the first place?
+Scenario: Your application is composed of 12 Docker containers. Together they have 400 packages. When you run a container scan with an SCA (software composition analysis) tool, you notice that 120 of them have vulnerabilities. Your security team is asking you to fix all the critical and high vulnerabilities, but your dev/devops team doesn’t have the cycles. What do you do?
 
-The term "Dark web" refers to websites inaccessible without the use of Tor protocol, and given added privacy and anonymity while using Tor, and marketplaces in it are proven to be very attractive to criminals.
+Today, developers and devops engineers are being asked to address vulnerabilities and supply chain risks in container images. However, the volume of noisy security alerts often leads to developers ignoring them entirely or wasting valuable sprint time researching “false positives.”
 
-An anonymous researcher will share experiences of dealing with vendors from card shops on marketplaces among dark web, focused on insights of shops selling American PIIs, and therefore, TTPs of hackers from these card shops.
-
-We hope to inspire audiences to rethink how to reduce credit card frauds.
+Kiran will focus on how engineering teams can correlate vulnerabilities with runtime information, prioritize alerts based on usage, and filter out false positives that don’t represent a true exposure of a vulnerability. Prioritizing security updates to only used packages in your container image is a highly effective approach to reducing alert fatigue with your container scans. In addition, your DevOps team can even consider removing some of the unused packages and shrink your container images. He'll also include a demonstration of a typical SCA static container scan of a sample open-source test application and then show how an engineering team can filter alerts to reduce the number of vulnerable and used alerts that actually need to be fixed by developers by up to 90%.
 </blockquote>
 
 **Speaker:** 
 <blockquote>
-Strawberry Donut
+Kiran Kamity, Founder & CEO, Deepfactor
 <br><br>
 
-A data scientist specialized in fraud detection and machine learning. Apart from eating strawberry donuts, she is also interested in dark web analysis, threat intelligence, and anti-fraud social engineering. Extensive anti-fraud experiences in the top banks, securities, and internet companies. Invited speaker of BLUE CODE and HITCON. ACAMS (Certified Anti-Money Laundering Specialist) Member.
+Kiran Kamity is a serial Silicon Valley entrepreneur with a passion for building products that meet a need and make a business impact—with Deepfactor that’s empowering engineering teams to create secure cloud native applications. Prior to Deepfactor, Kiran was the Head of Product at Cisco Cloud BU, Founder/CEO at ContainerX (acquired by Cisco), and the Founder/VP at RingCube (acquired by Citrix). Kiran is a TEDx speaker and loves nature, travel, and food.
 
 </blockquote>
 
 RSVP:<br>
-<a href="https://owasp-austin-2023-august.eventbrite.com" target="_blank">Eventbrite(in-person)</a><br>
-<a href="https://www.meetup.com/owasp-austin-chapter/events/290705760/" target="_blank">Meetup (online)</a>
+<a href="https://owasp-austin-2023-september.eventbrite.com" target="_blank">Eventbrite(in-person)</a><br>
+<a href="https://www.meetup.com/owasp-austin-chapter/events/290705763/" target="_blank">Meetup (online)</a>
 <br><br>
 
 [back to top](#welcome)
