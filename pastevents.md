@@ -24,6 +24,33 @@ altfooter: true
 ### 2023 ###
 ---------------
 
+### OWASP Austin Chapter Meeting August 2023 ###
+
+**When:** Tuesday, August 29th, 2023 @ 11:30 AM - 1:00 PM
+
+**Presentation: Undercover Agent in Chinese Card Shop Ecosystem: Become a Phishing Master** 
+<blockquote> 
+Personal Identifiable Information (PII) leaks have become more frequent in recent years, and losses from credit card fraud in 2022 have set records respectively in the USA. Where did this information get leaked and sold in the first place?
+
+The term "Dark web" refers to websites inaccessible without the use of Tor protocol, and given added privacy and anonymity while using Tor, and marketplaces in it are proven to be very attractive to criminals.
+
+An anonymous researcher will share experiences of dealing with vendors from card shops on marketplaces among dark web, focused on insights of shops selling American PIIs, and therefore, TTPs of hackers from these card shops.
+
+We hope to inspire audiences to rethink how to reduce credit card frauds.
+</blockquote>
+
+**Speaker:** 
+<blockquote>
+Strawberry Donut
+<br><br>
+
+A data scientist specialized in fraud detection and machine learning. Apart from eating strawberry donuts, she is also interested in dark web analysis, threat intelligence, and anti-fraud social engineering. Extensive anti-fraud experiences in the top banks, securities, and internet companies. Invited speaker of BLUE CODE and HITCON. ACAMS (Certified Anti-Money Laundering Specialist) Member.
+
+</blockquote>
+No video was recorded.
+<br><br>
+
+
 ### OWASP Austin Chapter Meeting July 2023 ###
 
 **When:** Tuesday, July 25th, 2023 @ 11:30 AM - 1:00 PM
