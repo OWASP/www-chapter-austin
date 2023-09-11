@@ -37,6 +37,7 @@ Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See be
 **What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
 
 **Sponsor:** <a href="https://www.solissecurity.com/" target="_blank">Solis</a>
+<br><a href="https://www.solissecurity.com/" target="_blank"><img src="assets/images/HH-2023-Solis-logo.png" alt="Solis logo"/></a>
 <blockquote><strong>
 Solis</strong> is a leading provider of managed cyber security services and cyber incident response.
 
