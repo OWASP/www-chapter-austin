@@ -28,6 +28,36 @@ Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See be
 ## Upcoming Events ##
 <hr>
 
+### Austin Security Professionals Happy Hour sponsored by Solis, September 14, 2023 ###
+
+**When:** Thursday, September 14th, 5:30 pm - 7:30 pm
+
+**Where:** Lavaca Street Bar @ Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.  We will have tables reserved inside the bar, to the right as you enter.  Parking: nearest parking in the Red Garage located off of Rock Rose Ave (<a href="https://domainnorthside.com/map/" target="_blank">map of Domain</a>). 
+
+**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
+
+**Sponsor:** <a href="https://www.solissecurity.com/" target="_blank">Solis</a>
+<blockquote><strong>
+Solis</strong> is a leading provider of managed cyber security services and cyber incident response.
+
+Our cyber security experts have a deep understanding of attacker behavior gained from successfully managing thousands of cyber events each year.
+  
+Armed with cutting-edge technology and backed by unrivaled threat intelligence, we bring the deep technical expertise you need along with decades of experience supporting businesses across a variety of industries.
+
+The cyber security market is full of tools and technologies that promise to keep you safe, but it's hard to know exactly what you need and where to invest.
+  
+Don't get lost in the noise. Solis will build a cyber security program specific to your risk posture, with access to the same enterprise-grade technology at the most competitive price..</blockquote>
+
+<br>
+
+Please RSVP so we can plan number of attendees: 
+<a href="https://www.eventbrite.com/e/september-2023-austin-security-professionals-happy-hour-sponsored-by-solis-tickets-716904900857" target="_blank"> Eventbrite </a>
+
+> **Interested in Sponsoring? We are currently seeking happy hour sponsors for our monthly event. Please contact <a href="mailto:tiana.chandler@owasp.org?subject=OWASP Happy Hour Sponsor">Tiana Chandler</a> if you are interested. See our <a href="https://owasp.org/www-chapter-austin/sponsorship.html">Sponsorship</a> page for information on sponsoring.**
+
+[back to top](#welcome)
+<hr>
+
 ### OWASP Austin Chapter Meeting September 2023 ###
 
 **When:** Tuesday, September 26th, 2023 @ 11:30 AM - 1:00 PM
@@ -57,21 +87,6 @@ RSVP:<br>
 
 [back to top](#welcome)
 
-<hr>
-
-### Austin Security Professionals Happy Hour sponsored by (TBA), September 14, 2023 ###
-
-**When:** Thursday, September 14th, 5:30 pm - 7:30 pm
-
-**Where:** Lavaca Street Bar @ Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.  We will have tables reserved inside the bar, to the right as you enter.  Parking: nearest parking in the Red Garage located off of Rock Rose Ave (<a href="https://domainnorthside.com/map/" target="_blank">map of Domain</a>). 
-
-**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
-
-**Sponsor:** TBA
-
-> **Interested in Sponsoring? We are currently seeking happy hour sponsors for our monthly event. Please contact <a href="mailto:tiana.chandler@owasp.org?subject=OWASP Happy Hour Sponsor">Tiana Chandler</a> if you are interested. See our <a href="https://owasp.org/www-chapter-austin/sponsorship.html">Sponsorship</a> page for information on sponsoring.**
-
-[back to top](#welcome)
 <hr>
 
 
