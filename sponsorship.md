@@ -24,24 +24,23 @@ The Austin OWASP Chapter can offer your company several sponsorship opportunitie
 
 ### Austin Security Professionals Happy Hour Sponsorship ### 
 
-The Austin OWASP Chapter organizes a monthly Austin Security Professionals Happy Hour event along with the Capitol of Texas ISSA Chapter. This event has historically drawn around 40 of Austin's finest security professionals for networking and more. Your sponsorship of this event includes appetizers and drinks for the attendees.  Feel free to pass out business cards and network just like you would anywhere else. You'll find no better opportunity to get your name in front of 40+ security professionals for around $750 - $1000.
+The Austin OWASP Chapter coordinates a monthly Austin Security Professionals Happy Hour during the months of January through September. To make it a fun and unique event, we ask the sponsor to cover the cost of drinks and some appetizers (usually between $500 and $750, depending upon attendance). In addition to the networking opportunities, we offer promotion via our Austin OWASP website page, announcement at chapter meetings, and email notification to mailing lists. The Happy Hour allows sponsors the chance to chat informally with the attendees, which allows for networking and also discussion regarding your company’s products or services.  In addition, you can use this opportunity as a forum to distribute product literature, logo items, or any other token items that would help folks remember your brand.
 
-Interested in Sponsoring? We are currently seeking happy hour sponsors for our monthly event (expand Event Dates below for available dates). Please contact <a href="mailto:tiana.chandler@owasp.org?subject=OWASP Happy Hour Sponsor">Tiana Chandler</a> if you are interested. 
+Interested in Sponsoring? We are currently seeking happy hour sponsors for our monthly event. Please contact <a href="mailto:tiana.chandler@owasp.org?subject=OWASP Happy Hour Sponsor">Tiana Chandler</a> if you are interested. 
 
 <details>
-  <summary>Event Dates</summary>
+  <summary>Event Dates (expand to see available dates)</summary>
   
-  Available dates shown below:
   <pre>
-  January ...... None
-  February ..... None
-  March  ....... None
-  April ........ sponsored
-  May .......... sponsored
-  June ......... 6/8/2023
-  July ......... 7/13/2023
-  August ....... 8/10/2023
-  September..... 9/14/2023
+  January ...... 1/11/2024
+  February ..... 2/8/2024
+  March  ....... 3/14/2024
+  April ........ 4/11/2024
+  May .......... 5/9/2024
+  June ......... 6/13/2024
+  July ......... 7/11/2024
+  August ....... 8/8/2024
+  September..... 9/12/2024
 
   </pre>
     
@@ -49,7 +48,7 @@ Interested in Sponsoring? We are currently seeking happy hour sponsors for our m
 
 ### Lonestar Application Security Conference (LASCON) Sponsorship ### 
 
-The Lonestar Application Security Conference (LASCON) is an OWASP conference held annually in Austin, TX. It is a gathering of 400+ web app developers, security engineers, mobile developers and information security professionals. LASCON is held in Texas where more Fortune 500 companies call home than any other state and it is held in Austin which is a hub for startups in the state of Texas. At LASCON, leaders at these companies along with security architects and developers gather to share cutting-edge ideas, initiatives, and technology advancements.
+The Lonestar Application Security Conference (LASCON) is held annually in Austin, TX. It is a gathering of web app developers, security engineers, mobile developers and information security professionals. LASCON is held in Texas where more Fortune 500 companies call home than any other state and it is held in Austin which is a hub for startups in the state of Texas. At LASCON, leaders at these companies along with security architects and developers gather to share cutting-edge ideas, initiatives, and technology advancements.
 
 Being a non-profit organization, we rely mostly on sponsorships to help us provide the funding to make LASCON successful.
 
