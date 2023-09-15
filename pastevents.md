@@ -24,6 +24,16 @@ altfooter: true
 ### 2023 ###
 ---------------
 
+
+### Austin Security Professionals Happy Hour sponsored by Solis, September 14, 2023 ###
+
+**When:** Thursday, September 14th, 5:30 pm - 7:30 pm
+
+**Where:** Lavaca Street Bar @ Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758. 
+
+**Sponsor:** Solis
+<br><br>
+
 ### OWASP Austin Chapter Meeting August 2023 ###
 
 **When:** Tuesday, August 29th, 2023 @ 11:30 AM - 1:00 PM
