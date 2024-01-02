@@ -19,10 +19,36 @@ altfooter: true
 
 ## Past Events ##
 
-[2023](#2023) [2022](#2022) [2021](#2021) [2020](#2020)   [2019](#2019)   [2018](#2018)   [2017](#2017)  
+[2024](#2024)  [2023](#2023) [2022](#2022) [2021](#2021) [2020](#2020) [2019](#2019) [2018](#2018) [2017](#2017)  
 <br/>(see Past Events Archive for earlier events)
+### 2024 ###
+---------------
+
+
 ### 2023 ###
 ---------------
+
+### OWASP Austin Chapter Meeting September 2023 ###
+
+**When:** Tuesday, September 26th, 2023 @ 11:30 AM - 1:00 PM
+
+**Presentation: Reducing Alert Fatigue with SCA and Container Scans: Correlate, Prioritize and Filter Based on Usage** 
+<blockquote> 
+Scenario: Your application is composed of 12 Docker containers. Together they have 400 packages. When you run a container scan with an SCA (software composition analysis) tool, you notice that 120 of them have vulnerabilities. Your security team is asking you to fix all the critical and high vulnerabilities, but your dev/devops team doesn’t have the cycles. What do you do?
+
+Today, developers and devops engineers are being asked to address vulnerabilities and supply chain risks in container images. However, the volume of noisy security alerts often leads to developers ignoring them entirely or wasting valuable sprint time researching “false positives.”
+
+Kiran will focus on how engineering teams can correlate vulnerabilities with runtime information, prioritize alerts based on usage, and filter out false positives that don’t represent a true exposure of a vulnerability. Prioritizing security updates to only used packages in your container image is a highly effective approach to reducing alert fatigue with your container scans. In addition, your DevOps team can even consider removing some of the unused packages and shrink your container images. He'll also include a demonstration of a typical SCA static container scan of a sample open-source test application and then show how an engineering team can filter alerts to reduce the number of vulnerable and used alerts that actually need to be fixed by developers by up to 90%.
+</blockquote>
+
+**Speaker:** 
+<blockquote>
+Kiran Kamity, Founder & CEO, Deepfactor
+<br><br>
+
+Kiran Kamity is a serial Silicon Valley entrepreneur with a passion for building products that meet a need and make a business impact—with Deepfactor that’s empowering engineering teams to create secure cloud native applications. Prior to Deepfactor, Kiran was the Head of Product at Cisco Cloud BU, Founder/CEO at ContainerX (acquired by Cisco), and the Founder/VP at RingCube (acquired by Citrix). Kiran is a TEDx speaker and loves nature, travel, and food.
+
+</blockquote>
 
 
 ### Austin Security Professionals Happy Hour sponsored by Solis, September 14, 2023 ###
