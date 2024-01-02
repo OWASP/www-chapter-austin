@@ -34,6 +34,7 @@ altfooter: true
 
 
 <!--- ADD PAST EVENT FOR 2024 ABOVE --->
+
 </details>
 
 [Back to Top](#past-events)
