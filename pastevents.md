@@ -25,9 +25,6 @@ altfooter: true
 ---------------
 ### 2024 ###
 
-<details>
-<summary>2024 Past Events</summary>
-<br>
 <!--- ADD PAST EVENT FOR 2024 BELOW --->
 
 
@@ -35,16 +32,11 @@ altfooter: true
 
 <!--- ADD PAST EVENT FOR 2024 ABOVE --->
 
-</details>
-
 [Back to Top](#past-events)
 
 ---------------
 ### 2023 ###
-
-<details>
-<summary>2023 Past Events</summary>
-<br>	
+	
 
 ### OWASP Austin Chapter Meeting September 2023 ###
 
@@ -328,15 +320,11 @@ Unfortunately, the presentation was not recorded.
 
 <hr>
 
-</details>
-
 [Back to Top](#past-events)
 
 ---------------
 ### 2022 ###
 
-<details>
-<summary>2022 Past Events</summary>
 	
 ### OWASP Austin Chapter Meeting September 2022 ###
 
@@ -526,15 +514,11 @@ And others!
 
 <hr>
 
-</details>
-
 [Back to Top](#past-events)
 
 ---------------
 ### 2021 ###
 
-<details>
-<summary>2021 Past Events</summary>
 
 ### LASCON 2021  ###
 
@@ -733,7 +717,6 @@ Bryn Schulke<br>
 
 <hr>
 
-</details>
 
 [Back to Top](#past-events)
 
@@ -741,8 +724,6 @@ Bryn Schulke<br>
 ---------------
 ### 2020 ###
 
-<details>
-<summary>2020 Past Events</summary>
 
 ### OWASP Austin Chapter Meeting October 27th, 2020 ###
 
@@ -998,7 +979,6 @@ and the Penetration Testing Execution Standard
 
 <hr>
 
-</details>
 
 [Back to Top](#past-events)
 
