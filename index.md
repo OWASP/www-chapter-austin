@@ -28,31 +28,50 @@ Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See be
 ## Upcoming Events ##
 <hr>
 
-### OWASP Austin Chapter Meeting September 2023 ###
+### Austin Security Professionals Happy Hour sponsored by Salvador Technologies, January 11, 2024 ###
 
-**When:** Tuesday, September 26th, 2023 @ 11:30 AM - 1:00 PM
+**When:** Thursday, January 11th, 5:30 pm - 7:03 pm
 
-**Presentation: Reducing Alert Fatigue with SCA and Container Scans: Correlate, Prioritize and Filter Based on Usage** 
+**Where:** Lavaca Street Bar @ Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.  We will have tables reserved inside the bar, to the right as you enter.  Parking: nearest parking in the Red Garage located off of Rock Rose Ave (<a href="https://domainnorthside.com/map/" target="_blank">map of Domain</a>). 
+
+**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
+
+**Sponsor:** <a href="https://www.salvador-tech.com" target="_blank">Salvador Technologies</a>
+<blockquote><strong>Salvador Technologies</strong> provides security failover technology for cyber-attack recovery and downtime prevention in Industrial Control Systems (ICS) and Operational Technology (OT) organizations. Its innovative solution bypasses standard cyber-attack recovery protocols and forensics measures, minimizing downtime, and regains operations within an astonishing 30-second timeframe. The company’s platform is used by some of the world’s most secure critical infrastructure organizations, including manufacturing, aerospace, maritime, energy and water companies.
+For more information, please visit <a href="https://www.salvador-tech.com" target="_blank">www.salvador-tech.com</a>.</blockquote>
+
+<br>
+
+Please RSVP so we can plan number of attendees: 
+<a href="https://www.meetup.com/owasp-austin-chapter/events/298294318" target="_blank"> Meetup </a>
+<br>
+
+[back to top](#welcome)
+<hr>
+
+
+### OWASP Austin Chapter Meeting January 2024 ###
+
+**When:** Tuesday, January 30th, 2024 @ 11:30 AM - 1:00 PM
+
+**Presentation: Cryptoparty (various speakers)** 
 <blockquote> 
-Scenario: Your application is composed of 12 Docker containers. Together they have 400 packages. When you run a container scan with an SCA (software composition analysis) tool, you notice that 120 of them have vulnerabilities. Your security team is asking you to fix all the critical and high vulnerabilities, but your dev/devops team doesn’t have the cycles. What do you do?
-
-Today, developers and devops engineers are being asked to address vulnerabilities and supply chain risks in container images. However, the volume of noisy security alerts often leads to developers ignoring them entirely or wasting valuable sprint time researching “false positives.”
-
-Kiran will focus on how engineering teams can correlate vulnerabilities with runtime information, prioritize alerts based on usage, and filter out false positives that don’t represent a true exposure of a vulnerability. Prioritizing security updates to only used packages in your container image is a highly effective approach to reducing alert fatigue with your container scans. In addition, your DevOps team can even consider removing some of the unused packages and shrink your container images. He'll also include a demonstration of a typical SCA static container scan of a sample open-source test application and then show how an engineering team can filter alerts to reduce the number of vulnerable and used alerts that actually need to be fixed by developers by up to 90%.
+In 1996, John Perry Barlow, co-founder of the Electronic Frontier Foundation (EFF) wrote 'A Declaration of the Independence of Cyberspace' where he stated "We are creating a world that all may enter without privilege or prejudice accorded by race, economic power, military force, or station of birth. We are creating a world where anyone, anywhere may express his or her beliefs, no matter how singular, without fear of being coerced into silence or conformity." The Internet of today is an amazing place of knowledge and opportunity, but it unfortunately falls short of Mr. Barlow's original vision. In the 21st century we face problems of climate change, energy crisis, state censorship, mass surveillance, and on-going wars. We must be free to communicate and associate without fear. To realize our right to privacy and anonymity online, we need peer-reviewed, crowd-sourced solutions. CryptoParties provide the opportunity to meet up and learn how to use these solutions to give us all the means with which to assert our right to privacy and anonymity online. Topics include technologies like TOR, full-disk encryption, GPG, and many more. CryptoParties are free to attend, public, and not commercially aligned. At our January 31, 2023 OWASP Austin meeting, we will host a CryptoParty with the goal of inviting others to join us in learning about the tools and technologies that enable an individual's right to privacy. When the time comes, we will encourage you all to invite your family, friends, and peers to attend this event, but for now, I am looking for others who are willing to give a 10 minute max presentation on a crypto-oriented subject. The presentation will need to be laid out so that novice and experienced alike can take action based on the data presented. All tools must be free and open source. If you are interested in presenting, please e-mail me directly (do not reply to the list) with your name, bio, talk title, and abstract for consideration. This is going to be EPIC!
 </blockquote>
 
 **Speaker:** 
 <blockquote>
-Kiran Kamity, Founder & CEO, Deepfactor
+Josh Sokol (and others!)
 <br><br>
 
-Kiran Kamity is a serial Silicon Valley entrepreneur with a passion for building products that meet a need and make a business impact—with Deepfactor that’s empowering engineering teams to create secure cloud native applications. Prior to Deepfactor, Kiran was the Head of Product at Cisco Cloud BU, Founder/CEO at ContainerX (acquired by Cisco), and the Founder/VP at RingCube (acquired by Citrix). Kiran is a TEDx speaker and loves nature, travel, and food.
+Josh Sokol, CISSP, graduated from the University of Texas at Austin with a BS in Computer Science in 2002. Since that time, he has worked for several large companies, including AMD and BearingPoint, spent some time as a military contractor, Information Security Program Owner at National Instruments, and now runs SimpleRisk. In his current role, Sokol manages all aspects of the application, infrastructure, architecture, and business roles for SimpleRisk. Prior to and during all of his roles, Josh has been a key community member for Austin OWASP as well as serving a four year term on the OWASP Global Board of Directors.
 
 </blockquote>
 
 RSVP:<br>
-<a href="https://owasp-austin-2023-september.eventbrite.com" target="_blank">Eventbrite(in-person)</a><br>
-<a href="https://www.meetup.com/owasp-austin-chapter/events/290705763/" target="_blank">Meetup (online)</a>
+TBA
+<!-- <a href="https://owasp-austin-2023-september.eventbrite.com" target="_blank">Eventbrite(in-person)</a><br>
+<a href="https://www.meetup.com/owasp-austin-chapter/events/290705763/" target="_blank">Meetup (online)</a> -->
 <br><br>
 
 [back to top](#welcome)
@@ -60,13 +79,13 @@ RSVP:<br>
 <hr>
 
 
-### LASCON 2023 ###
+### LASCON 2024 ###
 
-Are you ready for another great LASCON conference? We will be back at Norris Conference Center with Pre-Conference Training October 24-25, 2023 and Conference October 26-27, 2022. Visit <a href="https://lascon.org/" target="_blank">lascon.org</a>.
+Save the Date for LASCON 2024. We will be back at Norris Conference Center with Pre-Conference Training October 22-23, 2024 and Conference October 24-25, 2024. Visit <a href="https://lascon.org/" target="_blank">lascon.org</a>.
 
-<ul><li><a href="https://lascon.org/tickets/" target="_blank">Discounted tickets are still available. Get yours today!</a></li>
-<li>CFP is currently closed. <!--- <a href="https://lascon.org/cfp/" target="_blank">Submit your CFP today!</a> --></li>
-<li>Interested in sponsoring LASCON 2023? <a href="https://lascon.org/become-a-sponsor/" target="_blank">Become a Sponsor.</a></li>
+<ul><li><a href="https://lascon.org/tickets/" target="_blank">Discounted tickets are available. Get yours today!</a></li>
+<li>CFP will be made available soon. <!--- <a href="https://lascon.org/cfp/" target="_blank">Submit your CFP today!</a> --></li>
+<li>Interested in sponsoring LASCON 2024? <a href="https://lascon.org/become-a-sponsor/" target="_blank">Become a Sponsor.</a></li>
 </ul>
 
 [back to top](#welcome)
