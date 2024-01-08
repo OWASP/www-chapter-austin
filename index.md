@@ -30,7 +30,7 @@ Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See be
 
 ### Austin Security Professionals Happy Hour sponsored by Salvador Technologies, January 11, 2024 ###
 
-**When:** Thursday, January 11th, 5:30 pm - 7:03 pm
+**When:** Thursday, January 11th, 5:30 pm - 7:30 pm
 
 **Where:** Lavaca Street Bar @ Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.  We will have tables reserved inside the bar, to the right as you enter.  Parking: nearest parking in the Red Garage located off of Rock Rose Ave (<a href="https://domainnorthside.com/map/" target="_blank">map of Domain</a>). 
 
