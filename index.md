@@ -28,28 +28,6 @@ Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See be
 ## Upcoming Events ##
 <hr>
 
-### Austin Security Professionals Happy Hour sponsored by Salvador Technologies, January 11, 2024 ###
-
-**When:** Thursday, January 11th, 5:30 pm - 7:30 pm
-
-**Where:** Lavaca Street Bar @ Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.  We will have tables reserved inside the bar, to the right as you enter.  Parking: nearest parking in the Red Garage located off of Rock Rose Ave (<a href="https://domainnorthside.com/map/" target="_blank">map of Domain</a>). 
-
-**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
-
-**Sponsor:** <a href="https://www.salvador-tech.com" target="_blank">Salvador Technologies</a>
-<blockquote><strong>Salvador Technologies</strong> provides security failover technology for cyber-attack recovery and downtime prevention in Industrial Control Systems (ICS) and Operational Technology (OT) organizations. Its innovative solution bypasses standard cyber-attack recovery protocols and forensics measures, minimizing downtime, and regains operations within an astonishing 30-second timeframe. The company’s platform is used by some of the world’s most secure critical infrastructure organizations, including manufacturing, aerospace, maritime, energy and water companies.
-For more information, please visit <a href="https://www.salvador-tech.com" target="_blank">www.salvador-tech.com</a>.</blockquote>
-
-<br>
-
-Please RSVP so we can plan number of attendees: 
-<a href="https://www.meetup.com/owasp-austin-chapter/events/298294318" target="_blank"> Meetup </a>
-<br>
-
-[back to top](#welcome)
-<hr>
-
-
 ### OWASP Austin Chapter Meeting January 2024 ###
 
 **When:** Tuesday, January 30th, 2024 @ 11:30 AM - 1:00 PM
@@ -68,14 +46,34 @@ Josh Sokol, CISSP, graduated from the University of Texas at Austin with a BS in
 
 </blockquote>
 
-RSVP:<br>
-TBA
-<!-- <a href="https://owasp-austin-2023-september.eventbrite.com" target="_blank">Eventbrite(in-person)</a><br>
-<a href="https://www.meetup.com/owasp-austin-chapter/events/290705763/" target="_blank">Meetup (online)</a> -->
-<br><br>
+RSVP: TBA<br>
+<!-- <a href="https://owasp-austin-2023-september.eventbrite.com" target="_blank">Eventbrite(in-person)</a><br> 
+<a href="https://www.meetup.com/owasp-austin-chapter/events/298206929/" target="_blank">Meetup (online)</a> 
+<br><br> -->
 
 [back to top](#welcome)
 
+<hr>
+
+### Austin Security Professionals Happy Hour sponsored by Riscosity, February 8, 2024 ###
+
+**When:** Thursday, February 8th, 5:30 pm - 7:30 pm
+
+**Where:** Lavaca Street Bar @ Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.  We will have tables reserved inside the bar, to the right as you enter.  Parking: nearest parking in the Red Garage located off of Rock Rose Ave (<a href="https://domainnorthside.com/map/" target="_blank">map of Domain</a>). 
+
+**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
+
+**Sponsor:** <a href="https://www.riscosity.com" target="_blank">Riscosity</a>
+<!-- <blockquote><strong>Salvador Technologies</strong> provides security failover technology for cyber-attack recovery and downtime prevention in Industrial Control Systems (ICS) and Operational Technology (OT) organizations. Its innovative solution bypasses standard cyber-attack recovery protocols and forensics measures, minimizing downtime, and regains operations within an astonishing 30-second timeframe. The company’s platform is used by some of the world’s most secure critical infrastructure organizations, including manufacturing, aerospace, maritime, energy and water companies.
+For more information, please visit <a href="https://www.riscosity.com" target="_blank">https://www.riscosity.com</a>.</blockquote> -->
+
+<br>
+RSVP: TBA<br>
+<!-- Please RSVP so we can plan number of attendees: 
+<a href="https://www.meetup.com/owasp-austin-chapter/events/298294318" target="_blank"> Meetup </a> -->
+<br>
+
+[back to top](#welcome)
 <hr>
 
 
