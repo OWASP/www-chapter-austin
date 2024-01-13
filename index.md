@@ -70,7 +70,7 @@ For more information, please visit <a href="https://www.riscosity.com" target="_
 <br>
 RSVP: TBA<br>
 <!-- Please RSVP so we can plan number of attendees: 
-<a href="https://www.meetup.com/owasp-austin-chapter/events/298294318" target="_blank"> Meetup </a> -->
+<a href="https://www.meetup.com/owasp-austin-chapter/events/298519268/" target="_blank"> Meetup </a> -->
 <br>
 
 [back to top](#welcome)
