@@ -32,15 +32,15 @@ Interested in Sponsoring? We are currently seeking happy hour sponsors for our m
   <summary>Event Dates (expand to see available dates)</summary>
   
   <pre>
-  January ...... 1/11/2024
-  February ..... 2/8/2024
-  March  ....... 3/14/2024
-  April ........ 4/11/2024
-  May .......... 5/9/2024
-  June ......... 6/13/2024
-  July ......... 7/11/2024
-  August ....... 8/8/2024
-  September..... 9/12/2024
+  January ...... 1/11/2024 ..... have sponsor
+  February ..... 2/8/2024  ..... have sponsor
+  March  ....... 3/14/2024 ..... have sponsor
+  April ........ 4/11/2024 ..... have sponsor
+  May .......... 5/9/2024  ..... AVAILABLE
+  June ......... 6/13/2024 ..... AVAILABLE
+  July ......... 7/11/2024 ..... AVAILABLE
+  August ....... 8/8/2024  ..... AVAILABLE
+  September..... 9/12/2024 ..... AVAILABLE
 
   </pre>
     
