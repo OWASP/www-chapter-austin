@@ -28,9 +28,18 @@ altfooter: true
 <!--- ADD PAST EVENT FOR 2024 BELOW --->
 
 
-
-
 <!--- ADD PAST EVENT FOR 2024 ABOVE --->
+
+### Austin Security Professionals Happy Hour sponsored by Salvador Technologies, January 11, 2024 ###
+
+**When:** Thursday, January 11th, 5:30 pm - 7:30 pm
+
+**Where:** Lavaca Street Bar @ Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758. 
+
+**Sponsor:** <a href="https://www.salvador-tech.com" target="_blank">Salvador Technologies</a>
+<br><br>
+
+<hr>
 
 [Back to Top](#past-events)
 
