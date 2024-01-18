@@ -64,14 +64,22 @@ RSVP: TBA<br>
 **What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
 
 **Sponsor:** <a href="https://www.riscosity.com" target="_blank">Riscosity</a>
-<!-- <blockquote><strong>Salvador Technologies</strong> provides security failover technology for cyber-attack recovery and downtime prevention in Industrial Control Systems (ICS) and Operational Technology (OT) organizations. Its innovative solution bypasses standard cyber-attack recovery protocols and forensics measures, minimizing downtime, and regains operations within an astonishing 30-second timeframe. The company’s platform is used by some of the world’s most secure critical infrastructure organizations, including manufacturing, aerospace, maritime, energy and water companies.
-For more information, please visit <a href="https://www.riscosity.com" target="_blank">https://www.riscosity.com</a>.</blockquote> -->
+<blockquote><strong>Riscosity</strong> is the data flow security platform that empowers teams to have full visibility of all data in transit and automates the redaction or redirection of sensitive events, simplifying how companies meet security and privacy requirements. With Riscosity teams can:
+
+* Track and pinpoint any data being sent to any 3rd-party APIs
+
+* Easily map data sub-processors and the information shared with them
+
+* Automatically replace detected sensitive data with redacted inputs
+
+* Continuously monitor and block APIs from data transfers that violate organizational policies
+
+For more information, please visit <a href="https://www.riscosity.com" target="_blank">https://www.riscosity.com</a>.</blockquote>
 
 <br>
-RSVP: TBA<br>
-<!-- Please RSVP so we can plan number of attendees: 
-<a href="https://www.meetup.com/owasp-austin-chapter/events/298519268/" target="_blank"> Meetup </a> -->
-<br>
+Please RSVP so we can plan number of attendees: 
+<a href="https://www.meetup.com/owasp-austin-chapter/events/298519268/" target="_blank"> Meetup </a>
+<br><br>
 
 [back to top](#welcome)
 <hr>
