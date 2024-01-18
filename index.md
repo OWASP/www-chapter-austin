@@ -65,16 +65,13 @@ RSVP: TBA<br>
 
 **Sponsor:** <a href="https://www.riscosity.com" target="_blank">Riscosity</a>
 <blockquote><strong>Riscosity</strong> is the data flow security platform that empowers teams to have full visibility of all data in transit and automates the redaction or redirection of sensitive events, simplifying how companies meet security and privacy requirements. With Riscosity teams can:
+  
+   - Track and pinpoint any data being sent to any 3rd-party APIs
+   - Easily map data sub-processors and the information shared with them
+   - Automatically replace detected sensitive data with redacted inputs
+   - Continuously monitor and block APIs from data transfers that violate organizational policies
 
-* Track and pinpoint any data being sent to any 3rd-party APIs
-
-* Easily map data sub-processors and the information shared with them
-
-* Automatically replace detected sensitive data with redacted inputs
-
-* Continuously monitor and block APIs from data transfers that violate organizational policies
-
-For more information, please visit <a href="https://www.riscosity.com" target="_blank">https://www.riscosity.com</a>.</blockquote>
+  For more information, please visit <a href="https://www.riscosity.com" target="_blank">https://www.riscosity.com</a>.</blockquote>
 
 <br>
 Please RSVP so we can plan number of attendees: 
