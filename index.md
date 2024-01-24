@@ -32,24 +32,21 @@ Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See be
 
 **When:** Tuesday, January 30th, 2024 @ 11:30 AM - 1:00 PM
 
-**Presentation: Cryptoparty (various speakers)** 
+**Presentation: Open Mic! (various speakers)** 
 <blockquote> 
-In 1996, John Perry Barlow, co-founder of the Electronic Frontier Foundation (EFF) wrote 'A Declaration of the Independence of Cyberspace' where he stated "We are creating a world that all may enter without privilege or prejudice accorded by race, economic power, military force, or station of birth. We are creating a world where anyone, anywhere may express his or her beliefs, no matter how singular, without fear of being coerced into silence or conformity." The Internet of today is an amazing place of knowledge and opportunity, but it unfortunately falls short of Mr. Barlow's original vision. In the 21st century we face problems of climate change, energy crisis, state censorship, mass surveillance, and on-going wars. We must be free to communicate and associate without fear. To realize our right to privacy and anonymity online, we need peer-reviewed, crowd-sourced solutions. CryptoParties provide the opportunity to meet up and learn how to use these solutions to give us all the means with which to assert our right to privacy and anonymity online. Topics include technologies like TOR, full-disk encryption, GPG, and many more. CryptoParties are free to attend, public, and not commercially aligned. At our January 31, 2023 OWASP Austin meeting, we will host a CryptoParty with the goal of inviting others to join us in learning about the tools and technologies that enable an individual's right to privacy. When the time comes, we will encourage you all to invite your family, friends, and peers to attend this event, but for now, I am looking for others who are willing to give a 10 minute max presentation on a crypto-oriented subject. The presentation will need to be laid out so that novice and experienced alike can take action based on the data presented. All tools must be free and open source. If you are interested in presenting, please e-mail me directly (do not reply to the list) with your name, bio, talk title, and abstract for consideration. This is going to be EPIC!
+Open Mic! Anyone want to talk about AppSec or other security topics is welcome!
 </blockquote>
 
 **Speaker:** 
 <blockquote>
-Josh Sokol (and others!)
+Josh Sokol, Kyle Smith, and others!
 <br><br>
-
-Josh Sokol, CISSP, graduated from the University of Texas at Austin with a BS in Computer Science in 2002. Since that time, he has worked for several large companies, including AMD and BearingPoint, spent some time as a military contractor, Information Security Program Owner at National Instruments, and now runs SimpleRisk. In his current role, Sokol manages all aspects of the application, infrastructure, architecture, and business roles for SimpleRisk. Prior to and during all of his roles, Josh has been a key community member for Austin OWASP as well as serving a four year term on the OWASP Global Board of Directors.
-
 </blockquote>
 
-RSVP: TBA<br>
-<!-- <a href="https://owasp-austin-2023-september.eventbrite.com" target="_blank">Eventbrite(in-person)</a><br> 
+RSVP for attending either in-person or online:<br>
+<a href="https://www.eventbrite.com/e/owasp-austin-chapter-monthly-meeting-january-2024-tickets-803527641807" target="_blank">Eventbrite (in-person)</a><br> 
 <a href="https://www.meetup.com/owasp-austin-chapter/events/298206929/" target="_blank">Meetup (online)</a> 
-<br><br> -->
+<br><br>
 
 [back to top](#welcome)
 
@@ -64,6 +61,7 @@ RSVP: TBA<br>
 **What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
 
 **Sponsor:** <a href="https://www.riscosity.com" target="_blank">Riscosity</a>
+<br><img src="assets/images/Riscosity Logo_Purple_3.png" alt="Riscosity logo"/>
 <p><em><strong>Riscosity</strong> is the data flow security platform that empowers teams to have full visibility of all data in transit and automates the redaction or redirection of sensitive events, simplifying how companies meet security and privacy requirements. With Riscosity teams can:
 <ul>
   <li>Track and pinpoint any data being sent to any 3rd-party APIs</li>
