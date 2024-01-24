@@ -108,7 +108,7 @@ The following are the list of OWASP Corporate Members who have generously aligne
 <table cellpadding="15" cellspacing="0">
 <tr>
 <td>
-<a href="https://www.gitguardian.com"><img src="assets/images/GitGuardian_Logo.png" alt="GitGuardian" width="300" height="209"/></a>
+<a href="https://www.gitguardian.com" target="_blank"><img src="assets/images/GitGuardian_Logo.png" alt="GitGuardian" width="300" height="209"/></a>
 </td>
 </tr>
 </table>
@@ -119,7 +119,7 @@ The following are the list of organizations who have generously provided meeting
 <table cellpadding="15" cellspacing="0">
 <tr>
 <td>
-  <a href="https://www.ni.com"><img src="assets/images/ni.png" alt="NI"/></a>
+  <a href="https://www.ni.com" target="_blank"><img src="assets/images/ni.png" alt="NI"/></a>
 </td>
 </tr>
 </table>
@@ -130,7 +130,7 @@ The following are the list of organizations who have generously provided additio
 <table cellpadding="15" cellspacing="0">
 <tr>
 <td>
-  <a href="https://www.lascon.org"><img src="assets/images/Lascon500x109.jpg" alt="LASCON"/></a>
+  <a href="https://www.lascon.org" target="_blank"><img src="assets/images/Lascon500x109.jpg" alt="LASCON"/></a>
 </td>
 </tr>
 </table>
