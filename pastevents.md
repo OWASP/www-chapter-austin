@@ -83,7 +83,7 @@ Kiran Kamity, Founder & CEO, Deepfactor
 Kiran Kamity is a serial Silicon Valley entrepreneur with a passion for building products that meet a need and make a business impact—with Deepfactor that’s empowering engineering teams to create secure cloud native applications. Prior to Deepfactor, Kiran was the Head of Product at Cisco Cloud BU, Founder/CEO at ContainerX (acquired by Cisco), and the Founder/VP at RingCube (acquired by Citrix). Kiran is a TEDx speaker and loves nature, travel, and food.
 
 </blockquote>
-No video was recorded.
+<a href="https://youtu.be/bfHH7Sf2Ud4" target="_blank"> YouTube</a>
 <br><br>
 
 <hr>
