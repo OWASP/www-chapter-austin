@@ -26,9 +26,24 @@ altfooter: true
 ### 2024 ###
 
 <!--- ADD PAST EVENT FOR 2024 BELOW --->
+### OWASP Austin Chapter Meeting January 2024 ###
 
+**When:** Tuesday, January 30th, 2024 @ 11:30 AM - 1:00 PM
 
-<!--- ADD PAST EVENT FOR 2024 ABOVE --->
+**Presentation: Open Mic! (various speakers)** 
+<blockquote> 
+Open Mic! Anyone want to talk about AppSec or other security topics is welcome!
+</blockquote>
+
+**Speaker:** 
+<blockquote>
+Josh Sokol, Kyle Smith, and others!
+<br><br>
+</blockquote>
+No video was recorded.
+<br><br>
+
+<hr>
 
 ### Austin Security Professionals Happy Hour sponsored by Salvador Technologies, January 11, 2024 ###
 
@@ -42,7 +57,7 @@ altfooter: true
 <hr>
 
 [Back to Top](#past-events)
-
+<!--- ADD PAST EVENT FOR 2024 ABOVE --->
 ---------------
 ### 2023 ###
 	
@@ -68,6 +83,8 @@ Kiran Kamity, Founder & CEO, Deepfactor
 Kiran Kamity is a serial Silicon Valley entrepreneur with a passion for building products that meet a need and make a business impact—with Deepfactor that’s empowering engineering teams to create secure cloud native applications. Prior to Deepfactor, Kiran was the Head of Product at Cisco Cloud BU, Founder/CEO at ContainerX (acquired by Cisco), and the Founder/VP at RingCube (acquired by Citrix). Kiran is a TEDx speaker and loves nature, travel, and food.
 
 </blockquote>
+No video was recorded.
+<br><br>
 
 <hr>
 
