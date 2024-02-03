@@ -22,37 +22,10 @@ postal-code: 78759
 
 Welcome
 -------
-Welcome to the Austin chapter homepage. The Chapter Leader is Kyle Smith. See below for [full list of all chapter leadership board](leadership.md).
+Welcome to the Austin chapter homepage.
 
 <hr/>
 ## Upcoming Events ##
-<hr>
-
-### OWASP Austin Chapter Meeting February 2024 ###
-
-**When:** Tuesday, February 27, 2024 @ 11:45 AM - 1:00 PM
-
-**Presentation: API Security flaws that are commonly exploited.**
-<blockquote> 
-As more and more development focusses on APIs to make things faster and easier, security needs to be pushed more toward the front. Mistakes that have been corrected in web application security have now returned as APIs aren’t offered the same protections as they are usually out of the normal flow via security tooling such as WAFs. This means identifying and fixing flaws prior to production is important. This discussion will be around lessons learned from testing and breach data with an eye for prevention. This attendees will learn:
-Application and API stacks are full of dangerous over-powered methods. These lurking menaces are built into libraries, frameworks, appservers, and runtime platforms. They do crazy things (from a security perspective) like start native processes, parse XML documents, evaluate expressions, and deserialize objects. And they are totally unprotected. Developers can use them without restriction, and attackers can target these binary Bambis without being detected or stopped. Unfortunately, the security of the entire digital ecosystem is entirely reliant on getting developers to take the right steps to use these methods safely… but it’s way too hard.
-</blockquote>
-
-**Speaker:** 
-<blockquote>
-Jason Kent - jason.kent@cequence.ai
-<br>
-For over the last 25 years, Jason has been ethically peering into Client Behavior, Wireless Networks, Web Applications, APIs and Cloud Systems, helping organizations secure their assets and intellectual property from unauthorized access. As a consultant he's taken hundreds of organizations through difficult compliance mine fields, ensuring their safety. As a researcher he has found flaws in consumer IOT systems and assisted in hardening them against external attacks. At Cequence Security Jason does research, community outreach and supports efforts in identifying Automated Attacks against Web, Mobile, and API-based Applications to keep Cequence's customers safe.
-<br>
-</blockquote>
-<br>
-RSVP for attending either in-person or online:<br>
-<a href="https://owasp-austin-2024-february.eventbrite.com" target="_blank">Eventbrite (in-person)</a><br> 
-<a href="https://www.meetup.com/owasp-austin-chapter/events/298206982" target="_blank">Meetup (online)</a> 
-<br><br>
-
-[back to top](#welcome)
-
 <hr>
 
 ### Austin Security Professionals Happy Hour sponsored by Riscosity, February 8, 2024 ###
@@ -83,6 +56,30 @@ Please RSVP so we can plan number of attendees:
 [back to top](#welcome)
 <hr>
 
+### OWASP Austin Chapter Meeting February 2024 ###
+
+**When:** Tuesday, February 27, 2024 @ 11:45 AM - 1:00 PM
+
+**Presentation: API Security flaws that are commonly exploited.**
+<blockquote> 
+As more and more development focusses on APIs to make things faster and easier, security needs to be pushed more toward the front. Mistakes that have been corrected in web application security have now returned as APIs aren’t offered the same protections as they are usually out of the normal flow via security tooling such as WAFs. This means identifying and fixing flaws prior to production is important. This discussion will be around lessons learned from testing and breach data with an eye for prevention. This attendees will learn:
+Application and API stacks are full of dangerous over-powered methods. These lurking menaces are built into libraries, frameworks, appservers, and runtime platforms. They do crazy things (from a security perspective) like start native processes, parse XML documents, evaluate expressions, and deserialize objects. And they are totally unprotected. Developers can use them without restriction, and attackers can target these binary Bambis without being detected or stopped. Unfortunately, the security of the entire digital ecosystem is entirely reliant on getting developers to take the right steps to use these methods safely… but it’s way too hard.
+</blockquote>
+
+**Speaker:** 
+<blockquote>
+Jason Kent - jason.kent@cequence.ai
+<br>
+For over the last 25 years, Jason has been ethically peering into Client Behavior, Wireless Networks, Web Applications, APIs and Cloud Systems, helping organizations secure their assets and intellectual property from unauthorized access. As a consultant he's taken hundreds of organizations through difficult compliance mine fields, ensuring their safety. As a researcher he has found flaws in consumer IOT systems and assisted in hardening them against external attacks. At Cequence Security Jason does research, community outreach and supports efforts in identifying Automated Attacks against Web, Mobile, and API-based Applications to keep Cequence's customers safe.
+<br>
+</blockquote>
+<br>
+RSVP for attending either in-person or online:<br>
+<a href="https://owasp-austin-2024-february.eventbrite.com" target="_blank">Eventbrite (in-person)</a><br> 
+<a href="https://www.meetup.com/owasp-austin-chapter/events/298206982" target="_blank">Meetup (online)</a> 
+<br><br>
+[back to top](#welcome)
+<hr>
 
 ### LASCON 2024 ###
 
