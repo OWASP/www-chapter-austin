@@ -28,34 +28,6 @@ Welcome to the Austin chapter homepage.
 ## Upcoming Events ##
 <hr>
 
-### Austin Security Professionals Happy Hour sponsored by Riscosity, February 8, 2024 ###
-
-**When:** Thursday, February 8th, 5:30 pm - 7:30 pm
-
-**Where:** Lavaca Street Bar @ Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.  We will have tables reserved inside the bar, to the right as you enter.  Parking: nearest parking in the Red Garage located off of Rock Rose Ave (<a href="https://domainnorthside.com/map/" target="_blank">map of Domain</a>). 
-
-**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
-
-**Sponsor:** <a href="https://www.riscosity.com" target="_blank">Riscosity</a>
-<br><img src="assets/images/Riscosity Logo_Purple_3.png" alt="Riscosity logo"/>
-<p><em><strong>Riscosity</strong> is the data flow security platform that empowers teams to have full visibility of all data in transit and automates the redaction or redirection of sensitive events, simplifying how companies meet security and privacy requirements. With Riscosity teams can:
-<ul>
-  <li>Track and pinpoint any data being sent to any 3rd-party APIs</li>
-  <li>Easily map data sub-processors and the information shared with them</li>
-  <li>Automatically replace detected sensitive data with redacted inputs</li>
-  <li>Continuously monitor and block APIs from data transfers that violate organizational policies</li>
-</ul>  
-
-For more information, please visit <a href="https://www.riscosity.com" target="_blank">https://www.riscosity.com</a>.</em></p>
-
-<br>
-Please RSVP so we can plan number of attendees: 
-<a href="https://www.meetup.com/owasp-austin-chapter/events/298519268/" target="_blank"> Meetup </a>
-<br><br>
-
-[back to top](#welcome)
-<hr>
-
 ### OWASP Austin Chapter Meeting February 2024 ###
 
 **When:** Tuesday, February 27, 2024 @ 11:45 AM - 1:00 PM
@@ -78,6 +50,26 @@ RSVP for attending either in-person or online:<br>
 <a href="https://owasp-austin-2024-february.eventbrite.com" target="_blank">Eventbrite (in-person)</a><br> 
 <a href="https://www.meetup.com/owasp-austin-chapter/events/298206982" target="_blank">Meetup (online)</a> 
 <br><br>
+[back to top](#welcome)
+<hr>
+
+### Austin Security Professionals Happy Hour sponsored by IriusRisk, March 14, 2024 ###
+
+**When:** Thursday, March 14th, 5:30 pm - 7:30 pm
+
+**Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.  We will have tables reserved inside the bar, to the right as you enter.  Parking: nearest parking in the Red Garage located off of Rock Rose Ave (<a href="https://domainnorthside.com/map/" target="_blank">map of Domain</a>). 
+
+**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
+
+**Sponsor:** <a href="https://www.iriusrisk.com/" target="_blank">IriusRisk</a>
+<br/><br/><img src="assets/images/IriusRisk_logo_sm.jpg" alt="IriusRisk logo"/>
+<p><em>We make secure design the standard, scalable practice for all digital teams. IriusRisk makes secure design fast, reliable and accessible, even to non-security users, thanks to our automated and intelligent Threat Modeling Solution.</em></p>
+
+<br>
+Please RSVP so we can plan for number of attendees: 
+<a href="https://www.meetup.com/owasp-austin-chapter/events/299104332/" target="_blank"> Meetup </a>
+<br><br>
+
 [back to top](#welcome)
 <hr>
 
