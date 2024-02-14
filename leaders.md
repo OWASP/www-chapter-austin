@@ -2,7 +2,7 @@
 
 * [Kyle Smith](mailto:kyle.smith@owasp.org) - Chapter Leader
 * [Tiana Chandler](mailto:tiana.chandler@owasp.org)
-* [Josh Sokol](mailto:josh.sokol@owasp.org)
+* [Ryan Murphy](mailto:ryan.murphy@owasp.org)
 
 
 [see full list of Austin Chapter Leadership](leadership.html)
