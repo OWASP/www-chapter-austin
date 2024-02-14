@@ -29,7 +29,7 @@ The chapter leadership board is as follows:
       <td>The central point of contact for the Chapter and responsible to the OWASP Board. Serves as Chapter Leader and Chapter board chair.
       <br/><br/><em>* Others within the Chapter Leaderhship who would be in succession if the current Chapter Leader was not able to fulfill the role.</em></td>
     <td><a href="mailto:kyle.smith@owasp.org">Kyle Smith</a>
-      <br/><br/>* Tiana Chandler<br/>* Josh Sokol</td></tr>
+      <br/><br/>* Tiana Chandler<br/>* Ryan Murphy</td></tr>
     <tr><td>Sponsor Coordinator</td>
       <td>Serves as the primary liaison between the Chapter and all sponsors, and solicits sponsors for the Chapter meetings, happy hours, LASCON, and other events.</td>
       <td><a href="mailto:tiana.chandler@owasp.org">Tiana Chandler</a></td></tr>
@@ -38,7 +38,7 @@ The chapter leadership board is as follows:
       <td><a href="mailto:katembrew@owasp.org">Kate Brew</a></td></tr>
     <tr><td>Education Coordinator</td>
       <td>Coordinates all of the Chapter-sponsored educational offerings, to include the weekly Study Group and LASCON training.</td>
-      <td><a href="mailto:matt.pardo@owasp.org">Matt Pardo</a></td></tr>
+      <td>TBD</td></tr>
     <tr><td>Education Leader</td>
       <td>Leads the weekly Study Group.</td>
       <td><a href="mailto:paul.griffths@owasp.org">Paul 'Griff' Griffths</a></td></tr>
@@ -47,7 +47,7 @@ The chapter leadership board is as follows:
       <td><a href="mailto:ryan.murphy@owasp.org">Ryan Murphy</a></td></tr>
     <tr><td>Membership and Project Coordinator</td>
       <td>Coordinates activities to grow individual and corporate memberships. Acts as project manager for events, such as LASCON, tracking assigned tasks and reporting progress.</td>
-      <td><a href="mailto:beth.sautter@owasp.org">Beth Sautter</a></td></tr>
+      <td>TBD</td></tr>
     <tr><td>Events Committee</td>
       <td>All of the Chapter Leadership Coordinators are responsible for coordinating aspects of events, including the annual Lonestar Application Security Conference (LASCON). The Chapter Leader acts as the committee chair.</td>
       <td>Chapter Leadership Coordinators</td></tr>
