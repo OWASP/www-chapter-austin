@@ -31,7 +31,7 @@ altfooter: true
 
 ### Current Study Group Topic ###
 
-The Austin OWASP Study Group is currently working on learning the <a href="https://flipperzero.one/">Flipper Zero</a>
+The Austin OWASP Study Group is currently working on learning the <a href="https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/">"What is ChatGPT Doing and Why Does it Work" by Stephen Wolfram</a>
   
 > **When:**  The study group meets weekly on Thursdays from 12:00 to 1:00 PM
 
@@ -40,16 +40,17 @@ The Austin OWASP Study Group is currently working on learning the <a href="https
 <!-- National Instruments, Building A, Room 217 (Directions: [GoogleMaps](https://www.google.com/maps/place/National+Instruments/@30.4077179,-97.7268262,17z/data#!3m1!4b1!4m2!3m1!1s0x865b34c37397e56b:0x765d5bc26a58ce96), [MapQuest](http://www.mapquest.com/maps?address#11500+N+Mo+Pac+Expy&city#Austin&state#TX&zipcode#78759&redirect#true) -->
 
 > **How to follow:** Status of meetings and discussion of topic will be communicated through the [Slack AustinOWASP](https://austinowasp.slack.com).  Following is the specific channel for collaborating on the topic:
-<pre>#flipperzero</pre>
+<pre>#chat-gpt-wolfram</pre>
 
-> **Additional Information:** If any questions related to the study group, please contact the Education Coordinator, TBD.
+> **Additional Information:** If any questions related to the study group, please contact the the group coordinator, @griff in the OWASP Austin Slack workplace.
 
 
 ----
 
 ### Previous Study Group Topics ###
 
-* " OSINT using the book <i>Open Source Intelligence Techniques: Resources for Searching and Analyzing Online Information</i> and other resources.
+* FlipperZero
+* "OSINT using the book <i>Open Source Intelligence Techniques: Resources for Searching and Analyzing Online Information</i> and other resources.
 * "HacktheBox" study using various Capture the Flag(CTF) Challenges on HacktheBox.eu.
 * "Windows PowerShell" study using the book <i>Learn Windows PowerShell in a Month of Lunches</i> (3rd Edition) by Donald W. Jones and Jeffrey Hicks (Slack #powershell)
 * "Certified Cloud Security Professional (CCSP)" study using the CSP Certified Cloud Security Professional All-in-One Exam Guide (1st Edition) book (Slack #cloud_security_study)
