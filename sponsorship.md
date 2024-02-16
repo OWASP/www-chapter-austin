@@ -34,7 +34,7 @@ Event Dates for 2024:
   February ..... 2/8/2024  ..... have sponsor
   March  ....... 3/14/2024 ..... have sponsor
   April ........ 4/11/2024 ..... have sponsor
-  May .......... 5/9/2024  ..... AVAILABLE
+  May .......... 5/9/2024  ..... have sponsor
   June ......... 6/13/2024 ..... AVAILABLE
   July ......... 7/11/2024 ..... AVAILABLE
   August ....... 8/8/2024  ..... AVAILABLE
