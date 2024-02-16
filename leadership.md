@@ -41,7 +41,7 @@ The chapter leadership board is as follows:
       <td>TBD</td></tr>
     <tr><td>Education Leader</td>
       <td>Leads the weekly Study Group.</td>
-      <td><a href="mailto:paul.griffths@owasp.org">Paul 'Griff' Griffths</a></td></tr>
+      <td><a href="mailto:paul.griffths@owasp.org">Paul 'Griff' Griffiths</a></td></tr>
     <tr><td>PR/Marketing Coordinator</td>
       <td>Provides marketing of LASCON and other Chapter events.</td>
       <td><a href="mailto:ryan.murphy@owasp.org">Ryan Murphy</a></td></tr>
