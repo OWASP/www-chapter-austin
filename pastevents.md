@@ -91,7 +91,9 @@ No video was recorded.
 <hr>
 
 [Back to Top](#past-events)
+
 <!--- ADD PAST EVENT FOR 2024 ABOVE --->
+
 ---------------
 ### 2023 ###
 	
