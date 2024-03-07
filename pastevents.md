@@ -26,6 +26,29 @@ altfooter: true
 ### 2024 ###
 
 <!--- ADD PAST EVENT FOR 2024 BELOW --->
+
+### OWASP Austin Chapter Meeting February 2024 ###
+
+**When:** Tuesday, February 27, 2024 @ 11:45 AM - 1:00 PM
+
+**Presentation: API Security flaws that are commonly exploited.**
+<blockquote> 
+As more and more development focusses on APIs to make things faster and easier, security needs to be pushed more toward the front. Mistakes that have been corrected in web application security have now returned as APIs aren’t offered the same protections as they are usually out of the normal flow via security tooling such as WAFs. This means identifying and fixing flaws prior to production is important. This discussion will be around lessons learned from testing and breach data with an eye for prevention. This attendees will learn:
+Application and API stacks are full of dangerous over-powered methods. These lurking menaces are built into libraries, frameworks, appservers, and runtime platforms. They do crazy things (from a security perspective) like start native processes, parse XML documents, evaluate expressions, and deserialize objects. And they are totally unprotected. Developers can use them without restriction, and attackers can target these binary Bambis without being detected or stopped. Unfortunately, the security of the entire digital ecosystem is entirely reliant on getting developers to take the right steps to use these methods safely… but it’s way too hard.
+</blockquote>
+
+**Speaker:** 
+<blockquote>
+Jason Kent - jason.kent@cequence.ai
+<br>
+For over the last 25 years, Jason has been ethically peering into Client Behavior, Wireless Networks, Web Applications, APIs and Cloud Systems, helping organizations secure their assets and intellectual property from unauthorized access. As a consultant he's taken hundreds of organizations through difficult compliance mine fields, ensuring their safety. As a researcher he has found flaws in consumer IOT systems and assisted in hardening them against external attacks. At Cequence Security Jason does research, community outreach and supports efforts in identifying Automated Attacks against Web, Mobile, and API-based Applications to keep Cequence's customers safe.
+<br>
+</blockquote>
+<a href="https://youtu.be/tSTWjzWWyCA" target="_blank"> YouTube</a>
+<br><br>
+
+<hr>
+
 ### Austin Security Professionals Happy Hour sponsored by Riscosity, February 8, 2024 ###
 
 **When:** Thursday, February 8th, 5:30 pm - 7:30 pm
