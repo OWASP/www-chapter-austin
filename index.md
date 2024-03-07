@@ -28,31 +28,6 @@ Welcome to the Austin chapter homepage.
 ## Upcoming Events ##
 <hr>
 
-### OWASP Austin Chapter Meeting February 2024 ###
-
-**When:** Tuesday, February 27, 2024 @ 11:45 AM - 1:00 PM
-
-**Presentation: API Security flaws that are commonly exploited.**
-<blockquote> 
-As more and more development focusses on APIs to make things faster and easier, security needs to be pushed more toward the front. Mistakes that have been corrected in web application security have now returned as APIs aren’t offered the same protections as they are usually out of the normal flow via security tooling such as WAFs. This means identifying and fixing flaws prior to production is important. This discussion will be around lessons learned from testing and breach data with an eye for prevention. This attendees will learn:
-Application and API stacks are full of dangerous over-powered methods. These lurking menaces are built into libraries, frameworks, appservers, and runtime platforms. They do crazy things (from a security perspective) like start native processes, parse XML documents, evaluate expressions, and deserialize objects. And they are totally unprotected. Developers can use them without restriction, and attackers can target these binary Bambis without being detected or stopped. Unfortunately, the security of the entire digital ecosystem is entirely reliant on getting developers to take the right steps to use these methods safely… but it’s way too hard.
-</blockquote>
-
-**Speaker:** 
-<blockquote>
-Jason Kent - jason.kent@cequence.ai
-<br>
-For over the last 25 years, Jason has been ethically peering into Client Behavior, Wireless Networks, Web Applications, APIs and Cloud Systems, helping organizations secure their assets and intellectual property from unauthorized access. As a consultant he's taken hundreds of organizations through difficult compliance mine fields, ensuring their safety. As a researcher he has found flaws in consumer IOT systems and assisted in hardening them against external attacks. At Cequence Security Jason does research, community outreach and supports efforts in identifying Automated Attacks against Web, Mobile, and API-based Applications to keep Cequence's customers safe.
-<br>
-</blockquote>
-<br>
-RSVP for attending either in-person or online:<br>
-<a href="https://owasp-austin-2024-february.eventbrite.com" target="_blank">Eventbrite (in-person)</a><br> 
-<a href="https://www.meetup.com/owasp-austin-chapter/events/298206982" target="_blank">Meetup (online)</a> 
-<br><br>
-[back to top](#welcome)
-<hr>
-
 ### Austin Security Professionals Happy Hour sponsored by IriusRisk, March 14, 2024 ###
 
 **When:** Thursday, March 14th, 5:30 pm - 7:30 pm
@@ -63,12 +38,97 @@ RSVP for attending either in-person or online:<br>
 
 **Sponsor:** <a href="https://www.iriusrisk.com/" target="_blank">IriusRisk</a>
 <br/><br/><img src="assets/images/IriusRisk_logo_sm.jpg" alt="IriusRisk logo"/>
-<p><em>We make secure design the standard, scalable practice for all digital teams. IriusRisk makes secure design fast, reliable and accessible, even to non-security users, thanks to our automated and intelligent Threat Modeling Solution.</em></p>
-
-<br>
+<blockquote><em>We make secure design the standard, scalable practice for all digital teams. IriusRisk makes secure design fast, reliable and accessible, even to non-security users, thanks to our automated and intelligent Threat Modeling Solution.</em></blockquote>
 Please RSVP so we can plan for number of attendees: 
 <a href="https://www.meetup.com/owasp-austin-chapter/events/299104332/" target="_blank"> Meetup </a>
 <br><br>
+
+[back to top](#welcome)
+<hr>
+
+### OWASP Austin Chapter Meeting March 2024 ###
+
+**When:** Tuesday, March 26, 2024 @ 11:45 AM - 1:00 PM
+
+**Presentation: TBA.**
+<!-- <blockquote> TBA
+</blockquote> -->
+
+**Speaker:** TBA
+<!-- <blockquote>
+speaker name
+<br>
+speaker bio
+<br> 
+</blockquote> -->
+<br>
+<!-- RSVP for attending either in-person or online:<br>
+<a href="https://owasp-austin-2024-february.eventbrite.com" target="_blank">Eventbrite (in-person)</a><br> 
+<a href="https://www.meetup.com/owasp-austin-chapter/events/298206982" target="_blank">Meetup (online)</a> 
+<br><br> -->
+
+[back to top](#welcome)
+<hr>
+
+### Austin Security Professionals Happy Hour, April 11, 2024 - SAVE THE DATE ###
+
+**When:** Thursday, April 11th, 5:30 pm - 7:30 pm
+
+**Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.  We will have tables reserved inside the bar, to the right as you enter.  Parking: nearest parking in the Red Garage located off of Rock Rose Ave (<a href="https://domainnorthside.com/map/" target="_blank">map of Domain</a>). 
+
+**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
+
+<blockquote>More details will be announced. Stay tuned!</blockquote>
+<!--- **Sponsor:** <a href="company-url-here" target="_blank">TBA</a>
+<br/><br/><img src="assets/images/????.jpg" alt="???"/>
+<blockquote><em>TBA</em></blockquote> -->
+
+<!-- <br>
+Please RSVP so we can plan for number of attendees: 
+<a href="https://www.meetup.com/owasp-austin-chapter/events/????/" target="_blank"> Meetup </a> 
+<br><br> -->
+
+[back to top](#welcome)
+<hr>
+
+### Austin Security Professionals Happy Hour, May 9, 2024 - SAVE THE DATE ###
+
+**When:** Thursday, May 9th, 5:30 pm - 7:30 pm
+
+**Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.  We will have tables reserved inside the bar, to the right as you enter.  Parking: nearest parking in the Red Garage located off of Rock Rose Ave (<a href="https://domainnorthside.com/map/" target="_blank">map of Domain</a>). 
+
+**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
+
+<blockquote>More details will be announced. Stay tuned!</blockquote>
+<!--- **Sponsor:** <a href="company-url-here" target="_blank">TBA</a>
+<br/><br/><img src="assets/images/????.jpg" alt="???"/>
+<blockquote><em>TBA</em></blockquote> -->
+
+<!-- <br>
+Please RSVP so we can plan for number of attendees: 
+<a href="https://www.meetup.com/owasp-austin-chapter/events/????/" target="_blank"> Meetup </a> 
+<br><br> -->
+
+[back to top](#welcome)
+<hr>
+
+### Austin Security Professionals Happy Hour, June 13, 2024 - SAVE THE DATE ###
+
+**When:** Thursday, June 13th, 5:30 pm - 7:30 pm
+
+**Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.  We will have tables reserved inside the bar, to the right as you enter.  Parking: nearest parking in the Red Garage located off of Rock Rose Ave (<a href="https://domainnorthside.com/map/" target="_blank">map of Domain</a>). 
+
+**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
+
+<blockquote>More details will be announced. Stay tuned!</blockquote>
+<!--- **Sponsor:** <a href="company-url-here" target="_blank">TBA</a>
+<br/><br/><img src="assets/images/????.jpg" alt="???"/>
+<blockquote><em>TBA</em></blockquote> -->
+
+<!-- <br>
+Please RSVP so we can plan for number of attendees: 
+<a href="https://www.meetup.com/owasp-austin-chapter/events/????/" target="_blank"> Meetup </a> 
+<br><br> -->
 
 [back to top](#welcome)
 <hr>
