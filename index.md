@@ -71,7 +71,7 @@ Jeff Williams
 Jeff is a veteran application security expert who founded and led OWASP, Aspect Security, and Contrast Security. He also created several highly successful open-source projects, including jbom, jot, OWASP Top Ten, WebGoat, ESAPI, ASVS, and more. Jeff serves as an advisor to NIST, CISA, PCI Council, OASIS SARIF, OWASP CycloneDX, Eclipse Foundation, and advises many companies and agencies on application security. He has a BA from Virginia, an MA from George Mason, and a JD from Georgetown. He's also a two-time master’s basketball national champion who would love to connect on LinkedIn: https://www.linkedin.com/in/planetlevel/
 
 RSVP:<br>
-<a href="https://www.eventbrite.com/e/owasp-austin-chapter-monthly-meeting-march-2024-tickets-860134073167?aff=oddtdtcreator">Eventbrite (in-person RSVP)</a><br>
+<a href="https://www.eventbrite.com/e/owasp-austin-chapter-monthly-meeting-march-2024-group-2-tickets-863355077277">Eventbrite (in-person RSVP)</a><br>
 <a href="https://www.meetup.com/owasp-austin-chapter/events/298206989/">Meetup (online RSVP)</a>
 
 [back to top](#welcome)
