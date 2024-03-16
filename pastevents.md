@@ -27,6 +27,17 @@ altfooter: true
 
 <!--- ADD PAST EVENT FOR 2024 BELOW --->
 
+### Austin Security Professionals Happy Hour sponsored by IriusRisk, March 14, 2024 ###
+
+**When:** Thursday, March 14th, 5:30 pm - 7:30 pm
+
+**Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.
+
+**Sponsor:** <a href="https://www.iriusrisk.com/" target="_blank">IriusRisk</a>
+<br><br>
+
+<hr>
+
 ### OWASP Austin Chapter Meeting February 2024 ###
 
 **When:** Tuesday, February 27, 2024 @ 11:45 AM - 1:00 PM
