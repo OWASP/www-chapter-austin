@@ -69,15 +69,12 @@ RSVP:<br>
 
 **Sponsor:** <a href="https://www.riscosity.com/" target="_blank">Riscosity</a>
 <br/><br/><img src="assets/images/Riscosity Logo_Purple_3.png" alt="Riscosity logo"/>
-
-<blockquote><em>Riscosity is the data flow security platform that empowers teams to have full visibility of all data in transit and automates the redaction or redirection of sensitive events, simplifying how companies meet security and privacy requirements. With Riscosity teams can:
-
-* Track and pinpoint any data being sent to any 3rd-party APIs
-* Easily map data sub-processors and the information shared with them
-* Automatically replace detected sensitive data with redacted inputs
-* Continuously monitor and block APIs from data transfers that violate organizational policies
-
-For more information, please visit www.riscosity.com.</em></blockquote>
+<p><em>Riscosity is the data flow security platform that empowers teams to have full visibility of all data in transit and automates the redaction or redirection of sensitive events, simplifying how companies meet security and privacy requirements. With Riscosity teams can:
+<ul><li>Track and pinpoint any data being sent to any 3rd-party APIs</li>
+<li>Easily map data sub-processors and the information shared with them</li>
+<li>Automatically replace detected sensitive data with redacted inputs</li>
+<li>Continuously monitor and block APIs from data transfers that violate organizational policies</li></ul>
+For more information, please visit www.riscosity.com.</em></p>
 
 Please RSVP so we can plan for number of attendees: 
 <a href="https://www.meetup.com/owasp-austin-chapter/events/299656027/" target="_blank"> Meetup </a>
@@ -94,10 +91,10 @@ Please RSVP so we can plan for number of attendees:
 
 **What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
 
-<blockquote>More details will be announced. Stay tuned!</blockquote>
+<p>More details will be announced. Stay tuned!</p>
 <!--- **Sponsor:** <a href="company-url-here" target="_blank">TBA</a>
 <br/><br/><img src="assets/images/????.jpg" alt="???"/>
-<blockquote><em>TBA</em></blockquote> -->
+<p><em>TBA</em></p> -->
 
 <!-- <br>
 Please RSVP so we can plan for number of attendees: 
@@ -115,10 +112,10 @@ Please RSVP so we can plan for number of attendees:
 
 **What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
 
-<blockquote>More details will be announced. Stay tuned!</blockquote>
+<p>More details will be announced. Stay tuned!</p>
 <!--- **Sponsor:** <a href="company-url-here" target="_blank">TBA</a>
 <br/><br/><img src="assets/images/????.jpg" alt="???"/>
-<blockquote><em>TBA</em></blockquote> -->
+<p><em>TBA</em></p> -->
 
 <!-- <br>
 Please RSVP so we can plan for number of attendees: 
