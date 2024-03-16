@@ -69,12 +69,12 @@ RSVP:<br>
 
 **Sponsor:** <a href="https://www.riscosity.com/" target="_blank">Riscosity</a>
 <br/><br/><img src="assets/images/Riscosity Logo_Purple_3.png" alt="Riscosity logo"/>
-<p><em>Riscosity is the data flow security platform that empowers teams to have full visibility of all data in transit and automates the redaction or redirection of sensitive events, simplifying how companies meet security and privacy requirements. With Riscosity teams can:
+<p><em>Riscosity is the data flow security platform that empowers teams to have full visibility of all data in transit and automates the redaction or redirection of sensitive events, simplifying how companies meet security and privacy requirements. With Riscosity teams can:</em></p>
 <ul><li>Track and pinpoint any data being sent to any 3rd-party APIs</li>
 <li>Easily map data sub-processors and the information shared with them</li>
 <li>Automatically replace detected sensitive data with redacted inputs</li>
 <li>Continuously monitor and block APIs from data transfers that violate organizational policies</li></ul>
-For more information, please visit www.riscosity.com.</em></p>
+<p><em>For more information, please visit www.riscosity.com.</em></p>
 
 Please RSVP so we can plan for number of attendees: 
 <a href="https://www.meetup.com/owasp-austin-chapter/events/299656027/" target="_blank"> Meetup </a>
