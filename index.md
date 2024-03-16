@@ -77,9 +77,11 @@ RSVP:<br>
 * Continuously monitor and block APIs from data transfers that violate organizational policies
 
 For more information, please visit www.riscosity.com.</blockquote>
+
 Please RSVP so we can plan for number of attendees: 
 <a href="https://www.meetup.com/owasp-austin-chapter/events/299656027/" target="_blank"> Meetup </a>
 <br><br>
+
 [back to top](#welcome)
 <hr>
 
