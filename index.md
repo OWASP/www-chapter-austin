@@ -69,6 +69,7 @@ RSVP:<br>
 
 **Sponsor:** <a href="https://www.riscosity.com/" target="_blank">Riscosity</a>
 <br/><br/><img src="assets/images/Riscosity Logo_Purple_3.png" alt="Riscosity logo"/>
+
 <blockquote><em>Riscosity is the data flow security platform that empowers teams to have full visibility of all data in transit and automates the redaction or redirection of sensitive events, simplifying how companies meet security and privacy requirements. With Riscosity teams can:
 
 * Track and pinpoint any data being sent to any 3rd-party APIs
