@@ -26,6 +26,32 @@ altfooter: true
 ### 2024 ###
 
 <!--- ADD PAST EVENT FOR 2024 BELOW --->
+### OWASP Austin Chapter Meeting March 2024 ###
+
+**When:** Tuesday, March 26, 2024 @ 11:45 AM - 1:00 PM<br>
+<blockquote>
+**Presentation: Protecting Sources and Methods – The Magic of Runtime Security.** 
+
+In this talk, we’re going to dive into “runtime security” – a powerful technology that automatically adds powerful trust boundaries to these dangerous methods without requiring any code or process changes. Runtime security enables all four of these key capabilities:
+
+Finding zero-day vulnerabilities in custom code and libraries in real time
+Finding known vulnerabilities in libraries and understanding their exploitability
+Preventing vulnerabilities from being exploited in production
+Creating a digital blueprint of security to drive threat modeling, penetration testing, and risk management
+
+In essence, Runtime Security is a comprehensive approach to app/API security that can replace your suite of legacy tools. Runtime security is already in use in hundreds of thousands of critical apps/APIs in some of the biggest companies in the world. During our session, you’ll learn how to use Runtime Security to streamline application security, accelerate innovation, and improve security at the same time.
+</blockquote>
+
+**Speaker:**
+<blockquote>
+Jeff Williams
+
+Jeff is a veteran application security expert who founded and led OWASP, Aspect Security, and Contrast Security. He also created several highly successful open-source projects, including jbom, jot, OWASP Top Ten, WebGoat, ESAPI, ASVS, and more. Jeff serves as an advisor to NIST, CISA, PCI Council, OASIS SARIF, OWASP CycloneDX, Eclipse Foundation, and advises many companies and agencies on application security. He has a BA from Virginia, an MA from George Mason, and a JD from Georgetown. He's also a two-time master’s basketball national champion who would love to connect on LinkedIn: https://www.linkedin.com/in/planetlevel/
+</blockquote>
+
+<a href="https://youtu.be/98MtQmfb5mg" target="_blank">YouTube</a>
+<br><br>
+<hr>
 
 ### Austin Security Professionals Happy Hour sponsored by IriusRisk, March 14, 2024 ###
 
