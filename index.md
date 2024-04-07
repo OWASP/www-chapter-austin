@@ -28,33 +28,26 @@ Welcome to the Austin chapter homepage.
 ## Upcoming Events ##
 <hr>
 
-### OWASP Austin Chapter Meeting March 2024 ###
+### OWASP Austin Chapter Meeting April 2024 ###
 
-**When:** Tuesday, March 26, 2024 @ 11:45 AM - 1:00 PM<br>
+**When:** Tuesday, April 30, 2024 @ 11:45 AM - 1:00 PM<br>
 Agenda:<br>
 11:30-11:55 -- Room Opens, food is available and in-room discussions<br>
 11:55-12:05 -- Chapter/OWASP info presentation<br>
 12:05-1  -- Speaker Presentation<br>
+<br>
+**Presentation: The Truman Show: Real-world application attacks instead of canned demos**
 
-**Presentation: Protecting Sources and Methods – The Magic of Runtime Security.** 
-
-In this talk, we’re going to dive into “runtime security” – a powerful technology that automatically adds powerful trust boundaries to these dangerous methods without requiring any code or process changes. Runtime security enables all four of these key capabilities:
-
-Finding zero-day vulnerabilities in custom code and libraries in real time
-Finding known vulnerabilities in libraries and understanding their exploitability
-Preventing vulnerabilities from being exploited in production
-Creating a digital blueprint of security to drive threat modeling, penetration testing, and risk management
-
-In essence, Runtime Security is a comprehensive approach to app/API security that can replace your suite of legacy tools. Runtime security is already in use in hundreds of thousands of critical apps/APIs in some of the biggest companies in the world. During our session, you’ll learn how to use Runtime Security to streamline application security, accelerate innovation, and improve security at the same time.
-
+In this presentation, Kevin Johnson of Secure Ideas will walk attendees through various scenarios used in penetration testing of applications.  These demonstrations will use real attacks and discuss how a penetration tester views applications.  This talk will explain the mindset of an attacker, using actual applications as well as demonstration apps to allow for exploitation.
+<br><br>
 **Speaker:** 
-Jeff Williams
+Kevin Johnson
 
-Jeff is a veteran application security expert who founded and led OWASP, Aspect Security, and Contrast Security. He also created several highly successful open-source projects, including jbom, jot, OWASP Top Ten, WebGoat, ESAPI, ASVS, and more. Jeff serves as an advisor to NIST, CISA, PCI Council, OASIS SARIF, OWASP CycloneDX, Eclipse Foundation, and advises many companies and agencies on application security. He has a BA from Virginia, an MA from George Mason, and a JD from Georgetown. He's also a two-time master’s basketball national champion who would love to connect on LinkedIn: https://www.linkedin.com/in/planetlevel/
+Kevin Johnson is CEO of Secure Ideas, a consulting company dedicated to security testing and training. Kevin passionately advocates for cybersecurity through his work with Secure Ideas, as a global board member for OWASP and as a faculty member at IANS. During his over 30 years in the industry, Kevin acted as an instructor and author for the SANS institute. He also contributed to a number of open-source projects, including OWASP SamuraiWTF (a web pen-testing training environment), Laudanum (a collection of injectable web payloads) and Yokoso (an infrastructure fingerprinting project) and was the founder and lead of the BASE project for Snort. Kevin has served as an expert witness in court cases involving cybersecurity.
 
 RSVP:<br>
-<a href="https://www.eventbrite.com/e/owasp-austin-chapter-monthly-meeting-march-2024-group-2-tickets-863355077277">Eventbrite (in-person RSVP)</a><br>
-<a href="https://www.meetup.com/owasp-austin-chapter/events/298206989/">Meetup (online RSVP)</a>
+Eventbrite (in-person RSVP) - <a href="https://www.eventbrite.com/e/owasp-austin-chapter-monthly-meeting-april-2024-group-1-tickets-879128425787">Eventbrite</a><br>
+Meetup (online RSVP) - <a href="https://www.meetup.com/owasp-austin-chapter/events/298207001/">Meetup</a>
 
 [back to top](#welcome)
 <hr>
