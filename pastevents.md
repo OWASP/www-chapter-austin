@@ -26,6 +26,18 @@ altfooter: true
 ### 2024 ###
 
 <!--- ADD PAST EVENT FOR 2024 BELOW --->
+
+### Austin Security Professionals Happy Hour sponsored by Riscosity, April 11, 2024 ###
+
+**When:** Thursday, April 11th, 5:30 pm - 7:30 pm
+
+**Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758. 
+
+**Sponsor:** <a href="https://www.riscosity.com/" target="_blank">Riscosity</a>
+<br><br>
+
+<hr>
+
 ### OWASP Austin Chapter Meeting March 2024 ###
 
 **When:** Tuesday, March 26, 2024 @ 11:45 AM - 1:00 PM<br>
