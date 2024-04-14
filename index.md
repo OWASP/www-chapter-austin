@@ -97,7 +97,8 @@ Please RSVP so we can plan for number of attendees:
 Save the Date for LASCON 2024. We will be back at Norris Conference Center with Pre-Conference Training October 22-23, 2024 and Conference October 24-25, 2024. Visit <a href="https://lascon.org/" target="_blank">lascon.org</a>.
 
 <ul><li><a href="https://lascon.org/tickets/" target="_blank">Discounted tickets are available. Get yours today!</a></li>
-<li>CFP will be made available soon. <!--- <a href="https://lascon.org/cfp/" target="_blank">Submit your CFP today!</a> --></li>
+<li>Call for Presentations (CFP) open until <strong>Saturday, June 1, 2024</strong>. <a href="https://lascon.org/cfp/" target="_blank">Submit your CFP today!</a></li>
+<li>Call for Training (CFT) open until <strong>July 30, 2024</strong>. <a href="https://lascon.org/cft/" target="_blank">Submit your CFT today!</a></li>
 <li>Interested in sponsoring LASCON 2024? <a href="https://lascon.org/become-a-sponsor/" target="_blank">Become a Sponsor.</a></li>
 </ul>
 
