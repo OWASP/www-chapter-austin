@@ -46,7 +46,7 @@ Kevin Johnson
 Kevin Johnson is CEO of Secure Ideas, a consulting company dedicated to security testing and training. Kevin passionately advocates for cybersecurity through his work with Secure Ideas, as a global board member for OWASP and as a faculty member at IANS. During his over 30 years in the industry, Kevin acted as an instructor and author for the SANS institute. He also contributed to a number of open-source projects, including OWASP SamuraiWTF (a web pen-testing training environment), Laudanum (a collection of injectable web payloads) and Yokoso (an infrastructure fingerprinting project) and was the founder and lead of the BASE project for Snort. Kevin has served as an expert witness in court cases involving cybersecurity.
 
 RSVP:<br>
-Eventbrite (in-person RSVP) - <a href="https://www.eventbrite.com/e/owasp-austin-chapter-monthly-meeting-april-2024-group-1-tickets-879128425787">Eventbrite</a><br>
+Eventbrite (in-person RSVP) - <a href="https://owasp-austin-2024-april-g2.eventbrite.com">Eventbrite</a><br>
 Meetup (online RSVP) - <a href="https://www.meetup.com/owasp-austin-chapter/events/298207001/">Meetup</a>
 
 [back to top](#welcome)
