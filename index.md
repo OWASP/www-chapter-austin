@@ -41,7 +41,6 @@ Agenda:<br>
 The presentation unites Tyler Agypt's expertise in a riveting exploration of software supply chain threats, spanning traditional dangers to the novel challenge of AI Package Hallucination. Agypt, VP of Global Enablement at Checkmarx, exposes the hidden risks in software dependencies and the emerging threat of artificially generated, nonexistent code packages. Through real-world examples and insights from over 1 million malicious packages, he reveals the deceptive practices endangering our digital ecosystem, from Dependency Confusion to Star-Jacking to Repo-Jacking.
 
 Agypt advocates for robust defensive strategies, tools and improved dependency management, to counteract these threats. This presentation is a call to action for the developer and cybersecurity community to elevate their vigilance and adopt a proactive stance against the evolving challenges in software supply chain security. Join this enlightening session for a comprehensive understanding of both traditional and AI-induced vulnerabilities, and equip yourself to better face tomorrow's cybersecurity challenges.
-
 <br><br>
 **Speaker:** 
 Tyler Agypt
