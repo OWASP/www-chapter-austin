@@ -28,46 +28,30 @@ Welcome to the Austin chapter homepage.
 ## Upcoming Events ##
 <hr>
 
-### OWASP Austin Chapter Meeting April 2024 ###
+### OWASP Austin Chapter Meeting May 2024 ###
 
-**When:** Tuesday, April 30, 2024 @ 11:45 AM - 1:00 PM<br>
+**When:** Tuesday, May 28th 2024 @ 11:45 AM - 1:00 PM<br>
 Agenda:<br>
 11:30-11:55 -- Room Opens, food is available and in-room discussions<br>
 11:55-12:05 -- Chapter/OWASP info presentation<br>
 12:05-1  -- Speaker Presentation<br>
 <br>
-**Presentation: The Truman Show: Real-world application attacks instead of canned demos**
+**Presentation: Digital Deceit and AI Hallucinations: Safeguarding the Software Supply Chain**
 
-In this presentation, Kevin Johnson of Secure Ideas will walk attendees through various scenarios used in penetration testing of applications.  These demonstrations will use real attacks and discuss how a penetration tester views applications.  This talk will explain the mindset of an attacker, using actual applications as well as demonstration apps to allow for exploitation.
+The presentation unites Tyler Agypt's expertise in a riveting exploration of software supply chain threats, spanning traditional dangers to the novel challenge of AI Package Hallucination. Agypt, VP of Global Enablement at Checkmarx, exposes the hidden risks in software dependencies and the emerging threat of artificially generated, nonexistent code packages. Through real-world examples and insights from over 1 million malicious packages, he reveals the deceptive practices endangering our digital ecosystem, from Dependency Confusion to Star-Jacking to Repo-Jacking.
+
+Agypt advocates for robust defensive strategies, tools and improved dependency management, to counteract these threats. This presentation is a call to action for the developer and cybersecurity community to elevate their vigilance and adopt a proactive stance against the evolving challenges in software supply chain security. Join this enlightening session for a comprehensive understanding of both traditional and AI-induced vulnerabilities, and equip yourself to better face tomorrow's cybersecurity challenges.
+
 <br><br>
 **Speaker:** 
-Kevin Johnson
+Tyler Agypt
 
-Kevin Johnson is CEO of Secure Ideas, a consulting company dedicated to security testing and training. Kevin passionately advocates for cybersecurity through his work with Secure Ideas, as a global board member for OWASP and as a faculty member at IANS. During his over 30 years in the industry, Kevin acted as an instructor and author for the SANS institute. He also contributed to a number of open-source projects, including OWASP SamuraiWTF (a web pen-testing training environment), Laudanum (a collection of injectable web payloads) and Yokoso (an infrastructure fingerprinting project) and was the founder and lead of the BASE project for Snort. Kevin has served as an expert witness in court cases involving cybersecurity.
+Tyler Agypt, VP of Global Enablement at Checkmarx, is an Application Security evangelist and tech enthusiast. With a career focused on the intersection of software development and AppSec, Tyler brings a deep understanding of how to combat emerging threats within applications. Known for his voracious appetite for learning and problem-solving, he delves into customer AppSec programs, offering insights into tackling security challenges. Tyler's unique combination of expertise, passion, and approachability makes his speeches a must-see, promising attendees not just valuable learnings but also inspiration to delve deeper into the world of Application Security.
 
 RSVP:<br>
-Eventbrite (in-person RSVP) - <a href="https://owasp-austin-2024-april-g2.eventbrite.com">Eventbrite</a><br>
-Meetup (online RSVP) - <a href="https://www.meetup.com/owasp-austin-chapter/events/298207001/">Meetup</a>
-
-[back to top](#welcome)
-<hr>
-
-### Austin Security Professionals Happy Hour sponsored by Cequence, May 9, 2024 ###
-
-**When:** Thursday, May 9th, 5:30 pm - 7:30 pm
-
-**Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.  We will have tables reserved inside the bar, to the right as you enter.  Parking: nearest parking in the Red Garage located off of Rock Rose Ave (<a href="https://domainnorthside.com/map/" target="_blank">map of Domain</a>). 
-
-**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
-
-**Sponsor:** <a href="https://www.cequence.ai/" target="_blank">Cequence</a>  
-<br/><br/><img src="assets/images/HH-2024-Cequence-logo.jpg" alt="Cequence logo"/>
-<p><em>Cequence, a pioneer in API Security, is the only vendor with a comprehensive Unified API Protection solution offering discovery, compliance, and protection across all internal and external APIs to defend against attacks, targeted abuse, and fraud. Onboard APIs in less than 15 minutes, without needing any instrumentation, SDK, or JavaScript deployments. Cequence solutions scale to handle the most demanding government, Fortune and Global 2000 organizations, securing more than 8 billion daily API calls and protecting more than 3 billion user accounts across these customers. Its flexible deployment model supports passive/inline, on-premises, SaaS, and hybrid deployments.</em></p>
-
-Please RSVP so we can plan for number of attendees: 
-<a href="https://www.meetup.com/owasp-austin-chapter/events/299656219/" target="_blank"> Meetup </a>
-<br><br>
-
+Eventbrite (in-person RSVP) - <a href="https://www.eventbrite.com/e/owasp-austin-chapter-monthly-meeting-may-2024-group-1-tickets-903619619607?aff=oddtdtcreator">Eventbrite</a><br>
+Meetup (online RSVP) - <a href="https://www.meetup.com/owasp-austin-chapter/events/298207005/">Meetup</a>
+<br>
 [back to top](#welcome)
 <hr>
 
