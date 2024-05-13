@@ -54,7 +54,7 @@ Meetup (online RSVP) - <a href="https://www.meetup.com/owasp-austin-chapter/even
 [back to top](#welcome)
 <hr>
 
-### Austin Security Professionals Happy Hour, June 13, 2024 - SAVE THE DATE ###
+### Austin Security Professionals Happy Hour, June 13, 2024 Sponsored by Checkmarx ###
 
 **When:** Thursday, June 13th, 5:30 pm - 7:30 pm
 
@@ -62,15 +62,13 @@ Meetup (online RSVP) - <a href="https://www.meetup.com/owasp-austin-chapter/even
 
 **What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
 
-<p>More details will be announced. Stay tuned!</p>
-<!--- **Sponsor:** <a href="company-url-here" target="_blank">TBA</a>
-<br/><br/><img src="assets/images/????.jpg" alt="???"/>
-<p><em>TBA</em></p> -->
-
-<!-- <br>
+**Sponsor:** <a href="https://checkmarx.com/" target="_blank">Checkmarx</a>
+<br/><br/><img src="assets/images/Checkmarx-logo-HH-sm.jpg" alt="Checkmarx logo"/>
+<p><em>Checkmarx is constantly pushing the boundaries of Application Security Testing to make security seamless and simple for the world’s developers and security teams. As the AppSec testing leader, we deliver the unparalleled accuracy, coverage, visibility, and guidance our customers need to build tomorrow’s software securely and at speed.</em></p>
+<br>
 Please RSVP so we can plan for number of attendees: 
-<a href="https://www.meetup.com/owasp-austin-chapter/events/????/" target="_blank"> Meetup </a> 
-<br><br> -->
+<a href="https://www.meetup.com/owasp-austin-chapter/events/299655980/" target="_blank"> Meetup </a> 
+<br><br>
 
 [back to top](#welcome)
 <hr>
