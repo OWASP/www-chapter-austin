@@ -54,7 +54,7 @@ Meetup (online RSVP) - <a href="https://www.meetup.com/owasp-austin-chapter/even
 [back to top](#welcome)
 <hr>
 
-### Austin Security Professionals Happy Hour, June 13, 2024 Sponsored by Checkmarx ###
+### Austin Security Professionals Happy Hour sponsored by Checkmarx, June 13, 2024 ###
 
 **When:** Thursday, June 13th, 5:30 pm - 7:30 pm
 
