@@ -48,7 +48,7 @@ Tyler Agypt
 Tyler Agypt, VP of Global Enablement at Checkmarx, is an Application Security evangelist and tech enthusiast. With a career focused on the intersection of software development and AppSec, Tyler brings a deep understanding of how to combat emerging threats within applications. Known for his voracious appetite for learning and problem-solving, he delves into customer AppSec programs, offering insights into tackling security challenges. Tyler's unique combination of expertise, passion, and approachability makes his speeches a must-see, promising attendees not just valuable learnings but also inspiration to delve deeper into the world of Application Security.
 
 RSVP:<br>
-Eventbrite (in-person RSVP) - <a href="https://www.eventbrite.com/e/owasp-austin-chapter-monthly-meeting-may-2024-group-1-tickets-903619619607?aff=oddtdtcreator">Eventbrite</a><br>
+Eventbrite (in-person RSVP) - <a href="https://www.eventbrite.com/e/owasp-austin-chapter-monthly-meeting-may-2024-group-2-tickets-910963254617">Eventbrite</a><br>
 Meetup (online RSVP) - <a href="https://www.meetup.com/owasp-austin-chapter/events/298207005/">Meetup</a>
 <br>
 [back to top](#welcome)
