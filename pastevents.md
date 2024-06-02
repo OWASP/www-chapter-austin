@@ -27,6 +27,30 @@ altfooter: true
 
 <!--- ADD PAST EVENT FOR 2024 BELOW --->
 
+### OWASP Austin Chapter Meeting May 2024 ###
+
+**When:** Tuesday, May 28th 2024 @ 11:45 AM - 1:00 PM<br>
+Agenda:<br>
+<blockquote>
+<br>
+**Presentation: Digital Deceit and AI Hallucinations: Safeguarding the Software Supply Chain**
+
+The presentation unites Tyler Agypt's expertise in a riveting exploration of software supply chain threats, spanning traditional dangers to the novel challenge of AI Package Hallucination. Agypt, VP of Global Enablement at Checkmarx, exposes the hidden risks in software dependencies and the emerging threat of artificially generated, nonexistent code packages. Through real-world examples and insights from over 1 million malicious packages, he reveals the deceptive practices endangering our digital ecosystem, from Dependency Confusion to Star-Jacking to Repo-Jacking.
+
+Agypt advocates for robust defensive strategies, tools and improved dependency management, to counteract these threats. This presentation is a call to action for the developer and cybersecurity community to elevate their vigilance and adopt a proactive stance against the evolving challenges in software supply chain security. Join this enlightening session for a comprehensive understanding of both traditional and AI-induced vulnerabilities, and equip yourself to better face tomorrow's cybersecurity challenges.
+<br><br>
+</blockquote>
+
+**Speaker:**
+<blockquote>
+Tyler Agypt
+
+Tyler Agypt, VP of Global Enablement at Checkmarx, is an Application Security evangelist and tech enthusiast. With a career focused on the intersection of software development and AppSec, Tyler brings a deep understanding of how to combat emerging threats within applications. Known for his voracious appetite for learning and problem-solving, he delves into customer AppSec programs, offering insights into tackling security challenges. Tyler's unique combination of expertise, passion, and approachability makes his speeches a must-see, promising attendees not just valuable learnings but also inspiration to delve deeper into the world of Application Security.
+</blockquote>
+<br>
+<a href="https://youtu.be/DD7m26XHFkk">YouTube</a>
+<br>
+
 ### Austin Security Professionals Happy Hour sponsored by Cequence, May 9, 2024 ###
 
 **When:** Thursday, May 9th, 5:30 pm - 7:30 pm
