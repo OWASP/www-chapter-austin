@@ -127,15 +127,15 @@ Chapter Supporters
 The following are the list of OWASP Corporate Members who have generously aligned themselves with the Austin chapter, therefore contributing funds to our chapter:
 
 <div>
- <a href="https://www.gitguardian.com" target="_blank"><img src="assets/images/GitGuardian_Logo.png" alt="GitGuardian" width="225" height="157"/></a>&nbsp;&nbsp;
-<a href="https://www.root.io" target="_blank"><img src="assets/images/chapter-sponsor-logo--Root.jpg" alt="Root" width="225" height="157"/></a></div> 
+ <a href="https://www.gitguardian.com" target="_blank"><img src="assets/images/GitGuardian_Logo.png" alt="GitGuardian" width="200" height="139"/></a>&nbsp;&nbsp;
+<a href="https://www.root.io" target="_blank"><img src="assets/images/chapter-sponsor-logo--Root.jpg" alt="Root" width="200" height="139"/></a></div> 
 
 Meeting Supporters
 ----------------
 The following are the list of organizations who have generously provided meeting space for the Austin chapter:
 
 <div>
-<a href="https://www.ni.com" target="_blank"><img src="assets/images/ni.png" alt="NI"  width="225" height="148"/></a>
+<a href="https://www.ni.com" target="_blank"><img src="assets/images/ni.png" alt="NI"  width="200" height="131"/></a>
 </div>
 
 General Supporters
