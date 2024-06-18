@@ -128,7 +128,7 @@ The following are the list of OWASP Corporate Members who have generously aligne
 
 <table cellpadding="0" cellspacing="0">
 <tr>
-<td><a href="https://www.gitguardian.com" target="_blank"><img src="assets/images/GitGuardian_Logo.png" alt="GitGuardian" width="225" height="157"/</a></td>
+<td><a href="https://www.gitguardian.com" target="_blank"><img src="assets/images/GitGuardian_Logo.png" alt="GitGuardian" width="225" height="157"/></a></td>
 <td><a href="https://www.root.io" target="_blank"><img src="assets/images/chapter-sponsor-logo--Root.jpg" alt="Root" width="225" height="157"/></a></td> 
 </tr>
 </table>
