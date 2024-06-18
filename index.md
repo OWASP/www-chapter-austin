@@ -143,7 +143,9 @@ General Supporters
 The following are the list of organizations who have generously provided additional assistance for the Austin chapter:
 
 <div>
-<a href="https://www.lascon.org" target="_blank"><img src="assets/images/Lascon500x109.jpg" alt="LASCON"/></a>
+<a href="https://www.lascon.org" target="_blank"><img src="assets/images/LASCON-logo.jpg" alt="LASCON"/></a>
 </div>
+
+<br/>
 
 [back to top](#welcome)
