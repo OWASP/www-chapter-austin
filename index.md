@@ -126,31 +126,24 @@ Chapter Supporters
 ----------------
 The following are the list of OWASP Corporate Members who have generously aligned themselves with the Austin chapter, therefore contributing funds to our chapter:
 
-<table cellpadding="0" cellspacing="0">
-<tr>
-<td><a href="https://www.gitguardian.com" target="_blank"><img src="assets/images/GitGuardian_Logo.png" alt="GitGuardian" width="225" height="157"/></a></td>
-<td><a href="https://www.root.io" target="_blank"><img src="assets/images/chapter-sponsor-logo--Root.jpg" alt="Root" width="225" height="157"/></a></td> 
-</tr>
-</table>
+<div>
+ <a href="https://www.gitguardian.com" target="_blank"><img src="assets/images/GitGuardian_Logo.png" alt="GitGuardian" width="225" height="157"/></a>&nbsp;&nbsp;
+<a href="https://www.root.io" target="_blank"><img src="assets/images/chapter-sponsor-logo--Root.jpg" alt="Root" width="225" height="157"/></a></div> 
 
 Meeting Supporters
 ----------------
 The following are the list of organizations who have generously provided meeting space for the Austin chapter:
-<table cellpadding="0" cellspacing="0">
-<tr>
-<td><a href="https://www.ni.com" target="_blank"><img src="assets/images/ni.png" alt="NI"  width="225" height="148"/></a></td>
-</tr>
-</table>
+
+<div>
+<a href="https://www.ni.com" target="_blank"><img src="assets/images/ni.png" alt="NI"  width="225" height="148"/></a>
+</div>
 
 General Supporters
 ----------------
 The following are the list of organizations who have generously provided additional assistance for the Austin chapter:
-<table cellpadding="0" cellspacing="0">
-<tr>
-<td>
-  <a href="https://www.lascon.org" target="_blank"><img src="assets/images/Lascon500x109.jpg" alt="LASCON"/></a>
-</td>
-</tr>
-</table>
+
+<div>
+<a href="https://www.lascon.org" target="_blank"><img src="assets/images/Lascon500x109.jpg" alt="LASCON"/></a>
+</div>
 
 [back to top](#welcome)
