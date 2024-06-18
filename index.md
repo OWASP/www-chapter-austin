@@ -129,6 +129,7 @@ The following are the list of OWASP Corporate Members who have generously aligne
 <div>
  <a href="https://www.gitguardian.com" target="_blank"><img src="assets/images/GitGuardian_Logo.png" alt="GitGuardian" width="200" height="139"/></a>&nbsp;&nbsp;
 <a href="https://www.root.io" target="_blank"><img src="assets/images/chapter-sponsor-logo--Root.jpg" alt="Root" width="200" height="139"/></a></div> 
+<br/><br/>
 
 Meeting Supporters
 ----------------
@@ -137,6 +138,7 @@ The following are the list of organizations who have generously provided meeting
 <div>
 <a href="https://www.ni.com" target="_blank"><img src="assets/images/ni.png" alt="NI"  width="200" height="131"/></a>
 </div>
+<br/><br/>
 
 General Supporters
 ----------------
@@ -146,6 +148,6 @@ The following are the list of organizations who have generously provided additio
 <a href="https://www.lascon.org" target="_blank"><img src="assets/images/LASCON-logo.jpg" alt="LASCON"/></a>
 </div>
 
-<br/>
+<br/><br/>
 
 [back to top](#welcome)
