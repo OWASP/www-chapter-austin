@@ -58,6 +58,26 @@ Meetup (online RSVP) on <a href="https://www.meetup.com/owasp-austin-chapter/eve
 
 <hr>
 
+### Austin Security Professionals Happy Hour sponsored by SecureLayer7, July 11, 2024 ###
+
+**When:** Thursday, July 11th, 5:30 pm - 7:30 pm
+
+**Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.  We will have tables reserved inside the bar, to the right as you enter.  Parking: nearest parking in the Red Garage located off of Rock Rose Ave (<a href="https://domainnorthside.com/map/" target="_blank">map of Domain</a>). 
+
+**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
+
+**Sponsor:** <a href="https://securelayer7.net" target="_blank">SecureLayer7</a>
+<br/><br/>
+<img src="assets/images/SecureLayer7-logo-HH-sm.jpg" alt="SecureLayer7" />
+<p><em>SecureLayer7 presents BugDazz: Empowering pentesting excellence for large enterprises and SMEs. Step into the future of cybersecurity with BugDazz and transform your strategy today. Trusted by leading organizations worldwide, elevate your pentesting program to new heights and ensure the security of your organization.</em></p>
+<br>
+Please RSVP so we can plan for number of attendees: 
+<a href="https://www.meetup.com/owasp-austin-chapter/events/302000237/" target="_blank"> Meetup </a> 
+<br><br>
+
+[back to top](#welcome)
+<hr>
+
 ### OWASP Austin Chapter Meeting July 2024 ###
 
 **When:** Tuesday, July 30th 2024 @ 11:45 AM - 1:00 PM<br>
