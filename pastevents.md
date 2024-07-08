@@ -27,6 +27,30 @@ altfooter: true
 
 <!--- ADD PAST EVENT FOR 2024 BELOW --->
 
+### OWASP Austin Chapter Meeting June 2024 ###
+
+**When:** Tuesday, June 25th 2024 @ 11:45 AM - 1:00 PM<br>
+Agenda:<br>
+11:30-11:55 -- Room Opens, food is available and in-room discussions<br>
+11:55-12:05 -- Chapter/OWASP info presentation<br>
+12:05-1  -- Speaker Presentation<br>
+<br>
+
+**Presentation:** Full of SaaS and TOTALLY SECURE
+<blockquote>
+Managing shadow IT in the age of SaaS application sprawl is an important component of managing risk, especially since so many of us depend on SaaS/PaaS as part of our critical infrastructure.  However, traditional approaches (blocklisting, brute force, etc.) have proven ineffective and are, oftentimes, too late to prevent any real security issues.
+In this session, we’ll discuss some of the psychology behind why we’re referred to as the “department of NO” as well as how to start shifting that perception.  You will also learn of some tactics to identify and mitigate shadow IT as well as proactive measures that may help avoid future sprawl.</blockquote>
+
+**Speaker:** 
+<blockquote>
+Garret Gross
+<br>
+Garrett Gross, a seasoned cybersecurity professional with over twenty years of experience, currently holds the position of Head of Product at Nudge Security. His primary focus is on implementing innovative strategies to address SaaS sprawl and mitigate the risks associated with shadow IT. With a strong background in security operations, incident response, and threat research, Garrett's expertise and dedication to the field are evident. He actively contributes to the cybersecurity community by collaborating with organizations such as OWASP and ISSA, aiming to elevate industry standards and best practices.</blockquote>
+
+<br>
+<a href="https://youtu.be/EVIQDuo7FVE"> YouTube </a>
+<br><br>
+<hr>
 
 ### Austin Security Professionals Happy Hour sponsored by Checkmarx, June 13, 2024 ###
 
@@ -41,11 +65,10 @@ altfooter: true
 ### OWASP Austin Chapter Meeting May 2024 ###
 
 **When:** Tuesday, May 28th 2024 @ 11:45 AM - 1:00 PM<br>
-Agenda:<br>
-<blockquote>
 <br>
-**Presentation: Digital Deceit and AI Hallucinations: Safeguarding the Software Supply Chain**
-
+	
+**Presentation:** Digital Deceit and AI Hallucinations: Safeguarding the Software Supply Chain
+<blockquote>
 The presentation unites Tyler Agypt's expertise in a riveting exploration of software supply chain threats, spanning traditional dangers to the novel challenge of AI Package Hallucination. Agypt, VP of Global Enablement at Checkmarx, exposes the hidden risks in software dependencies and the emerging threat of artificially generated, nonexistent code packages. Through real-world examples and insights from over 1 million malicious packages, he reveals the deceptive practices endangering our digital ecosystem, from Dependency Confusion to Star-Jacking to Repo-Jacking.
 
 Agypt advocates for robust defensive strategies, tools and improved dependency management, to counteract these threats. This presentation is a call to action for the developer and cybersecurity community to elevate their vigilance and adopt a proactive stance against the evolving challenges in software supply chain security. Join this enlightening session for a comprehensive understanding of both traditional and AI-induced vulnerabilities, and equip yourself to better face tomorrow's cybersecurity challenges.
@@ -60,7 +83,8 @@ Tyler Agypt, VP of Global Enablement at Checkmarx, is an Application Security ev
 </blockquote>
 <br>
 <a href="https://youtu.be/DD7m26XHFkk">YouTube</a>
-<br>
+<br><br>
+<hr>
 
 ### Austin Security Professionals Happy Hour sponsored by Cequence, May 9, 2024 ###
 
