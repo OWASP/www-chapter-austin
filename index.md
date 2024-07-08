@@ -30,34 +30,6 @@ Welcome to the Austin chapter homepage.
 <hr>
 
 
-### OWASP Austin Chapter Meeting June 2024 ###
-
-**When:** Tuesday, June 25th 2024 @ 11:45 AM - 1:00 PM<br>
-Agenda:<br>
-11:30-11:55 -- Room Opens, food is available and in-room discussions<br>
-11:55-12:05 -- Chapter/OWASP info presentation<br>
-12:05-1  -- Speaker Presentation<br>
-<br>
-**Presentation: Full of SaaS and TOTALLY SECURE**
-
-Managing shadow IT in the age of SaaS application sprawl is an important component of managing risk, especially since so many of us depend on SaaS/PaaS as part of our critical infrastructure.  However, traditional approaches (blocklisting, brute force, etc.) have proven ineffective and are, oftentimes, too late to prevent any real security issues.
-In this session, we’ll discuss some of the psychology behind why we’re referred to as the “department of NO” as well as how to start shifting that perception.  You will also learn of some tactics to identify and mitigate shadow IT as well as proactive measures that may help avoid future sprawl.
-<br><br>
-**Speaker:** 
-Garret Gross
-<br>
-Garrett Gross, a seasoned cybersecurity professional with over twenty years of experience, currently holds the position of Head of Product at Nudge Security. His primary focus is on implementing innovative strategies to address SaaS sprawl and mitigate the risks associated with shadow IT. With a strong background in security operations, incident response, and threat research, Garrett's expertise and dedication to the field are evident. He actively contributes to the cybersecurity community by collaborating with organizations such as OWASP and ISSA, aiming to elevate industry standards and best practices.
-
-RSVP:<br>
-RSVP:
-Eventbrite (in-person RSVP) at Eventbrite @ 	<a href="https://owasp-austin-2024-june.eventbrite.com">Group1</a> or <a href="https://owasp-austin-2024-june-g2.eventbrite.com">Group2</a>
- <br>
-Meetup (online RSVP) on <a href="https://www.meetup.com/owasp-austin-chapter/events/298207011/">Meetup</a>
-<br>
-[back to top](#welcome)
-
-<hr>
-
 ### Austin Security Professionals Happy Hour sponsored by SecureLayer7, July 11, 2024 ###
 
 **When:** Thursday, July 11th, 5:30 pm - 7:30 pm
