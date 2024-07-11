@@ -28,7 +28,7 @@ The Austin OWASP Chapter coordinates a monthly Austin Security Professionals Ha
 
 Interested in Sponsoring? We are currently seeking happy hour sponsors for our monthly event. Please contact <a href="mailto:tiana.chandler@owasp.org?subject=OWASP Happy Hour Sponsor">Tiana Chandler</a> if you are interested. 
 
-Event Dates for 2024:
+Event Dates for 2024 have all been filled:
   <pre>
   January ...... 1/11/2024 ..... have sponsor
   February ..... 2/8/2024  ..... have sponsor
@@ -36,9 +36,22 @@ Event Dates for 2024:
   April ........ 4/11/2024 ..... have sponsor
   May .......... 5/9/2024  ..... have sponsor
   June ......... 6/13/2024 ..... have sponsor
-  July ......... 7/11/2024 ..... AVAILABLE
-  August ....... 8/8/2024  ..... AVAILABLE
+  July ......... 7/11/2024 ..... have sponsor
+  August ....... 8/8/2024  ..... have sponsor
   September..... 9/12/2024 ..... have sponsor
+  </pre>
+
+Event Dates for 2025 are available:
+  <pre>
+  January ...... 1/9/2025  ..... AVAILABLE
+  February ..... 2/13/2025 ..... AVAILABLE
+  March  ....... 3/13/2025 ..... AVAILABLE
+  April ........ 4/10/2025 ..... AVAILABLE
+  May .......... 5/8/2025  ..... AVAILABLE
+  June ......... 6/12/2025 ..... AVAILABLE
+  July ......... 7/10/2025 ..... AVAILABLE
+  August ....... 8/14/2025 ..... AVAILABLE
+  September..... 9/11/2025 ..... AVAILABLE
   </pre>
 
 ### Lonestar Application Security Conference (LASCON) Sponsorship ### 
