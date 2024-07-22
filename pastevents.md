@@ -27,6 +27,16 @@ altfooter: true
 
 <!--- ADD PAST EVENT FOR 2024 BELOW --->
 
+### Austin Security Professionals Happy Hour sponsored by SecureLayer7, July 11, 2024 ###
+
+**When:** Thursday, July 11th, 5:30 pm - 7:30 pm
+
+**Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.
+
+**Sponsor:** <a href="https://securelayer7.net" target="_blank">SecureLayer7</a>
+<br>
+<hr>
+
 ### OWASP Austin Chapter Meeting June 2024 ###
 
 **When:** Tuesday, June 25th 2024 @ 11:45 AM - 1:00 PM<br>
