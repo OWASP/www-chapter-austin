@@ -58,7 +58,7 @@ Theresa’s professional career began with McDonnell Douglas where she was a sof
 Theresa holds a Bachelor of Science in Computer Science from the University of Pittsburgh, Pittsburgh, PA
 </blockquote>
 <br>
-YouTube Coming Soon
+<a href="https://youtu.be/NxF-udTkziQ">YouTube</a>
 <br><br>
 
 <hr>
