@@ -29,50 +29,6 @@ Welcome to the Austin chapter homepage.
 ### Upcoming Events ###
 <hr>
 
-
-### OWASP Austin Chapter Meeting July 2024 ###
-
-**When:** Tuesday, July 30th 2024 @ 11:45 AM - 1:00 PM<br>
-Agenda:<br>
-11:30-11:55 -- Room Opens, food is available and in-room discussions<br>
-11:55-12:05 -- Chapter/OWASP info presentation<br>
-12:05-1  -- Speaker Presentation<br>
-<br>
-**Presentation: Cyber Resilience - Findings from the 2024 Futures Report**
-
-We are poised on the precipice of a new era of computing underpinned by new networks, new apps, and a digital-first experience.
-Hear the latest findings from AT&T Cybersecurity research and learn about:
-- What high-priority edge computing use cases are across seven industry markets
-- How to secure and work with the edge ecosystem
-- How the attack surface is changing
-- How endpoints are diversifying
-The data from this research helps audiences understand challenges and opportunities of the future and examines:
-- Balanced investment strategies
-- Collaboration and communication needs
-- Building with dynamic cyber resilience in mind
-Security is now a critical part of business - learn how to move your team to the future!
-
-**Speaker:** 
-Theresa Lanowitz
-<br>
-Theresa Lanowitz is a proven global influencer and speaks on trends and emerging technology poised to help today’s enterprise organizations flourish. Theresa is currently the head of cybersecurity evangelism at AT&T Business.
-Prior to joining AT&T, Theresa was an industry analyst with boutique analyst firm voke and Gartner. While at Gartner, Theresa spearheaded the application quality ecosystem, championed application security technology, and created the successful Application Development conference.
-As a product manager at Borland International Software, Theresa launched the iconic Java integrated development environment, JBuilder. While at Sun Microsystems, Theresa led strategic marketing for the Jini project – a precursor to IoT (Internet of Things).
-Theresa’s professional career began with McDonnell Douglas where she was a software developer on the C-17 military transport plane and held a US Department of Defense Top Secret security clearance.
-Theresa holds a Bachelor of Science in Computer Science from the University of Pittsburgh, Pittsburgh, PA
-
-
-RSVP:<br>
-RSVP:
-Eventbrite (in-person RSVP) at Eventbrite @ 	
-<a href="https://owasp-austin-2024-july-g1.eventbrite.com">Group1</a> or <a href="https://owasp-austin-2024-july-g2.eventbrite.com">Group2</a>
- <br>
-Meetup (online RSVP) on <a href="https://www.meetup.com/owasp-austin-chapter/events/298207014">Meetup</a>
-<br>
-[back to top](#welcome)
-
-<hr>
-
 ### Austin Security Professionals Happy Hour sponsored by Trellix, August 8, 2024 ###
 
 **When:** Thursday, August 8th, 5:30 pm - 7:30 pm
@@ -93,13 +49,53 @@ Please RSVP so we can plan for number of attendees:
 [back to top](#welcome)
 <hr>
 
+### OWASP Austin Chapter Meeting August 2024 ###
+
+**When:** Tuesday, August 27th 2024 @ 11:45 AM - 1:00 PM<br>
+Agenda:<br>
+11:30-11:55 -- Room Opens, food is available and in-room discussions<br>
+11:55-12:05 -- Chapter/OWASP info presentation<br>
+12:05-1  -- Speaker Presentation<br>
+<br>
+**Presentation: How to protect WordPress or other CMS websites**
+
+In this presentation, we will walk through different types of real anonymized attacked WordPress and other CMS frameworks in how those sites were attacked and how the sites were then protected from future attacks.
+
+Everyone attending should  leave the presentation able to: 
+- Understand how these sites are attacked
+- Protects that may have already been in place that didn't work
+- What measures were then put in place that worked
+
+**Speaker:** 
+Mark Spears
+<br>
+Currently a Principal Security Consultant at Solis Security / CFC Response, Mark plays many roles helping customers as a:
+- Virtual CISO
+- Virtual Chief Zero Trust Officer
+- Compromised Web Application – Live Response and Recovery
+- Internal Mentor
+ 
+Much of his most recent education and skill focus has been on helping companies with their attack surface area by implementing NIST 800-207 Zero Trust Architecture to reduce security risks.  If not enjoying his work at Solis Security, he can be found practicing physical security, lock picking, social engineering, or hardware hacking. Otherwise, he is on a Harley Davidson somewhere doing karaoke and playing billiards.
+
+
+RSVP:<br>
+RSVP:
+Eventbrite (in-person RSVP) at Eventbrite @ 	
+<a href="https://owasp-austin-2024-august-g1.eventbrite.com">Group1</a> or <a href="https://owasp-austin-2024-august-g2.eventbrite.com">Group2</a>
+ <br>
+Meetup (online RSVP) on <a href="https://www.meetup.com/owasp-austin-chapter/events/298207023">Meetup</a>
+<br>
+[back to top](#welcome)
+
+<hr>
+
 ### LASCON 2024 ###
 
 Save the Date for LASCON 2024. We will be back at Norris Conference Center with Pre-Conference Training October 22-23, 2024 and Conference October 24-25, 2024. Visit <a href="https://lascon.org/" target="_blank">lascon.org</a>.
 
 <ul><li><a href="https://lascon.org/tickets/" target="_blank">Discounted tickets are available. Get yours today!</a></li>
-<li>Call for Presentations (CFP) open until <strong>Saturday, June 1, 2024</strong>. <a href="https://lascon.org/cfp/" target="_blank">Submit your CFP today!</a></li>
-<li>Call for Training (CFT) open until <strong>July 30, 2024</strong>. <a href="https://lascon.org/cft/" target="_blank">Submit your CFT today!</a></li>
+<li>Call for Presentations (CFP)is now closed.  Please see <a href="lascon2024.sched.com">lascon2024.sched.com</a> for all the speakers who have currently accepted invitations.</li>
+<li>Call for Training (CFT) is now closed.  Selections will be announced soon!</li>
 <li>Interested in sponsoring LASCON 2024? <a href="https://lascon.org/become-a-sponsor/" target="_blank">Become a Sponsor.</a></li>
 </ul>
 
