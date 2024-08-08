@@ -27,6 +27,42 @@ altfooter: true
 
 <!--- ADD PAST EVENT FOR 2024 BELOW --->
 
+### OWASP Austin Chapter Meeting July 2024 ###
+
+**When:** Tuesday, July 30th 2024 @ 11:45 AM - 1:00 PM
+<br>
+
+**Presentation: Cyber Resilience - Findings from the 2024 Futures Report**
+<blockquote>
+We are poised on the precipice of a new era of computing underpinned by new networks, new apps, and a digital-first experience.
+Hear the latest findings from AT&T Cybersecurity research and learn about:
+- What high-priority edge computing use cases are across seven industry markets
+- How to secure and work with the edge ecosystem
+- How the attack surface is changing
+- How endpoints are diversifying
+The data from this research helps audiences understand challenges and opportunities of the future and examines:
+- Balanced investment strategies
+- Collaboration and communication needs
+- Building with dynamic cyber resilience in mind
+Security is now a critical part of business - learn how to move your team to the future!
+</blockquote>
+
+Speaker:
+<blockquote>
+Theresa Lanowitz
+<br>
+Theresa Lanowitz is a proven global influencer and speaks on trends and emerging technology poised to help today’s enterprise organizations flourish. Theresa is currently the head of cybersecurity evangelism at AT&T Business.
+Prior to joining AT&T, Theresa was an industry analyst with boutique analyst firm voke and Gartner. While at Gartner, Theresa spearheaded the application quality ecosystem, championed application security technology, and created the successful Application Development conference.
+As a product manager at Borland International Software, Theresa launched the iconic Java integrated development environment, JBuilder. While at Sun Microsystems, Theresa led strategic marketing for the Jini project – a precursor to IoT (Internet of Things).
+Theresa’s professional career began with McDonnell Douglas where she was a software developer on the C-17 military transport plane and held a US Department of Defense Top Secret security clearance.
+Theresa holds a Bachelor of Science in Computer Science from the University of Pittsburgh, Pittsburgh, PA
+</blockquote>
+<br>
+YouTube Coming Soon
+<br><br>
+
+<hr>
+
 ### Austin Security Professionals Happy Hour sponsored by SecureLayer7, July 11, 2024 ###
 
 **When:** Thursday, July 11th, 5:30 pm - 7:30 pm
@@ -40,11 +76,6 @@ altfooter: true
 ### OWASP Austin Chapter Meeting June 2024 ###
 
 **When:** Tuesday, June 25th 2024 @ 11:45 AM - 1:00 PM<br>
-Agenda:<br>
-11:30-11:55 -- Room Opens, food is available and in-room discussions<br>
-11:55-12:05 -- Chapter/OWASP info presentation<br>
-12:05-1  -- Speaker Presentation<br>
-<br>
 
 **Presentation:** Full of SaaS and TOTALLY SECURE
 <blockquote>
