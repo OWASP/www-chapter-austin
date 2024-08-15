@@ -29,26 +29,6 @@ Welcome to the Austin chapter homepage.
 ### Upcoming Events ###
 <hr>
 
-### Austin Security Professionals Happy Hour sponsored by Trellix, August 8, 2024 ###
-
-**When:** Thursday, August 8th, 5:30 pm - 7:30 pm
-
-**Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.  We will have tables reserved inside the bar, to the right as you enter.  Parking: nearest parking in the Red Garage located off of Rock Rose Ave (<a href="https://domainnorthside.com/map/" target="_blank">map of Domain</a>). 
-
-**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
-
-**Sponsor:** <a href="https://www.trellix.com/" target="_blank">Trellix</a>
-<br/><br/>
-<img src="assets/images/Trellix_logo-HH.sm.jpg" alt="Trellix" />
-<p><em>Trellix is a global company redefining the future of cybersecurity. The company’s open and native extended detection and response (XDR) platform helps organizations confronted by today’s most advanced threats to gain confidence in the protection and resilience of their security operations. Trellix, along with an extensive partner ecosystem, accelerates technology innovation through machine learning, automation, and actionable real-time intelligence to empower over 40,000 customers with living security. Trellix is committed to accelerating the inclusion of all communities in the industry, bringing together talented professionals with diverse backgrounds and experiences to have a meaningful impact on the evolution of cybersecurity.</em></p>
-<br>
-Please RSVP so we can plan for number of attendees: 
-<a href="https://www.meetup.com/owasp-austin-chapter/events/302124371/" target="_blank"> Meetup </a> 
-<br><br>
-
-[back to top](#welcome)
-<hr>
-
 ### OWASP Austin Chapter Meeting August 2024 ###
 
 **When:** Tuesday, August 27th 2024 @ 11:45 AM - 1:00 PM<br>
@@ -87,6 +67,26 @@ Meetup (online RSVP) on <a href="https://www.meetup.com/owasp-austin-chapter/eve
 <br>
 [back to top](#welcome)
 
+<hr>
+
+### Austin Security Professionals Happy Hour sponsored by Checkmarx, September 12, 2024 ###
+
+**When:** Thursday, September 12th, 5:30 pm - 7:30 pm
+
+**Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.  We will have tables reserved inside the bar, to the right as you enter.  Parking: nearest parking in the Red Garage located off of Rock Rose Ave (<a href="https://domainnorthside.com/map/" target="_blank">map of Domain</a>). 
+
+**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
+
+**Sponsor:** <a href="https://checkmarx.com/" target="_blank">Checkmarx</a>
+<br/><br/>
+<img src="assets/images/Checkmarx-logo-HH-sm.jpg" alt="Checkmarx" />
+<p><em>Checkmarx is constantly pushing the boundaries of Application Security Testing to make security seamless and simple for the world’s developers and security teams. As the AppSec testing leader, we deliver the unparalleled accuracy, coverage, visibility, and guidance our customers need to build tomorrow’s software securely and at speed.</em></p>
+<br>
+Please RSVP so we can plan for number of attendees: 
+<a href="https://www.meetup.com/owasp-austin-chapter/events/302000326/" target="_blank"> Meetup </a> 
+<br><br>
+
+[back to top](#welcome)
 <hr>
 
 ### LASCON 2024 ###
