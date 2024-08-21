@@ -63,7 +63,7 @@ RSVP:
 Eventbrite (in-person RSVP) at Eventbrite @ 	
 <a href="https://owasp-austin-2024-august-g1.eventbrite.com">Group1</a> or <a href="https://owasp-austin-2024-august-g2.eventbrite.com">Group2</a>
  <br>
-Meetup (online RSVP) on <a href="https://www.meetup.com/owasp-austin-chapter/events/298207023">Meetup</a>
+Meetup (online RSVP) on <a href="https://www.meetup.com/owasp-austin-chapter/events/298207020">Meetup</a>
 <br>
 [back to top](#welcome)
 
