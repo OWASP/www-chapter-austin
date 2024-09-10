@@ -29,46 +29,6 @@ Welcome to the Austin chapter homepage.
 ### Upcoming Events ###
 <hr>
 
-### OWASP Austin Chapter Meeting August 2024 ###
-
-**When:** Tuesday, August 27th 2024 @ 11:45 AM - 1:00 PM<br>
-Agenda:<br>
-11:30-11:55 -- Room Opens, food is available and in-room discussions<br>
-11:55-12:05 -- Chapter/OWASP info presentation<br>
-12:05-1  -- Speaker Presentation<br>
-<br>
-**Presentation: How to protect WordPress or other CMS websites**
-
-In this presentation, we will walk through different types of real anonymized attacked WordPress and other CMS frameworks in how those sites were attacked and how the sites were then protected from future attacks.
-
-Everyone attending should  leave the presentation able to: 
-- Understand how these sites are attacked
-- Protects that may have already been in place that didn't work
-- What measures were then put in place that worked
-
-**Speaker:** 
-Mark Spears
-<br>
-Currently a Principal Security Consultant at Solis Security / CFC Response, Mark plays many roles helping customers as a:
-- Virtual CISO
-- Virtual Chief Zero Trust Officer
-- Compromised Web Application – Live Response and Recovery
-- Internal Mentor
- 
-Much of his most recent education and skill focus has been on helping companies with their attack surface area by implementing NIST 800-207 Zero Trust Architecture to reduce security risks.  If not enjoying his work at Solis Security, he can be found practicing physical security, lock picking, social engineering, or hardware hacking. Otherwise, he is on a Harley Davidson somewhere doing karaoke and playing billiards.
-
-
-RSVP:<br>
-RSVP:
-Eventbrite (in-person RSVP) at Eventbrite @ 	
-<a href="https://owasp-austin-2024-august-g1.eventbrite.com">Group1</a> or <a href="https://owasp-austin-2024-august-g2.eventbrite.com">Group2</a>
- <br>
-Meetup (online RSVP) on <a href="https://www.meetup.com/owasp-austin-chapter/events/298207020">Meetup</a>
-<br>
-[back to top](#welcome)
-
-<hr>
-
 ### Austin Security Professionals Happy Hour sponsored by Checkmarx, September 12, 2024 ###
 
 **When:** Thursday, September 12th, 5:30 pm - 7:30 pm
@@ -87,6 +47,31 @@ Please RSVP so we can plan for number of attendees:
 <br><br>
 
 [back to top](#welcome)
+<hr>
+
+### OWASP Austin Chapter Meeting August 2024 ###
+
+**When:** Tuesday, September 24th 2024 @ 11:30 AM - 1:00 PM<br>
+Agenda:<br>
+11:30-11:55 -- Room Opens, food is available and in-room discussions<br>
+11:55-12:05 -- Chapter/OWASP info presentation<br>
+12:05-1  -- Speaker Presentation<br>
+<br>
+**Presentation: The Secure Development Lifecycle in Action: The Point, Purpose, and Rationale**
+
+The Secure Development Lifecycle (SDL) is a powerful construct that can advance security for both organizations with established security practices by shifting left, and immature organizations seeking a framework to implement security best practices in agile development. NI has been on a journey over the last several years to improve the security of its products driven by customer requirements, their expectations, and increasingly, regulations that require software to be developed with secure methodologies. Security is as much about a mindset and development culture as it is about tools, vulnerabilities, and security technologies. Learn how NI’s adoption of the Secure Development Lifecycle has created a framework for addressing various security challenges in web applications, microservices, and infrastructure.
+
+**Speaker: Mark Black** 
+<br>
+Mark Black is the Chief Product Owner for Infrastructure and Security on NI’s enterprise software team. Mark has a passion for security, quality, and a customer-centric mindset. In Mark’s two decades in the industry, he has designed several products from tools for web application development to highly scalable big data and analytics solutions used in device validation and manufacturing. Additionally, Mark has designed the IAM solution for one of NI’s flagship enterprise products, SystemLink, and established the SDL practice used by teams throughout NI’s software development organization.
+
+RSVP:<br>
+In-person (and free lunch) at <a href="https://owasp-austin-2024-september.eventbrite.com">Eventbrite</a>
+ <br>
+Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/298207023">Meetup</a>
+<br>
+[back to top](#welcome)
+
 <hr>
 
 ### LASCON 2024 ###
