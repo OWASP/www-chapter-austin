@@ -27,6 +27,40 @@ altfooter: true
 
 <!--- ADD PAST EVENT FOR 2024 BELOW --->
 
+<hr>
+
+### OWASP Austin Chapter Meeting July 2024 ###
+
+**When:** Tuesday, August 27th 2024 @ 11:45 AM - 1:00 PM
+<br>
+
+**Presentation: How to protect WordPress or other CMS websites**
+<blockquote>
+In this presentation, we will walk through different types of real anonymized attacked WordPress and other CMS frameworks in how those sites were attacked and how the sites were then protected from future attacks.
+
+Everyone attending should  leave the presentation able to: 
+- Understand how these sites are attacked
+- Protects that may have already been in place that didn't work
+- What measures were then put in place that worked
+</blockquote>
+
+Speaker:
+<blockquote>
+Mark Spears
+<br>
+Currently a Principal Security Consultant at Solis Security / CFC Response, Mark plays many roles helping customers as a:
+- Virtual CISO
+- Virtual Chief Zero Trust Officer
+- Compromised Web Application – Live Response and Recovery
+- Internal Mentor
+ 
+Much of his most recent education and skill focus has been on helping companies with their attack surface area by implementing NIST 800-207 Zero Trust Architecture to reduce security risks.  If not enjoying his work at Solis Security, he can be found practicing physical security, lock picking, social engineering, or hardware hacking. Otherwise, he is on a Harley Davidson somewhere doing karaoke and playing billiards.
+</blockquote>
+<br>
+No video
+<br>
+
+<hr>
 ### Austin Security Professionals Happy Hour sponsored by Trellix, August 8, 2024 ###
 
 **When:** Thursday, August 8th, 5:30 pm - 7:30 pm
