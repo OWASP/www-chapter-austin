@@ -27,6 +27,14 @@ altfooter: true
 
 <!--- ADD PAST EVENT FOR 2024 BELOW --->
 
+### Austin Security Professionals Happy Hour sponsored by Checkmarx, September 12, 2024 ###
+
+**When:** Thursday, September 12th, 5:30 pm - 7:30 pm
+
+**Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758. 
+
+**Sponsor:** <a href="https://checkmarx.com/" target="_blank">Checkmarx</a>
+<br>
 <hr>
 
 ### OWASP Austin Chapter Meeting July 2024 ###
@@ -61,6 +69,7 @@ No video
 <br>
 
 <hr>
+
 ### Austin Security Professionals Happy Hour sponsored by Trellix, August 8, 2024 ###
 
 **When:** Thursday, August 8th, 5:30 pm - 7:30 pm
