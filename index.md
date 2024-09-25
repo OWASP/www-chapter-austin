@@ -29,31 +29,6 @@ Welcome to the Austin chapter homepage.
 ### Upcoming Events ###
 <hr>
 
-### OWASP Austin Chapter Meeting September 2024 ###
-
-**When:** Tuesday, September 24th 2024 @ 11:30 AM - 1:00 PM<br>
-Agenda:<br>
-11:30-11:55 -- Room Opens, food is available and in-room discussions<br>
-11:55-12:05 -- Chapter/OWASP info presentation<br>
-12:05-1  -- Speaker Presentation<br>
-<br>
-**Presentation: The Secure Development Lifecycle in Action: The Point, Purpose, and Rationale**
-
-The Secure Development Lifecycle (SDL) is a powerful construct that can advance security for both organizations with established security practices by shifting left, and immature organizations seeking a framework to implement security best practices in agile development. NI has been on a journey over the last several years to improve the security of its products driven by customer requirements, their expectations, and increasingly, regulations that require software to be developed with secure methodologies. Security is as much about a mindset and development culture as it is about tools, vulnerabilities, and security technologies. Learn how NI’s adoption of the Secure Development Lifecycle has created a framework for addressing various security challenges in web applications, microservices, and infrastructure.
-
-**Speaker: Mark Black** 
-<br>
-Mark Black is the Chief Product Owner for Infrastructure and Security on NI’s enterprise software team. Mark has a passion for security, quality, and a customer-centric mindset. In Mark’s two decades in the industry, he has designed several products from tools for web application development to highly scalable big data and analytics solutions used in device validation and manufacturing. Additionally, Mark has designed the IAM solution for one of NI’s flagship enterprise products, SystemLink, and established the SDL practice used by teams throughout NI’s software development organization.
-
-RSVP:<br>
-In-person (and free lunch) at <a href="https://owasp-austin-2024-september.eventbrite.com">Eventbrite</a>
- <br>
-Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/298207023">Meetup</a>
-<br>
-[back to top](#welcome)
-
-<hr>
-
 ### LASCON 2024 ###
 
 Save the Date for LASCON 2024. We will be back at Norris Conference Center with Pre-Conference Training October 22-23, 2024 and Conference October 24-25, 2024. Visit <a href="https://lascon.org/" target="_blank">lascon.org</a>.
@@ -72,6 +47,33 @@ Save the Date for LASCON 2024. We will be back at Norris Conference Center with 
 > **Interested in Sponsoring? We are currently seeking happy hour sponsors for our monthly event. Please contact <a href="mailto:tiana.chandler@owasp.org?subject=OWASP Happy Hour Sponsor">Tiana Chandler</a> if you are interested. See our <a href="https://owasp.org/www-chapter-austin/sponsorship.html">Sponsorship</a> page for information on sponsoring.**
 
 [back to top](#welcome)
+<hr>
+
+
+### OWASP Austin Chapter Meetings will return in January. Stay Tuned! ###
+
+<!--  FOLLOWING COMMENTED OUT FOR FUTURE USE
+**When:** Tuesday, January 28, 2025 @ 11:30 AM - 1:00 PM<br>
+Agenda:<br>
+11:30-11:55 -- Room Opens, food is available and in-room discussions<br>
+11:55-12:05 -- Chapter/OWASP info presentation<br>
+12:05-1  -- Speaker Presentation<br>
+<br>
+**Presentation: PRESENTATION-NAME**
+
+The Secure Development Lifecycle (SDL) is a powerful construct that can advance security for both organizations with established security practices by shifting left, and immature organizations seeking a framework to implement security best practices in agile development. NI has been on a journey over the last several years to improve the security of its products driven by customer requirements, their expectations, and increasingly, regulations that require software to be developed with secure methodologies. Security is as much about a mindset and development culture as it is about tools, vulnerabilities, and security technologies. Learn how NI’s adoption of the Secure Development Lifecycle has created a framework for addressing various security challenges in web applications, microservices, and infrastructure.
+
+**Speaker: SPEAKER-NAME** 
+<br>
+SPEAKER-BIO.
+
+RSVP:<br>
+In-person (and free lunch) at <a href="EVENTBRITE-LINK">Eventbrite</a>
+ <br>
+Online RSVP at <a href="MEETUP-LINK">Meetup</a>
+<br> -->
+[back to top](#welcome)
+
 <hr>
 
 
