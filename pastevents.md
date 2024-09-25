@@ -27,6 +27,26 @@ altfooter: true
 
 <!--- ADD PAST EVENT FOR 2024 BELOW --->
 
+### OWASP Austin Chapter Meeting September 2024 ###
+
+**When:** Tuesday, September 24th 2024 @ 11:30 AM - 1:00 PM<br>
+<br>
+**Presentation: The Secure Development Lifecycle in Action: The Point, Purpose, and Rationale**
+<blockquote>
+The Secure Development Lifecycle (SDL) is a powerful construct that can advance security for both organizations with established security practices by shifting left, and immature organizations seeking a framework to implement security best practices in agile development. NI has been on a journey over the last several years to improve the security of its products driven by customer requirements, their expectations, and increasingly, regulations that require software to be developed with secure methodologies. Security is as much about a mindset and development culture as it is about tools, vulnerabilities, and security technologies. Learn how NI’s adoption of the Secure Development Lifecycle has created a framework for addressing various security challenges in web applications, microservices, and infrastructure.
+</blockquote>
+
+Speaker: 
+<blockquote>
+Mark Black
+<br>
+Mark Black is the Chief Product Owner for Infrastructure and Security on NI’s enterprise software team. Mark has a passion for security, quality, and a customer-centric mindset. In Mark’s two decades in the industry, he has designed several products from tools for web application development to highly scalable big data and analytics solutions used in device validation and manufacturing. Additionally, Mark has designed the IAM solution for one of NI’s flagship enterprise products, SystemLink, and established the SDL practice used by teams throughout NI’s software development organization.
+</blockquote>
+<br>
+Link to video to be posted soon.
+
+<hr>
+
 ### Austin Security Professionals Happy Hour sponsored by Checkmarx, September 12, 2024 ###
 
 **When:** Thursday, September 12th, 5:30 pm - 7:30 pm
@@ -67,7 +87,6 @@ Much of his most recent education and skill focus has been on helping companies 
 <br>
 No video
 <br>
-
 <hr>
 
 ### Austin Security Professionals Happy Hour sponsored by Trellix, August 8, 2024 ###
