@@ -27,16 +27,36 @@ Welcome to the Austin chapter homepage.
 <hr/>
 
 ### Upcoming Events ###
+
+### Austin Security Professionals Happy Hour sponsored by Cequence, January 9, 2025 ###
+
+**When:** Thursday, January 9th, 5:30 pm - 7:30 pm
+
+**Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.  We will have tables reserved inside the bar, to the right as you enter.  Parking: nearest parking in the Red Garage located off of Rock Rose Ave (<a href="https://domainnorthside.com/map/" target="_blank">map of Domain</a>). 
+
+**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
+
+**Sponsor:** <a href="https://www.cequence.ai/" target="_blank">Cequence</a>
+<br/><br/>
+<img src="assets/images/Cequence-logo-HH-sm.jpg" alt="Cequence logo"/>
+
+<p><em>Cequence, a pioneer in API Security, is the only vendor with a comprehensive Unified API Protection solution offering discovery, compliance, and protection across all internal and external APIs to defend against attacks, targeted abuse, and fraud. Onboard APIs in less than 15 minutes, without needing any instrumentation, SDK, or JavaScript deployments. Cequence solutions scale to handle the most demanding government, Fortune and Global 2000 organizations, securing more than 8 billion daily API calls and protecting more than 3 billion user accounts across these customers. Its flexible deployment model supports passive/inline, on-premises, SaaS, and hybrid deployments.</em></p>
+<br>
+Please RSVP so we can plan for number of attendees: 
+<a href="https://www.meetup.com/owasp-austin-chapter/events/304571321/" target="_blank"> Meetup </a>
+<br><br>
+
+[back to top](#welcome)
 <hr>
 
-### LASCON 2024 ###
+### LASCON 2025 ###
 
-Save the Date for LASCON 2024. We will be back at Norris Conference Center with Pre-Conference Training October 22-23, 2024 and Conference October 24-25, 2024. Visit <a href="https://lascon.org/" target="_blank">lascon.org</a>.
+Save the Dates for LASCON 2025, which will be our 15th year anniversary. We will be back at Norris Conference Center with Pre-Conference Training October 21-22, 2025 and Conference October 23-24, 2025. Visit <a href="https://lascon.org/" target="_blank">lascon.org</a>.
 
-<ul><li><a href="https://lascon.org/tickets/" target="_blank">Conference tickets are still available. Get yours today!</a></li>
-<li>Call for Presentations (CFP) is closed.  Please see <a href="lascon2024.sched.com">lascon2024.sched.com</a> for all the speakers who have currently accepted invitations.</li>
-<li>Call for Training (CFT) is closed.  Pre-Conference Training is now available. <a href="https://www.eventbrite.com/e/lascon-2024-training-tickets-996577669637?aff=erelpanelorg">View training options and get your tickets today!</a></li>
-<li>Interested in sponsoring LASCON 2024? We still have a few options available. <a href="https://lascon.org/become-a-sponsor/" target="_blank">Become a Sponsor today!</a></li>
+<ul><li>Early Bird Conference tickets are still available. We sold out last year, so <a href="https://lascon.org/tickets/" target="_blank">get yours today!</a></li>
+<li>Call for Presentations (CFP) will be made available at a later date. Stay tuned!</li>
+<li>Call for Training (CFT) will be made available at a later date. Stay tuned!</li>
+<li>Interested in sponsoring LASCON 2025? <a href="https://lascon.org/become-a-sponsor/" target="_blank">Become a Sponsor today!</a></li>
 </ul>
 
 [back to top](#welcome)
