@@ -24,7 +24,7 @@ The Austin OWASP Chapter can offer your company several sponsorship opportunitie
 
 ### Austin Security Professionals Happy Hour Sponsorship ### 
 
-The Austin OWASP Chapter coordinates a monthly Austin Security Professionals Happy Hour during the months of January through September. To make it a fun and unique event, we ask the sponsor to cover the cost of drinks and some appetizers (usually between $500 and $750, depending upon attendance). In addition to the networking opportunities, we offer promotion via our Austin OWASP website page, announcement at chapter meetings, and email notification to mailing lists. The Happy Hour allows sponsors the chance to chat informally with the attendees, which allows for networking and also discussion regarding your company’s products or services.  In addition, you can use this opportunity as a forum to distribute product literature, logo items, or any other token items that would help folks remember your brand.
+The Austin OWASP Chapter coordinates a monthly Austin Security Professionals Happy Hour during the months of January through September. To make it a fun and unique event, we ask the sponsor to cover the cost of drinks and appetizers (usually between $500 and $750, depending upon attendance). In addition to the networking opportunities, we offer promotion via our Austin OWASP website page, announcement at chapter meetings, and email notification to mailing lists. The Happy Hour allows sponsors the chance to chat informally with the attendees, which allows for networking and also discussion regarding your company’s products or services.  In addition, you can use this opportunity as a forum to distribute product literature, logo items, or any other token items that would help folks remember your brand.
 
 Interested in Sponsoring? We are currently seeking happy hour sponsors for our monthly event. Please contact <a href="mailto:tiana.chandler@owasp.org?subject=OWASP Happy Hour Sponsor">Tiana Chandler</a> if you are interested. 
 
@@ -32,7 +32,7 @@ Event Dates for 2025 are available:
   <pre>
   January ...... 1/9/2025  ..... Have Sponsor
   February ..... 2/13/2025 ..... Have Sponsor
-  March  ....... 3/13/2025 ..... AVAILABLE
+  March  ....... 3/13/2025 ..... Have Sponsor
   April ........ 4/10/2025 ..... AVAILABLE
   May .......... 5/8/2025  ..... AVAILABLE
   June ......... 6/12/2025 ..... AVAILABLE
