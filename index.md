@@ -28,9 +28,9 @@ Welcome to the Austin chapter homepage.
 
 ### Upcoming Events ###
 
-### Austin Security Professionals Happy Hour sponsored by Cequence, January 9, 2025 ###
+### Austin Security Professionals Happy Hour sponsored by Cequence, January 16, 2025 (rescheduled) ###
 
-**When:** Thursday, January 9th, 5:30 pm - 7:30 pm
+**When:** Thursday, January 16th, 5:30 pm - 7:30 pm (was rescheduled due to inclement weather)
 
 **Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.  We will have tables reserved inside the bar, to the right as you enter.  Parking: nearest parking in the Red Garage located off of Rock Rose Ave (<a href="https://domainnorthside.com/map/" target="_blank">map of Domain</a>). 
 
