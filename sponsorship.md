@@ -30,7 +30,7 @@ Interested in Sponsoring? We are currently seeking happy hour sponsors for our m
 
 Event Dates for 2025 are available:
   <pre>
-  January ...... 1/9/2025  ..... Have Sponsor
+  January ...... 1/16/2025 ..... Have Sponsor (was rescheduled due to weather)
   February ..... 2/13/2025 ..... Have Sponsor
   March  ....... 3/13/2025 ..... Have Sponsor
   April ........ 4/10/2025 ..... AVAILABLE
