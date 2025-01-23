@@ -28,26 +28,6 @@ Welcome to the Austin chapter homepage.
 
 ### Upcoming Events ###
 
-### Austin Security Professionals Happy Hour sponsored by Cequence, January 16, 2025 (rescheduled) ###
-
-**When:** Thursday, January 16th, 5:30 pm - 7:30 pm (was rescheduled due to inclement weather)
-
-**Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.  We will have tables reserved inside the bar, to the right as you enter.  Parking: nearest parking in the Red Garage located off of Rock Rose Ave (<a href="https://domainnorthside.com/map/" target="_blank">map of Domain</a>). 
-
-**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
-
-**Sponsor:** <a href="https://www.cequence.ai/" target="_blank">Cequence</a>
-<br/><br/>
-<img src="assets/images/Cequence-logo-HH-sm.jpg" alt="Cequence logo"/>
-
-<p><em>Cequence, a pioneer in API Security, is the only vendor with a comprehensive Unified API Protection solution offering discovery, compliance, and protection across all internal and external APIs to defend against attacks, targeted abuse, and fraud. Onboard APIs in less than 15 minutes, without needing any instrumentation, SDK, or JavaScript deployments. Cequence solutions scale to handle the most demanding government, Fortune and Global 2000 organizations, securing more than 8 billion daily API calls and protecting more than 3 billion user accounts across these customers. Its flexible deployment model supports passive/inline, on-premises, SaaS, and hybrid deployments.</em></p>
-<br>
-Please RSVP so we can plan for number of attendees: 
-<a href="https://www.meetup.com/owasp-austin-chapter/events/304571321/" target="_blank"> Meetup </a>
-<br><br>
-
-[back to top](#welcome)
-<hr>
 
 ### OWASP Austin Chapter Meeting January 2025 ###
 
@@ -79,6 +59,27 @@ Online RSVP at <a href="https://www.meetup.com/OWASP-Austin-Chapter/events/30548
 
 <hr>
 
+### Austin Security Professionals Happy Hour sponsored by Cyera, February 13, 2025 ###
+
+**When:** Thursday, February 13th, 5:30 pm - 7:30 pm
+
+**Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.  We will have tables reserved inside the bar, to the right as you enter.  Parking: nearest parking in the Red Garage located off of Rock Rose Ave (<a href="https://domainnorthside.com/map/" target="_blank">map of Domain</a>). 
+
+**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
+
+**Sponsor:** <a href="http://cyera.io/" target="_blank">Cyera</a>
+<br/><br/>
+<img src="assets/images/Cyera-logo-HH-sm.jpg" alt="Cyera logo"/>
+
+<p><em>Cyera is an AI-powered data security platform that helps organizations manage and protect their data in today’s complex digital landscape. The company’s platform combines advanced Data Security Posture Management (DSPM) with real-time enforcement controls, providing customers with a comprehensive solution for securing their data assets against evolving threats. Learn more at <a href="http://cyera.io/" target="_blank">Cyera</a>.</em></p>
+<br>
+Please RSVP so we can plan for number of attendees: 
+<a href="https://www.meetup.com/owasp-austin-chapter/events/305616287/" target="_blank"> Meetup </a>
+<br><br>
+
+[back to top](#welcome)
+<hr>
+
 
 ### LASCON 2025 ###
 
@@ -101,9 +102,10 @@ Save the Dates for LASCON 2025, which will be our 15th year anniversary. We will
 <hr>
 
 
-### OWASP Austin Chapter Meetings will return in January. Stay Tuned! ###
 
 <!--  FOLLOWING COMMENTED OUT FOR FUTURE USE
+
+### OWASP Austin Chapter Meeting January 2025 ###
 **When:** Tuesday, January 28, 2025 @ 11:30 AM - 1:00 PM<br>
 Agenda:<br>
 11:30-11:55 -- Room Opens, food is available and in-room discussions<br>
@@ -122,10 +124,10 @@ RSVP:<br>
 In-person (and free lunch) at <a href="EVENTBRITE-LINK">Eventbrite</a>
  <br>
 Online RSVP at <a href="MEETUP-LINK">Meetup</a>
-<br> -->
+<br> 
 [back to top](#welcome)
 
-<hr>
+<hr>  -->
 
 
 Chapter Supporters
