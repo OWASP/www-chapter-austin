@@ -19,13 +19,29 @@ altfooter: true
 
 ## Past Events ##
 
-[2024](#2024)  [2023](#2023) [2022](#2022) [2021](#2021) [2020](#2020)  
+[2025](#2025)  [2024](#2024)  [2023](#2023) [2022](#2022) [2021](#2021) [2020](#2020)  
 <br/>(see Past Events Archive for earlier events)
+
+---------------
+### 2025 ###
+
+<!--- ADD PAST EVENT FOR 2025 BELOW --->
+
+### Austin Security Professionals Happy Hour sponsored by Cequence, January 16, 2025 (rescheduled) ###
+
+**When:** Thursday, January 16th, 5:30 pm - 7:30 pm
+
+**Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758. 
+
+**Sponsor:** <a href="https://www.cequence.ai/" target="_blank">Cequence</a>
+<br>
+<hr>
+
+[Back to Top](#past-events)
 
 ---------------
 ### 2024 ###
 
-<!--- ADD PAST EVENT FOR 2024 BELOW --->
 
 ### OWASP Austin Chapter Meeting September 2024 ###
 
