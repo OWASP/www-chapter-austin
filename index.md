@@ -29,33 +29,7 @@ Welcome to the Austin chapter homepage.
 ### Upcoming Events ###
 
 
-### OWASP Austin Chapter Meeting January 2025 ###
 
-**When:** Tuesday, January 28, 2025 @ 11:30 AM - 1:00 PM<br>
-Agenda:<br>
-11:30-11:55 -- Room Opens, food is available and in-room discussions<br>
-11:55-12:05 -- Chapter/OWASP info presentation<br>
-12:05-1  -- Speaker Presentation<br>
-<br>
-**Presentation: OWASP Austin Cryptoparty**
-
-Join us for the OWASP Austin Cryptoparty and discover practical ways to protect your privacy and enhance your digital security in a fun, interactive setting! Whether you're a tech enthusiast, a professional, or just starting your journey in cybersecurity, this event offers something for everyone. Gain hands-on experience with tools and techniques, hear from engaging speakers, and connect with a community passionate about building a safer online world. Don’t miss this opportunity to level up your security know-how—mark your calendar and bring a friend!
-
-**Speakers:** 
-<br>
-Featuring:
-<ul>
-<li>James Wickett</li>
-<li>Mark Spears</li>
-<li>Rafal Los</li>
-<li>Josh Sokol</li></ul>
-
-RSVP:<br>
-In-person (and free lunch) at <a href="https://www.eventbrite.com/e/owasp-austin-chapter-monthly-meeting-january-2025-tickets-1141806306399" target="_blank">Eventbrite</a>
- <br>
-Online RSVP at <a href="https://www.meetup.com/OWASP-Austin-Chapter/events/305488934/" target="_blank">Meetup</a>
-<br><br>
-[back to top](#welcome)
 
 <hr>
 
@@ -78,6 +52,33 @@ Please RSVP so we can plan for number of attendees:
 <br><br>
 
 [back to top](#welcome)
+<hr>
+
+### OWASP Austin Chapter Meeting February 2025 ###
+
+**When:** Tuesday, February 25, 2025 @ 11:30 AM - 1:00 PM<br>
+Agenda:<br>
+11:30-11:55 -- Room Opens, food is available and in-room discussions<br>
+11:55-12:05 -- Chapter/OWASP info presentation<br>
+12:05-1  -- Speaker Presentation<br>
+<br>
+**Presentation: When the Tool is the Weapon -- Abusing (and defending) native M365 applications**
+
+When you think about Business Email Compromise, you think about the mailbox, right? Malicious inbox rules, spoofed domains hijacking email threads, and phishing campaigns blasted to a user’s contact list are hallmarks of this type of attack. However, other applications within the M365 ecosystem are often leveraged by Threat Actors while they are in a compromised tenant.
+
+Teams, SharePoint, E-Discovery, and OneNote can and have been abused by threat actors during a business email compromise. Initial access, exfil, and leapfrogging to new victims can happen in a way that will not throw any alerts. What are the threat actors doing with these apps, how can we detect it, and how can we stop it?
+
+**Speaker:** 
+<br>
+Alexis Watters
+
+RSVP:<br>
+In-person (and free lunch) at <a href="https://owasp-austin-2025-february.eventbrite.com" target="_blank">Eventbrite</a>
+ <br>
+Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/305489290/?slug=owasp-austin-chapter&eventId=305489290" target="_blank">Meetup</a>
+<br><br>
+[back to top](#welcome)
+
 <hr>
 
 
