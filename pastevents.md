@@ -25,7 +25,27 @@ altfooter: true
 ---------------
 ### 2025 ###
 
-<!--- ADD PAST EVENT FOR 2025 BELOW --->
+**When:** Tuesday, January 28, 2025 @ 11:30 AM - 1:00 PM<br>
+<br>
+**Presentation: OWASP Austin Cryptoparty**
+
+Join us for the OWASP Austin Cryptoparty and discover practical ways to protect your privacy and enhance your digital security in a fun, interactive setting! Whether you're a tech enthusiast, a professional, or just starting your journey in cybersecurity, this event offers something for everyone. Gain hands-on experience with tools and techniques, hear from engaging speakers, and connect with a community passionate about building a safer online world. Don’t miss this opportunity to level up your security know-how—mark your calendar and bring a friend!
+
+**Speakers:** 
+<br>
+Featuring:
+<ul>
+<li>James Wickett</li>
+<li>Mark Spears</li>
+<li>Rafal Los</li>
+<li>Josh Sokol</li></ul>
+<a href="https://youtu.be/5SHKYCyvjts">YouTube</a>
+<br>
+<br>
+
+[Back to Top](#past-events)
+
+<hr>
 
 ### Austin Security Professionals Happy Hour sponsored by Cequence, January 16, 2025 (rescheduled) ###
 
@@ -35,13 +55,14 @@ altfooter: true
 
 **Sponsor:** <a href="https://www.cequence.ai/" target="_blank">Cequence</a>
 <br>
-<hr>
+<br>
 
 [Back to Top](#past-events)
 
+<!--- ADD PAST EVENT FOR 2025 ABOVE --->
+
 ---------------
 ### 2024 ###
-
 
 ### OWASP Austin Chapter Meeting September 2024 ###
 
