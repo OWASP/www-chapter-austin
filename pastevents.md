@@ -35,9 +35,6 @@ altfooter: true
 <br>
 <hr>
 
-
-[Back to Top](#past-events)
-
 ### OWASP Austin Chapter Meeting January 2025 ###
 
 **When:** Tuesday, January 28, 2025 @ 11:30 AM - 1:00 PM<br>
@@ -58,9 +55,6 @@ Featuring:
 </blockquote>
 <a href="https://youtu.be/5SHKYCyvjts">YouTube</a>
 <br>
-<br>
-
-[Back to Top](#past-events)
 
 <hr>
 
