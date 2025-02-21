@@ -33,27 +33,6 @@ Welcome to the Austin chapter homepage.
 
 <hr>
 
-### Austin Security Professionals Happy Hour sponsored by Cyera, February 13, 2025 ###
-
-**When:** Thursday, February 13th, 5:30 pm - 7:30 pm
-
-**Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.  We will have tables reserved inside the bar, to the right as you enter.  Parking: nearest parking in the Red Garage located off of Rock Rose Ave (<a href="https://domainnorthside.com/map/" target="_blank">map of Domain</a>). 
-
-**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
-
-**Sponsor:** <a href="http://cyera.io/" target="_blank">Cyera</a>
-<br/><br/>
-<img src="assets/images/Cyera-logo-HH-sm.jpg" alt="Cyera logo"/>
-
-<p><em>Cyera is an AI-powered data security platform that helps organizations manage and protect their data in today’s complex digital landscape. The company’s platform combines advanced Data Security Posture Management (DSPM) with real-time enforcement controls, providing customers with a comprehensive solution for securing their data assets against evolving threats. Learn more at <a href="http://cyera.io/" target="_blank">Cyera</a>.</em></p>
-<br>
-Please RSVP so we can plan for number of attendees: 
-<a href="https://www.meetup.com/owasp-austin-chapter/events/305616287/" target="_blank"> Meetup </a>
-<br><br>
-
-[back to top](#welcome)
-<hr>
-
 ### OWASP Austin Chapter Meeting February 2025 ###
 
 **When:** Tuesday, February 25, 2025 @ 11:30 AM - 1:00 PM<br>
@@ -81,6 +60,26 @@ Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/30548
 
 <hr>
 
+### Austin Security Professionals Happy Hour sponsored by DefectDojo, March 13, 2025 ###
+
+**When:** Thursday, March 13th, 5:30 pm - 7:30 pm
+
+**Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.  We will have tables reserved inside the bar, to the right as you enter.  Parking: nearest parking in the Red Garage located off of Rock Rose Ave (<a href="https://domainnorthside.com/map/" target="_blank">map of Domain</a>). 
+
+**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
+
+**Sponsor:** <a href="http://defectdojo.com/" target="_blank">DefectDojo</a>
+<br/><br/>
+<img src="assets/images/DefectDojo_Logo_HH-sm.jpg" alt="DefectDojo logo"/>
+
+<p><em>DefectDojo is the engine that drives DevSecOps, providing an open, scalable platform that connects security strategy to execution. By aggregating data from over 180 security tools, automating manual processes, and delivering AI-powered insights, DefectDojo empowers organizations to have a unified view of security posture and compliance, automate operations to increase productivity and improve decision-making. For more information, visit <a href="http://defectdojo.com/" target="_blank">DefectDojo.com</a>.</em></p>
+<br>
+Please RSVP so we can plan for number of attendees: 
+<a href="https://www.meetup.com/owasp-austin-chapter/events/305995366/" target="_blank"> Meetup </a>
+<br><br>
+
+[back to top](#welcome)
+<hr>
 
 ### LASCON 2025 ###
 
