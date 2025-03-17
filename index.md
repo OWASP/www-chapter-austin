@@ -33,28 +33,28 @@ Welcome to the Austin chapter homepage.
 
 <hr>
 
-### OWASP Austin Chapter Meeting February 2025 ###
+### OWASP Austin Chapter Meeting March 2025 ###
 
-**When:** Tuesday, February 25, 2025 @ 11:30 AM - 1:00 PM<br>
+**When:** Tuesday, March 25, 2025 @ 11:30 AM - 1:00 PM<br>
 Agenda:<br>
 11:30-11:55 -- Room Opens, food is available and in-room discussions<br>
 11:55-12:05 -- Chapter/OWASP info presentation<br>
 12:05-1  -- Speaker Presentation<br>
 <br>
-**Presentation: When the Tool is the Weapon -- Abusing (and defending) native M365 applications**
+**Presentation: Lead with AI: Transforming Cybersecurity with Artificial Intelligence**
 
-When you think about Business Email Compromise, you think about the mailbox, right? Malicious inbox rules, spoofed domains hijacking email threads, and phishing campaigns blasted to a user’s contact list are hallmarks of this type of attack. However, other applications within the M365 ecosystem are often leveraged by Threat Actors while they are in a compromised tenant.
+The cybersecurity landscape is evolving at an unprecedented pace, with attackers leveraging automation, AI, and machine learning to outmaneuver traditional defenses. To stay ahead, we must rethink how we defend our systems, manage risk, and make critical decisions.
 
-Teams, SharePoint, E-Discovery, and OneNote can and have been abused by threat actors during a business email compromise. Initial access, exfil, and leapfrogging to new victims can happen in a way that will not throw any alerts. What are the threat actors doing with these apps, how can we detect it, and how can we stop it?
+This talk will break down practical ways to integrate AI into security operations, from streamlining workflows to improving threat intelligence analysis. Attendees will gain a deeper understanding of AI’s strengths and limitations, ethical considerations, and how to build AI-driven strategies that empower security teams rather than overwhelm them.
 
 **Speaker:** 
 <br>
-Alexis Watters
+Marcus Carey
 
 RSVP:<br>
-In-person (and free lunch) at <a href="https://owasp-austin-2025-february.eventbrite.com" target="_blank">Eventbrite</a>
+In-person (and free lunch) at <a href="https://owasp-austin-2025-march.eventbrite.com" target="_blank">Eventbrite</a>
  <br>
-Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/305489290/?slug=owasp-austin-chapter&eventId=305489290" target="_blank">Meetup</a>
+Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/305489292/?eventOrigin=group_upcoming_events" target="_blank">Meetup</a>
 <br><br>
 [back to top](#welcome)
 
