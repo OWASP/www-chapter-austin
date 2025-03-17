@@ -24,12 +24,9 @@ Welcome
 -------
 Welcome to the Austin chapter homepage.
 
-<hr/>
+<hr>
 
 ### Upcoming Events ###
-
-
-
 
 <hr>
 
@@ -52,31 +49,26 @@ This talk will break down practical ways to integrate AI into security operation
 Marcus Carey
 
 RSVP:<br>
-In-person (and free lunch) at <a href="https://owasp-austin-2025-march.eventbrite.com" target="_blank">Eventbrite</a>
- <br>
-Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/305489292/?eventOrigin=group_upcoming_events" target="_blank">Meetup</a>
-<br><br>
+In-person (and free lunch) at <a href="https://owasp-austin-2025-march.eventbrite.com" target="_blank">Eventbrite</a><br>
+Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/305489292/?eventOrigin=group_upcoming_events" target="_blank">Meetup</a><br>
+<br>
 [back to top](#welcome)
 
 <hr>
 
-### Austin Security Professionals Happy Hour sponsored by DefectDojo, March 13, 2025 ###
+### Austin Security Professionals Happy Hour sponsored by TBD, April 10, 2025 ###
 
-**When:** Thursday, March 13th, 5:30 pm - 7:30 pm
+**When:** Thursday, April 10th, 5:30 pm - 7:30 pm
 
 **Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.  We will have tables reserved inside the bar, to the right as you enter.  Parking: nearest parking in the Red Garage located off of Rock Rose Ave (<a href="https://domainnorthside.com/map/" target="_blank">map of Domain</a>). 
 
 **What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
 
-**Sponsor:** <a href="http://defectdojo.com/" target="_blank">DefectDojo</a>
-<br/><br/>
-<img src="assets/images/DefectDojo_Logo_HH-sm.jpg" alt="DefectDojo logo"/>
-
-<p><em>DefectDojo is the engine that drives DevSecOps, providing an open, scalable platform that connects security strategy to execution. By aggregating data from over 180 security tools, automating manual processes, and delivering AI-powered insights, DefectDojo empowers organizations to have a unified view of security posture and compliance, automate operations to increase productivity and improve decision-making. For more information, visit <a href="http://defectdojo.com/" target="_blank">DefectDojo.com</a>.</em></p>
+**Sponsor:** TBD
 <br>
-Please RSVP so we can plan for number of attendees: 
-<a href="https://www.meetup.com/owasp-austin-chapter/events/305995366/" target="_blank"> Meetup </a>
-<br><br>
+<br>
+Please RSVP so we can plan for number of attendees: TBD when we have a sponsor!
+<!-- <a href="https://www.meetup.com/owasp-austin-chapter/events/305995366/" target="_blank"> Meetup </a>  -->
 
 [back to top](#welcome)
 <hr>
