@@ -24,6 +24,23 @@ altfooter: true
 
 ---------------
 ### 2025 ###
+
+### Austin Security Professionals Happy Hour sponsored by DefectDojo, March 13, 2025 ###
+
+**When:** Thursday, March 13th, 5:30 pm - 7:30 pm
+
+**Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.  We will have tables reserved inside the bar, to the right as you enter.  Parking: nearest parking in the Red Garage located off of Rock Rose Ave (<a href="https://domainnorthside.com/map/" target="_blank">map of Domain</a>). 
+
+**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
+
+**Sponsor:** <a href="http://defectdojo.com/" target="_blank">DefectDojo</a>
+<br><br>
+<img src="assets/images/DefectDojo_Logo_HH-sm.jpg" alt="DefectDojo logo"/>
+
+<p><em>DefectDojo is the engine that drives DevSecOps, providing an open, scalable platform that connects security strategy to execution. By aggregating data from over 180 security tools, automating manual processes, and delivering AI-powered insights, DefectDojo empowers organizations to have a unified view of security posture and compliance, automate operations to increase productivity and improve decision-making. For more information, visit <a href="http://defectdojo.com/" target="_blank">DefectDojo.com</a>.</em></p>
+<br>
+<hr>
+
 ### OWASP Austin Chapter Meeting February 2025 ###
 
 **When:** Tuesday, February 25, 2025 @ 11:30 AM - 1:00 PM<br>
@@ -46,6 +63,7 @@ Alexis Watters
 <a href="https://youtu.be/d-qNu6Fa8jI">YouTube</a>
 <br>
 <hr>
+
 ### Austin Security Professionals Happy Hour sponsored by Cyera, February 13, 2025 ###
 
 **When:** Thursday, February 13th, 5:30 pm - 7:30 pm
