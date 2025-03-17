@@ -24,7 +24,28 @@ altfooter: true
 
 ---------------
 ### 2025 ###
+### OWASP Austin Chapter Meeting February 2025 ###
 
+**When:** Tuesday, February 25, 2025 @ 11:30 AM - 1:00 PM<br>
+<br>
+<blockquote>
+**Presentation: When the Tool is the Weapon -- Abusing (and defending) native M365 applications**
+
+When you think about Business Email Compromise, you think about the mailbox, right? Malicious inbox rules, spoofed domains hijacking email threads, and phishing campaigns blasted to a user’s contact list are hallmarks of this type of attack. However, other applications within the M365 ecosystem are often leveraged by Threat Actors while they are in a compromised tenant.
+
+Teams, SharePoint, E-Discovery, and OneNote can and have been abused by threat actors during a business email compromise. Initial access, exfil, and leapfrogging to new victims can happen in a way that will not throw any alerts. What are the threat actors doing with these apps, how can we detect it, and how can we stop it?
+</blockquote>
+
+**Speaker:** 
+<br>
+<blockquote>
+Alexis Watters
+
+</blockquote>
+<br>
+<a href="https://youtu.be/d-qNu6Fa8jI">YouTube</a>
+<br>
+<hr>
 ### Austin Security Professionals Happy Hour sponsored by Cyera, February 13, 2025 ###
 
 **When:** Thursday, February 13th, 5:30 pm - 7:30 pm
