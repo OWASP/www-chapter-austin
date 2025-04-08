@@ -5,6 +5,7 @@ title: OWASP Austin
 tags: austin
 
 region: North America
+state: Texas
 
 altfooter: true
 meetup-group: OWASP-Austin-Chapter
