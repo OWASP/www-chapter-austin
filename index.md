@@ -56,19 +56,11 @@ Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/30548
 
 <hr>
 
-### Austin Security Professionals Happy Hour sponsored by TBD, April 10, 2025 ###
+### Austin Security Professionals Happy Hour, April 10, 2025 is CANCELLED ###
 
-**When:** Thursday, April 10th, 5:30 pm - 7:30 pm
+<p>Unfortunately we were not able to get a sponsor for the April happy hour and have had to cancel the event. Stay tuned for announcement of future happy hour events.</p>
+<p>We are still seeking happy hour sponsors for subsequent months. If you know of any company who would like to sponsor, please direct them to the <a href="https://owasp.org/www-chapter-austin/sponsorship.html">OWASP Austin Sponsorship page</a>. Thanks! </p>
 
-**Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.  We will have tables reserved inside the bar, to the right as you enter.  Parking: nearest parking in the Red Garage located off of Rock Rose Ave (<a href="https://domainnorthside.com/map/" target="_blank">map of Domain</a>). 
-
-**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
-
-**Sponsor:** TBD
-<br>
-<br>
-Please RSVP so we can plan for number of attendees: TBD when we have a sponsor!
-<!-- <a href="https://www.meetup.com/owasp-austin-chapter/events/305995366/" target="_blank"> Meetup </a>  -->
 
 [back to top](#welcome)
 <hr>
@@ -78,8 +70,8 @@ Please RSVP so we can plan for number of attendees: TBD when we have a sponsor!
 Save the Dates for LASCON 2025, which will be our 15th year anniversary. We will be back at Norris Conference Center with Pre-Conference Training October 21-22, 2025 and Conference October 23-24, 2025. Visit <a href="https://lascon.org/" target="_blank">lascon.org</a>.
 
 <ul><li>Early Bird Conference tickets are still available. We sold out last year, so <a href="https://lascon.org/tickets/" target="_blank">get yours today!</a></li>
-<li>Call for Presentations (CFP) will be made available at a later date. Stay tuned!</li>
-<li>Call for Training (CFT) will be made available at a later date. Stay tuned!</li>
+<li>Call for Presentations (CFP) is open. <a href="https://lascon.org/cfp/" target="_blank">Submit your presentation today!</a></li>
+<li>Call for Training (CFT) is open. <a href="https://lascon.org/cft/" target="_blank">Submit your training today!</a></li>
 <li>Interested in sponsoring LASCON 2025? <a href="https://lascon.org/become-a-sponsor/" target="_blank">Become a Sponsor today!</a></li>
 </ul>
 
