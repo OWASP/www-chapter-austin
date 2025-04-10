@@ -9,4 +9,7 @@
 
 ### Historical Leadership
 * [Tiana Chandler](mailto:tiana.chandler@owasp.org)
+* [Kyle Smith](mailto:kyle.smith@owasp.org) 
+* David Hughes
+* James Wickett
 * [Josh Sokol](mailto:josh.sokol@owasp.org)
