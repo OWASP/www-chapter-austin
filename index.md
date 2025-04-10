@@ -25,35 +25,7 @@ Welcome
 -------
 Welcome to the Austin chapter homepage.
 
-<hr>
-
 ### Upcoming Events ###
-
-<hr>
-
-### OWASP Austin Chapter Meeting March 2025 ###
-
-**When:** Tuesday, March 25, 2025 @ 11:30 AM - 1:00 PM<br>
-Agenda:<br>
-11:30-11:55 -- Room Opens, food is available and in-room discussions<br>
-11:55-12:05 -- Chapter/OWASP info presentation<br>
-12:05-1  -- Speaker Presentation<br>
-<br>
-**Presentation: Lead with AI: Transforming Cybersecurity with Artificial Intelligence**
-
-The cybersecurity landscape is evolving at an unprecedented pace, with attackers leveraging automation, AI, and machine learning to outmaneuver traditional defenses. To stay ahead, we must rethink how we defend our systems, manage risk, and make critical decisions.
-
-This talk will break down practical ways to integrate AI into security operations, from streamlining workflows to improving threat intelligence analysis. Attendees will gain a deeper understanding of AI’s strengths and limitations, ethical considerations, and how to build AI-driven strategies that empower security teams rather than overwhelm them.
-
-**Speaker:** 
-<br>
-Marcus Carey
-
-RSVP:<br>
-In-person (and free lunch) at <a href="https://owasp-austin-2025-march.eventbrite.com" target="_blank">Eventbrite</a><br>
-Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/305489292/?eventOrigin=group_upcoming_events" target="_blank">Meetup</a><br>
-<br>
-[back to top](#welcome)
 
 <hr>
 
@@ -63,6 +35,30 @@ Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/30548
 <p>We are still seeking happy hour sponsors for subsequent months. If you know of any company who would like to sponsor, please direct them to the <a href="https://owasp.org/www-chapter-austin/sponsorship.html">OWASP Austin Sponsorship page</a>. Thanks! </p>
 
 
+[back to top](#welcome)
+
+<hr>
+
+### OWASP Austin Chapter Meeting March 2025 ###
+
+**When:** Tuesday, April 29, 2025 @ 11:30 AM - 1:00 PM<br>
+Agenda:<br>
+11:30-11:55 -- Room Opens, food is available and in-room discussions<br>
+11:55-12:05 -- Chapter/OWASP info presentation<br>
+12:05-1  -- Speaker Presentation<br>
+<br>
+**Presentation: Building the Next Generation in AppSec**
+
+Today's challenges cannot be solved with yesterday's methods. There is a great need for a new generation of skilled appsec professionals, but there are few entry-level jobs and places to learn. That needs to change. This session will talk about work Robert has done with several different universities (University of Southern California, University of Arizona, Arizona State University, and Grand Canyon University) to help bring application security awareness to students in a variety of fashions and some of the ways this helps them find work after graduation. Particular attention will be given to work as part of the CHOPS (CyberSecurity Hands On Problem Solving) certification program at Arizona State, and to work done with USC related to their MBV program
+
+**Speaker:** 
+<br>
+Robert Cuddy
+
+RSVP:<br>
+In-person (and free lunch) at <a href="https://owasp-austin-2025-april.eventbrite.com" target="_blank">Eventbrite</a><br>
+Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/305489295" target="_blank">Meetup</a><br>
+<br>
 [back to top](#welcome)
 <hr>
 
