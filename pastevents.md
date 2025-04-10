@@ -25,6 +25,29 @@ altfooter: true
 ---------------
 ### 2025 ###
 
+### OWASP Austin Chapter Meeting March 2025 ###
+
+**When:** Tuesday, March 25, 2025 @ 11:30 AM - 1:00 PM<br>
+<br>
+**Presentation: Lead with AI: Transforming Cybersecurity with Artificial Intelligence**
+<blockquote>
+
+The cybersecurity landscape is evolving at an unprecedented pace, with attackers leveraging automation, AI, and machine learning to outmaneuver traditional defenses. To stay ahead, we must rethink how we defend our systems, manage risk, and make critical decisions.
+
+This talk will break down practical ways to integrate AI into security operations, from streamlining workflows to improving threat intelligence analysis. Attendees will gain a deeper understanding of AI’s strengths and limitations, ethical considerations, and how to build AI-driven strategies that empower security teams rather than overwhelm them.
+</blockquote>
+
+**Speaker:** 
+<br>
+<blockquote>
+Marcus Carey
+</blockquote>
+
+<br>
+<a href="https://youtu.be/u0onWliHBR4">YouTube</a>
+<br>
+<hr>
+
 ### Austin Security Professionals Happy Hour sponsored by DefectDojo, March 13, 2025 ###
 
 **When:** Thursday, March 13th, 5:30 pm - 7:30 pm
@@ -45,8 +68,8 @@ altfooter: true
 
 **When:** Tuesday, February 25, 2025 @ 11:30 AM - 1:00 PM<br>
 <br>
-<blockquote>
 **Presentation: When the Tool is the Weapon -- Abusing (and defending) native M365 applications**
+<blockquote>
 
 When you think about Business Email Compromise, you think about the mailbox, right? Malicious inbox rules, spoofed domains hijacking email threads, and phishing campaigns blasted to a user’s contact list are hallmarks of this type of attack. However, other applications within the M365 ecosystem are often leveraged by Threat Actors while they are in a compromised tenant.
 
@@ -130,7 +153,8 @@ Mark Black
 Mark Black is the Chief Product Owner for Infrastructure and Security on NI’s enterprise software team. Mark has a passion for security, quality, and a customer-centric mindset. In Mark’s two decades in the industry, he has designed several products from tools for web application development to highly scalable big data and analytics solutions used in device validation and manufacturing. Additionally, Mark has designed the IAM solution for one of NI’s flagship enterprise products, SystemLink, and established the SDL practice used by teams throughout NI’s software development organization.
 </blockquote>
 <br>
-Link to video to be posted soon.
+
+<a href="https://youtu.be/t2Ja70DaRWw">YouTube</a>
 
 <hr>
 
