@@ -64,6 +64,7 @@ Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/30548
 **Sponsor:** Levo.ai
 <br>
 <a href="https://levo.ai" target="_blank"><img src="assets/images/Levo_logo_HH-sm.jpg" alt="Levo.ai" width="150" height="79"/></a>
+<br>
 <em><p>Levo.ai is an API Security Platform that automatically and continuously discovers, documents, tests, and monitors APIs—essential practices endorsed by OWASP and compliance frameworks like PCI.</p>
 <p>Founded by an Engineering Leader Buchi Reddy Busi Reddy, tackles the root cause of security incidents—insecure code— by integrating visibility and security testing early in the development cycle.</em></p>
 <br>
