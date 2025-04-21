@@ -29,16 +29,6 @@ Welcome to the Austin chapter homepage.
 
 <hr>
 
-### Austin Security Professionals Happy Hour, April 10, 2025 is CANCELLED ###
-
-<p>Unfortunately we were not able to get a sponsor for the April happy hour and have had to cancel the event. Stay tuned for announcement of future happy hour events.</p>
-<p>We are still seeking happy hour sponsors for subsequent months. If you know of any company who would like to sponsor, please direct them to the <a href="https://owasp.org/www-chapter-austin/sponsorship.html">OWASP Austin Sponsorship page</a>. Thanks! </p>
-
-
-[back to top](#welcome)
-
-<hr>
-
 ### OWASP Austin Chapter Meeting March 2025 ###
 
 **When:** Tuesday, April 29, 2025 @ 11:30 AM - 1:00 PM<br>
@@ -62,11 +52,32 @@ Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/30548
 [back to top](#welcome)
 <hr>
 
+
+### Austin Security Professionals Happy Hour sponsored by Levo.ai, May 8, 2025 ###
+
+**When:** Thursday, May 8th, 5:30 pm - 7:30 pm
+
+**Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.  We will have tables reserved inside the bar, to the right as you enter.  Parking: nearest parking in the Red Garage located off of Rock Rose Ave (<a href="https://domainnorthside.com/map/" target="_blank">map of Domain</a>). 
+
+**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
+
+**Sponsor:** Levo.ai
+<br>
+<a href="https://levo.ai" target="_blank"><img src="assets/images/Levo_logo_HH-sm.jpg" alt="Levo.ai" width="150" height="79"/></a>
+<em><p>Levo.ai is an API Security Platform that automatically and continuously discovers, documents, tests, and monitors APIs—essential practices endorsed by OWASP and compliance frameworks like PCI.</p>
+<p>Founded by an Engineering Leader Buchi Reddy Busi Reddy, tackles the root cause of security incidents—insecure code— by integrating visibility and security testing early in the development cycle.</em></p>
+<br>
+Please RSVP so we can plan for number of attendees: TBD when we have a sponsor!
+<a href="https://www.meetup.com/owasp-austin-chapter/events/307410856/" target="_blank"> Meetup </a>
+
+[back to top](#welcome)
+<hr>
+
 ### LASCON 2025 ###
 
 Save the Dates for LASCON 2025, which will be our 15th year anniversary. We will be back at Norris Conference Center with Pre-Conference Training October 21-22, 2025 and Conference October 23-24, 2025. Visit <a href="https://lascon.org/" target="_blank">lascon.org</a>.
 
-<ul><li>Early Bird Conference tickets are still available. We sold out last year, so <a href="https://lascon.org/tickets/" target="_blank">get yours today!</a></li>
+<ul><li>Discounted Conference tickets are still available. We sold out last year, so <a href="https://lascon.org/tickets/" target="_blank">get yours today!</a></li>
 <li>Call for Presentations (CFP) is open. <a href="https://lascon.org/cfp/" target="_blank">Submit your presentation today!</a></li>
 <li>Call for Training (CFT) is open. <a href="https://lascon.org/cft/" target="_blank">Submit your training today!</a></li>
 <li>Interested in sponsoring LASCON 2025? <a href="https://lascon.org/become-a-sponsor/" target="_blank">Become a Sponsor today!</a></li>
