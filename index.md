@@ -29,48 +29,50 @@ Welcome to the Austin chapter homepage.
 
 <hr>
 
-### OWASP Austin Chapter Meeting March 2025 ###
+### OWASP Austin Chapter Meeting May 2025 ###
 
-**When:** Tuesday, April 29, 2025 @ 11:30 AM - 1:00 PM<br>
+**When:** Tuesday, May 29, 2025 @ 11:30 AM - 1:00 PM<br>
 Agenda:<br>
 11:30-11:55 -- Room Opens, food is available and in-room discussions<br>
 11:55-12:05 -- Chapter/OWASP info presentation<br>
 12:05-1  -- Speaker Presentation<br>
 <br>
-**Presentation: Building the Next Generation in AppSec**
+**Presentation: Why Your Security Metrics Suck, And How to Fix This**
 
-Today's challenges cannot be solved with yesterday's methods. There is a great need for a new generation of skilled appsec professionals, but there are few entry-level jobs and places to learn. That needs to change. This session will talk about work Robert has done with several different universities (University of Southern California, University of Arizona, Arizona State University, and Grand Canyon University) to help bring application security awareness to students in a variety of fashions and some of the ways this helps them find work after graduation. Particular attention will be given to work as part of the CHOPS (CyberSecurity Hands On Problem Solving) certification program at Arizona State, and to work done with USC related to their MBV program
+Back in 2014, Rafal gave a talk about metrics, specifically on enterprise software security ( https://www.youtube.com/watch?v=Kl7ZAR9U0xs ) and it's been haunting him ever since. He regularly gets emails and DMs from people asking him to help them with their security program metrics and given that it's been 10 years since he last presented this, it's time to revisit.
+
+This talk focuses on metrics for security organizations in general, and AppSec related metrics in specific. In other words, how do security organizations measure their impact, and whether they're doing a "good job" or not? What do you measure, how do you measure it, and why does anyone care? Let's dive deep into a boring topic that nobody wants to talk about, but you all know you need to master.
 
 **Speaker:** 
 <br>
-Robert Cuddy
+Rafal Los
 
 RSVP:<br>
-In-person (and free lunch) at <a href="https://owasp-austin-2025-april.eventbrite.com" target="_blank">Eventbrite</a><br>
-Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/305489295" target="_blank">Meetup</a><br>
+In-person (and free lunch) at <a href="https://owasp-austin-2025-may.eventbrite.com" target="_blank">Eventbrite</a><br>
+Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/305489299" target="_blank">Meetup</a><br>
 <br>
 [back to top](#welcome)
 <hr>
 
+### Austin Security Professionals Happy Hour sponsored by **TBD**, June 12, 2025 ###
 
-### Austin Security Professionals Happy Hour sponsored by Levo.ai, May 8, 2025 ###
-
-**When:** Thursday, May 8th, 5:30 pm - 7:30 pm
+**When:** Thursday, June 12th, 5:30 pm - 7:30 pm
 
 **Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.  We will have tables reserved inside the bar, to the right as you enter.  Parking: nearest parking in the Red Garage located off of Rock Rose Ave (<a href="https://domainnorthside.com/map/" target="_blank">map of Domain</a>). 
 
 **What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
 
-**Sponsor:** Levo.ai
+**Sponsor:** TBD
 <br>
-<a href="https://levo.ai" target="_blank"><img src="assets/images/Levo_logo_HH-sm.jpg" alt="Levo.ai" width="150" height="79"/></a>
+<!-- <a href="https://levo.ai" target="_blank"><img src="assets/images/Levo_logo_HH-sm.jpg" alt="Levo.ai" width="150" height="79"/></a> 
 <br>
 <p><i>Levo.ai is an API Security Platform that automatically and continuously discovers, documents, tests, and monitors APIs—essential practices endorsed by OWASP and compliance frameworks like PCI.</i></p>
 <p><i>Founded by an Engineering Leader Buchi Reddy Busi Reddy, tackles the root cause of security incidents—insecure code— by integrating visibility and security testing early in the development cycle.</i></p>
+
 <br>
 Please RSVP so we can plan for number of attendees:
 <a href="https://www.meetup.com/owasp-austin-chapter/events/307410856/" target="_blank"> Meetup </a>
-
+-->
 [back to top](#welcome)
 <hr>
 
@@ -79,8 +81,8 @@ Please RSVP so we can plan for number of attendees:
 Save the Dates for LASCON 2025, which will be our 15th year anniversary. We will be back at Norris Conference Center with Pre-Conference Training October 21-22, 2025 and Conference October 23-24, 2025. Visit <a href="https://lascon.org/" target="_blank">lascon.org</a>.
 
 <ul><li>Discounted Conference tickets are still available. We sold out last year, so <a href="https://lascon.org/tickets/" target="_blank">get yours today!</a></li>
-<li>Call for Presentations (CFP) is open. <a href="https://lascon.org/cfp/" target="_blank">Submit your presentation today!</a></li>
-<li>Call for Training (CFT) is open. <a href="https://lascon.org/cft/" target="_blank">Submit your training today!</a></li>
+<li>Call for Presentations (CFP) is open. <a href="https://lascon.org/cfp/" target="_blank">Closed!</a> Review of selection underway!</li>
+<li>Call for Training (CFT) is open. <a href="https://lascon.org/cft/" target="_blank">Closed!</a> Review of selection underway!</li>
 <li>Interested in sponsoring LASCON 2025? <a href="https://lascon.org/become-a-sponsor/" target="_blank">Become a Sponsor today!</a></li>
 </ul>
 
