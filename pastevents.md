@@ -25,6 +25,33 @@ altfooter: true
 ---------------
 ### 2025 ###
 
+### OWASP Austin Chapter Meeting April 2025 ###
+
+**When:** Tuesday, April 29, 2025 @ 11:30 AM - 1:00 PM<br>
+<br>
+**Presentation: Building the Next Generation in AppSec**
+<blockquote>
+
+Today's challenges cannot be solved with yesterday's methods. There is a great need for a new generation of skilled appsec professionals, but there are few entry-level jobs and places to learn. That needs to change. This session will talk about work Robert has done with several different universities (University of Southern California, University of Arizona, Arizona State University, and Grand Canyon University) to help bring application security awareness to students in a variety of fashions and some of the ways this helps them find work after graduation. Particular attention will be given to work as part of the CHOPS (CyberSecurity Hands On Problem Solving) certification program at Arizona State, and to work done with USC related to their MBV program.
+</blockquote>
+
+**Speaker:** 
+<br>
+<blockquote>
+Robert Cuddy
+</blockquote>
+<br>
+Rob is currently a Customer Experience Executive at HCL Software, providing thought leadership for application security, DevOps and DevSecOps initiatives. Rob is also one of the hosts of the Application Paranoia podcast. At HCL Software, Rob has also been a solution architect and application security evangelist at HCL. Prior to HCL Software, Rob was with IBM for 14 years with various roles. Rob has worked with clients all over the world to help address their challenges in ways that bring a positive impact to the business bottom line. Prior to IBM, Rob spent 13 years with 5 different companies working as a configuration management specialist with an emphasis on Rational tooling. Rob graduated from the University of Southern California with a degree in Aerospace Engineering and is an avid fan of college football.
+
+When not at work, Rob enjoys spending time with his family, serving with his church, running and cycling. Additionally, Rob has spoken at numerous events and conferences, including the Agile DevOps West, StarEast, the DevOps Enterprise Summit, All Day DevOps, GDS CISO Summits, THINK and many webinars and events.
+
+You can connect with Rob through the Application Paranoia podcast, via LinkedIn, Facebook and Instagram but the best way is by joining the “Robservatory” on twitter using the handle @Robservatory.
+
+<br>
+<a href="https://youtu.be/Hiuckw0xUs4">YouTube</a>
+<br>
+<hr>
+
 ### OWASP Austin Chapter Meeting March 2025 ###
 
 **When:** Tuesday, March 25, 2025 @ 11:30 AM - 1:00 PM<br>
