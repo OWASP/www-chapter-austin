@@ -25,6 +25,22 @@ altfooter: true
 ---------------
 ### 2025 ###
 
+### Austin Security Professionals Happy Hour sponsored by Levo.ai, May 8, 2025 ###
+
+**When:** Thursday, May 8th, 5:30 pm - 7:30 pm
+
+**Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758. We will have tables reserved inside the bar, to the right as you enter. Parking: nearest parking in the Red Garage located off of Rock Rose Ave(<a href="https://domainnorthside.com/map/" target="_blank">map of Domain</a>).
+
+**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
+
+**Sponsor:** Levo.ai
+<br>
+<a href="https://levo.ai" target="_blank"><img src="assets/images/Levo_logo_HH-sm.jpg" alt="Levo.ai" width="150" height="79"/></a>
+<br>
+<p><i>Levo.ai is an API Security Platform that automatically and continuously discovers, documents, tests, and monitors APIs—essential practices endorsed by OWASP and compliance frameworks like PCI.</i></p>
+<p><i>Founded by an Engineering Leader Buchi Reddy Busi Reddy, tackles the root cause of security incidents—insecure code— by integrating visibility and security testing early in the development cycle.</i></p>
+<hr>
+
 ### OWASP Austin Chapter Meeting April 2025 ###
 
 **When:** Tuesday, April 29, 2025 @ 11:30 AM - 1:00 PM<br>
@@ -88,7 +104,6 @@ Marcus Carey
 <img src="assets/images/DefectDojo_Logo_HH-sm.jpg" alt="DefectDojo logo"/>
 
 <p><em>DefectDojo is the engine that drives DevSecOps, providing an open, scalable platform that connects security strategy to execution. By aggregating data from over 180 security tools, automating manual processes, and delivering AI-powered insights, DefectDojo empowers organizations to have a unified view of security posture and compliance, automate operations to increase productivity and improve decision-making. For more information, visit <a href="http://defectdojo.com/" target="_blank">DefectDojo.com</a>.</em></p>
-<br>
 <hr>
 
 ### OWASP Austin Chapter Meeting February 2025 ###
