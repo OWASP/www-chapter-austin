@@ -25,6 +25,26 @@ altfooter: true
 ---------------
 ### 2025 ###
 
+<hr>
+
+### OWASP Austin Chapter Meeting May 2025 ###
+
+**When:** Tuesday, May 29, 2025 @ 11:30 AM - 1:00 PM<br>
+<br>
+**Presentation: Why Your Security Metrics Suck, And How to Fix This**
+<blockquote>
+Back in 2014, Rafal gave a talk about metrics, specifically on enterprise software security ( https://www.youtube.com/watch?v=Kl7ZAR9U0xs ) and it's been haunting him ever since. He regularly gets emails and DMs from people asking him to help them with their security program metrics and given that it's been 10 years since he last presented this, it's time to revisit.
+
+This talk focuses on metrics for security organizations in general, and AppSec related metrics in specific. In other words, how do security organizations measure their impact, and whether they're doing a "good job" or not? What do you measure, how do you measure it, and why does anyone care? Let's dive deep into a boring topic that nobody wants to talk about, but you all know you need to master.
+</blockquote>
+
+**Speaker:** 
+<br>
+<blockquote>Rafal Los</blockquote>
+
+[Youtube](https://youtu.be/DWynv-I34tk)
+<hr>
+
 ### Austin Security Professionals Happy Hour sponsored by Levo.ai, May 8, 2025 ###
 
 **When:** Thursday, May 8th, 5:30 pm - 7:30 pm
