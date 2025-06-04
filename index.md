@@ -29,31 +29,6 @@ Welcome to the Austin chapter homepage.
 
 <hr>
 
-### OWASP Austin Chapter Meeting May 2025 ###
-
-**When:** Tuesday, May 29, 2025 @ 11:30 AM - 1:00 PM<br>
-Agenda:<br>
-11:30-11:55 -- Room Opens, food is available and in-room discussions<br>
-11:55-12:05 -- Chapter/OWASP info presentation<br>
-12:05-1  -- Speaker Presentation<br>
-<br>
-**Presentation: Why Your Security Metrics Suck, And How to Fix This**
-
-Back in 2014, Rafal gave a talk about metrics, specifically on enterprise software security ( https://www.youtube.com/watch?v=Kl7ZAR9U0xs ) and it's been haunting him ever since. He regularly gets emails and DMs from people asking him to help them with their security program metrics and given that it's been 10 years since he last presented this, it's time to revisit.
-
-This talk focuses on metrics for security organizations in general, and AppSec related metrics in specific. In other words, how do security organizations measure their impact, and whether they're doing a "good job" or not? What do you measure, how do you measure it, and why does anyone care? Let's dive deep into a boring topic that nobody wants to talk about, but you all know you need to master.
-
-**Speaker:** 
-<br>
-Rafal Los
-
-RSVP:<br>
-In-person (and free lunch) at <a href="https://owasp-austin-2025-may.eventbrite.com" target="_blank">Eventbrite</a><br>
-Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/305489299" target="_blank">Meetup</a><br>
-<br>
-[back to top](#welcome)
-<hr>
-
 ### Austin Security Professionals Happy Hour sponsored by **TBD**, June 12, 2025 ###
 
 **When:** Thursday, June 12th, 5:30 pm - 7:30 pm
@@ -63,6 +38,44 @@ Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/30548
 **What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
 
 **Sponsor:** TBD
+<br>
+[back to top](#welcome)
+
+<hr>
+
+### OWASP Austin Chapter Meeting June 2025 ###
+
+**When:** Tuesday, June 24, 2025 @ 11:30 AM - 1:00 PM<br>
+Agenda:<br>
+11:30-11:55 -- Room Opens, food is available and in-room discussions<br>
+11:55-12:05 -- Chapter/OWASP info presentation<br>
+12:05-1  -- Speaker Presentation<br>
+<br>
+**Presentation: SAST on Rewind: Moving from Pattern-Matching to Contextual Security in the Age of AI**
+
+Static analysis was built for yesterday’s code. Its rule-based engines still hunt for familiar strings while AI assistants generate brand-new logic paths at record speed. The result? False positives everywhere, real vulnerabilities left open, and developers who treat security findings like background noise.
+
+In this 40-minute session, James Wickett, CEO & Co-Founder of DryRun Security, hits “rewind” to show where traditional SAST got stuck—and fast-forwards to a context-first approach that finally keeps pace with modern development. Drawing on fresh data from the 2025 SAST Accuracy Report and real cod stories, James will:
+
+<ol>
+<li>Contrast patterns vs. context — why deterministic rules miss IDOR, broken auth, and AI-generated edge cases.</li>
+<li>Unpack probabilistic scanning — how contextual signals cut noise without sacrificing coverage.</li>
+<li>Contextual Security Analysis in Action — a live authorization flaw that slipped through regex nets.</li>
+<li>Share a plan for AI readiness for AppSec — tools, projects, resources to plan for AI readiness for your appsec or product security program.</li>
+</ol>
+<br>
+Attendees will leave with open-source resources, clear ROI talking points for leadership, and a practical roadmap to upgrade their AppSec program for the AI era—no VHS tape required.
+<br><br>
+
+**Speaker:** 
+<br>
+James Wickett
+<br><br>
+
+RSVP:
+<br>
+In-person (and free lunch) at <a href="https://owasp-austin-2025-june.eventbrite.com" target="_blank">Eventbrite</a><br>
+Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/305489304" target="_blank">Meetup</a><br>
 <br>
 [back to top](#welcome)
 <hr>
