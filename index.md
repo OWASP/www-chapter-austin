@@ -29,15 +29,9 @@ Welcome to the Austin chapter homepage.
 
 <hr>
 
-### Austin Security Professionals Happy Hour sponsored by **TBD**, June 12, 2025 ###
+### Austin Security Professionals Happy Hour, June 12, 2025  ** CANCELLED **  ###
 
-**When:** Thursday, June 12th, 5:30 pm - 7:30 pm
-
-**Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.  We will have tables reserved inside the bar, to the right as you enter.  Parking: nearest parking in the Red Garage located off of Rock Rose Ave (<a href="https://domainnorthside.com/map/" target="_blank">map of Domain</a>). 
-
-**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
-
-**Sponsor:** TBD
+Unfortunately we were not able to obtain a sponsor for this month's event. We are actively seeking sponsors for the remaining months (July 10th, August 14th, and September 11th). See our <a href="https://owasp.org/www-chapter-austin/sponsorship.html">Sponsorship</a> page for information on sponsoring.<br>
 <br>
 [back to top](#welcome)
 
@@ -80,13 +74,27 @@ Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/30548
 [back to top](#welcome)
 <hr>
 
+### Austin Security Professionals Happy Hour sponsored by **TBD**, July 10, 2025 ###
+
+**When:** Thursday, July 10th, 5:30 pm - 7:30 pm
+
+**Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.  We will have tables reserved inside the bar, to the right as you enter.  Parking: nearest parking in the Red Garage located off of Rock Rose Ave (<a href="https://domainnorthside.com/map/" target="_blank">map of Domain</a>). 
+
+**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
+
+**Sponsor:** TBD - seeking sponsor for this event. 
+<br>
+[back to top](#welcome)
+
+<hr>
+
 ### LASCON 2025 ###
 
 Save the Dates for LASCON 2025, which will be our 15th year anniversary. We will be back at Norris Conference Center with Pre-Conference Training October 21-22, 2025 and Conference October 23-24, 2025. Visit <a href="https://lascon.org/" target="_blank">lascon.org</a>.
 
 <ul><li>Discounted Conference tickets are still available. We sold out last year, so <a href="https://lascon.org/tickets/" target="_blank">get yours today!</a></li>
-<li>Call for Presentations (CFP) is open. <a href="https://lascon.org/cfp/" target="_blank">Closed!</a> Review of selection underway!</li>
-<li>Call for Training (CFT) is open. <a href="https://lascon.org/cft/" target="_blank">Closed!</a> Review of selection underway!</li>
+<li>Call for Presentations (CFP) is <a href="https://lascon.org/cfp/" target="_blank">Closed!</a> Review of selection underway!</li>
+<li>Call for Training (CFT) is <a href="https://lascon.org/cft/" target="_blank">Closed!</a> Review of selection underway!</li>
 <li>Interested in sponsoring LASCON 2025? <a href="https://lascon.org/become-a-sponsor/" target="_blank">Become a Sponsor today!</a></li>
 </ul>
 
