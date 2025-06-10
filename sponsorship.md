@@ -35,7 +35,7 @@ Event Dates for 2025 are available:
   March  ....... 3/13/2025 ..... Have Sponsor
   April ........ 4/10/2025 ..... Cancelled
   May .......... 5/8/2025  ..... Have Sponsor
-  June ......... 6/12/2025 ..... AVAILABLE
+  June ......... 6/12/2025 ..... Cancelled
   July ......... 7/10/2025 ..... AVAILABLE
   August ....... 8/14/2025 ..... AVAILABLE
   September..... 9/11/2025 ..... AVAILABLE
