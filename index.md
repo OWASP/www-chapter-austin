@@ -29,7 +29,7 @@ Welcome to the Austin chapter homepage.
 
 <hr>
 
-### Austin Security Professionals Happy Hour sponsored by **TBD**, July 10, 2025 ###
+### Austin Security Professionals Happy Hour sponsored by **IriusRisk**, July 10, 2025 ###
 
 **When:** Thursday, July 10th, 5:30 pm - 7:30 pm
 
@@ -37,7 +37,10 @@ Welcome to the Austin chapter homepage.
 
 **What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
 
-**Sponsor:** TBD - seeking sponsor for this event. 
+**Sponsor:** IriusRisk 
+<br>
+<a href="https://www.meetup.com/owasp-austin-chapter/events/308877794">Meetup</a>
+
 <br>
 [back to top](#welcome)
 
