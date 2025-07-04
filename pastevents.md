@@ -27,6 +27,37 @@ altfooter: true
 
 <hr>
 
+### OWASP Austin Chapter Meeting June 2025 ###
+
+**When:** Tuesday, June 24, 2025 @ 11:30 AM - 1:00 PM<br>
+<br>
+**Presentation: SAST on Rewind: Moving from Pattern-Matching to Contextual Security in the Age of AI**
+<blockquote>
+Static analysis was built for yesterday’s code. Its rule-based engines still hunt for familiar strings while AI assistants generate brand-new logic paths at record speed. The result? False positives everywhere, real vulnerabilities left open, and developers who treat security findings like background noise.
+
+In this 40-minute session, James Wickett, CEO & Co-Founder of DryRun Security, hits “rewind” to show where traditional SAST got stuck—and fast-forwards to a context-first approach that finally keeps pace with modern development. Drawing on fresh data from the 2025 SAST Accuracy Report and real cod stories, James will:
+
+<ol>
+<li>Contrast patterns vs. context — why deterministic rules miss IDOR, broken auth, and AI-generated edge cases.</li>
+<li>Unpack probabilistic scanning — how contextual signals cut noise without sacrificing coverage.</li>
+<li>Contextual Security Analysis in Action — a live authorization flaw that slipped through regex nets.</li>
+<li>Share a plan for AI readiness for AppSec — tools, projects, resources to plan for AI readiness for your appsec or product security program.</li>
+</ol>
+<br>
+Attendees will leave with open-source resources, clear ROI talking points for leadership, and a practical roadmap to upgrade their AppSec program for the AI era—no VHS tape required.
+<br><br>
+</blockquote>
+
+**Speaker:** 
+<blockquote>
+James Wickett
+</blockquote>
+<a href="https://youtu.be/LRuc44Fdf7c">YouTube</a>
+<br>
+[back to top](#welcome)
+
+<hr>
+
 ### OWASP Austin Chapter Meeting May 2025 ###
 
 **When:** Tuesday, May 29, 2025 @ 11:30 AM - 1:00 PM<br>
