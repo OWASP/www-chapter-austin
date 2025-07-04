@@ -29,51 +29,6 @@ Welcome to the Austin chapter homepage.
 
 <hr>
 
-### Austin Security Professionals Happy Hour, June 12, 2025  ** CANCELLED **  ###
-
-Unfortunately we were not able to obtain a sponsor for this month's event. We are actively seeking sponsors for the remaining months (July 10th, August 14th, and September 11th). See our <a href="https://owasp.org/www-chapter-austin/sponsorship.html">Sponsorship</a> page for information on sponsoring.<br>
-<br>
-[back to top](#welcome)
-
-<hr>
-
-### OWASP Austin Chapter Meeting June 2025 ###
-
-**When:** Tuesday, June 24, 2025 @ 11:30 AM - 1:00 PM<br>
-Agenda:<br>
-11:30-11:55 -- Room Opens, food is available and in-room discussions<br>
-11:55-12:05 -- Chapter/OWASP info presentation<br>
-12:05-1  -- Speaker Presentation<br>
-<br>
-**Presentation: SAST on Rewind: Moving from Pattern-Matching to Contextual Security in the Age of AI**
-
-Static analysis was built for yesterday’s code. Its rule-based engines still hunt for familiar strings while AI assistants generate brand-new logic paths at record speed. The result? False positives everywhere, real vulnerabilities left open, and developers who treat security findings like background noise.
-
-In this 40-minute session, James Wickett, CEO & Co-Founder of DryRun Security, hits “rewind” to show where traditional SAST got stuck—and fast-forwards to a context-first approach that finally keeps pace with modern development. Drawing on fresh data from the 2025 SAST Accuracy Report and real cod stories, James will:
-
-<ol>
-<li>Contrast patterns vs. context — why deterministic rules miss IDOR, broken auth, and AI-generated edge cases.</li>
-<li>Unpack probabilistic scanning — how contextual signals cut noise without sacrificing coverage.</li>
-<li>Contextual Security Analysis in Action — a live authorization flaw that slipped through regex nets.</li>
-<li>Share a plan for AI readiness for AppSec — tools, projects, resources to plan for AI readiness for your appsec or product security program.</li>
-</ol>
-<br>
-Attendees will leave with open-source resources, clear ROI talking points for leadership, and a practical roadmap to upgrade their AppSec program for the AI era—no VHS tape required.
-<br><br>
-
-**Speaker:** 
-<br>
-James Wickett
-<br><br>
-
-RSVP:
-<br>
-In-person (and free lunch) at <a href="https://owasp-austin-2025-june.eventbrite.com" target="_blank">Eventbrite</a><br>
-Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/305489304" target="_blank">Meetup</a><br>
-<br>
-[back to top](#welcome)
-<hr>
-
 ### Austin Security Professionals Happy Hour sponsored by **TBD**, July 10, 2025 ###
 
 **When:** Thursday, July 10th, 5:30 pm - 7:30 pm
@@ -86,20 +41,58 @@ Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/30548
 <br>
 [back to top](#welcome)
 
+
+<hr>
+
+### OWASP Austin Chapter Meeting June 2025 ###
+
+**When:** Tuesday, July 29, 2025 @ 11:30 AM - 1:00 PM<br>
+Agenda:<br>
+11:30-11:55 -- Room Opens, food is available and in-room discussions<br>
+11:55-12:05 -- Chapter/OWASP info presentation<br>
+12:05-1  -- Speaker Presentation<br>
+<br>
+**Presentation: Cyber Resilience and Business Impact: Findings from the 2025 LevelBlue Futures Report**
+
+Computing is advancing at blistering speeds. With so much change, there must be a balance of innovation and risk. The 2025 LevelBlue Futures Report: Cyber Resilience and Business Impact, finds that AI is a disrupting force. This research examines the pivotal changes advancing cybersecurity as a business priority and how cyber resilience increases the chance of business success.
+This presentation covers:
+<ul>
+<li>Why cyber resilience is essential</li>
+<li>What makes a cyber-resilient organization</li>
+<li>How AI is impacting the readiness of cybersecurity teams</li>
+<li>How the software supply chain impacts risk</li>
+</ul>
+<br>
+Attendees will leave with open-source resources, clear ROI talking points for leadership, and a practical roadmap to upgrade their AppSec program for the AI era—no VHS tape required.
+<br><br>
+
+**Speaker:** 
+<br>
+Theresa Lanowitz
+<br><br>
+Theresa Lanowitz is the Chief Cybersecurity Evangelist at LevelBlue, a strategic alliance between AT&T and WillJam Ventures, that simplifies cybersecurity for the businesses fueling our global economy. With a distinguished career in the technology industry, she has held influential roles at companies including Gartner, Borland, Taligent, and Sun Microsystems, significantly impacting application security and emerging technologies.
+Theresa is a globally respected leader known for her deep and diverse experience in cybersecurity. Theresa frequently speaks at major industry conferences, including RSA sharing her insights on high tech trends, AI integration, and the evolving threat landscape. She’s been published in Forbes, ISMG, InformationWeek, Dark Reading, and more, with her contributions reflecting a deep commitment to advancing cybersecurity practices and fostering innovation within the industry. Theresa holds a Bachelor of Science in Computer Science from the University of Pittsburgh, Pittsburgh, PA.
+
+RSVP:
+<br>
+In-person (and free lunch) at <a href="https://owasp-austin-2025-july.eventbrite.com" target="_blank">Eventbrite</a><br>
+Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/305489307/?" target="_blank">Meetup</a><br>
+<br>
+[back to top](#welcome)
 <hr>
 
 ### LASCON 2025 ###
 
 Save the Dates for LASCON 2025, which will be our 15th year anniversary. We will be back at Norris Conference Center with Pre-Conference Training October 21-22, 2025 and Conference October 23-24, 2025. Visit <a href="https://lascon.org/" target="_blank">lascon.org</a>.
 
-<ul><li>Discounted Conference tickets are still available. We sold out last year, so <a href="https://lascon.org/tickets/" target="_blank">get yours today!</a></li>
-<li>Call for Presentations (CFP) is <a href="https://lascon.org/cfp/" target="_blank">Closed!</a> Review of selection underway!</li>
-<li>Call for Training (CFT) is <a href="https://lascon.org/cft/" target="_blank">Closed!</a> Review of selection underway!</li>
-<li>Interested in sponsoring LASCON 2025? <a href="https://lascon.org/become-a-sponsor/" target="_blank">Become a Sponsor today!</a></li>
+<ul>
+ <li>Discounted Conference tickets are still available. We sold out last year, so <a href="https://lascon.org/tickets/" target="_blank">get yours today!</a></li>
+ <li>Tickets for Training Sessions are available.  <a href="https://lascon2025-training.eventbrite.com">Get your tickets!</a href></li>
+ <li>Interested in sponsoring LASCON 2025? <a href="https://lascon.org/become-a-sponsor/" target="_blank">Become a Sponsor today!</a></li>
 </ul>
 
 [back to top](#welcome)
-<hr>
+
 
 ### Austin Security Professionals Happy Hour - 2025 Dates Available ###
 
