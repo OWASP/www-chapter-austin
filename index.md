@@ -31,23 +31,15 @@ Welcome to the Austin chapter homepage.
 
 ### Austin Security Professionals Happy Hour sponsored by **IriusRisk**, July 10, 2025 ###
 
-**When:** Thursday, July 10th, 5:30 pm - 7:30 pm
-
-**Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.  We will have tables reserved inside the bar, to the right as you enter.  Parking: nearest parking in the Red Garage located off of Rock Rose Ave (<a href="https://domainnorthside.com/map/" target="_blank">map of Domain</a>). 
-
-**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
-
-**Sponsor:** IriusRisk 
+Cancelled
 <br>
-<a href="https://www.meetup.com/owasp-austin-chapter/events/308877794">Meetup</a>
 
-<br>
 [back to top](#welcome)
 
 
 <hr>
 
-### OWASP Austin Chapter Meeting June 2025 ###
+### OWASP Austin Chapter Meeting July 2025 ###
 
 **When:** Tuesday, July 29, 2025 @ 11:30 AM - 1:00 PM<br>
 Agenda:<br>
@@ -81,6 +73,7 @@ RSVP:
 In-person (and free lunch) at <a href="https://owasp-austin-2025-july.eventbrite.com" target="_blank">Eventbrite</a><br>
 Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/305489307/?" target="_blank">Meetup</a><br>
 <br>
+
 [back to top](#welcome)
 <hr>
 
