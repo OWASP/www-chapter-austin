@@ -29,15 +29,6 @@ Welcome to the Austin chapter homepage.
 
 <hr>
 
-### Austin Security Professionals Happy Hour sponsored by **IriusRisk**, July 10, 2025 ###
-
-Cancelled
-<br>
-
-[back to top](#welcome)
-
-
-<hr>
 
 ### OWASP Austin Chapter Meeting July 2025 ###
 
@@ -75,6 +66,29 @@ Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/30548
 <br>
 
 [back to top](#welcome)
+<hr>
+
+### Austin Security Professionals Happy Hour sponsored by **IriusRisk**, August 14, 2025 ###
+
+**When:** Thursday, August 14th, 5:30 pm - 7:30 pm
+
+**Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.  We will have tables reserved inside the bar, to the right as you enter.  Parking: nearest parking in the Red Garage located off of Rock Rose Ave (<a href="https://domainnorthside.com/map/" target="_blank">map of Domain</a>). 
+
+**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
+
+**Sponsor:** IriusRisk
+<br>
+<a href="http://iriusrisk.com/" target="_blank"><img src="assets/images/IriusRisk_logo_sm.jpg" alt="IriusRisk" width="150" height="79"/></a>
+<br>
+<p><i>We make secure design the standard, scalable practice for all digital teams. IriusRisk makes secure design fast, reliable and accessible, even to non-security users, thanks to our automated and intelligent Threat Modeling Solution.</i></p>
+<br>
+Please RSVP so we can plan for number of attendees: TBD when we have a sponsor!
+<a href="https://www.meetup.com/owasp-austin-chapter/events/309774138/" target="_blank"> Meetup </a>
+
+<br>
+
+[back to top](#welcome)
+
 <hr>
 
 ### LASCON 2025 ###
