@@ -78,7 +78,7 @@ Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/30548
 
 **Sponsor:** IriusRisk
 <br>
-<a href="http://iriusrisk.com/" target="_blank"><img src="assets/images/IriusRisk_logo_sm.jpg" alt="IriusRisk" width="150" height="79"/></a>
+<a href="http://iriusrisk.com/" target="_blank"><img src="assets/images/IriusRisk_logo_sm.jpg" alt="IriusRisk" width="200" height="38"/></a>
 <br>
 <p><i>We make secure design the standard, scalable practice for all digital teams. IriusRisk makes secure design fast, reliable and accessible, even to non-security users, thanks to our automated and intelligent Threat Modeling Solution.</i></p>
 <br>
