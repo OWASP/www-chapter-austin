@@ -82,7 +82,7 @@ Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/30548
 <br>
 <p><i>We make secure design the standard, scalable practice for all digital teams. IriusRisk makes secure design fast, reliable and accessible, even to non-security users, thanks to our automated and intelligent Threat Modeling Solution.</i></p>
 <br>
-Please RSVP so we can plan for number of attendees: TBD when we have a sponsor!
+Please RSVP so we can plan for number of attendees:
 <a href="https://www.meetup.com/owasp-austin-chapter/events/309774138/" target="_blank"> Meetup </a>
 
 <br>
