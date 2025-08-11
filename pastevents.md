@@ -24,6 +24,39 @@ altfooter: true
 
 ---------------
 ### 2025 ###
+<hr>
+
+### OWASP Austin Chapter Meeting July 2025 ###
+
+**When:** Tuesday, July 29, 2025 @ 11:30 AM - 1:00 PM
+<br><br>
+**Presentation: Cyber Resilience and Business Impact: Findings from the 2025 LevelBlue Futures Report**
+<br><br>
+<blockquote>
+Computing is advancing at blistering speeds. With so much change, there must be a balance of innovation and risk. The 2025 LevelBlue Futures Report: Cyber Resilience and Business Impact, finds that AI is a disrupting force. This research examines the pivotal changes advancing cybersecurity as a business priority and how cyber resilience increases the chance of business success.
+This presentation covers:
+<ul>
+<li>Why cyber resilience is essential</li>
+<li>What makes a cyber-resilient organization</li>
+<li>How AI is impacting the readiness of cybersecurity teams</li>
+<li>How the software supply chain impacts risk</li>
+</ul>
+<br>
+Attendees will leave with open-source resources, clear ROI talking points for leadership, and a practical roadmap to upgrade their AppSec program for the AI era—no VHS tape required.
+</blockquote>
+
+<br>
+
+**Speaker:** 
+<br>
+<blockquote>
+Theresa Lanowitz
+<br><br>
+Theresa Lanowitz is the Chief Cybersecurity Evangelist at LevelBlue, a strategic alliance between AT&T and WillJam Ventures, that simplifies cybersecurity for the businesses fueling our global economy. With a distinguished career in the technology industry, she has held influential roles at companies including Gartner, Borland, Taligent, and Sun Microsystems, significantly impacting application security and emerging technologies.
+Theresa is a globally respected leader known for her deep and diverse experience in cybersecurity. Theresa frequently speaks at major industry conferences, including RSA sharing her insights on high tech trends, AI integration, and the evolving threat landscape. She’s been published in Forbes, ISMG, InformationWeek, Dark Reading, and more, with her contributions reflecting a deep commitment to advancing cybersecurity practices and fostering innovation within the industry. Theresa holds a Bachelor of Science in Computer Science from the University of Pittsburgh, Pittsburgh, PA.
+</blockquote>
+<a href="https://youtu.be/apnTcnuA92Q">YouTube</a>
+<br>
 
 <hr>
 
@@ -54,13 +87,13 @@ James Wickett
 </blockquote>
 <a href="https://youtu.be/LRuc44Fdf7c">YouTube</a>
 <br>
-[back to top](#welcome)
 
 <hr>
 
 ### OWASP Austin Chapter Meeting May 2025 ###
 
-**When:** Tuesday, May 29, 2025 @ 11:30 AM - 1:00 PM<br>
+**When:** Tuesday, May 29, 2025 @ 11:30 AM - 1:00 PM
+<br>
 <br>
 **Presentation: Why Your Security Metrics Suck, And How to Fix This**
 <blockquote>
