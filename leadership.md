@@ -35,7 +35,7 @@ The chapter leadership board is as follows:
       <td><a href="mailto:tiana.chandler@owasp.org">Tiana Chandler</a></td></tr>
     <tr><td>Speaker Coordinator</td>
       <td>Seeks and schedules speakers for monthly Chapter meetings, LASCON, and other events.</td>
-      <td><a href="mailto:katembrew@owasp.org">Kate Brew</a></td></tr>
+       <td>TBD</td></tr>
     <tr><td>Education Coordinator</td>
       <td>Coordinates all of the Chapter-sponsored educational offerings, to include the weekly Study Group and LASCON training.</td>
       <td>TBD</td></tr>
