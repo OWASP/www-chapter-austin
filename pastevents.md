@@ -26,12 +26,49 @@ altfooter: true
 ### 2025 ###
 <hr>
 
+### OWASP Austin Chapter Meeting August 2025 ###
+
+**When:** Tuesday, August 26, 2025 @ 11:30 AM - 1:00 PM
+
+**Presentation: Advanced Account Security with Identity Threat Detection & Response**
+
+Identity-related security challenges are more relevant than ever. As enterprises and consumers increasingly interact with a vast array of digital services, safeguarding accounts from compromise becomes a daunting task. Weak security measures not only expose businesses to financial loss and brand damage but also lead to unhappy customers. Identity Threat Detection and Response (ITDR) solutions offer a powerful way to reduce the risk of account fraud. In this insightful talk, we will explore typical account-related attacks illustrated with real-world examples. We will also discuss the critical non-functional requirements that make ITDR solutions truly effective.
+
+**Speaker:** 
+<br>
+Bertold Kolics
+<br><br>
+Bertold Kolics is a Software Testing Lead at Verosint (verosint.com), where he focuses on enhancing identity security through innovative solutions. His previous experience includes engineering identity provisioning and directory products at Sun Microsystems and UnboundID.
+<!-- <br>
+<a href="https://youtu.be/????">YouTube</a> -->
+<br>
+
+<hr>
+
+### Austin Security Professionals Happy Hour sponsored by **IriusRisk**, August 14, 2025 ###
+
+**When:** Thursday, August 14th, 5:30 pm - 7:30 pm
+
+**Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.
+
+**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
+
+**Sponsor:** IriusRisk
+<br>
+<a href="http://iriusrisk.com/" target="_blank"><img src="assets/images/IriusRisk_logo_sm.jpg" alt="IriusRisk" width="200" height="38"/></a>
+<br>
+<p><i>We make secure design the standard, scalable practice for all digital teams. IriusRisk makes secure design fast, reliable and accessible, even to non-security users, thanks to our automated and intelligent Threat Modeling Solution.</i></p>
+
+<br>
+
+<hr>
+
 ### OWASP Austin Chapter Meeting July 2025 ###
 
 **When:** Tuesday, July 29, 2025 @ 11:30 AM - 1:00 PM
-<br><br>
+
 **Presentation: Cyber Resilience and Business Impact: Findings from the 2025 LevelBlue Futures Report**
-<br><br>
+<br>
 <blockquote>
 Computing is advancing at blistering speeds. With so much change, there must be a balance of innovation and risk. The 2025 LevelBlue Futures Report: Cyber Resilience and Business Impact, finds that AI is a disrupting force. This research examines the pivotal changes advancing cybersecurity as a business priority and how cyber resilience increases the chance of business success.
 This presentation covers:
@@ -44,7 +81,6 @@ This presentation covers:
 <br>
 Attendees will leave with open-source resources, clear ROI talking points for leadership, and a practical roadmap to upgrade their AppSec program for the AI era—no VHS tape required.
 </blockquote>
-
 <br>
 
 **Speaker:** 
@@ -53,8 +89,11 @@ Attendees will leave with open-source resources, clear ROI talking points for le
 Theresa Lanowitz
 <br><br>
 Theresa Lanowitz is the Chief Cybersecurity Evangelist at LevelBlue, a strategic alliance between AT&T and WillJam Ventures, that simplifies cybersecurity for the businesses fueling our global economy. With a distinguished career in the technology industry, she has held influential roles at companies including Gartner, Borland, Taligent, and Sun Microsystems, significantly impacting application security and emerging technologies.
+
 Theresa is a globally respected leader known for her deep and diverse experience in cybersecurity. Theresa frequently speaks at major industry conferences, including RSA sharing her insights on high tech trends, AI integration, and the evolving threat landscape. She’s been published in Forbes, ISMG, InformationWeek, Dark Reading, and more, with her contributions reflecting a deep commitment to advancing cybersecurity practices and fostering innovation within the industry. Theresa holds a Bachelor of Science in Computer Science from the University of Pittsburgh, Pittsburgh, PA.
 </blockquote>
+
+<br>
 <a href="https://youtu.be/apnTcnuA92Q">YouTube</a>
 <br>
 
