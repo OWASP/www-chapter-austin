@@ -29,52 +29,45 @@ Welcome to the Austin chapter homepage.
 
 <hr>
 
-### Austin Security Professionals Happy Hour sponsored by **IriusRisk**, August 14, 2025 ###
+### Austin Security Professionals Happy Hour, September 11, 2025 - CANCELLED ###
 
-**When:** Thursday, August 14th, 5:30 pm - 7:30 pm
+**When:** Thursday, September 11th, 5:30 pm - 7:30 pm
 
-**Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.  We will have tables reserved inside the bar, to the right as you enter.  Parking: nearest parking in the Red Garage located off of Rock Rose Ave (<a href="https://domainnorthside.com/map/" target="_blank">map of Domain</a>). 
+**Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.
 
 **What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
 
-**Sponsor:** IriusRisk
-<br>
-<a href="http://iriusrisk.com/" target="_blank"><img src="assets/images/IriusRisk_logo_sm.jpg" alt="IriusRisk" width="200" height="38"/></a>
-<br>
-<p><i>We make secure design the standard, scalable practice for all digital teams. IriusRisk makes secure design fast, reliable and accessible, even to non-security users, thanks to our automated and intelligent Threat Modeling Solution.</i></p>
-<br>
-Please RSVP so we can plan for number of attendees:
-<a href="https://www.meetup.com/owasp-austin-chapter/events/309774138/" target="_blank"> Meetup </a>
+<blockquote>
+Unfortunately we were not able to obtain a sponsor for this month’s Austin Security Professionals Happy Hour. With that, the September happy hour that was scheduled for this Thursday at the Lavaca Street Bar has been cancelled.
+As a reminder, this was to be our last one for the year. We do not have our happy hour in October, November, or December. The next planned happy hour will be in January of next year. This of course is contingent upon obtaining a sponsor. If you know of any company who would like to sponsor, please direct them to the OWASP Austin Sponsorship page - https://owasp.org/www-chapter-austin/sponsorship.html. Thanks! 
+</blockquote>
 
 <br>
 
 [back to top](#welcome)
 <hr>
 
-### OWASP Austin Chapter Meeting August 2025 ###
+### OWASP Austin Chapter Meeting September 2025 ###
 
-**When:** Tuesday, August 26, 2025 @ 11:30 AM - 1:00 PM<br>
+**When:** Tuesday, September 30, 2025 @ 11:30 AM - 1:00 PM<br>
 Agenda:<br>
 11:30-11:55 -- Room Opens, food is available and in-room discussions<br>
 11:55-12:05 -- Chapter/OWASP info presentation<br>
-12:05-1  -- Speaker Presentation<br>
+12:05-1:00  -- Speaker Presentation<br>
 <br>
-**Presentation: Advanced Account Security with Identity Threat Detection & Response**
+**Presentation: Terraforming Your Way To Better Security**
 
-Identity-related security challenges are more relevant than ever. As enterprises and consumers increasingly interact with a vast array of digital services, safeguarding accounts from compromise becomes a daunting task. Weak security measures not only expose businesses to financial loss and brand damage but also lead to unhappy customers. Identity Threat Detection and Response (ITDR) solutions offer a powerful way to reduce the risk of account fraud. In this insightful talk, we will explore typical account-related attacks illustrated with real-world examples. We will also discuss the critical non-functional requirements that make ITDR solutions truly effective.
-<br><br>
+<blockquote>Terraforming isn’t just for cloud infrastructure. There are security considerations and providers that also are on Terraform. In this presentation, we will look and demo at how to Terraform our security pieces like Web Application Firewall and Zero Trust into our environments along with the cloud infrastructure keeping our OWASP environments safe(r).</blockquote>
 
 **Speaker:** 
-<br>
-Bertold Kolics
-<br><br>
-Bertold Kolics is a Software Testing Lead at Verosint (verosint.com), where he focuses on enhancing identity security through innovative solutions. His previous experience includes engineering identity provisioning and directory products at Sun Microsystems and UnboundID.
 
-RSVP:
-<br>
-In-person (and free lunch) at <a href="https://owasp-austin-2025-august.eventbrite.com" target="_blank">Eventbrite</a><br>
-Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/305489310/" target="_blank">Meetup</a><br>
-<br>
+Mark Spears
+<blockquote>Mark Spears has over 25 years of experience in Web Application development & security, Zero Trust, Compliance, Professional Services as a virtual CISO and Chief Zero Trust Security Officer, and more. Currently, he has been with Solis Security / CFC Response for 10 years and works on the frontlines of insurance claims vs Threat Actor tactics helping businesses get back to normal after a security event restoring a safe(er) edge security perimeter.</blockquote>
+
+**RSVP:**
+<br>In-person (and free lunch) at <a href="https://owasp-austin-2025-september.eventbrite.com" target="_blank">Eventbrite</a>
+<br>Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/305489315/" target="_blank">Meetup</a>
+<br><br>
 
 [back to top](#welcome)
 
