@@ -27,24 +27,7 @@ Welcome to the Austin chapter homepage.
 
 ### Upcoming Events ###
 
-<hr>
 
-### Austin Security Professionals Happy Hour, September 11, 2025 - CANCELLED ###
-
-**When:** Thursday, September 11th, 5:30 pm - 7:30 pm
-
-**Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.
-
-**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
-
-<blockquote>
-Unfortunately we were not able to obtain a sponsor for this month’s Austin Security Professionals Happy Hour. With that, the September happy hour that was scheduled for this Thursday at the Lavaca Street Bar has been cancelled.
-As a reminder, this was to be our last one for the year. We do not have our happy hour in October, November, or December. The next planned happy hour will be in January of next year. This of course is contingent upon obtaining a sponsor. If you know of any company who would like to sponsor, please direct them to the OWASP Austin Sponsorship page - https://owasp.org/www-chapter-austin/sponsorship.html. Thanks! 
-</blockquote>
-
-<br>
-
-[back to top](#welcome)
 <hr>
 
 ### OWASP Austin Chapter Meeting September 2025 ###
@@ -85,6 +68,7 @@ Save the Dates for LASCON 2025, which will be our 15th year anniversary. We will
 
 [back to top](#welcome)
 
+<hr>
 
 ### Austin Security Professionals Happy Hour - 2025 Dates Available ###
 
@@ -121,6 +105,25 @@ Online RSVP at <a href="MEETUP-LINK">Meetup</a>
 
 <hr>  -->
 
+<!-- Following commented out for future HH events 
+<hr>
+
+### Austin Security Professionals Happy Hour, TBD, 2026 ###
+
+**When:** Thursday, TBD, 5:30 pm - 7:30 pm
+
+**Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.
+
+**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
+
+<blockquote>
+Unfortunately we were not able to obtain a sponsor for this month’s Austin Security Professionals Happy Hour. With that, the September happy hour that was scheduled for this Thursday at the Lavaca Street Bar has been cancelled.
+As a reminder, this was to be our last one for the year. We do not have our happy hour in October, November, or December. The next planned happy hour will be in January of next year. This of course is contingent upon obtaining a sponsor. If you know of any company who would like to sponsor, please direct them to the OWASP Austin Sponsorship page - https://owasp.org/www-chapter-austin/sponsorship.html. Thanks! 
+</blockquote>
+
+<br>
+
+[back to top](#welcome)  -->
 
 Chapter Supporters
 ----------------
