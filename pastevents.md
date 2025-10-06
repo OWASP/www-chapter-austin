@@ -39,8 +39,8 @@ Identity-related security challenges are more relevant than ever. As enterprises
 Bertold Kolics
 <br><br>
 Bertold Kolics is a Software Testing Lead at Verosint (verosint.com), where he focuses on enhancing identity security through innovative solutions. His previous experience includes engineering identity provisioning and directory products at Sun Microsystems and UnboundID.
-<!-- <br>
-<a href="https://youtu.be/????">YouTube</a> -->
+<br>
+<a href="https://youtu.be/3ObjU_nBW9s">YouTube</a>
 <br>
 
 <hr>
