@@ -26,20 +26,41 @@ altfooter: true
 ### 2025 ###
 <hr>
 
+### OWASP Austin Chapter Meeting September 2025 ###
+
+**When:** Tuesday, September 30, 2025 @ 11:30 AM - 1:00 PM<br>
+<br>
+**Presentation: Terraforming Your Way To Better Security**
+
+<blockquote>Terraforming isn’t just for cloud infrastructure. There are security considerations and providers that also are on Terraform. In this presentation, we will look and demo at how to Terraform our security pieces like Web Application Firewall and Zero Trust into our environments along with the cloud infrastructure keeping our OWASP environments safe(r).</blockquote>
+
+**Speaker:** 
+
+Mark Spears
+<blockquote>Mark Spears has over 25 years of experience in Web Application development & security, Zero Trust, Compliance, Professional Services as a virtual CISO and Chief Zero Trust Security Officer, and more. Currently, he has been with Solis Security / CFC Response for 10 years and works on the frontlines of insurance claims vs Threat Actor tactics helping businesses get back to normal after a security event restoring a safe(er) edge security perimeter.</blockquote>
+
+<br>
+<a href="https://youtu.be/3ObjU_nBW9s">YouTube</a>
+<br>
+
+<hr>
+
 ### OWASP Austin Chapter Meeting August 2025 ###
 
 **When:** Tuesday, August 26, 2025 @ 11:30 AM - 1:00 PM
 
 **Presentation: Advanced Account Security with Identity Threat Detection & Response**
-
+<blockquote>
 Identity-related security challenges are more relevant than ever. As enterprises and consumers increasingly interact with a vast array of digital services, safeguarding accounts from compromise becomes a daunting task. Weak security measures not only expose businesses to financial loss and brand damage but also lead to unhappy customers. Identity Threat Detection and Response (ITDR) solutions offer a powerful way to reduce the risk of account fraud. In this insightful talk, we will explore typical account-related attacks illustrated with real-world examples. We will also discuss the critical non-functional requirements that make ITDR solutions truly effective.
-
+</blockquote>
 **Speaker:** 
 <br>
 Bertold Kolics
 <br><br>
-Bertold Kolics is a Software Testing Lead at Verosint (verosint.com), where he focuses on enhancing identity security through innovative solutions. His previous experience includes engineering identity provisioning and directory products at Sun Microsystems and UnboundID.
-<br>
+<blockquote>
+	Bertold Kolics is a Software Testing Lead at Verosint (verosint.com), where he focuses on enhancing identity security through innovative solutions. His previous experience includes engineering identity provisioning and directory products at Sun Microsystems and UnboundID.
+</blockquote>
+	<br>
 <a href="https://youtu.be/3ObjU_nBW9s">YouTube</a>
 <br>
 
