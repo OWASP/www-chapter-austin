@@ -27,33 +27,6 @@ Welcome to the Austin chapter homepage.
 
 ### Upcoming Events ###
 
-
-<hr>
-
-### OWASP Austin Chapter Meeting September 2025 ###
-
-**When:** Tuesday, September 30, 2025 @ 11:30 AM - 1:00 PM<br>
-Agenda:<br>
-11:30-11:55 -- Room Opens, food is available and in-room discussions<br>
-11:55-12:05 -- Chapter/OWASP info presentation<br>
-12:05-1:00  -- Speaker Presentation<br>
-<br>
-**Presentation: Terraforming Your Way To Better Security**
-
-<blockquote>Terraforming isn’t just for cloud infrastructure. There are security considerations and providers that also are on Terraform. In this presentation, we will look and demo at how to Terraform our security pieces like Web Application Firewall and Zero Trust into our environments along with the cloud infrastructure keeping our OWASP environments safe(r).</blockquote>
-
-**Speaker:** 
-
-Mark Spears
-<blockquote>Mark Spears has over 25 years of experience in Web Application development & security, Zero Trust, Compliance, Professional Services as a virtual CISO and Chief Zero Trust Security Officer, and more. Currently, he has been with Solis Security / CFC Response for 10 years and works on the frontlines of insurance claims vs Threat Actor tactics helping businesses get back to normal after a security event restoring a safe(er) edge security perimeter.</blockquote>
-
-**RSVP:**
-<br>In-person (and free lunch) at <a href="https://owasp-austin-2025-september.eventbrite.com" target="_blank">Eventbrite</a>
-<br>Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/305489315/" target="_blank">Meetup</a>
-<br><br>
-
-[back to top](#welcome)
-
 <hr>
 
 ### LASCON 2025 ###
