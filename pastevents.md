@@ -19,11 +19,25 @@ altfooter: true
 
 ## Past Events ##
 
-[2025](#2025)  [2024](#2024)  [2023](#2023) [2022](#2022) [2021](#2021) [2020](#2020)  
-<br/>(see Past Events Archive for earlier events)
+[2026](#2026)  [2025](#2025)  [2024](#2024)  [2023](#2023) [2022](#2022) [2021](#2021) [2020](#2020)  
+<br/> <em>(see Past Events Archive for earlier events)</em>
+
+---------------
+### 2026 ###
+<hr>
+
+[Back to Top](#past-events)
+
+<!--- ADD PAST EVENT FOR 2026 ABOVE --->
 
 ---------------
 ### 2025 ###
+<hr>
+
+### LASCON 2025 ###
+
+LASCON 2025 was our 15th year anniversary, held at Norris Conference Center with Pre-Conference Training October 21-22, 2025 and Conference October 23-24, 2025. Visit <a href="https://lascon.org/past-lascon-2025/" target="_blank">lascon.org</a> to see details about the event.
+
 <hr>
 
 ### OWASP Austin Chapter Meeting September 2025 ###
