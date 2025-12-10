@@ -29,21 +29,48 @@ Welcome to the Austin chapter homepage.
 
 <hr>
 
-### LASCON 2025 ###
+### OWASP Austin Chapter Meeting January 2026 - SAVE THE DATE ###
+**When:** Tuesday, January 27, 2026 @ 11:30 AM - 1:00 PM<br>
+Agenda:<br>
+TBD
 
-Save the Dates for LASCON 2025, which will be our 15th year anniversary. We will be back at Norris Conference Center with Pre-Conference Training October 21-22, 2025 and Conference October 23-24, 2025. Visit <a href="https://lascon.org/" target="_blank">lascon.org</a>.
+<!-- 11:30-11:55 -- Room Opens, food is available and in-room discussions<br>
+11:55-12:05 -- Chapter/OWASP info presentation<br>
+12:05-1  -- Speaker Presentation<br>
+<br>
+**Presentation: PRESENTATION-NAME**
+
+The Secure Development Lifecycle (SDL) is a powerful construct that can advance security for both organizations with established security practices by shifting left, and immature organizations seeking a framework to implement security best practices in agile development. NI has been on a journey over the last several years to improve the security of its products driven by customer requirements, their expectations, and increasingly, regulations that require software to be developed with secure methodologies. Security is as much about a mindset and development culture as it is about tools, vulnerabilities, and security technologies. Learn how NI’s adoption of the Secure Development Lifecycle has created a framework for addressing various security challenges in web applications, microservices, and infrastructure.
+
+**Speaker: SPEAKER-NAME** 
+<br>
+SPEAKER-BIO.
+
+RSVP:<br>
+In-person (and free lunch) at <a href="EVENTBRITE-LINK">Eventbrite</a>
+ <br>
+Online RSVP at <a href="MEETUP-LINK">Meetup</a> -->
+<br> 
+
+[back to top](#welcome)
+
+<hr>
+
+### LASCON 2026 ###
+
+Save the Dates for LASCON 2026. We will be back at Norris Conference Center with Pre-Conference Training October 27-28, 2026 and Conference October 29-30, 2026. Visit <a href="https://lascon.org/" target="_blank">lascon.org</a>.
 
 <ul>
- <li>Discounted Conference tickets are still available. We sold out last year, so <a href="https://lascon.org/tickets/" target="_blank">get yours today!</a></li>
- <li>Tickets for Training Sessions are available.  <a href="https://lascon2025-training.eventbrite.com">Get your tickets!</a></li>
- <li>Interested in sponsoring LASCON 2025? <a href="https://lascon.org/become-a-sponsor/" target="_blank">Become a Sponsor today!</a></li>
+ <li>Get your Early Bird discounted conference tickets now. <a href="https://lascon.org/tickets/" target="_blank">Get yours today!</a></li>
+ <li>Tickets for Training Sessions are not yet available. <!-- <a href="https://lascon2026-training.eventbrite.com">Get your tickets!</a></li> -->
+ <li>Interested in sponsoring LASCON 2026? <a href="https://lascon.org/become-a-sponsor/" target="_blank">Become a Sponsor today!</a></li>
 </ul>
 
 [back to top](#welcome)
 
 <hr>
 
-### Austin Security Professionals Happy Hour - 2025 Dates Available ###
+### Austin Security Professionals Happy Hour - 2026 Dates Available ###
 
 > **Interested in Sponsoring? We are currently seeking happy hour sponsors for our monthly event. Please contact <a href="mailto:tiana.chandler@owasp.org?subject=OWASP Happy Hour Sponsor">Tiana Chandler</a> if you are interested. See our <a href="https://owasp.org/www-chapter-austin/sponsorship.html">Sponsorship</a> page for information on sponsoring.**
 
