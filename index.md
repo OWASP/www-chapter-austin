@@ -62,7 +62,7 @@ Save the Dates for LASCON 2026. We will be back at Norris Conference Center with
 
 <ul>
  <li>Get your Early Bird discounted conference tickets now. <a href="https://lascon.org/tickets/" target="_blank">Get yours today!</a></li>
- <li>Tickets for Training Sessions are not yet available. <!-- <a href="https://lascon2026-training.eventbrite.com">Get your tickets!</a></li> -->
+ <li>Tickets for Pre-Conference Training are not yet available. <a href="https://lascon.org/pre-conf-training/" target="_blank">More information.</a></li>
  <li>Interested in sponsoring LASCON 2026? <a href="https://lascon.org/become-a-sponsor/" target="_blank">Become a Sponsor today!</a></li>
 </ul>
 
