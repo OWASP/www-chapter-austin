@@ -32,24 +32,26 @@ Welcome to the Austin chapter homepage.
 ### OWASP Austin Chapter Meeting January 2026 - SAVE THE DATE ###
 **When:** Tuesday, January 27, 2026 @ 11:30 AM - 1:00 PM<br>
 Agenda:<br>
-TBD
-
-<!-- 11:30-11:55 -- Room Opens, food is available and in-room discussions<br>
+11:30-11:55 -- Room Opens, food is available and in-room discussions<br>
 11:55-12:05 -- Chapter/OWASP info presentation<br>
-12:05-1  -- Speaker Presentation<br>
+12:05-1  -- Speakers Presentation<br>
 <br>
-**Presentation: PRESENTATION-NAME**
+**Presentation: CryptoParty**
 
-The Secure Development Lifecycle (SDL) is a powerful construct that can advance security for both organizations with established security practices by shifting left, and immature organizations seeking a framework to implement security best practices in agile development. NI has been on a journey over the last several years to improve the security of its products driven by customer requirements, their expectations, and increasingly, regulations that require software to be developed with secure methodologies. Security is as much about a mindset and development culture as it is about tools, vulnerabilities, and security technologies. Learn how NI’s adoption of the Secure Development Lifecycle has created a framework for addressing various security challenges in web applications, microservices, and infrastructure.
+A mixture of 10 minute lightning talks. Current line-up:
+* Josh Sokol
+* Shwetha Babu Prasad: Why Websites Leak Sensitive Data — and How Exposure Can Be Technically Reduced
+* Karen Lu: Keepass
+* Buchi Reddy Busi Reddy: TBD
 
-**Speaker: SPEAKER-NAME** 
+**Speaker: Josh Sokol** 
 <br>
-SPEAKER-BIO.
+Josh Sokol, CISSP, graduated from the University of Texas at Austin with a BS in Computer Science in 2002. Since that time, he has worked for several large companies, including AMD and BearingPoint, spent some time as a military contractor, Information Security Program Owner at National Instruments, and now runs SimpleRisk. In his current role, Sokol manages all aspects of the application, infrastructure, architecture, and business roles for SimpleRisk. Prior to and during all of his roles, Josh has been a key community member for Austin OWASP as well as serving a four year term on the OWASP Global Board of Directors.
 
-RSVP:<br>
-In-person (and free lunch) at <a href="EVENTBRITE-LINK">Eventbrite</a>
+**RSVP:**<br>
+In-person (and free lunch) at <a href="https://owasp-austin-2026-january.eventbrite.com">Eventbrite</a>
  <br>
-Online RSVP at <a href="MEETUP-LINK">Meetup</a> -->
+Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/312693480">Meetup</a>
 <br> 
 
 [back to top](#welcome)
