@@ -54,7 +54,7 @@ Mark Spears
 <blockquote>Mark Spears has over 25 years of experience in Web Application development & security, Zero Trust, Compliance, Professional Services as a virtual CISO and Chief Zero Trust Security Officer, and more. Currently, he has been with Solis Security / CFC Response for 10 years and works on the frontlines of insurance claims vs Threat Actor tactics helping businesses get back to normal after a security event restoring a safe(er) edge security perimeter.</blockquote>
 
 <br>
-<a href="https://youtu.be/3ObjU_nBW9s">YouTube</a>
+<a href="https://youtu.be/RuO8HJibbBc?si=itq3oOYhiq9rAPoY">YouTube</a>
 <br>
 
 <hr>
@@ -75,7 +75,7 @@ Bertold Kolics
 <br><br>
 <blockquote>Bertold Kolics is a Software Testing Lead at Verosint (verosint.com), where he focuses on enhancing identity security through innovative solutions. His previous experience includes engineering identity provisioning and directory products at Sun Microsystems and UnboundID.</blockquote>
 <br>
-<a href="https://youtu.be/3ObjU_nBW9s">YouTube</a>
+<a href="https://youtu.be/3ObjU_nBW9s?si=sh4xiDjMy9NAz36c">YouTube</a>
 <br>
 
 <hr>
