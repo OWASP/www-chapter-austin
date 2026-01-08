@@ -141,7 +141,7 @@ Meeting Supporters
 The following are the list of organizations who have generously provided meeting space for the Austin chapter:
 
 <div>
-<a href="https://www.ni.com" target="_blank"><img src="assets/images/ni.png" alt="NI"  width="200" height="131"/></a>
+<a href="https://www.ni.com" target="_blank"><img src="assets/images/Emerson_logo.png" alt="Emerson"  width="200" height="131"/></a>
 </div>
 <br/><br/>
 
