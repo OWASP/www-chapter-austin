@@ -30,7 +30,7 @@ Interested in Sponsoring? We are currently seeking happy hour sponsors for our m
 
 Following are the event dates for 2026. We are seeking sponsors for those noted as Available.
   <pre>
-  January ...... 1/8/2026  ..... AVAILABLE
+  January ...... 1/8/2026  ..... CANCELLED
   February ..... 2/12/2026 ..... HAVE SPONSOR
   March  ....... 3/12/2026 ..... AVAILABLE 
   April ........ 4/9/2026  ..... AVAILABLE 
