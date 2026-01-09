@@ -56,6 +56,27 @@ Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/31269
 
 [back to top](#welcome)
 
+
+<hr>
+
+### Austin Security Professionals Happy Hour, February 12, 2026, Sponsored by Centre Technologies ###
+
+**When:** Thursday, February 12th, 5:30 pm - 7:30 pm
+
+**Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.
+
+**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
+
+**Sponsor:** <a href="https://centretechnologies.com/" target="_blank">Centre Technologies</a>
+<br/><br/><img src="assets/images/CentreTechnologies_logo_HH-sm.png" alt="Centre Technologies logo" width="200" height="90"/>
+<p><em>As a local IT services company, Centre Technologies unites Texas and Oklahoma hospitality with award winning expertise. Businesses trust Centre to eliminate IT headaches by being a champion for their vision and goals. We are a Managed, Cloud, and Cybersecurity Services provider known for delivering enterprise experience and personalized service with a local touch. Committed to customer satisfaction, we make sure that whatever the task, we do it right.</em></p>
+Please RSVP so we can plan for number of attendees: 
+<a href="https://www.meetup.com/owasp-austin-chapter/events/308791117/" target="_blank">Meetup</a>
+<br>
+<br>
+
+[back to top](#welcome)
+
 <hr>
 
 ### LASCON 2026 ###
