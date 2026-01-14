@@ -71,7 +71,7 @@ Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/31269
 <br/><br/><img src="assets/images/CentreTechnologies_logo_HH-sm.png" alt="Centre Technologies logo" width="200" height="90"/>
 <p><em>As a local IT services company, Centre Technologies unites Texas and Oklahoma hospitality with award winning expertise. Businesses trust Centre to eliminate IT headaches by being a champion for their vision and goals. We are a Managed, Cloud, and Cybersecurity Services provider known for delivering enterprise experience and personalized service with a local touch. Committed to customer satisfaction, we make sure that whatever the task, we do it right.</em></p>
 Please RSVP so we can plan for number of attendees: 
-<a href="https://www.meetup.com/owasp-austin-chapter/events/308791117/" target="_blank">Meetup</a>
+<a href="https://www.eventbrite.com/e/1980565691298" target="_blank">Eventbrite</a>
 <br>
 <br>
 
