@@ -26,7 +26,23 @@ altfooter: true
 ### 2026 ###
 <hr>
 
-[Back to Top](#past-events)
+
+### OWASP Austin Chapter Meeting January 2026 - SAVE THE DATE ###
+**When:** Tuesday, January 27, 2026 @ 11:30 AM - 1:00 PM<br>
+<br>
+**Presentation: CryptoParty**
+
+A mixture of 10 minute lightning talks. Current line-up:
+* Josh Sokol
+* Shwetha Babu Prasad: Why Websites Leak Sensitive Data — and How Exposure Can Be Technically Reduced
+* Karen Lu: Keepass
+
+**Speaker: Josh Sokol** 
+<br>
+Josh Sokol, CISSP, graduated from the University of Texas at Austin with a BS in Computer Science in 2002. Since that time, he has worked for several large companies, including AMD and BearingPoint, spent some time as a military contractor, Information Security Program Owner at National Instruments, and now runs SimpleRisk. In his current role, Sokol manages all aspects of the application, infrastructure, architecture, and business roles for SimpleRisk. Prior to and during all of his roles, Josh has been a key community member for Austin OWASP as well as serving a four year term on the OWASP Global Board of Directors.
+
+<a href="https://youtu.be/tkloNJxAWUY">YouTube</a>
+<br> 
 
 <!--- ADD PAST EVENT FOR 2026 ABOVE --->
 
