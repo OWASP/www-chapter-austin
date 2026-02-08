@@ -29,36 +29,6 @@ Welcome to the Austin chapter homepage.
 
 <hr>
 
-### OWASP Austin Chapter Meeting January 2026 - SAVE THE DATE ###
-**When:** Tuesday, January 27, 2026 @ 11:30 AM - 1:00 PM<br>
-Agenda:<br>
-11:30-11:55 -- Room Opens, food is available and in-room discussions<br>
-11:55-12:05 -- Chapter/OWASP info presentation<br>
-12:05-1  -- Speakers Presentation<br>
-<br>
-**Presentation: CryptoParty**
-
-A mixture of 10 minute lightning talks. Current line-up:
-* Josh Sokol
-* Shwetha Babu Prasad: Why Websites Leak Sensitive Data — and How Exposure Can Be Technically Reduced
-* Karen Lu: Keepass
-* Buchi Reddy Busi Reddy: TBD
-
-**Speaker: Josh Sokol** 
-<br>
-Josh Sokol, CISSP, graduated from the University of Texas at Austin with a BS in Computer Science in 2002. Since that time, he has worked for several large companies, including AMD and BearingPoint, spent some time as a military contractor, Information Security Program Owner at National Instruments, and now runs SimpleRisk. In his current role, Sokol manages all aspects of the application, infrastructure, architecture, and business roles for SimpleRisk. Prior to and during all of his roles, Josh has been a key community member for Austin OWASP as well as serving a four year term on the OWASP Global Board of Directors.
-
-**RSVP:**<br>
-In-person (and free lunch) at <a href="https://owasp-austin-2026-january.eventbrite.com">Eventbrite</a>
- <br>
-Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/312693480">Meetup</a>
-<br> 
-
-[back to top](#welcome)
-
-
-<hr>
-
 ### Austin Security Professionals Happy Hour, February 12, 2026, Sponsored by Centre Technologies ###
 
 **When:** Thursday, February 12th, 5:30 pm - 7:30 pm
@@ -76,6 +46,35 @@ Please RSVP so we can plan for number of attendees:
 <br>
 
 [back to top](#welcome)
+
+<hr>
+
+### OWASP Austin Chapter Meeting February 2026 ###
+**When:** Tuesday, February 24, 2026 @ 11:30 AM - 1:00 PM<br>
+Agenda:<br>
+11:30-11:55 -- Room Opens, food is available and in-room discussions<br>
+11:55-12:05 -- Chapter/OWASP info presentation<br>
+12:05-1  -- Speakers Presentation<br>
+<br>
+**Presentation: Automating Protocol Security Testing: Building a Scalable Testing Framework**
+<br>
+Manual security testing creates bottlenecks in modern software delivery. This talk presents a practical case study of building an automated security testing framework that significantly reduced validation time while dramatically expanding test coverage.
+
+Drawing from experience validating TLS/SSL security across thousands of protocol scenarios, this session covers the complete automation journey: architectural decisions, implementation challenges, unexpected failures, and lessons learned from production deployment
+<br>
+
+**Speaker: Gurdeep Gill** 
+<br>
+Gurdeep Gill is a Software Engineering Technical Leader at Cisco Systems, specializing in cybersecurity, automation, and network infrastructure. She leads high-performing engineering teams and drives quality initiatives, with expertise in SSL/TLS protocols, PKI, QUIC, Post Quantum Cryptography (PQC), and advanced automation frameworks using Python and cloud technologies. Gurdeep holds a Master’s in Computer Engineering and is actively involved with Women in Cyber Security (WiCyS) and Women of Impact (WIT). She is passionate about mentorship and inclusive leadership. Gurdeep is dedicated to translating complex cybersecurity challenges into practical, scalable solutions that empower businesses and protect global digital ecosystems.
+
+**RSVP:**<br>
+In-person (and free lunch) at <a href="https://owasp-austin-2026-february.eventbrite.com">Eventbrite</a>
+ <br>
+Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/312693500">Meetup</a>
+<br> 
+
+[back to top](#welcome)
+
 
 <hr>
 
