@@ -60,11 +60,13 @@ Josh Sokol, CISSP, graduated from the University of Texas at Austin with a BS in
 
 <!--- ADD PAST EVENT FOR 2026 ABOVE --->
 
+<hr>
+
 [Back to Top](#past-events)
 
 ---------------
 ### 2025 ###
-<hr>
+
 
 ### LASCON 2025 ###
 
