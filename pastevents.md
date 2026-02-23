@@ -41,7 +41,7 @@ altfooter: true
 
 <hr>
 
-### OWASP Austin Chapter Meeting January 2026 - SAVE THE DATE ###
+### OWASP Austin Chapter Meeting January 2026 ###
 **When:** Tuesday, January 27, 2026 @ 11:30 AM - 1:00 PM<br>
 <br>
 **Presentation: CryptoParty**
