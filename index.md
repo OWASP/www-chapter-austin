@@ -30,24 +30,24 @@ Welcome to the Austin chapter homepage.
 <hr>
 
 ### OWASP Austin Chapter Meeting March 2026 ###
-**When:** Tuesday, March 31, 2026 @ 11:30 AM - 1:00 PM<br>
+**When:** Tuesday, April 28, 2026 @ 11:30 AM - 1:00 PM<br>
 Agenda:<br>
 11:30-11:55 -- Room Opens, food is available and in-room discussions<br>
 11:55-12:05 -- Chapter/OWASP info presentation<br>
 12:05-1  -- Speakers Presentation<br>
 <br>
-**Presentation: Zero Trust in DevOps**
+**Presentation: Making SBOM Real: Lessons from Scaling Software Transparency Across Product, Compliance, and Customer Trust**
 <br>
-Applying zero trust principles and tactics to your critical DevOps process to ensure integrity and safe guard your deployment and development environments. In this session we examine the common protect surfaces in modern software development ecosystem and how remove implicit trust those pose risks to product and operations
+SBOMs are often discussed as a compliance requirement or a technical artifact, but making them useful at scale is much more complex. In this session, Aditi Sharma shares lessons from leading cross-functional efforts to operationalize software transparency across product security, compliance, and customer-facing trust initiatives. The talk will explore common challenges in dependency visibility, stakeholder alignment, customer expectations, and program execution, along with practical approaches for building scalable processes that support both internal teams and external trust needs.
 <br>
 
-**Speaker: Evan Borysko** 
+**Speaker: Aditi Sharma** 
 <br>
-Evan Borysko is a cybersecurity and software engineering leader with over 20 years of experience building and scaling security, privacy, and DevSecOps programs across startups and global SaaS enterprises including Amazon, Oracle NetSuite, Workrise, and Validere. He specializes in applying Zero Trust and secure-by-design practices to cloud-native platforms and CI/CD pipelines, integrating security automation, identity governance, and continuous compliance into modern DevOps workflows. Evan has been a speaker at IBM industry conferences, a contributor to IBM Redbooks, and a technical reviewer of the AWS Architect study guide. Evan holds a Bachelor of Science in Information Studies from the Florida State University and holds CISM, CISSP, CSSLP, and CCSP. As the founder of Greenbelt Advisors, Evan now advises startups, nonprofits, and scaling SaaS companies on Zero Trust strategy, DevSecOps, and security architecture, helping leaders protect and build in security without slowing innovation.
+Aditi Sharma is a strategic technical program leader with over 18 years of experience building and leading complex technology programs across security, enterprise platforms, telecom, and automotive. At Dell Technologies, she leads initiatives in product security, global compliance, customer enablement, and software transparency, turning complex requirements into scalable outcomes. She also contributes to broader industry efforts through CISA, OpenSSF, and SAFECode, and is an active speaker, sharing insights at BSides Austin, Linux Foundation events, VEX Summit, and FIRST on software supply chain security and trust. Aditi holds a degree in Electrical and Electronics Engineering and certifications in data analytics , Scrum Product Ownership and Security Leadership.
 <br>
 
 **RSVP:**<br>
-In-person (and free lunch) at <a href="https://owasp-austin-2026-march.eventbrite.com">Eventbrite</a>
+In-person (and free lunch) at <a href="https://owasp-austin-2026-april.eventbrite.com">Eventbrite</a>
  <br>
 Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/312693503">Meetup</a>
 <br> 
