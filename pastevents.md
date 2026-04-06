@@ -27,6 +27,22 @@ altfooter: true
 
 <hr>
 
+### OWASP Austin Chapter Meeting February 2026 ###
+**When:** Tuesday, March 31, 2026 @ 11:30 AM - 1:00 PM<br>
+<br>
+**Presentation: Zero Trust in DevOps**
+<br>
+<blockquote>Applying zero trust principles and tactics to your critical DevOps process to ensure integrity and safe guard your deployment and development environments. In this session we examine the common protect surfaces in modern software development ecosystem and how remove implicit trust those pose risks to product and operations</blockquote>
+<br>
+
+**Speaker: Evan Borysko** 
+<br>
+<blockquote>Evan Borysko is a cybersecurity and software engineering leader with over 20 years of experience building and scaling security, privacy, and DevSecOps programs across startups and global SaaS enterprises including Amazon, Oracle NetSuite, Workrise, and Validere. He specializes in applying Zero Trust and secure-by-design practices to cloud-native platforms and CI/CD pipelines, integrating security automation, identity governance, and continuous compliance into modern DevOps workflows. Evan has been a speaker at IBM industry conferences, a contributor to IBM Redbooks, and a technical reviewer of the AWS Architect study guide. Evan holds a Bachelor of Science in Information Studies from the Florida State University and holds CISM, CISSP, CSSLP, and CCSP. As the founder of Greenbelt Advisors, Evan now advises startups, nonprofits, and scaling SaaS companies on Zero Trust strategy, DevSecOps, and security architecture, helping leaders protect and build in security without slowing innovation.</blockquote>
+<br>
+<a href="https://youtu.be/vX1j_Ch5V84">YouTube</a>
+
+<hr>
+
 ### Austin Security Professionals Happy Hour, March 12, 2026, Sponsored by Snyk ###
 
 **When:** Thursday, March 12th, 5:30 pm - 7:30 pm
