@@ -29,7 +29,7 @@ Welcome to the Austin chapter homepage.
 
 <hr>
 
-### OWASP Austin Chapter Meeting March 2026 ###
+### OWASP Austin Chapter Meeting April 2026 ###
 **When:** Tuesday, April 28, 2026 @ 11:30 AM - 1:00 PM<br>
 Agenda:<br>
 11:30-11:55 -- Room Opens, food is available and in-room discussions<br>
@@ -54,6 +54,26 @@ Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/31269
 
 [back to top](#welcome)
 
+### Austin Security Professionals Happy Hour sponsored by ThreatModeler, May 14, 2026 ###
+
+**When:** Thursday, May 14th, 5:30 pm - 7:30 pm
+
+**Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.
+
+**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
+
+**Sponsor:** ThreatModeler
+<br>
+<a href="https://threatmodeler.com" target="_blank"><img src="assets/images/Threatmodeler-IR-logo-HH-sm.jpg" alt="ThreatModeler" /></a>
+<br>
+<p><i>ABOUT THREATMODELER<br>
+ThreatModeler is the innovation leader in intelligent and automated threat modeling, helping enterprises build secure applications, devices, and cloud infrastructure by design. Anchored by a single platform intelligence layer, ThreatModeler delivers guided security insights, applies intelligent automation, enables continuous risk awareness, and provides 360-degree visibility across the entire threat landscape. The result is faster development cycles and reduced risk exposure.</i></p>
+<br>
+Please RSVP so we can plan for number of attendees: 
+<a href="https://www.eventbrite.com/e/may-2026-owasp-happy-hour-sponsored-by-threatmodeler-tickets-1987617791319" target="_blank"> Eventbrite </a>
+<br>
+
+[back to top](#welcome) 
 
 <hr>
 
@@ -62,8 +82,10 @@ Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/31269
 Save the Dates for LASCON 2026. We will be back at Norris Conference Center with Pre-Conference Training October 27-28, 2026 and Conference October 29-30, 2026. Visit <a href="https://lascon.org/" target="_blank">lascon.org</a>.
 
 <ul>
- <li>Get your Early Bird discounted conference tickets now. <a href="https://lascon.org/tickets/" target="_blank">Get yours today!</a></li>
+ <li>Get your Spring Special discounted conference tickets now. <a href="https://lascon.org/tickets/" target="_blank">Get yours today!</a></li>
  <li>Tickets for Pre-Conference Training are not yet available. <a href="https://lascon.org/pre-conf-training/" target="_blank">More information.</a></li>
+ <li>The Call for Presentations (CFP) is now open. <a href="https://lascon.org/cfp/" target="_blank">More information.</a></li>
+ <li>The Call for Training (CFT) is now open. <a href="https://lascon.org/cft/" target="_blank">More information.</a></li>
  <li>Interested in sponsoring LASCON 2026? <a href="https://lascon.org/become-a-sponsor/" target="_blank">Become a Sponsor today!</a></li>
 </ul>
 
