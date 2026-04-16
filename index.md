@@ -54,7 +54,7 @@ Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/31269
 
 [back to top](#welcome)
 
-<br><br>
+<hr>
 
 ### Austin Security Professionals Happy Hour sponsored by ThreatModeler, May 14, 2026 ###
 
