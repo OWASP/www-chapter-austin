@@ -49,7 +49,7 @@ Aditi Sharma is a strategic technical program leader with over 18 years of exper
 **RSVP:**<br>
 In-person (and free lunch) at <a href="https://owasp-austin-2026-april.eventbrite.com">Eventbrite</a>
  <br>
-Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/312693503">Meetup</a>
+Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/312693506/">Meetup</a>
 <br> 
 
 [back to top](#welcome)
