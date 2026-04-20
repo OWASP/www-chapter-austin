@@ -1,0 +1,35 @@
+community:
+  - name: chapter-austin
+    platform: slack
+    url: https://owasp.slack.com/archives/C04U4TY1Z
+leaders:
+  - name: Kyle Smith
+    email: kyle.smith@owasp.org
+    github: thekyles
+  - name: Tiana Chandler
+    email: tiana.chandler@owasp.org
+    github: tiana-chandler
+  - name: Ryan Murphy
+    email: ryan.murphy@owasp.org
+  - name: Josh Sokol
+    email: josh.sokol@owasp.org
+    github: jsokol
+location:
+  country: USA
+  country_code: US
+  region: Texas
+  city: Austin
+  postal_code: '78759'
+  latitude: 30.2711286
+  longitude: -97.7436995
+meetup_group: OWASP-Austin-Chapter
+name: OWASP Austin
+repositories:
+  - name: www-chapter-austin
+    url: https://github.com/OWASP/www-chapter-austin
+    description: OWASP Foundation Web Repository
+tags:
+  - austin
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-austin
