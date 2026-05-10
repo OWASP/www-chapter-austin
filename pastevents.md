@@ -25,6 +25,17 @@ altfooter: true
 ---------------
 ### 2026 ###
 
+### OWASP Austin Chapter Meeting April 2026 ###
+**When:** Tuesday, April 28, 2026 @ 11:30 AM - 1:00 PM<br>
+<br>
+**Presentation: Making SBOM Real: Lessons from Scaling Software Transparency Across Product, Compliance, and Customer Trust**
+<blockquote>SBOMs are often discussed as a compliance requirement or a technical artifact, but making them useful at scale is much more complex. In this session, Aditi Sharma shares lessons from leading cross-functional efforts to operationalize software transparency across product security, compliance, and customer-facing trust initiatives. The talk will explore common challenges in dependency visibility, stakeholder alignment, customer expectations, and program execution, along with practical approaches for building scalable processes that support both internal teams and external trust needs.</blockquote>
+
+**Speaker: Aditi Sharma** 
+<blockquote>Aditi Sharma is a strategic technical program leader with over 18 years of experience building and leading complex technology programs across security, enterprise platforms, telecom, and automotive. At Dell Technologies, she leads initiatives in product security, global compliance, customer enablement, and software transparency, turning complex requirements into scalable outcomes. She also contributes to broader industry efforts through CISA, OpenSSF, and SAFECode, and is an active speaker, sharing insights at BSides Austin, Linux Foundation events, VEX Summit, and FIRST on software supply chain security and trust. Aditi holds a degree in Electrical and Electronics Engineering and certifications in data analytics , Scrum Product Ownership and Security Leadership.</blockquote>
+<br>
+<!-- <a href="https://youtu.be/vX1j_Ch5V84">--> YouTube</a>
+<br>
 <hr>
 
 ### OWASP Austin Chapter Meeting February 2026 ###
