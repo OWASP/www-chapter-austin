@@ -25,6 +25,23 @@ altfooter: true
 ---------------
 ### 2026 ###
 
+### Austin Security Professionals Happy Hour sponsored by ThreatModeler, May 14, 2026 ###
+
+**When:** Thursday, May 14th, 5:30 pm - 7:30 pm
+
+**Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.
+
+**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
+
+**Sponsor:** <a href="https://threatmodeler.com" target="_blank">ThreatModeler</a>
+<br>
+<a href="https://threatmodeler.com" target="_blank"><img src="assets/images/Threatmodeler-IR-logo-HH-sm.jpg" alt="ThreatModeler" /></a>
+<br>
+<p><i>ABOUT THREATMODELER<br>
+ThreatModeler is the innovation leader in intelligent and automated threat modeling, helping enterprises build secure applications, devices, and cloud infrastructure by design. Anchored by a single platform intelligence layer, ThreatModeler delivers guided security insights, applies intelligent automation, enables continuous risk awareness, and provides 360-degree visibility across the entire threat landscape. The result is faster development cycles and reduced risk exposure.</i></p>
+<hr>
+
+
 ### OWASP Austin Chapter Meeting April 2026 ###
 **When:** Tuesday, April 28, 2026 @ 11:30 AM - 1:00 PM<br>
 <br>
@@ -64,7 +81,7 @@ altfooter: true
 
 **Sponsor:** <a href="https://snyk.io" target="_blank">Snyk</a>
 <br>
-<img src="assets/images/Snyk-logo-HH-sm.png" alt="Snyk logo" width="200" height="103"/>
+<a href="https://snyk.io" target="_blank"><img src="assets/images/Snyk-logo-HH-sm.png" alt="Snyk logo" width="200" height="103"/></a>
 <p><em>Snyk's developer-first application security platform empowers dev and security teams to find and fix vulnerabilities fast across their rapidly modernizing tech stack- from code to application delivery - and ensures agencies have the context and visibility to mitigate application downtime and malicious attacks. 
 Snyk's security guardrails and comprehensive coverage allow development teams to adopt next-gen technology like AI, delivering high-quality citizen services while remaining protected from rising cybersecurity attacks.
 Snyk stays on the cutting edge of application security, arming your developers and security teams to keep your entire application secure from the start so you can focus on what matters most.</em></p> 
