@@ -67,28 +67,28 @@ Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/32193
 
 <hr>
 
-### Austin Security Professionals Happy Hour sponsored by ThreatModeler, May 14, 2026 ###
+<!--    ### Austin Security Professionals Happy Hour sponsored by xxTBDxx, June 11, 2026 ###
 
-**When:** Thursday, May 14th, 5:30 pm - 7:30 pm
+**When:** Thursday, June 11th, 5:30 pm - 7:30 pm
 
 **Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.
 
 **What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
 
-**Sponsor:** ThreatModeler
+**Sponsor:** xxTBDxx
 <br>
-<a href="https://threatmodeler.com" target="_blank"><img src="assets/images/Threatmodeler-IR-logo-HH-sm.jpg" alt="ThreatModeler" /></a>
+<a href="https://xxTBDxx" target="_blank"><img src="assets/images/xxTBDxx-logo-HH-sm.jpg" alt="xxTBDxx" /></a>
 <br>
-<p><i>ABOUT THREATMODELER<br>
-ThreatModeler is the innovation leader in intelligent and automated threat modeling, helping enterprises build secure applications, devices, and cloud infrastructure by design. Anchored by a single platform intelligence layer, ThreatModeler delivers guided security insights, applies intelligent automation, enables continuous risk awareness, and provides 360-degree visibility across the entire threat landscape. The result is faster development cycles and reduced risk exposure.</i></p>
+<p><i>ABOUT xxTBDxx<br>
+xxTBDxx.</i></p>
 <br>
 Please RSVP so we can plan for number of attendees: 
-<a href="https://www.eventbrite.com/e/may-2026-owasp-happy-hour-sponsored-by-threatmodeler-tickets-1987617791319" target="_blank"> Eventbrite </a>
+<a href="https://www.eventbrite.com/e/mxxTBDxx" target="_blank"> Eventbrite </a>
 <br>
 
 [back to top](#welcome) 
 
-<hr>
+<hr>    -->
 
 ### LASCON 2026 ###
 
