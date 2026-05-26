@@ -59,7 +59,7 @@ https://www.linkedin.com/in/bankimtejani/
 **RSVP:**<br>
 In-person (and free lunch) at <a href="https://owasp-austin-2026-may.eventbrite.com">Eventbrite</a>
  <br>
-Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/32193509">Meetup</a>
+Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/312693509">Meetup</a>
 <br> 
 
 
