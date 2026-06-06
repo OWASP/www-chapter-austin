@@ -29,37 +29,28 @@ Welcome to the Austin chapter homepage.
 
 <hr>
 
-###  OWASP Austin Chapter Meeting May 2026 ###
+###  OWASP Austin Chapter Meeting June 2026 ###
 
-**When:** Tuesday, May 26, 2026 @ 11:30 AM - 1:00 PM<br>
+**When:** Tuesday, June 30, 2026 @ 11:30 AM - 1:00 PM<br>
 Agenda:<br>
 11:30-11:55 -- Room Opens, food is available and in-room discussions<br>
 11:55-12:05 -- Chapter/OWASP info presentation<br>
 12:05-1  -- Speakers Presentation<br>
 <br>
-**Presentation: The Security Salary Conversation: Career Growth, Compensation, and Negotiation in AppSec**
+**Presentation: SLIM: A Text-First Web Standard for Austere and High-Resilience Environments**
 <br>
-Most AppSec professionals spend years learning how to secure software, influence engineering teams, and manage risk — but very little time learning how to manage their own careers.
-
-This talk explores the often-unspoken side of Application Security: compensation, negotiation, career positioning, and long-term growth. We’ll discuss how AppSec roles are valued inside organizations, how to think about market compensation, common mistakes security professionals make during negotiations, and how to grow your career skills with your technical skills.
-
-The goal is not “get rich quick” advice. It’s helping security professionals become more intentional, informed, and confident about their careers in a rapidly changing industry.
-
-Whether you’re early in your AppSec journey or leading security programs today, this session aims to spark more open and honest conversations about career growth in security.
+SLIM (Structured Low-bandwidth Information Markup) is a new web standard(?) designed for situations where bandwidth, latency, or infrastructure resilience truly matter. This talk introduces the core principles of SLIM, explains why traditional web models break under degraded or disrupted networks, and demonstrates how text-first design dramatically improves reliability—from disaster recovery to satellite links to industrial plants. Attendees will learn how SLIM works today, how it complements modern web stacks, and why resilient communication needs a minimalist path forward
 <br>
 
-**Speaker: Bankim Tejani** 
+**Speaker: Caleb Queern** 
 <br>
-Bankim Tejani is an experienced Application Security practitioner and security leader who has spent years working with engineering organizations to build security & privacy in from the beginning. His background spans AppSec, cloud security, DevSecOps, and security program development across fast-moving technology environments. 
-
-He has been part of the OWASP Austin community since 2009, including LASCON, where he continues to serve as a volunteer and MC/host.
-https://www.linkedin.com/in/bankimtejani/
+Caleb Queern has focused on reducing cyber security risk for large enterprises for the last 10 years, usually in technical areas like application security / DevSecOps and security operations. Prior to that, he was the Chief Scientist at a threat intelligence company. When he's not in front of the keyboard he is running around outside playing with his son or in the supporters section watching Austin FC games.
 <br>
 
 **RSVP:**<br>
-In-person (and free lunch) at <a href="https://owasp-austin-2026-may.eventbrite.com">Eventbrite</a>
+In-person (and free lunch) at <a href="https://owasp-austin-2026-june.eventbrite.com">Eventbrite</a>
  <br>
-Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/312693509">Meetup</a>
+Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/312693511">Meetup</a>
 <br> 
 
 
