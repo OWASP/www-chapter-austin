@@ -25,6 +25,30 @@ altfooter: true
 ---------------
 ### 2026 ###
 
+###  OWASP Austin Chapter Meeting May 2026 ###
+
+**When:** Tuesday, May 26, 2026 @ 11:30 AM - 1:00 PM<br>
+Agenda:<br>
+**Presentation: The Security Salary Conversation: Career Growth, Compensation, and Negotiation in AppSec**
+<blockquote>Most AppSec professionals spend years learning how to secure software, influence engineering teams, and manage risk — but very little time learning how to manage their own careers.
+
+This talk explores the often-unspoken side of Application Security: compensation, negotiation, career positioning, and long-term growth. We’ll discuss how AppSec roles are valued inside organizations, how to think about market compensation, common mistakes security professionals make during negotiations, and how to grow your career skills with your technical skills.
+
+The goal is not “get rich quick” advice. It’s helping security professionals become more intentional, informed, and confident about their careers in a rapidly changing industry.
+
+Whether you’re early in your AppSec journey or leading security programs today, this session aims to spark more open and honest conversations about career growth in security.
+</blockquote><br>
+
+**Speaker: Bankim Tejani** 
+<blockquote>Bankim Tejani is an experienced Application Security practitioner and security leader who has spent years working with engineering organizations to build security & privacy in from the beginning. His background spans AppSec, cloud security, DevSecOps, and security program development across fast-moving technology environments. 
+
+He has been part of the OWASP Austin community since 2009, including LASCON, where he continues to serve as a volunteer and MC/host.
+https://www.linkedin.com/in/bankimtejani/
+</blockquote>
+<a href="https://youtu.be/HOX7Pw5fK6Q">Youtube</a>
+<br> 
+<hr>
+
 ### Austin Security Professionals Happy Hour sponsored by ThreatModeler, May 14, 2026 ###
 
 **When:** Thursday, May 14th, 5:30 pm - 7:30 pm
@@ -41,7 +65,6 @@ altfooter: true
 ThreatModeler is the innovation leader in intelligent and automated threat modeling, helping enterprises build secure applications, devices, and cloud infrastructure by design. Anchored by a single platform intelligence layer, ThreatModeler delivers guided security insights, applies intelligent automation, enables continuous risk awareness, and provides 360-degree visibility across the entire threat landscape. The result is faster development cycles and reduced risk exposure.</i></p>
 <hr>
 
-
 ### OWASP Austin Chapter Meeting April 2026 ###
 **When:** Tuesday, April 28, 2026 @ 11:30 AM - 1:00 PM<br>
 <br>
@@ -50,8 +73,7 @@ ThreatModeler is the innovation leader in intelligent and automated threat model
 
 **Speaker: Aditi Sharma** 
 <blockquote>Aditi Sharma is a strategic technical program leader with over 18 years of experience building and leading complex technology programs across security, enterprise platforms, telecom, and automotive. At Dell Technologies, she leads initiatives in product security, global compliance, customer enablement, and software transparency, turning complex requirements into scalable outcomes. She also contributes to broader industry efforts through CISA, OpenSSF, and SAFECode, and is an active speaker, sharing insights at BSides Austin, Linux Foundation events, VEX Summit, and FIRST on software supply chain security and trust. Aditi holds a degree in Electrical and Electronics Engineering and certifications in data analytics , Scrum Product Ownership and Security Leadership.</blockquote>
-<br>
-<!-- <a href="https://youtu.be/vX1j_Ch5V84">--> YouTube</a>
+<a href="https://youtu.be/vX1j_Ch5V84"> YouTube</a>
 <br>
 <hr>
 
