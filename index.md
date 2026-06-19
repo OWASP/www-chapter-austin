@@ -58,28 +58,28 @@ Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/31269
 
 <hr>
 
-<!--    ### Austin Security Professionals Happy Hour sponsored by xxTBDxx, June 11, 2026 ###
+### Austin Security Professionals Happy Hour sponsored by Semgrep, July 9, 2026 ###
 
-**When:** Thursday, June 11th, 5:30 pm - 7:30 pm
+**When:** Thursday, July 9th, 5:30 pm - 7:30 pm
 
 **Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.
 
 **What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
 
-**Sponsor:** xxTBDxx
+**Sponsor:** <a href="https://semgrep.dev" target="_blank">Semgrep</a>
+<p><img src="assets/images/Semgrep_logo_HH-sm.jpg" alt="Semgrep"/></p>
+<p><i>Semgrep is the leader in code security for builders. Teams catch, flag, and fix real issues before they ship, powered by security that learns as you build. Built for builders and trusted by security, the platform unifies SAST, SCA, and secrets scanning, embedding protection directly into the development workflow so security begins where code is written and lives where developers work.
+Semgrep combines deterministic static analysis with AI reasoning to power detection, triage, and remediation. This approach helps teams uncover real vulnerabilities, prioritize reachable risks, and fix issues faster. Customers report up to 80% fewer false positives across Code and Supply Chain, with 95% of findings validated by security reviewers across more than 6 million results.
+Founded in San Francisco, Semgrep is backed by Menlo Ventures, Felicis Ventures, Lightspeed Venture Partners, Redpoint Ventures, and Sequoia Capital. It is recognized by Gartner in Application Security Testing and trusted by leading organizations including Snowflake, Dropbox, and Figma. Learn more at semgrep.dev.</i></p>
 <br>
-<a href="https://xxTBDxx" target="_blank"><img src="assets/images/xxTBDxx-logo-HH-sm.jpg" alt="xxTBDxx" /></a>
-<br>
-<p><i>ABOUT xxTBDxx<br>
-xxTBDxx.</i></p>
-<br>
-Please RSVP so we can plan for number of attendees: 
-<a href="https://www.eventbrite.com/e/mxxTBDxx" target="_blank"> Eventbrite </a>
-<br>
+Please RSVP so we can plan for number of attendees (use either Eventbrite or Meetup): <br>
+<a href="https://owasp-austin-july-2026-HH-sponsored-by-semgrep.eventbrite.com" target="_blank">Eventbrite</a><br>
+<a href="https://www.meetup.com/owasp-austin-chapter/events/315331619/" target="_blank"> Meetup </a>
+<br><br>
 
 [back to top](#welcome) 
 
-<hr>    -->
+<hr>   
 
 ### LASCON 2026 ###
 
