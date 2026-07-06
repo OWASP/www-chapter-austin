@@ -25,6 +25,24 @@ altfooter: true
 ---------------
 ### 2026 ###
 
+###  OWASP Austin Chapter Meeting June 2026 ###
+
+**When:** Tuesday, June 30, 2026 @ 11:30 AM - 1:00 PM<br>
+<br>
+**Presentation: SLIM: A Text-First Web Standard for Austere and High-Resilience Environments**
+<blockquote>
+SLIM (Structured Low-bandwidth Information Markup) is a new web standard(?) designed for situations where bandwidth, latency, or infrastructure resilience truly matter. This talk introduces the core principles of SLIM, explains why traditional web models break under degraded or disrupted networks, and demonstrates how text-first design dramatically improves reliability—from disaster recovery to satellite links to industrial plants. Attendees will learn how SLIM works today, how it complements modern web stacks, and why resilient communication needs a minimalist path forward
+</blockquote>
+
+**Speaker: Caleb Queern** 
+<blockquote>
+Caleb Queern has focused on reducing cyber security risk for large enterprises for the last 10 years, usually in technical areas like application security / DevSecOps and security operations. Prior to that, he was the Chief Scientist at a threat intelligence company. When he's not in front of the keyboard he is running around outside playing with his son or in the supporters section watching Austin FC games.
+</blockquote>
+
+<a href="https://youtu.be/QL5inb47ZbQ">YouTube</a>
+<br> 
+<hr>
+
 ###  OWASP Austin Chapter Meeting May 2026 ###
 
 **When:** Tuesday, May 26, 2026 @ 11:30 AM - 1:00 PM<br>
