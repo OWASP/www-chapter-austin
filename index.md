@@ -29,35 +29,6 @@ Welcome to the Austin chapter homepage.
 
 <hr>
 
-###  OWASP Austin Chapter Meeting June 2026 ###
-
-**When:** Tuesday, June 30, 2026 @ 11:30 AM - 1:00 PM<br>
-Agenda:<br>
-11:30-11:55 -- Room Opens, food is available and in-room discussions<br>
-11:55-12:05 -- Chapter/OWASP info presentation<br>
-12:05-1  -- Speakers Presentation<br>
-<br>
-**Presentation: SLIM: A Text-First Web Standard for Austere and High-Resilience Environments**
-<br>
-SLIM (Structured Low-bandwidth Information Markup) is a new web standard(?) designed for situations where bandwidth, latency, or infrastructure resilience truly matter. This talk introduces the core principles of SLIM, explains why traditional web models break under degraded or disrupted networks, and demonstrates how text-first design dramatically improves reliability—from disaster recovery to satellite links to industrial plants. Attendees will learn how SLIM works today, how it complements modern web stacks, and why resilient communication needs a minimalist path forward
-<br>
-
-**Speaker: Caleb Queern** 
-<br>
-Caleb Queern has focused on reducing cyber security risk for large enterprises for the last 10 years, usually in technical areas like application security / DevSecOps and security operations. Prior to that, he was the Chief Scientist at a threat intelligence company. When he's not in front of the keyboard he is running around outside playing with his son or in the supporters section watching Austin FC games.
-<br>
-
-**RSVP:**<br>
-In-person (and free lunch) at <a href="https://owasp-austin-2026-june.eventbrite.com">Eventbrite</a>
- <br>
-Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/312693511">Meetup</a>
-<br> 
-
-
-[back to top](#welcome)
-
-<hr>
-
 ### Austin Security Professionals Happy Hour sponsored by Semgrep, July 9, 2026 ###
 
 **When:** Thursday, July 9th, 5:30 pm - 7:30 pm
@@ -80,6 +51,41 @@ Please RSVP so we can plan for number of attendees (use either Eventbrite or Mee
 [back to top](#welcome) 
 
 <hr>   
+
+###  OWASP Austin Chapter Meeting July 2026 ###
+
+**When:** Tuesday, July 28, 2026 @ 11:30 AM - 1:00 PM<br>
+Agenda:<br>
+11:30-11:55 -- Room Opens, food is available and in-room discussions<br>
+11:55-12:05 -- Chapter/OWASP info presentation<br>
+12:05-1  -- Speakers Presentation<br>
+<br>
+**Presentation: Agentic Identity: Rethinking Enterprise Security for the Post-OAuth Era**
+<br>
+Enterprise identity systems were built on a single, foundational assumption: a human is always on the other end of a credential. That assumption is about to break.
+
+As organizations deploy autonomous AI agents, corporate networks are rapidly filling with non-human entities that don't just follow static scripts—they reason, delegate, and chain actions across systems in ways their creators never explicitly authorized. Traditional OAuth scopes, session tokens, and long-lived flows are completely unequipped to handle entities that think for themselves. When the ""user"" is an intelligent agent, current identity security fails entirely.
+
+This session cuts through the noise to analyze the critical vulnerabilities emerging in early deployments and introduces the core architectural pillars needed to fix them. Bridging the gap between bleeding-edge AI research and practical enterprise governance, we will explore how to rebuild trust in a machine-to-machine world
+<br>
+
+**Speaker: Vijayent Kohli** 
+<br>
+Vijayent Kohli is a Principal Cybersecurity Engineer specializing in architecting resilient, identity-centric security solutions for AI & autonomous systems at Fortune-scale enterprises. Over a career spanning major technology and enterprise organizations including Microsoft, PayPal, Oracle and Ford, he has architected scale-ready identity and access management (IAM) infrastructure and co-invented patented fallback systems designed to maintain AI decision-making continuity during production failures.
+An active speaker and researcher, Vijayent focuses on the intersection of production AI, adversarial risk, and automated security posture management. His talks draw directly on practical, enterprise-scale engineering experience rather than theory.
+<br>
+
+**RSVP:**<br>
+In-person (and free lunch) at <a href="https://owasp-austin-2026-july.eventbrite.com">Eventbrite</a>
+<br>
+Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/312693518">Meetup</a>
+<br> 
+
+
+[back to top](#welcome)
+
+<hr>
+
 
 ### LASCON 2026 ###
 
@@ -125,7 +131,7 @@ SPEAKER-BIO.
 
 RSVP:<br>
 In-person (and free lunch) at <a href="EVENTBRITE-LINK">Eventbrite</a>
- <br>
+<br>
 Online RSVP at <a href="MEETUP-LINK">Meetup</a>
 <br> 
 [back to top](#welcome)
