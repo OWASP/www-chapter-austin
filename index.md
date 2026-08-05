@@ -39,7 +39,7 @@ Welcome to the Austin chapter homepage.
 
 **Sponsor:** <a href="https://www.atsec.com" target="_blank">atsec</a>
 <p><img src="assets/images/atsec_logo_HH-sm.jpg" alt="atsec"/></p>
-<p><i>As a founding member of the nonprofit Crypto-V Alliance, atsec information security is pleased to invite you to attend the FIPS &#39;n&#39; Chips Conference, taking place in Austin, Texas, on October 26 to 27, 2026. Early Bird registration is available through August 7, and OWASP members can receive an additional 25% discount by using the code OWASP25-B1E9 during registration. Learn more about the conference at <a href="https://crypto-v.org/fnc2026" target="_blank">crypto-v.org/fnc2026</a>.
+<p><i>As a founding member of the nonprofit Crypto-V Alliance, atsec information security is pleased to invite you to attend the FIPS 'n' Chips Conference, taking place in Austin, Texas, on October 26 to 27, 2026. Early Bird registration is available through August 7, and OWASP members can receive an additional 25% discount by using the code OWASP25-B1E9 during registration. Learn more about the conference at <a href="https://crypto-v.org/fnc2026" target="_blank">crypto-v.org/fnc2026</a>.
 <br><br>atsec information security is an independent, privately owned company specializing in information security testing, evaluation, validation, and training services. Its expertise helps organizations develop, assess, and demonstrate the security of their products and systems against internationally recognized standards. Learn more at <a href="https://www.atsec.com" target="_blank">www.atsec.com</a>.
 <br><br>
 Please RSVP so we can plan for number of attendees (use either Eventbrite or Meetup): <br>
