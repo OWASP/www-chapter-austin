@@ -25,6 +25,46 @@ altfooter: true
 ---------------
 ### 2026 ###
 
+###  OWASP Austin Chapter Meeting July 2026 ###
+
+**When:** Tuesday, July 28, 2026 @ 11:30 AM - 1:00 PM<br>
+<br>
+**Presentation: Agentic Identity: Rethinking Enterprise Security for the Post-OAuth Era**
+<blockquote>
+Enterprise identity systems were built on a single, foundational assumption: a human is always on the other end of a credential. That assumption is about to break.
+
+As organizations deploy autonomous AI agents, corporate networks are rapidly filling with non-human entities that don't just follow static scripts—they reason, delegate, and chain actions across systems in ways their creators never explicitly authorized. Traditional OAuth scopes, session tokens, and long-lived flows are completely unequipped to handle entities that think for themselves. When the ""user"" is an intelligent agent, current identity security fails entirely.
+
+This session cuts through the noise to analyze the critical vulnerabilities emerging in early deployments and introduces the core architectural pillars needed to fix them. Bridging the gap between bleeding-edge AI research and practical enterprise governance, we will explore how to rebuild trust in a machine-to-machine world.
+</blockquote>
+
+**Speaker: Vijayent Kohli** 
+<blockquote>
+Vijayent Kohli is a Principal Cybersecurity Engineer specializing in architecting resilient, identity-centric security solutions for AI & autonomous systems at Fortune-scale enterprises. Over a career spanning major technology and enterprise organizations including Microsoft, PayPal, Oracle and Ford, he has architected scale-ready identity and access management (IAM) infrastructure and co-invented patented fallback systems designed to maintain AI decision-making continuity during production failures.
+An active speaker and researcher, Vijayent focuses on the intersection of production AI, adversarial risk, and automated security posture management. His talks draw directly on practical, enterprise-scale engineering experience rather than theory.
+</blockquote>
+
+<em>Video to be posted</em> <!-- <a href="https://youtu.be/zzzzzzzzz">YouTube</a> -->
+<br> 
+<hr>
+
+### Austin Security Professionals Happy Hour sponsored by Semgrep, July 9, 2026 ###
+
+**When:** Thursday, July 9th, 5:30 pm - 7:30 pm
+
+**Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.
+
+**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
+
+**Sponsor:** <a href="https://semgrep.dev" target="_blank">Semgrep</a>
+<br>
+<img src="assets/images/Semgrep_logo_HH-sm.jpg" alt="Semgrep"/>
+<br>
+<p><i>Semgrep is the leader in code security for builders. Teams catch, flag, and fix real issues before they ship, powered by security that learns as you build. Built for builders and trusted by security, the platform unifies SAST, SCA, and secrets scanning, embedding protection directly into the development workflow so security begins where code is written and lives where developers work.
+<br><br>Semgrep combines deterministic static analysis with AI reasoning to power detection, triage, and remediation. This approach helps teams uncover real vulnerabilities, prioritize reachable risks, and fix issues faster. Customers report up to 80% fewer false positives across Code and Supply Chain, with 95% of findings validated by security reviewers across more than 6 million results.
+<br><br>Founded in San Francisco, Semgrep is backed by Menlo Ventures, Felicis Ventures, Lightspeed Venture Partners, Redpoint Ventures, and Sequoia Capital. It is recognized by Gartner in Application Security Testing and trusted by leading organizations including Snowflake, Dropbox, and Figma. Learn more at semgrep.dev.</i></p>
+<hr>
+
 ###  OWASP Austin Chapter Meeting June 2026 ###
 
 **When:** Tuesday, June 30, 2026 @ 11:30 AM - 1:00 PM<br>
