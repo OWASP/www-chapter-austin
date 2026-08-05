@@ -38,13 +38,13 @@ Welcome to the Austin chapter homepage.
 **What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
 
 **Sponsor:** <a href="https://www.atsec.com" target="_blank">atsec</a>
-<p><img src="assets/images/atsec_logo_HH-sm.jpg" alt=“atsec”/></p>
+<p><img src="assets/images/atsec_logo_HH-sm.jpg" alt="atsec"/></p>
 <p><i>As a founding member of the nonprofit Crypto-V Alliance, atsec information security is pleased to invite you to attend the FIPS &#39;n&#39; Chips Conference, taking place in Austin, Texas, on October 26 to 27, 2026. Early Bird registration is available through August 7, and OWASP members can receive an additional 25% discount by using the code OWASP25-B1E9 during registration. Learn more about the conference at <a href="https://crypto-v.org/fnc2026" target="_blank">crypto-v.org/fnc2026</a>.
 <br><br>atsec information security is an independent, privately owned company specializing in information security testing, evaluation, validation, and training services. Its expertise helps organizations develop, assess, and demonstrate the security of their products and systems against internationally recognized standards. Learn more at <a href="https://www.atsec.com" target="_blank">www.atsec.com</a>.
 <br><br>
 Please RSVP so we can plan for number of attendees (use either Eventbrite or Meetup): <br>
 <a href="https://owasp-austin-august-2026-HH-sponsored-by-atsec.eventbrite.com" target="_blank">Eventbrite</a><br>
-<a href="https://www.meetup.com/owasp-austin-chapter/events/315988077/" target="_blank"> Meetup </a>
+<a href="https://www.meetup.com/owasp-austin-chapter/events/315988077/" target="_blank">Meetup</a>
 <br><br>
 
 [back to top](#welcome) 
