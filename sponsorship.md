@@ -36,7 +36,7 @@ Following are the event dates for 2026. We are seeking sponsors for those noted 
   April ........ 4/9/2026  ..... CANCELLED 
   May .......... 5/14/2026 ..... SPONSORED
   June ......... 6/11/2026 ..... CANCELLED 
-  July ......... 7/9/2026  ..... HAVE SPONSOR 
+  July ......... 7/9/2026  ..... SPONSORED 
   August ....... 8/13/2026 ..... HAVE SPONSOR 
   September..... 9/10/2026 ..... AVAILABLE
 
