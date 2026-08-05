@@ -29,23 +29,22 @@ Welcome to the Austin chapter homepage.
 
 <hr>
 
-### Austin Security Professionals Happy Hour sponsored by Semgrep, July 9, 2026 ###
+### Austin Security Professionals Happy Hour sponsored by atsec, August 13, 2026 ###
 
-**When:** Thursday, July 9th, 5:30 pm - 7:30 pm
+**When:** Thursday, August 13th, 5:30 pm - 7:30 pm
 
 **Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.
 
 **What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
 
-**Sponsor:** <a href="https://semgrep.dev" target="_blank">Semgrep</a>
-<p><img src="assets/images/Semgrep_logo_HH-sm.jpg" alt="Semgrep"/></p>
-<p><i>Semgrep is the leader in code security for builders. Teams catch, flag, and fix real issues before they ship, powered by security that learns as you build. Built for builders and trusted by security, the platform unifies SAST, SCA, and secrets scanning, embedding protection directly into the development workflow so security begins where code is written and lives where developers work.
-<br><br>Semgrep combines deterministic static analysis with AI reasoning to power detection, triage, and remediation. This approach helps teams uncover real vulnerabilities, prioritize reachable risks, and fix issues faster. Customers report up to 80% fewer false positives across Code and Supply Chain, with 95% of findings validated by security reviewers across more than 6 million results.
-<br><br>Founded in San Francisco, Semgrep is backed by Menlo Ventures, Felicis Ventures, Lightspeed Venture Partners, Redpoint Ventures, and Sequoia Capital. It is recognized by Gartner in Application Security Testing and trusted by leading organizations including Snowflake, Dropbox, and Figma. Learn more at semgrep.dev.</i></p>
-<br>
+**Sponsor:** <a href="https://www.atsec.com" target="_blank">atsec</a>
+<p><img src="assets/images/atsec_logo_HH-sm.jpg" alt=“atsec”/></p>
+<p><i>As a founding member of the nonprofit Crypto-V Alliance, atsec information security is pleased to invite you to attend the FIPS &#39;n&#39; Chips Conference, taking place in Austin, Texas, on October 26 to 27, 2026. Early Bird registration is available through August 7, and OWASP members can receive an additional 25% discount by using the code OWASP25-B1E9 during registration. Learn more about the conference at <a href="https://crypto-v.org/fnc2026" target="_blank">crypto-v.org/fnc2026</a>.
+<br><br>atsec information security is an independent, privately owned company specializing in information security testing, evaluation, validation, and training services. Its expertise helps organizations develop, assess, and demonstrate the security of their products and systems against internationally recognized standards. Learn more at <a href="https://www.atsec.com" target="_blank">www.atsec.com</a>.
+<br><br>
 Please RSVP so we can plan for number of attendees (use either Eventbrite or Meetup): <br>
-<a href="https://owasp-austin-july-2026-HH-sponsored-by-semgrep.eventbrite.com" target="_blank">Eventbrite</a><br>
-<a href="https://www.meetup.com/owasp-austin-chapter/events/315331619/" target="_blank"> Meetup </a>
+<a href="https://owasp-austin-august-2026-HH-sponsored-by-atsec.eventbrite.com" target="_blank">Eventbrite</a><br>
+<a href="https://www.meetup.com/owasp-austin-chapter/events/315988077/" target="_blank"> Meetup </a>
 <br><br>
 
 [back to top](#welcome) 
