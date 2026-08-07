@@ -51,33 +51,38 @@ Please RSVP so we can plan for number of attendees (use either Eventbrite or Mee
 
 <hr>   
 
-###  OWASP Austin Chapter Meeting July 2026 ###
+###  OWASP Austin Chapter Meeting August 2026 ###
 
-**When:** Tuesday, July 28, 2026 @ 11:30 AM - 1:00 PM<br>
+**When:** Tuesday, August 25, 2026 @ 11:30 AM - 1:00 PM<br>
 Agenda:<br>
 11:30-11:55 -- Room Opens, food is available and in-room discussions<br>
 11:55-12:05 -- Chapter/OWASP info presentation<br>
 12:05-1  -- Speakers Presentation<br>
 <br>
-**Presentation: Agentic Identity: Rethinking Enterprise Security for the Post-OAuth Era**
+**Presentation: A Deep Dive into OWASP SPVS Through the Lens of the Agentic Secure SDLC**
 <br>
-Enterprise identity systems were built on a single, foundational assumption: a human is always on the other end of a credential. That assumption is about to break.
+Application security has twenty years of standards for the code. It has almost nothing for the system that builds and ships it, and that system holds source, secrets, production credentials, and deployment infrastructure. Nothing else in your organization touches all four.
+Attackers noticed this first, and agentic development widened the surface again. Agents now write code, open pull requests, review pull requests, and reach infrastructure using tokens scoped once for convenience. We are in the middle of a full evolution with everyone sitting at a different point on the curve.
+We have SSDF for practices, SLSA for provenance, SCVS for components, CIS for configuration. The gap is a verification standard organized by pipeline stage, with testable criteria and maturity levels, covering plan through operate. We have ASVS for the application and nothing equivalent for the machine that ships it.
 
-As organizations deploy autonomous AI agents, corporate networks are rapidly filling with non-human entities that don't just follow static scripts—they reason, delegate, and chain actions across systems in ways their creators never explicitly authorized. Traditional OAuth scopes, session tokens, and long-lived flows are completely unequipped to handle entities that think for themselves. When the ""user"" is an intelligent agent, current identity security fails entirely.
-
-This session cuts through the noise to analyze the critical vulnerabilities emerging in early deployments and introduces the core architectural pillars needed to fix them. Bridging the gap between bleeding-edge AI research and practical enterprise governance, we will explore how to rebuild trust in a machine-to-machine world
+This session walks OWASP SPVS in detail: the five stages, the three maturity levels, how the control set reads in practice, and why it was created, mapped throughout against the agentic secure SDLC.
 <br>
 
-**Speaker: Vijayent Kohli** 
+**Speaker: Cameron Walters** 
 <br>
-Vijayent Kohli is a Principal Cybersecurity Engineer specializing in architecting resilient, identity-centric security solutions for AI & autonomous systems at Fortune-scale enterprises. Over a career spanning major technology and enterprise organizations including Microsoft, PayPal, Oracle and Ford, he has architected scale-ready identity and access management (IAM) infrastructure and co-invented patented fallback systems designed to maintain AI decision-making continuity during production failures.
-An active speaker and researcher, Vijayent focuses on the intersection of production AI, adversarial risk, and automated security posture management. His talks draw directly on practical, enterprise-scale engineering experience rather than theory.
+Cameron Walters is Director of Application Security and Security Engineering, with roughly a decade in software engineering before spending the last seven-plus years building AppSec programs. His focus is security automation, AppSec infrastructure, and pipeline security. He is a co-founder of the OWASP Secure Pipeline Verification Standard (SPVS), a contributing expert in the AI and CRA Center of Excellence at The Purple Book Community, and a technical advisor at WhiteRabbit & Dam Secure.
+
+He co-hosts Coffee, Chaos & ProdSec, a weekly podcast on product security, supply chain, and AI security.
+<br>
+LinkedIn:  <a href="linkedin.com/in/cameronww7">linkedin.com/in/cameronww7</a>
+<br>
+Coffee, Chaos and ProdSec: <a href="http://linktr.ee/coffeechaosprodsec">linktr.ee/coffeechaosprodsec</a>
 <br>
 
 **RSVP:**<br>
-In-person (and free lunch) at <a href="https://owasp-austin-2026-july.eventbrite.com">Eventbrite</a>
+In-person (and free lunch) at <a href="https://owasp-austin-2026-august.eventbrite.com">Eventbrite</a>
 <br>
-Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/312693518">Meetup</a>
+Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/312693520">Meetup</a>
 <br> 
 
 
