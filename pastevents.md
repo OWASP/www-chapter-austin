@@ -44,7 +44,7 @@ Vijayent Kohli is a Principal Cybersecurity Engineer specializing in architectin
 An active speaker and researcher, Vijayent focuses on the intersection of production AI, adversarial risk, and automated security posture management. His talks draw directly on practical, enterprise-scale engineering experience rather than theory.
 </blockquote>
 
-<em>Video to be posted</em> <!-- <a href="https://youtu.be/zzzzzzzzz">YouTube</a> -->
+<a href="https://youtu.be/soo-LlKcUQ8">YouTube</a>
 <br> 
 <hr>
 
@@ -146,9 +146,8 @@ ThreatModeler is the innovation leader in intelligent and automated threat model
 **Speaker: Evan Borysko** 
 <br>
 <blockquote>Evan Borysko is a cybersecurity and software engineering leader with over 20 years of experience building and scaling security, privacy, and DevSecOps programs across startups and global SaaS enterprises including Amazon, Oracle NetSuite, Workrise, and Validere. He specializes in applying Zero Trust and secure-by-design practices to cloud-native platforms and CI/CD pipelines, integrating security automation, identity governance, and continuous compliance into modern DevOps workflows. Evan has been a speaker at IBM industry conferences, a contributor to IBM Redbooks, and a technical reviewer of the AWS Architect study guide. Evan holds a Bachelor of Science in Information Studies from the Florida State University and holds CISM, CISSP, CSSLP, and CCSP. As the founder of Greenbelt Advisors, Evan now advises startups, nonprofits, and scaling SaaS companies on Zero Trust strategy, DevSecOps, and security architecture, helping leaders protect and build in security without slowing innovation.</blockquote>
-<br>
 <a href="https://youtu.be/vX1j_Ch5V84">YouTube</a>
-
+<br>
 <hr>
 
 ### Austin Security Professionals Happy Hour, March 12, 2026, Sponsored by Snyk ###
