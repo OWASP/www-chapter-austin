@@ -38,8 +38,8 @@ Welcome to the Austin chapter homepage.
 **What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
 
 **Sponsor:** <a href="https://www.pensar.dev" target="_blank">Pensar</a>
-<p><img src="assets/images/Pensar_logo_HH-sm.jpg" alt=“atsec"/></p>
-<p><i></p>Stay ahead of AI-enabled attackers with Pensar. Continuously find, exploit, and patch vulnerabilities in live systems. Get pentest reports signed by US-based OSCP certified humans. Learn more at <a href="https://www.pensar.dev" target="_blank">www.pensar.dev</a> today.</i></p>
+<p><img src="assets/images/Pensar_logo_HH-sm.jpg" alt="atsec"/></p>
+<p><i>Stay ahead of AI-enabled attackers with Pensar. Continuously find, exploit, and patch vulnerabilities in live systems. Get pentest reports signed by US-based OSCP certified humans. Learn more at <a href="https://www.pensar.dev" target="_blank">www.pensar.dev</a> today.</i></p>
 Please RSVP so we can plan for number of attendees (use either Eventbrite or Meetup): <br>
 <a href="https://owasp-austin-september-2026-HH-sponsored-by-pensar.eventbrite.com" target="_blank">Eventbrite</a><br>
 <a href="https://www.meetup.com/owasp-austin-chapter/events/316458232/" target="_blank"> Meetup </a>
