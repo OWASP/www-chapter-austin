@@ -28,7 +28,7 @@ The Austin OWASP Chapter coordinates a monthly Austin Security Professionals Ha
 
 Interested in Sponsoring? We are currently seeking happy hour sponsors for our monthly event. Please contact <a href="mailto:tiana.chandler@owasp.org?subject=OWASP Happy Hour Sponsor">Tiana Chandler</a> if you are interested. 
 
-Following are the event dates for 2026. We are seeking sponsors for those noted as Available.
+Following are the event dates for 2026. We thank all the sponsors who helped make our events successful.
   <pre>
   January ...... 1/8/2026  ..... CANCELLED
   February ..... 2/12/2026 ..... SPONSORED
@@ -37,8 +37,21 @@ Following are the event dates for 2026. We are seeking sponsors for those noted 
   May .......... 5/14/2026 ..... SPONSORED
   June ......... 6/11/2026 ..... CANCELLED 
   July ......... 7/9/2026  ..... SPONSORED 
-  August ....... 8/13/2026 ..... HAVE SPONSOR 
-  September..... 9/10/2026 ..... AVAILABLE
+  August ....... 8/13/2026 ..... SPONSORED 
+  September..... 9/10/2026 ..... HAVE SPONSOR
+  </pre>
+
+Following are the event dates for <strong>2027</strong>. We are seeking sponsors for those noted as Available.
+  <pre>
+  January ...... 1/7/2027  ..... AVAILABLE
+  February ..... 2/11/2027 ..... AVAILABLE
+  March  ....... 3/11/2027 ..... AVAILABLE 
+  April ........ 4/8/2027  ..... AVAILABLE 
+  May .......... 5/13/2027 ..... AVAILABLE
+  June ......... 6/10/2027 ..... AVAILABLE 
+  July ......... 7/8/2027  ..... AVAILABLE 
+  August ....... 8/12/2027 ..... AVAILABLE 
+  September..... 9/9/2027  ..... AVAILABLE
 
   </pre>
 
