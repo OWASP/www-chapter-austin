@@ -27,6 +27,25 @@ Welcome to the Austin chapter homepage.
 
 ### Upcoming Events ###
 
+<hr>
+
+### Austin Security Professionals Happy Hour sponsored by Pensar, September 10, 2026 ###
+
+**When:** Thursday, September 10th, 5:30 pm - 7:30 pm
+
+**Where:** Lavaca Street Bar at the Domain Northside (Rock Rose District), 11420 Rock Rose Ave #100, Austin, TX 78758.
+
+**What:** The Austin Security Professionals Happy Hour is a monthly event coordinated by the Austin OWASP Chapter and sponsored by various companies. We try to meet every second Thursday of the month from January to September (but occasionally we make schedule adjustments when needed). The event is an informal social gathering of local information security professionals. If you're involved with InfoSec or even if you have an interest, come on out for drinks, good food and conversation.
+
+**Sponsor:** <a href="https://www.pensar.dev" target="_blank">Pensar</a>
+<p><img src="assets/images/Pensar_logo_HH-sm.jpg" alt=“atsec"/></p>
+<p><i></p>Stay ahead of AI-enabled attackers with Pensar. Continuously find, exploit, and patch vulnerabilities in live systems. Get pentest reports signed by US-based OSCP certified humans. Learn more at <a href="https://www.pensar.dev" target="_blank">www.pensar.dev</a> today.</i></p>
+Please RSVP so we can plan for number of attendees (use either Eventbrite or Meetup): <br>
+<a href="https://owasp-austin-september-2026-HH-sponsored-by-pensar.eventbrite.com" target="_blank">Eventbrite</a><br>
+<a href="https://www.meetup.com/owasp-austin-chapter/events/316458232/" target="_blank"> Meetup </a>
+<br><br>
+
+[back to top](#welcome) 
 
 <hr>   
 
@@ -75,20 +94,21 @@ Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/31269
 Save the Dates for LASCON 2026. We will be back at Norris Conference Center with Pre-Conference Training October 27-28, 2026 and Conference October 29-30, 2026. Visit <a href="https://lascon.org/" target="_blank">lascon.org</a>.
 
 <ul>
- <li>Get your Spring Special discounted conference tickets now. <a href="https://lascon.org/tickets/" target="_blank">Get yours today!</a></li>
- <li>Tickets for Pre-Conference Training are not yet available. <a href="https://lascon.org/pre-conf-training/" target="_blank">More information.</a></li>
- <li>The Call for Presentations (CFP) is now open. <a href="https://lascon.org/cfp/" target="_blank">More information.</a></li>
- <li>The Call for Training (CFT) is now open. <a href="https://lascon.org/cft/" target="_blank">More information.</a></li>
- <li>Interested in sponsoring LASCON 2026? <a href="https://lascon.org/become-a-sponsor/" target="_blank">Become a Sponsor today!</a></li>
+ <li>Get your Summer Special discounted conference tickets now. <a href="https://lascon.org/tickets/" target="_blank">Get yours today!</a></li>
+ <li>Want to train up? Tickets for Pre-Conference Training are now available. <a href="https://lascon.org/pre-conf-training/" target="_blank">Register today!</a></li>
+ <li>The Conference Schedule is now available. <a href="https://lascon.org/schedule/" target="_blank">See the Schedule More information.</a></li>
+ <!-- <li>The Call for Presentations (CFP) is now closed. <a href="https://lascon.org/cfp/" target="_blank">More information.</a></li>
+ <li>The Call for Training (CFT) is now closed. <a href="https://lascon.org/cft/" target="_blank">More information.</a></li> -->
+ <li>Interested in sponsoring LASCON 2026? Exhibitor sponsorships are sold out, but we have a few other sponsorships that can help with your company's branding. <a href="https://lascon.org/become-a-sponsor/" target="_blank">Contact us today to find out more.</a></li>
 </ul>
 
 [back to top](#welcome)
 
 <hr>
 
-### Austin Security Professionals Happy Hour - 2026 Dates Available ###
+### Austin Security Professionals Happy Hour - 2027 Dates Available ###
 
-> **Interested in Sponsoring? We are currently seeking happy hour sponsors for our monthly event. Please contact <a href="mailto:tiana.chandler@owasp.org?subject=OWASP Happy Hour Sponsor">Tiana Chandler</a> if you are interested. See our <a href="https://owasp.org/www-chapter-austin/sponsorship.html">Sponsorship</a> page for information on sponsoring.**
+> **Interested in Sponsoring? We are currently seeking happy hour sponsors for our monthly event for 2027. Please contact <a href="mailto:tiana.chandler@owasp.org?subject=OWASP Happy Hour Sponsor">Tiana Chandler</a> if you are interested. See our <a href="https://owasp.org/www-chapter-austin/sponsorship.html">Sponsorship</a> page for information on sponsoring.**
 
 [back to top](#welcome)
 <hr>
