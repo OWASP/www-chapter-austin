@@ -24,6 +24,33 @@ altfooter: true
 
 ---------------
 ### 2026 ###
+###  OWASP Austin Chapter Meeting August 2026 ###
+
+**When:** Tuesday, August 25, 2026 @ 11:30 AM - 1:00 PM<br>
+
+**Presentation: A Deep Dive into OWASP SPVS Through the Lens of the Agentic Secure SDLC**
+<blockquote>
+Application security has twenty years of standards for the code. It has almost nothing for the system that builds and ships it, and that system holds source, secrets, production credentials, and deployment infrastructure. Nothing else in your organization touches all four.
+Attackers noticed this first, and agentic development widened the surface again. Agents now write code, open pull requests, review pull requests, and reach infrastructure using tokens scoped once for convenience. We are in the middle of a full evolution with everyone sitting at a different point on the curve.
+We have SSDF for practices, SLSA for provenance, SCVS for components, CIS for configuration. The gap is a verification standard organized by pipeline stage, with testable criteria and maturity levels, covering plan through operate. We have ASVS for the application and nothing equivalent for the machine that ships it.
+
+This session walks OWASP SPVS in detail: the five stages, the three maturity levels, how the control set reads in practice, and why it was created, mapped throughout against the agentic secure SDLC.
+</blockquote>
+
+**Speaker: Cameron Walters** 
+<blockquote>
+Cameron Walters is Director of Application Security and Security Engineering, with roughly a decade in software engineering before spending the last seven-plus years building AppSec programs. His focus is security automation, AppSec infrastructure, and pipeline security. He is a co-founder of the OWASP Secure Pipeline Verification Standard (SPVS), a contributing expert in the AI and CRA Center of Excellence at The Purple Book Community, and a technical advisor at WhiteRabbit & Dam Secure.
+
+He co-hosts Coffee, Chaos & ProdSec, a weekly podcast on product security, supply chain, and AI security.
+<br>
+LinkedIn:  <a href="linkedin.com/in/cameronww7">linkedin.com/in/cameronww7</a>
+<br>
+Coffee, Chaos and ProdSec: <a href="http://linktr.ee/coffeechaosprodsec">linktr.ee/coffeechaosprodsec</a>
+</blockquote>
+<a href="https://youtu.be/k5PU8W1sDUA">YouTube</a>
+<br> 
+<hr>
+
 
 
 ### Austin Security Professionals Happy Hour sponsored by atsec, August 13, 2026 ###
