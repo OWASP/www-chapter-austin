@@ -49,38 +49,31 @@ Please RSVP so we can plan for number of attendees (use either Eventbrite or Mee
 
 <hr>   
 
-###  OWASP Austin Chapter Meeting August 2026 ###
+###  OWASP Austin Chapter Meeting September 2026 ###
 
-**When:** Tuesday, August 25, 2026 @ 11:30 AM - 1:00 PM<br>
+**When:** Tuesday, September 29th, 2026 @ 11:30 AM - 1:00 PM<br>
 Agenda:<br>
 11:30-11:55 -- Room Opens, food is available and in-room discussions<br>
 11:55-12:05 -- Chapter/OWASP info presentation<br>
 12:05-1  -- Speakers Presentation<br>
 <br>
-**Presentation: A Deep Dive into OWASP SPVS Through the Lens of the Agentic Secure SDLC**
+**Presentation: Is Annual Compliance Dead?**
 <br>
-Application security has twenty years of standards for the code. It has almost nothing for the system that builds and ships it, and that system holds source, secrets, production credentials, and deployment infrastructure. Nothing else in your organization touches all four.
-Attackers noticed this first, and agentic development widened the surface again. Agents now write code, open pull requests, review pull requests, and reach infrastructure using tokens scoped once for convenience. We are in the middle of a full evolution with everyone sitting at a different point on the curve.
-We have SSDF for practices, SLSA for provenance, SCVS for components, CIS for configuration. The gap is a verification standard organized by pipeline stage, with testable criteria and maturity levels, covering plan through operate. We have ASVS for the application and nothing equivalent for the machine that ships it.
+For two decades, we've treated a passed audit as evidence of a secure company. But a point-in-time audit is a photograph: one frame, captured on one day. Your attack surface, meanwhile, is a film running every minute of the year. Adversaries do not attack on audit day; they attack on day 200, when nobody is looking.
+This talk argues that annual, point-in-time compliance is no longer sufficient on its own. As organizations adopt cloud platforms, CI/CD pipelines, and modern security frameworks that increasingly emphasize continuous control operation, the assumptions underlying traditional audit models are rapidly eroding. The ground has already shifted beneath us.
+<br>
+We'll explore what continuous compliance looks like in practice. Not as a massive transformation program or an expensive new platform, but as a discipline of incremental improvement: identifying a control you dread proving, automating part of its evidence collection, and building from there. Over time, a collection of honest, continuously validated controls creates assurance that neither an auditor nor an attacker can easily dispute.
+<br>
 
-This session walks OWASP SPVS in detail: the five stages, the three maturity levels, how the control set reads in practice, and why it was created, mapped throughout against the agentic secure SDLC.
+**Speaker: Akash Rajeev Bhatia** 
 <br>
-
-**Speaker: Cameron Walters** 
-<br>
-Cameron Walters is Director of Application Security and Security Engineering, with roughly a decade in software engineering before spending the last seven-plus years building AppSec programs. His focus is security automation, AppSec infrastructure, and pipeline security. He is a co-founder of the OWASP Secure Pipeline Verification Standard (SPVS), a contributing expert in the AI and CRA Center of Excellence at The Purple Book Community, and a technical advisor at WhiteRabbit & Dam Secure.
-
-He co-hosts Coffee, Chaos & ProdSec, a weekly podcast on product security, supply chain, and AI security.
-<br>
-LinkedIn:  <a href="linkedin.com/in/cameronww7">linkedin.com/in/cameronww7</a>
-<br>
-Coffee, Chaos and ProdSec: <a href="http://linktr.ee/coffeechaosprodsec">linktr.ee/coffeechaosprodsec</a>
+Akash Rajeev Bhatia is a Senior Cybersecurity Analyst specializing in governance, risk, compliance, and application security. With experience spanning security operations and cybersecurity governance, he focuses on practical approaches to improving security and compliance outcomes. Akash also completed a postgraduate program in Artificial Intelligence and Machine Learning in partnership with UT Austin and has a strong interest in applying automation and emerging technologies to cybersecurity challenges.
 <br>
 
 **RSVP:**<br>
-In-person (and free lunch) at <a href="https://owasp-austin-2026-august.eventbrite.com">Eventbrite</a>
+In-person (and free lunch) at <a href="https://owasp-austin-2026-september.eventbrite.com">Eventbrite</a>
 <br>
-Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events/312693520">Meetup</a>
+Online RSVP at <a href="https://www.meetup.com/owasp-austin-chapter/events//312693525">Meetup</a>
 <br> 
 
 
